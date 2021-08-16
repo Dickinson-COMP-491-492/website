@@ -9,7 +9,7 @@
 
 Date            | Class Information                                    | Homework Assigned
 ----------------|------------------------------------------------------|-------------
-T 08/30/21      | [Course Introduction](01-intro.md)                        | - 09/03/21: Blog/Slack/Wiki/Git Activity (Indiv)<br>- 09/03/21: Reading & Preparation (Indiv)<br>- 09/07/21: Ubuntu Install (Pairs)
+T 08/30/21      | [Course Introduction](01-intro.md)                   | - 09/03/21: Blog/Slack/Wiki/Git Activity (Individual)<br>- 09/03/21: Reading & Preparation (Individual)<br>- 09/07/21: Ubuntu Install (Pairs)
 F 09/03/21      | H/FOSS History & Philosophy                          |
 T 09/07/21      | Unix Tool Challenges                                 |
 F 09/10/21      | H/FOSS Communities                                   |

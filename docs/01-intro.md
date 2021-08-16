@@ -8,6 +8,6 @@ Overview of course content and structure; Syllabus w/ assignment types and gradi
 - Blog/Slack/Wiki/Git Activity (Individual)
 
 ### Homework
-- Complete the Blog/Slack/Wiki/Git Activity (Individual)
+- Complete the [Blog/Slack/GitHub/Wiki Activity](01-BlogSlackWikiGit.md) (Individual)
 - Reading and Preparation for Discussion
 - Ubuntu Install with Slack live-log (Pairs)
