@@ -8,9 +8,6 @@ Overview of course content and structure; Syllabus w/ assignment types and gradi
 - Blog/Slack/Wiki/Git Activity (Individual)
 
 ### Homework
-
-- Next Class:
-  - Complete the Blog/Slack/Wiki/Git Activity (Individual)
-  - Reading and Preparation for Discussion
-- Future:
-  - Ubuntu Install with Slack live-log (Pairs)
+- Complete the Blog/Slack/Wiki/Git Activity (Individual)
+- Reading and Preparation for Discussion
+- Ubuntu Install with Slack live-log (Pairs)
