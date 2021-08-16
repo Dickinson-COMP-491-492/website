@@ -4,5 +4,6 @@ The course web page can be found at: https://dickinson-comp-491-492.github.io/we
 
 ## Updates/Editing
 
-Content for the web page is in the gh-pages branch.  Commits to the files in that branch will automatically run jeckle and regenerate the site with the updated content.
+Content for the web page is in the docs folder.
 
+Commits to the files in docs will automatically run jekyll and regenerate the site with the updated content.
