@@ -39,7 +39,7 @@ I recommend that one partner control the computer on which the work is occurring
 You have two options for using Virtual Box:
 
 - Lab Machines: Virtual Box is pre-installed on the lab computers and can be found in the "Applications" folder or via the Spotlight search tool.
-- Personal Machine: You may download and install Virtual Box on your own computer from the Virtual Box Downloads page. There are versions for Windows, Mac and Linux. Before you start down this road, please note that we are able to provide only minimal support for installation, maintenance and use of Virtual Box on non-lab machines.
+- Personal Machine: You may download and install Virtual Box on your own computer from the Virtual Box Downloads page. There are versions for Windows, Mac and Linux. Before you start down this road, please note that we are able to provide only minimal support for installation, maintenance and use of Virtual Box on non-lab machines.  In addition, if your computer has less than 8GB (16GB preferred) of RAM or less than 75GB of free disk space you are encouraged to use a Lab Machine.
 
 Be sure you are able to launch Virtual Box (either on a lab machine, or your machine) before proceeding to the next section.
 
@@ -56,6 +56,7 @@ Be sure you are able to launch Virtual Box (either on a lab machine, or your mac
      - Allocate a virtual disk at least 30GB of space.
      - Maximize the amount of video memory available to the virtual machine (128 MB).
      - Create whatever username and password you like - but you'll need to remember and type it!
+     - If you are working on a Mac with a retina display (in the lab or your own) you'll want to configure [VirtualBox to be launced in Low Resolution Mode](https://forums.virtualbox.org/viewtopic.php?f=8&t=90446&start=75#p470879)
 
    - But how? You ask. Google, I say!
      - I'd suggest something like the following:
