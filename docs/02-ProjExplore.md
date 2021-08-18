@@ -65,7 +65,7 @@ If nothing there catches your attention, or you want to explore further you can 
 
 - Some others:
   - [SourceForge](https://sourceforge.net/)
-  - [BLACKDUCK | Open Hub](https://www.openhub.net/explore/projects)
+  - [BLACKDUCK - Open Hub](https://www.openhub.net/explore/projects)
   - [Launch Pad](https://launchpad.net/)
   - [Savannah](http://savannah.gnu.org/)
 
