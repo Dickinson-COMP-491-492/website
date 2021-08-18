@@ -14,7 +14,7 @@ For each project that you explore:
 For each project your exploration page must contain the following information:
 
 - **Project Title:** The title of the project.
-- ** Project Repository: The URL of the repository where the latest version of the source code is located. This is where a developer would go to get the code for the project (e.g. GitHub, BitBucket, SourceForge, etc.).
+- **Project Repository:** The URL of the repository where the latest version of the source code is located. This is where a developer would go to get the code for the project (e.g. GitHub, BitBucket, SourceForge, etc.).
 - **Project Homepage:** The public-facing homepage for the project. For many projects this will be different from the repository. Some smaller projects may keep everything in the repository.
 - **Product:** Summarize in a few sentences what the software product does.
 - **Target User Community:** Summarize in a few sentences who the user community for the software product is what the benefit of the software is to them.
