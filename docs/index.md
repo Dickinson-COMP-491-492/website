@@ -2,7 +2,7 @@
 - Academic Year 2021-22
   - T/F 1:30-2:45
 - [Syllabus & Course Information](syllabus.md)
-- [Course Moodle](https://lms.dickinson.edu/course/view.php?id=45784)
+- [Course Moodle](https://lms.dickinson.edu/course/view.php?id=46512)
 - [Slack Organization](https://comp491.slack.com/)
 
 ## COMP 491 Outline
