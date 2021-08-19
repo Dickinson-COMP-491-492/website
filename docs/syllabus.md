@@ -65,8 +65,8 @@ PAE is assessed for each individual during each class period. Preparation includ
 
 PAE scores will be assigned according to the rubric below. The standard score in each category, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or down to 0 or ✓-.  Rarely a ✓++ score may be given to recognize truly outstanding performance in a rubric category.
 
+_Click rubric to enlarge image._
 [![PAE Rubric](images/pae.jpg)](images/pae.jpg)
-_Click to enlarge image_
 
 If you find class participation challenging, some good advice on increasing or improving class participation can be found at:
 - [Ways to Improve Your Class Participation Experience](https://studylib.net/doc/18188459/ways-to-improve-your-class-participation-experience--sugg...): A short list of suggestions from Students from the Bureau of Study Counsel in the Center for Academic and Personal Development at Harvard University.
@@ -86,7 +86,8 @@ The best posts will:
 
 Blog posts will be assessed using the rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or down to 0 or ✓-. Rarely a ✓++ score may be given to recognize truly outstanding performance in a rubric category.
 
-![Blog Rubric](images/blog.jpg)
+_Click rubric to enlarge image._
+[![Blog Rubric](images/blog.jpg)](images/blog.jpg)
 
 If you find writing blog posts challenging, some good advice on writing effective blog entries can be found at:
 - [Effective Academic Blogging](http://writing2.richmond.edu/writing/wweb/blogging.html) from the Writer's Web at the University of Richmond Writing Center.
@@ -100,17 +101,20 @@ Early in the semester there will be a number of tutorials and homework assignmen
 
 Tutorials and homework exercises will be assessed largely on completion and effort as documented by the associated Slack live-logs according to the rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or down to 0 or ✓-. Rarely a ✓++ score may be given to recognize live-logs that demonstrate truly outstanding learning beyond expectations.
 
-![Homework Rubric](images/homework.jpg)
+_Click rubric to enlarge image._
+[![Homework Rubric](images/homework.jpg)](images/homework.jpg)
 
 #### Project/Community Selection or Research Proposal
 
 Students pursuing H/FOSS projects will be assigned several preliminary exercises leading to the selection of an H/FOSS project/community. Each project group will then give a presentation on their selected project/community. Project/community selection will be assessed based on the completion and quality of the preliminary exercises and the presentation according to rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or down to 0 or ✓-. performance in a rubric category. Rarely a ✓++ score may be given to recognize truly outstanding performance in a rubric category. Additional assignment details will be posted on the course schedule.
 
-![Project Selection Rubric](images/projsel.jpg)
+_Click rubric to enlarge image._
+[![Project Selection Rubric](images/projsel.jpg)](images/projsel.jpg)
 
 Students pursuing Departmental Honors will turn in a copy of their Research Proposal and give a presentation of their proposed research. Students pursuing Honors will also complete a reduced version of the Project/Community Selection exercises to provide an appropriate introduction to H/FOSS projects and communities. The Research Proposal will be assessed, with input from the Honors Advisors, based on the quality of the written proposal and presentation. The proposal and the Project/Community selection exercises will be assessed according to rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or down to 0 or ✓-. Rarely a ✓++ score may be given to recognize truly outstanding performance in a rubric category.
 
-![Research Proposal Rubric](images/researchprop.jpg)
+_Click rubric to enlarge image._
+[![Research Proposal Rubric](images/researchprop.jpg)](images/researchprop.jpg)
 
 #### Project Checkpoints
 
@@ -124,7 +128,8 @@ At each Project Checkpoint the work on the project since the last checkpoint wil
 
 Project Checkpoints will be scored using the rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or down to 0 or ✓-. Rarely a ✓++ score may be given to recognize truly outstanding performance in a rubric category.
 
-![Project Checkpoint Rubric](images/checkpoint.jpg)
+_Click rubric to enlarge image._
+[![Project Checkpoint Rubric](images/checkpoint.jpg)](images/checkpoint.jpg)
 
 <!-- For 492
 Leading a Discussion
