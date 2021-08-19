@@ -71,7 +71,7 @@ If nothing there catches your attention, or you want to explore further you can 
 
 ### Grading
 
-The grading criterion for the Project Exploration is included in the Project Selection rubric on the Course Syllabus.
+The grading criterion for the Project Exploration is included in the Project Selection rubric on the [Course Syllabus](syllabus.md).
 
 ### Acknowledgements:
 
