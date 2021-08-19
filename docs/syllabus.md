@@ -61,6 +61,11 @@ Project Checkpoint #2	25%
 The success of the Senior Seminar is in a large part up to you as its primary participants. Our hope is that you will all engage in the material, prepare carefully and come to our meetings excited to participate in discussions and activities with your peers. If that happens then our meetings will be lively and interesting and we will be able to focus largely on the aspects of the material that are most interesting to you as a group. Plus, its good practice - many employers are now using [Group Discussions as a screening technique before or during interviews!](https://www.reed.co.uk/career-advice/group-interview-tips-dos-and-donts/)
 
 PAE is assessed for each individual during each class period. Preparation includes completion of any reading, tutorials, exercises or activities assigned. Attendance is your presence in class during our scheduled meetings. Engagement combines participation in discussion and activities with with a demonstrated investment both in the material and the betterment of the class for everyone.
+- **NOTE: 2021-22** - While attendance is very important in this class, protecting our community is more important.  If you are feeling ill, please get in touch with your instructor, follow campus protocols and do not attend class. Alternative methods for participation and engagement will be provided.  Absences for illness will not affect this score.
+
+PAE scores will be assigned according to the rubric below. The standard score in each category, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or down to 0 or ✓-.  Rarely a ✓++ score may be given to recognize truly outstanding performance in a rubric category.
+
+![PAE Rubric](images/pae.jpg)
 
 If you find class participation challenging, some good advice on increasing or improving class participation can be found at:
 - [Ways to Improve Your Class Participation Experience](https://studylib.net/doc/18188459/ways-to-improve-your-class-participation-experience--sugg...): A short list of suggestions from Students from the Bureau of Study Counsel in the Center for Academic and Personal Development at Harvard University.
@@ -78,6 +83,10 @@ The best posts will:
 - go beyond a mere summary of the reading/discussion.
 - include multimedia (images, audio, video, etc.) only as appropriate to enhance the content of the post. Be sure that if you use any external content that you are using it in a way that is allowed by its license.
 
+Blog posts will be assessed using the rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or down to 0 or ✓-. Rarely a ✓++ score may be given to recognize truly outstanding performance in a rubric category.
+
+![Blog Rubric](images/blog.jpg)
+
 If you find writing blog posts challenging, some good advice on writing effective blog entries can be found at:
 - [Effective Academic Blogging](http://writing2.richmond.edu/writing/wweb/blogging.html) from the Writer's Web at the University of Richmond Writing Center.
 - [Blogs](http://writingcenter.unc.edu/handouts/blogs/) from The Writing Center at UNC-Chapel Hill.
@@ -86,13 +95,21 @@ If you find writing blog posts challenging, some good advice on writing effectiv
 
 #### Tutorials / Homework Exercises
 
-Early in the semester there will be a number of tutorials and homework assignments designed to introduce you to some of the tools and techniques commonly used in FOSS projects (and in professional software development as well). Typically these assignments will require you to complete some tutorials and activities while keeping a Slack Live-Log (see below) of your work.
+Early in the semester there will be a number of tutorials and homework assignments designed to introduce you to some of the tools and techniques commonly used in FOSS projects (and in professional software development as well). Typically these assignments will require you to complete some tutorials and activities while keeping a Slack Live-Log (see below) of your work
+
+Tutorials and homework exercises will be assessed largely on completion and effort as documented by the associated Slack live-logs according to the rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or down to 0 or ✓-. Rarely a ✓++ score may be given to recognize live-logs that demonstrate truly outstanding learning beyond expectations.
+
+![Homework Rubric](images/homework.jpg)
 
 #### Project/Community Selection or Research Proposal
 
-Students pursuing H/FOSS projects will be assigned several preliminary exercises leading to the selection of an H/FOSS project/community. Each project group will then give a presentation on their selected project/community. Project/community selection will be assessed based on the completion and quality of the preliminary exercises and the presentation. Additional assignment details will be posted on the course schedule.
+Students pursuing H/FOSS projects will be assigned several preliminary exercises leading to the selection of an H/FOSS project/community. Each project group will then give a presentation on their selected project/community. Project/community selection will be assessed based on the completion and quality of the preliminary exercises and the presentation according to rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or down to 0 or ✓-. performance in a rubric category. Rarely a ✓++ score may be given to recognize truly outstanding performance in a rubric category. Additional assignment details will be posted on the course schedule.
 
-Students pursuing Departmental Honors will turn in a copy of their Research Proposal and give a presentation of their proposed research. Students pursuing Honors will also complete a reduced version of the Project/Community Selection exercises to provide an appropriate introduction to H/FOSS projects and communities. The Research Proposal will be assessed, with input from the Honors Advisors, based on the quality of the written proposal and presentation.
+![Project Selection Rubric](images/projsel.jpg)
+
+Students pursuing Departmental Honors will turn in a copy of their Research Proposal and give a presentation of their proposed research. Students pursuing Honors will also complete a reduced version of the Project/Community Selection exercises to provide an appropriate introduction to H/FOSS projects and communities. The Research Proposal will be assessed, with input from the Honors Advisors, based on the quality of the written proposal and presentation. The proposal and the Project/Community selection exercises will be assessed according to rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or down to 0 or ✓-. Rarely a ✓++ score may be given to recognize truly outstanding performance in a rubric category.
+
+![Research Proposal Rubric](images/researchprop.jpg)
 
 #### Project Checkpoints
 
@@ -103,6 +120,10 @@ At each Project Checkpoint the work on the project since the last checkpoint wil
 - Team 5-15 or Honors 5-15 (see below)
 - Project Checkpoint Presentation. This presentation should briefly reintroduce the project and then address: what has been accomplished since the prior checkpoint, what challenges have been overcome and how, what has been learned, what impediments are being faced currently and how they will be overcome. These presentations should also include live demonstrations that highlight accomplishments. The presentation should conclude with reflection on what has been learned in a broad context and what can be improved on going forward. Note that the presentation does not need to cover every detail in depth. Rather it should go into depth on some of the more interesting aspects and can just list the other aspects. Overall, it is important that the presentation tell a cohesive, interesting, understandable story about the work to the target audience.
 - Instructor's assessment of the individual's effectiveness in advancing the team's project work. For honor's projects the thesis advisor will be consulted in making this assessment.
+
+Project Checkpoints will be scored using the rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or down to 0 or ✓-. Rarely a ✓++ score may be given to recognize truly outstanding performance in a rubric category.
+
+![Project Checkpoint Rubric](images/checkpoint.jpg)
 
 <!-- For 492
 Leading a Discussion
