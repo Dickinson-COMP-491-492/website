@@ -65,7 +65,8 @@ PAE is assessed for each individual during each class period. Preparation includ
 
 PAE scores will be assigned according to the rubric below. The standard score in each category, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or down to 0 or ✓-.  Rarely a ✓++ score may be given to recognize truly outstanding performance in a rubric category.
 
-![PAE Rubric](images/pae.jpg)
+[![PAE Rubric](images/pae.jpg)](images/pae.jpg)
+_Click to enlarge image_
 
 If you find class participation challenging, some good advice on increasing or improving class participation can be found at:
 - [Ways to Improve Your Class Participation Experience](https://studylib.net/doc/18188459/ways-to-improve-your-class-participation-experience--sugg...): A short list of suggestions from Students from the Bureau of Study Counsel in the Center for Academic and Personal Development at Harvard University.
