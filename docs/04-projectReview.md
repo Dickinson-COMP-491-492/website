@@ -21,8 +21,7 @@ Your H/FOSS Project Review must contain the information indicated below. Please 
 
 * **Project Exploration**:
 
-  - This is the information from the [Project Exploration
-    assignment](02-ProjExplore.md). It will have been completed
+  - This is the information from the [Project Exploration assignment](02-ProjExplore.md). It will have been completed
     previously for projects that were explored, but will need to be
     created if a new project is being reviewed.
 
