@@ -25,11 +25,11 @@ Your H/FOSS Project Review must contain the information indicated below. Please 
     assignment](02-ProjExplore.md). It will have been completed
     previously for projects that were explored, but will need to be
     created if a new project is being reviewed.
-	 
+
 * **Developer Community Communication**: This section will explore how
   active and responsive the community is. It will give you an idea of
   what it would be like to try to ask questions of the community.
-	 
+
   - **Channels**: What what are the main channels that developers use
     to communicate with each other (IRC/Gitter/Mailing
     List/Forums/etc)? For each channel answer the following questions:
@@ -76,19 +76,19 @@ Your H/FOSS Project Review must contain the information indicated below. Please 
     available to new developers looking to join the community. It will
     give you an idea of what it might be like if you decide to work on
     this project.
-  
+
      * **Documents**: Identify and give links to any documents
        relevant to newcomers (e.g. getting started, how to contribute,
        newcomer threads, etc.)
-	 
+
      * **Organization**: How well organized is the project? How easy
        was it to find information for newcomers to the project?
-	 
+
      * **Communication**: Find some messages/comments posted by
        newcomers to the project (e.g list serve, tickets comments,
        etc). Have they received responses? Does the tone of
        communications seem welcoming to new developers? Why?
-	 
+
      * **Issues**: Does the issue tracker designate any issues as good
        for new developers? If so... How many are there? How recently
        were they posted? Have comment/questions on them received
@@ -97,16 +97,16 @@ Your H/FOSS Project Review must contain the information indicated below. Please 
   - **Planning**: This section will explore how the project is being
     planned. It will give you an idea of how well organized and
     communicated the overall vision for the product is.
-  
+
      * **Documents**: Identify and give links to any project roadmaps,
        project architecture, design documents, or other documents
        outlining future plans.
-	 
+
      * **Currency**: When were these documents produced? When were
        they last updated?
-	   
+
   - **Project Distribution & Maintenance**: This section will explore how users obtain the application, how developers obtain the source code and contribute back to the project. Note: Some project will use multiple sites or migrate from site to site. Be sure you are considering the most current repository. Use information from the code repository to answer the following questions:
-  
+
      * **User Distribution**: How is the code distributed to users of
        the product? Also, give a link to the download site if one
        exists.  Developer Distribution: How is the code distributed to
@@ -130,21 +130,20 @@ Your H/FOSS Project Review must contain the information indicated below. Please 
        to make contributions to the project (e.g. new documentation?
        bug fixes? ect.)? Give links to any documentation that you can
        find.
-	   
+
  - **Project Statistics**: This section explores the size and rate of
    change of the project and the technologies/languages that are used
    in the project. It will help you assess how possible it will be to
    keep up with the project and what you would need to learn before
    getting started. Use data and information from the project web
-   page, repository and from [Open HUB](https://www.openhub.net/) to
+   page, repository and from [Open HUB](https://www.openhub.net/explore/projects) to
    answer the following questions about the project. Be sure to
    explore the links at the bottom of the project's Open Hub page
    under "Code Data" and "SCM Data" and "Community Data".
- 
+
      * **Currency**: How recent is the Open Hub analysis? If the
        project you are reviewing is not in Open Hub or has not been
-       updated for over 6 months, submit a request to the Technical
-       Issue Help Forum at [Black Duck Open
+       updated for over 6 months, submit a request to the "Open Hub General Discussion" Forum at [Black Duck Open
        Hub](https://community.synopsys.com/s/black-duck-open-hub)
        (this will require you to create a free account). Then wait a
        few days for the data to see if the statistics have updated
@@ -186,11 +185,11 @@ Your H/FOSS Project Review must contain the information indicated below. Please 
 
      * **Openness**: Of the newest contributors, how many are new to
        the project (e.g. how many have a small number of commits)?
-	   
+
  - **Assessment**: Give an overall assessment of how you would feel
    about joining this open source project. What gives you confidence
    it would go well? What concerns you?
-   
+
 ### Grading
 
 
