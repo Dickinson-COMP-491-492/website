@@ -11,7 +11,7 @@ homework assignments from the previous class meeting.
 
 ### Supplemental Readings
 
-- [Linux Commands](http://www.pixelbeat.org/cmdline.html) - A useful cheat sheet with common usage examples for various UNIX shell commands.
+- [Linux Commands](http://www.pixelbeat.org/cmdline.html) --- A useful cheat sheet with common usage examples for various UNIX shell commands.
 
 ### In class activity
 
@@ -19,5 +19,5 @@ homework assignments from the previous class meeting.
 
 ### Homework
 
-- [Reading and preparation for class 4]() (Individual)
-- [H/FOSS Project Exploration Activity](02-ProjExplore.md) (Individual) This is your second project exploration activity. Repeat the process of your first project exploration, but using a different H/FOSS project.
+- Reading and preparation for next class meeting (Individual)
+- [H/FOSS Project Exploration Activity II](02-ProjExplore.md) (Individual) This is your second project exploration activity. Repeat the process of your first project exploration, but using a different H/FOSS project.

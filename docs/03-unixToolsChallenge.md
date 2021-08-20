@@ -40,22 +40,26 @@ solution and see if it gives the same results as yours.
 
 ## Challenge solutions
 
-1. `ps -aux`
+The solutions are padded with plenty of space to make it less likely
+that you will accidentally see the answer to challenge n+1 when
+consulting the answer to challenge n.
 
-1.  `ps | tail -n +2 | wc -l`
+1. `ps -aux` <br><br><br><br><br><br><br><br><br><br><br>
 
-1.  `ps -aux | tail -n +2 | grep "/usr/bin" | wc -l`
+1.  `ps | tail -n +2 | wc -l` <br><br><br><br><br><br><br><br><br><br><br>
+
+1.  `ps -aux | tail -n +2 | grep "/usr/bin" | wc -l` <br><br><br><br><br><br><br><br><br><br><br>
 
 1.  `ps -aux | grep "xeyes"` (to find the process id (PID) for xeyes)
-    `kill -KILL <PID>`
+    `kill -KILL <PID>` <br><br><br><br><br><br><br><br><br><br><br>
 
 1.  none
 
-1.  `find . -maxdepth 5 -name "passwd" -print`
+1.  `find . -maxdepth 5 -name "passwd" -print` <br><br><br><br><br><br><br><br><br><br><br>
 
-1.  `find . -maxdepth 5 -name "passwd" -print 2> /dev/null`
+1.  `find . -maxdepth 5 -name "passwd" -print 2> /dev/null` <br><br><br><br><br><br><br><br><br><br><br>
 
-1.  `grep -a "root" /etc/passwd | cut -f6 -d':' > /var/tmp/userhome.txt`
+1.  `grep -a "root" /etc/passwd | cut -f6 -d':' > /var/tmp/userhome.txt` <br><br><br><br><br><br><br><br><br><br><br>
 
 1.  `grep -a "myuser" /etc/passwd | cut -f6 -d':' >> /var/tmp/userhome.txt`
 

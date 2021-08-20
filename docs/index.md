@@ -11,9 +11,9 @@ Date            | Class Information                                    | Homewor
 ----------------|------------------------------------------------------|-------------
 T 08/30/21      | [Course Introduction](01-intro.md)                   | - 09/03/21: Blog/Slack/Wiki/Git Activity (Individual)<br>- 09/03/21: Reading & Preparation (Individual)<br>- 09/03/21: Ubuntu Install (Pairs)
 F 09/03/21      | [H/FOSS History & Philosophy](02-history.md)         | - 09/07/21: Linux Tutorials (Pairs)<br>- 09/10/21: H/FOSS Project Exploration (Individual)
-T 09/07/21      | [Unix Tool Challenges](03-unixTools.md)              |
-F 09/10/21      | H/FOSS Communities                                   |
-T 09/14/21      | H/FOSS Tools/Structures/Communication                |
+T 09/07/21      | [Unix Tool Challenges](03-unixTools.md)              | - 09/10/21: Reading & Preparation (Individual)<br>- 09/10/21: H/FOSS Project Exploration II  (Individual)
+F 09/10/21      | [H/FOSS Communities](04-hfossCommunities.md)         | - 09/14/21: Reading & Preparation (Individual)<br>- 09/17/21: H/FOSS Project Review (Individual)
+T 09/14/21      | [H/FOSS Tools/Structures/Communication](05-hfossTools.md)<br>**TODO: Grant adds homework**| 
 F 09/17/21      | Linux System Administration                          |
 T 09/21/21      | Version Control I                                    |
 F 09/24/21      | Version Control II                                   |
