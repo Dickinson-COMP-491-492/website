@@ -9,9 +9,9 @@ You will be using a blog to post weekly writings reflecting on the reading and d
 
 #### Tasks:
 
-1. Create an account on a blog site. If you have a favorite blog site you are welcome to use it (just create a new blog for the course). If you do not, then I recommend Tumblr, as I find its minimal interface relatively easy to learn. Note that if you prefer, you may use a pseudonym for your blog username so that you are not personally identifiable on your blog. You will later be asked to post a link to your blog on our (secure) course Wiki so that I can link it to you for grading purposes.
+1. Create an account on a blog site. If you have a favorite blog site you are welcome to use it (just create a new blog for the course). If you do not, then I recommend [Tumblr](https://www.tumblr.com/), as I find its minimal interface relatively easy to learn. Note that if you prefer, you may use a pseudonym for your blog username so that you are not personally identifiable on your blog. You will later be asked to post a link to your blog on our (secure) course Wiki so that I can link it to you for grading purposes.
 2. Make an initial post to your blog. Your initial post should include:
-   - A statement that the blog is being created for this course and will be used to post reflective writing on reading and discussion topics related to free and open source software (FOSS), software engineering and contemporary social and ethical issues in technology.
+   - A statement that the blog is being created for this course and will be used to post reflective writing on reading and discussion topics related to free and open source software (FOSS), software engineering and contemporary social, ethical and legal issues in technology.
    - Then also, respond in a few sentences to the prompt: "My plans after college are to:"
 
 ### Slack
@@ -20,27 +20,29 @@ Slack is "A messaging app for teams". Slack helps teams working on projects to d
 
 #### Tasks:
 
-1. Skim over the [What is Slack?](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-) page to familiarize yourself with the Slack Basics. You don't have to get everything... just get the idea.
-2. Use this link [comp491.slack.com/signup](https://comp491.slack.com/signup) to sign up directly for our course Slack Workspace.
+1. Skim the [What is Slack?](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-) page and watch the video (1:13) to familiarize yourself with the Slack.
+2. Use this link [comp491.slack.com/signup](https://comp491.slack.com/signup) to sign up directly for the COMP491 Slack Workspace.
 3. [Edit Your Profile](https://get.slack.help/hc/en-us/articles/204092246-Edit-your-profile) to include at least your first and last name. You can also upload a photo or avatar if you'd like.
-4. Using the links in the [Work in Channels Topic](https://get.slack.help/hc/en-us/categories/200111606) page do the following:
-   - Join the #tipsandtechniques and #sample-live-log channels.
+4. Using the links on the [Using Slack](https://get.slack.help/hc/en-us/categories/200111606) page do the following:
+   - Join the #sample-live-log and #tips-and-techniques channel.
    - Create a private channel using your name.
-   - Set the purpose of your channel.
-5. Using the links in the [Send Messages Topic](https://get.slack.help/hc/en-us/categories/200111606#send-messages) do the following:
+   - Set the description of your channel.
+5. Using the links on the [Using Slack](https://get.slack.help/hc/en-us/categories/200111606) page do the following:
    - Post a message to the #general channel.
    - Edit the message you just posted.
    - Star your private channel and note where your starred channels appear.
-   - Star a message in the #tipsandtechniques channel. and note where your starred messages appear.
+   - Star a message in the #general channel channel and note where your starred messages appear.
+   - Unstar the message you just starred.
    - Add a reaction to a message in the #general channel.
    - Team up with a classmate or two:
      - Mention another member in a message in the #general channel.
      - Find the list of your mentions and reactions.
      - Send a direct message to someone.
      - Reply to a direct message from someone.
-6. Using the Slack search bar (top right) do the following:
-   - Find and star my message that talks about "wiki formatting"
-   - Find and star my message that talks about "adding a wiki page"
+     - Start a huddle with someone from a direct message.
+6. Using the Slack search feature do the following:
+   - Find and star the message that talks about "wiki formatting codes"
+   - Find and star the message that talks about "adding a wiki page"
 
 ### GitHub
 
@@ -48,12 +50,12 @@ Slack is "A messaging app for teams". Slack helps teams working on projects to d
 
 #### Tasks:
 
-   1. If you do not already have one, or would like one just for this course, create a new [GitHub](https://github.com/) account.
-   2. If you are curious and new to GitHub and can't wait a few weeks until we get to it, you can watch the "New to GitHub?" video on the [GitHub Features](https://github.com/features) page to learn more about it.
+   1. If you do not already have one, or would like one just for this course, create a new [GitHub](https://github.com/) account.  Be sure to remember your username and password.
+   2. If you are curious and new to GitHub and can't wait a few weeks until we get to it, you can watch the "Getting Started with GitHub?" video on the [GitHub Training & Guides](https://www.youtube.com/githubguides) page to learn more about it.  If you want to go further, you might try the [Hello World](https://guides.github.com/activities/hello-world/) activity.  Neither of these are required as we will spend a few days learning about GitHub and git in a few weeks.
 
 ### Wiki
 
-A Wiki provides a way to collaboratively create, modify and structure the content of a web site directly through a web browser. It is very useful with a large group of people need to contribute directly to the creation and maintenance of the information on a site. Many FOSS projects use Wikis for design documents and end-user documentation so that lots of people can contribute to these resources. We will use a Wiki to maintain information about the projects you are working on in the course and to track your progress on the projects.
+A Wiki provides a way to collaboratively create, modify and structure the content of a web site directly through a web browser. It is very useful when a large group of people need to contribute directly to the creation and maintenance of the information on a site. Many FOSS projects use Wikis for design documents and end-user documentation so that lots of people can contribute to these resources. We will use a Wiki to maintain information about the projects you are working on in the course and to track your progress on the projects.
 
 #### Tasks:
 
