@@ -24,10 +24,10 @@ F 10/08/21      | Work Day                                             |
 T 10/12/21      | Build Tools                                          |
 F 10/15/21      | Getting around a FOSS Project                        |
 T 10/19/21      | **Fall Pause**                                       |
-F 10/22/21      | Software Architectures                               |
-T 10/26/21      | Work Day                                             |
-F 10/29/21      | FOSS Licensing                                       |
-T 11/02/21      | Work Day                                             |
+F 10/22/21      | Work Day                                             |
+T 10/26/21      | Software Architectures                               |
+F 10/29/21      | Work Day                                             |
+T 11/02/21      | FOSS Licensing                                       |
 F 11/05/21      | Software Flaws                                       |
 T 11/09/21      | Project Checkpoint #1 - Group II                     |
 F 11/12/21      | Project Checkpoint #1 - Group I                      |
