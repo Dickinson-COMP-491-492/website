@@ -14,12 +14,11 @@ Discussion of Project Explorations; Introduction of Project Reviews; Discussion 
 
 - [Teaching OSS: Chapter 3 --- Lay of the Land](https://quaid.fedorapeople.org/TOS/Practical_Open_Source_Software_Exploration/html/ch-Lay_of_the_Land.html) (Sections 3.1-3.3 Use Next button at the bottom of each page) --- Discusses the importance and unique challenges/qualities of FOSS communities.
 
-- [Producing OSS: Managing Participants](http://producingoss.com/en/managing-participants.html) --- Touches on both roles and community building in FOSS projects. This is written from the project administration rather than participation side but is still useful in looking at existing projects and their communities.
-
 - Post questions for class discussion to the Moodle forum. Please also feel free to comment on or respond to others' questions as appropriate.
 
 ### Supplemental Readings
 
+- [Producing OSS: Managing Participants](http://producingoss.com/en/managing-participants.html) --- Touches on both roles and community building in FOSS projects. This is written from the project administration rather than participation side but is still useful in looking at existing projects and their communities.
 - [10 ways to start contributing to open source](https://opensource.com/life/13/4/ten-ways-participate-open-source) by Chris Haddad.
 <!-- - [The Beginner's Guide to Contributing to Open Source Projects](https://blog.newrelic.com/2014/05/05/open-source_gettingstarted/) by Andy Lester.-->
 <!-- - [7 Things That Make a Great Open Source Contribution](https://blog.newrelic.com/2014/11/05/open-source-contribution/) by Andy Lester. -->
