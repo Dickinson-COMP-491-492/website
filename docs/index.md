@@ -20,7 +20,7 @@ F 09/24/21      | Version Control II                                   |
 T 09/28/21      | Bash Scripting                                       |
 F 10/01/21      | Project Selection Presentations - Group I            |
 T 10/05/21      | Project Selection Presentations - Group II           |
-F 10/08/21      | Work Day                                             |
+F 10/08/21      | Work Day - Alumni Visit                              |
 T 10/12/21      | Build Tools                                          |
 F 10/15/21      | Getting around a FOSS Project                        |
 T 10/19/21      | **Fall Pause**                                       |
