@@ -24,4 +24,4 @@ Discussion of Project Reviews; Discussion of tools and structures of H/FOSS proj
 
 ### Homework
 
-**TODO: Grant can start adding here.**
+- Reading & Preparation for next class meeting (Individual)
