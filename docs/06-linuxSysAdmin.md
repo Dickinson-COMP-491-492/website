@@ -32,7 +32,7 @@ Discussion of Project Reviews; Introduction of Project Ranking & Selection; Syst
 
 ### Hands-On
 
-Software Installation activity (Pairs)
+[Software Installation activity](06-sysAdminActivity.md) (Pairs)
 
 ### Homework
 
