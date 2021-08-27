@@ -26,15 +26,14 @@ preparation for [today's class](06-LinuxSysAdmin.md).
 Complete each of the following exercises:
 
 1. **Snapshotting**: Any time you are doing system configuration or
-   installs, it is a good idea to take a snapshot. Often an
+   installs, it is a good idea to take a snapshot. Sometimes an
    install will not work or you'll try several things before getting
-   it to work. This can leave unnecessary residue on the machine
-   from all of the things that you've tried that didn't work. If you
-   have a *snapshot*, you can roll back to the state before you started
-   and do a clean install once you have it all figured out. Also, if
-   something were to go horribly wrong, you can roll back to a known
-   stable state. Make a snapshot of your current VM state in Virtual
-   Box and give it a descriptive name.
+   it to work. This can leave unnecessary changes or files on the
+   machine. If you have a *snapshot*, you can roll back to the state
+   before you started and do a clean install once you have it all
+   figured out. Also, if something were to go horribly wrong, you can
+   roll back to a known stable state. Make a snapshot of your current
+   VM state in Virtual Box and give it a descriptive name.
 
 1. **Software Manager**: `apt`, and similar tools (e.g. `snap`, `yum`,
    `dnf`, `pkg`) used by different Linux flavors, provide powerful
@@ -53,7 +52,7 @@ Complete each of the following exercises:
    installed. You can confirm this by typing `java` on the command
    line. Note that when you do, Ubuntu will tell you that java is not
    installed and make some suggestions as to which packages you might
-   install (using apt) to get it. Those suggestions will install the
+   install (using `apt`) to get it. Those suggestions will install the
    OpenJDK and we will need to install the Oracle JDK instead. So
    don't follow those suggestions, go onto the next step...
 
