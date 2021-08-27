@@ -47,87 +47,82 @@ Complete each of the following exercises:
 
 1. **Snapshot**: Make another snapshot of the system with GIMP
    installed.
+   
+1. **Eclipse install, first attempt**: 
 
-1. **Confirm No Java**: By default, Ubuntu does not come with Java
-   installed. You can confirm this by typing `java` on the command
-   line. Note that when you do, Ubuntu will tell you that java is not
-   installed and make some suggestions as to which packages you might
-   install (using `apt`) to get it. Those suggestions will install the
-   OpenJDK and we will need to install the Oracle JDK instead. So
-   don't follow those suggestions, go onto the next step...
+   * **Confirm No Java**: By default, Ubuntu does not come with Java
+      installed. You can confirm this by typing `java` on the command
+      line. Note that when you do, Ubuntu will tell you that java is
+      not installed and make some suggestions as to which packages you
+      might install (using `apt`) to get it. Don't install Java yet,
+      just make a note of the suggestions.
 
-1. **Oracle JDK Install**: Linux suggests installing the Open JDK. This
-   is a good alternative to the Oracle JDK in a lot of cases. However,
-   the Oracle JDK is still the gold standard and is preferred (or
-   needed) by many applications. Figure out how to use apt from the
-   command line to install the latest Oracle Java Developer Kit
-   (JDK). Once you have installed it, use the command java -version to
-   verify it. The output should include something similar to "Java(TM)
-   SE Runtime Environment ... (build ...)", the exact build number
-   will differ but should correspond to the latest JDK. Also run javac
-   -version to verify that the Java compiler is also present in
-   addition to the runtime environment.
+   * **Confirm No Eclipse**: Similarly, Ubuntu does not come with
+      Eclipse installed. Confirm this by running `eclipse` from the
+      command line. Make a note of any suggestions but do not install
+      anything yet. The system probably recommended using yet another
+      installation program called `snap`. We won't study any details
+      of snap here, but you can feel free to use snap as one of your
+      install methods in the next part of this activity.
+	  
+   * **Research Eclipse and Java install**: Use a search engine to
+     find some advice on how to install Eclipse and/or Java on Ubuntu
+     or more generally on Linux. Make a note of at least two
+     approaches that seem promising. Use your best judgment in
+     deciding how much time to spend on research; between five minutes
+     and 15 minutes is probably suitable. 
+	 
+   * **Install Eclipse**: Your objective here is to get Eclipse
+     installed and then compile and run a 'hello world' Java program
+     in Eclipse. Choose one of the approaches that you researched in
+     the previous part of this activity. Complete the installation.
+     Test it by attempting to create and run a 'hello world' project
+     in Eclipse.  Make a note of any problems you encountered or
+     anything that is not working as expected.
 
-1. **Snapshot**: Make another snapshot of the system now that you have
-   Oracle Java installed.
+   * **Snapshot**: Make a snapshot of the system now that you have
+     completed your first Eclipse installation.
 
-1. **Eclipse Install (take 1)**: The eclipse IDE is not installed in
-Ubuntu by default, but may be something useful to have. Type eclipse
-on the command line to verify that it is not installed. Note, that as
-with the java command above, Ubuntu is quite helpful here and tells
-you what package to install to get eclipse.  Use apt from the command
-line to install eclipse.
+1. **Eclipse install, second attempt**: Even if your installation of
+   Eclipse worked perfectly, let's assume that something went wrong so
+   that you can practice snapshotting. Recall that in an earlier part
+   of this activity, you made a note of at least two approaches to
+   installing Eclipse. So far you have implemented only one of those
+   approaches. 
+   
+   * Roll back to an earlier snapshot, then try a second, different
+   approach to installing Eclipse. Again attempt to create a 'hello
+   world' project and run it.
+   
+   * Create another snapshot after this installation.
+   
+   * Decide which of your two installations was more successful. If
+     your first installation was more successful, switch back to that
+     snapshot.
 
-Notice that when you run apt to install eclipse it lists a large number of other packages to install or upgrade. One of the great features of package managers such as apt is that they will not only install the package you ask it to, but also any other packages that it needs to run (i.e. on which it depends). So in this case, installing eclipse also installed a wide range of other packages on which eclipse depends, saving you a lot of work!
-
-Try to run eclipse from the command line.
-
-You'll notice that it does not work! Apt attempted to install eclipse 3.8.1 which has an incompatibility with some of the installed libraries. This is something you will encounter fairly regularly in the Linux world.
-
-Also run java -version again. You'll notice that apt switched the the default version from the Sun Java to the Open JDK that was installed as a dependency of eclipse. You'll also need to be careful of things such as this when doing system administration tasks in Linux. We could attempt to fix this issue by doing installs of different libraries and dependencies and we may eventually get eclipse to run. But it turns out there is a newer version of eclipse that can be installed with the snap command which will function properly.
-
-
-1. **Roll Back**: You could simply try the snap command to install
-eclipse, however it if works you will be left with all of the extra
-dependencies installed by the apt command. So instead, we will roll
-back to the snapshot you created before trying to install eclipse and
-try again from that point.  Shut down your virtual machine and restore
-to the snapshot from before you attempted to install eclipse. Confirm
-that you have rolled back by trying to launch eclipse from the command
-line. You should again see the messages about using snap or apt to
-install eclipse.
-
-1. **Eclipse Install (take 2)**: Use the snap command suggested by
-   Linux to install eclipse 4.8.0. Confirm that snap did not modify
-   the default java version. Then run eclipse from the command line
-   and lock it to the launcher.
-
-1. **Snapshot**: Make another snapshot of the system now that you have
-   Eclipse installed.
-
-1. **git**: In order to interact with GitHub for things like
+1. **Git**: In order to interact with GitHub for things like
    retrieving code from, or contributing changes to an source project
-   you will need to use the git command line tools. We won't be using
-   these today, but we'll need them for our class on Version
-   Control. So we'll go ahead install them now. Figure out how to use
-   apt from the command line to install the git tools. Run git from
+   you will need to use the `git` command line tool. We won't be using
+   this today, but we'll need it for our class on version
+   control. So we'll go ahead install it now. Figure out how to use
+   apt from the command line to install Git. Run `git` from
    the command line to ensure that it has been installed. If it has
    been successfully installed you should see a help screen showing
-   the "usage: " of git and a long list of the "common Git commands."
+   the "usage: " of Git and a long list of the "common Git commands."
 
 1. **Snapshot**: Make another snapshot of the system now that you have
-   git installed.
+   Git installed.
 
-1. **Meld**: When using git and GitHub for team development,
+1. **Meld**: When using Git and GitHub for team development,
    situations will arise when two people have changed the same file in
    incompatible ways. When this happens it will be necessary to merge
    the changes manually. A good tool for displaying the changes and
    allowing you to choose which change to accept makes this job a lot
-   easer. Meld is just such a tool.  Like git, we won't be using Meld
+   easer. Meld is just such a tool.  Like Git, we won't be using Meld
    today, but let's go ahead and install it so its ready when we need
    it. Figure out how to install Meld. Once you have it installed you
    can verify that it works by typing meld on the command line. If
    everything is good then the GUI tool should appear.
 
-1. **Snapshot: Make another snapshot of the system now that you have
+1. **Snapshot**: Make another snapshot of the system now that you have
    Meld installed.
