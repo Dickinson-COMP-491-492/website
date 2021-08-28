@@ -32,8 +32,12 @@ Discussion of Project Reviews; Introduction of Project Ranking & Selection; Syst
 
 ### Hands-On
 
-[Software Installation activity](06-sysAdminActivity.md) (Pairs)
+[Software Installation activity](06-softwareInstallActivity.md) (Pairs)
 
 ### Homework
 
+- Complete the [Software Installation activity](06-softwareInstallActivity.md) (Pairs)
 - Reading & Preparation for next class meeting (Individual)
+- Complete the [Learn Git Branching: Introduction Sequence (1-4)](https://learngitbranching.js.org/) with Slack live-log (create a new private channel e.g. "gb-yz-git", invite me and your partner) (Paired)
+- Complete "Part 1 - Before the First Class" in the [Git/GitHub Workflow Activity](07-gitActivity.md). Append to your Slack live-log (Paired).
+- [H/FOSS Project Ranking & Selection](projSelectionAsst.md) (Teams)
