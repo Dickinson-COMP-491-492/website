@@ -4,6 +4,7 @@
 - [Syllabus & Course Information](syllabus.md)
 - [Course Moodle](https://lms.dickinson.edu/course/view.php?id=46512)
 - [Slack Organization](https://comp491.slack.com/)
+- [Summary of major assignments](major-assts.md)
 
 ## COMP 491 Outline
 
