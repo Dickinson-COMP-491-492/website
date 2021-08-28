@@ -29,4 +29,4 @@ A collection of [Video Recordings of speeches given by Richard Stallman](http://
 ### Homework
 
 - [Ryan's Tutorials - Linux Tutorial](https://ryanstutorials.net/linuxtutorial/) - In pairs, using your Ubuntu install, complete Tutorial Sections 1-12 (Click on the Blue "Tutorial Sections" button to see them). Keep a Slack live-log (create a new private channel e.g. "gb-yz-unix-tutorial", invite me and your partner). (Pairs)
-- [H/FOSS Project Exploration Activity](02-ProjExplore.md) (Individual) - complete the first half of your project explorations.  That is 2 for those pursuing H/FOSS projects or 1 for those pursuing Honors Research.
+- [H/FOSS Project Exploration Activity I](02-ProjExplore.md) (Individual) - complete the first half of your project explorations.  That is 2 for those pursuing H/FOSS projects or 1 for those pursuing Honors Research.

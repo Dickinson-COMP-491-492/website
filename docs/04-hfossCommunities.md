@@ -29,6 +29,6 @@ Discussion of Project Explorations; Introduction of Project Reviews; Discussion 
 ### Homework
 
 - Reading & Preparation for next class meeting (Individual)
-- [H/FOSS Project Review Activity](04-projectReview.md) This is your
+- [H/FOSS Project Review I](04-projectReview.md) This is your
   first project *review*, which is more detailed than the
   *explorations* done previously. (Individual)

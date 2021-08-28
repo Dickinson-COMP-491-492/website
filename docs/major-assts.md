@@ -1,5 +1,7 @@
 # Summary of major assignments for COMP491
 
+[still under construction]
+
 | Assignment                  | due date     | approximate %<br>of final grade<br>(see syllabus)
 | --------------------------- | ------------ | -----------------
 | Project Exploration I       | 9/10         | 3%
