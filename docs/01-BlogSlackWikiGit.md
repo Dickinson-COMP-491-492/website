@@ -5,23 +5,23 @@ Professional and open source software development makes use of many different co
 
 ### Blog
 
-You will be using a blog to post weekly writings reflecting on the reading and discussion topic for the week (see the syllabus for more details.)
+You will be using a blog to post two written reflections on the reading and discussion topics (see the syllabus for more details.)
 
 #### Tasks:
 
-1. Create an account on a blog site. If you have a favorite blog site you are welcome to use it (just create a new blog for the course). If you do not, then I recommend [Tumblr](https://www.tumblr.com/), as I find its minimal interface relatively easy to learn. Note that if you prefer, you may use a pseudonym for your blog username so that you are not personally identifiable on your blog. You will later be asked to post a link to your blog on our (secure) course Wiki so that I can link it to you for grading purposes.
+1. Create an account on a blog site. If you have a favorite blog site, you are welcome to use it (just create a new blog for the course). If you do not, then we recommend [Tumblr](https://www.tumblr.com/), as its minimal interface is relatively easy to learn. Note that if you prefer, you may use a pseudonym for your blog username so that you are not personally identifiable on your blog. You will later be asked to post a link to your blog on our (secure) course Wiki for grading purposes.
 2. Make an initial post to your blog. Your initial post should include:
-   - A statement that the blog is being created for this course and will be used to post reflective writing on reading and discussion topics related to free and open source software (FOSS), software engineering and contemporary social, ethical and legal issues in technology.
-   - Then also, respond in a few sentences to the prompt: "My plans after college are to:"
+   - A statement that the blog is being created for this course and will be used to post reflective writing on reading and discussion topics related to social, ethical and legal issues in technology.
+   - Then also respond in a few sentences to the prompt: "My plans after college are to:"
 
 ### Slack
 
-Slack is "A messaging app for teams". Slack helps teams working on projects to do all communications within a single app rather than spreading information across e-mail, im, texts, etc. Everything posted on Slack is indexed and searchable, making it easy to go back and find information and resources or reconstruct ideas and processes.
+Slack is "A messaging app for teams". Slack helps teams working on projects to do all communications within a single app rather than spreading information across e-mail, IM, texts, etc. Everything posted on Slack is indexed and searchable, making it easy to go back and find information and resources or reconstruct ideas and processes.
 
 #### Tasks:
 
 1. Skim the [What is Slack?](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-) page and watch the video (1:13) to familiarize yourself with the Slack.
-2. Use this link [comp491.slack.com/signup](https://comp491.slack.com/signup) to sign up directly for the COMP491 Slack Workspace.
+2. Use the link [comp491.slack.com/signup](https://comp491.slack.com/signup) to sign up directly for the COMP491 Slack Workspace.
 3. [Edit Your Profile](https://get.slack.help/hc/en-us/articles/204092246-Edit-your-profile) to include at least your first and last name. You can also upload a photo or avatar if you'd like.
 4. Using the links on the [Using Slack](https://get.slack.help/hc/en-us/categories/200111606) page do the following:
    - Join the #sample-live-log and #tips-and-techniques channel.

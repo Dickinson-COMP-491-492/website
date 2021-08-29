@@ -5,6 +5,8 @@ Overview of course content and structure; Syllabus w/ assignment types and gradi
 
 ### Hands-On Work
 
+- link for pre-survey: [https://bit.ly/COMP491-PreSurvey]
+
 - Blog/Slack/Wiki/Git Activity (Individual)
 
 ### Homework
