@@ -11,5 +11,5 @@ Overview of course content and structure; Syllabus w/ assignment types and gradi
 
 ### Homework
 - Complete the [Blog/Slack/GitHub/Wiki Activity](01-BlogSlackWikiGit.md) (Individual)
-- Reading and Preparation for Discussion
+- Reading and Preparation next class discussion. Details are on the page for the next meeting (Individual)
 - [Ubuntu Install](01-UbuntuInstall.md) with Slack live-log (Pairs)

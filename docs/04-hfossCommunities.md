@@ -28,7 +28,8 @@ Discussion of Project Explorations; Introduction of Project Reviews; Discussion 
 
 ### Homework
 
-- Reading & Preparation for next class meeting (Individual)
+- Reading and Preparation next class discussion. Details are on the page for the next meeting (Individual)
 - [H/FOSS Project Review I](04-projectReview.md) This is your
   first project *review*, which is more detailed than the
   *explorations* done previously. (Individual)
+- Blog Post I - Write a reflective blog post on H/FOSS History & Philosophy or on H/FOSS Communities. See the syllabus for details about the posting. (Individual)

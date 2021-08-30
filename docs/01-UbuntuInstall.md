@@ -19,7 +19,7 @@ For this assignment you will work in pairs to install Ubuntu Linux in Virtual Bo
 - One partner must create a new Slack channel:
   - The channel should be private.
   - The channel should be named using your initials and the assignment name (e.g. "gb-zz-ubuntu-install")
-  - Invite your partner and me to join this channel.
+  - Invite your partner and your instructor to join this channel.
 
 As you progress through the assignment, use this channel to live-log your activities. Enter questions you have, answers you find, where you found them, steps you've taken, mistakes you've made, how you've corrected them, etc. The idea is for you to paint a picture for me and a record for you of what you've done. Because Slack is indexed and searchable, live-logs of your work can be a great time saver helping you to (re)find answers, reconstruct actions, and avoid repeating mistakes that you've made before. Live-logs will also provide a means for me to assess your time and effort investment on assignments (see the Syllabus).
 

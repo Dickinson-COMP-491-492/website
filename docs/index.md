@@ -25,7 +25,7 @@ F 10/08/21      | Work Day - Alumni Visit                              |
 T 10/12/21      | Build Tools                                          |
 F 10/15/21      | Getting around a FOSS Project                        |
 T 10/19/21      | **Fall Pause**                                       |
-F 10/22/21      | Work Day - Alumni Visit                                           |
+F 10/22/21      | Work Day - Alumni Visit                              |
 T 10/26/21      | Software Architectures                               |
 F 10/29/21      | Work Day                                             |
 T 11/02/21      | FOSS Licensing                                       |
