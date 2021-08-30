@@ -42,13 +42,14 @@ Complete each of the following exercises:
    allows you to browse the available software may be preferable. In
    Ubuntu, the Ubuntu Software application (usually visible as a the
    suitcase icon) is such a tool. Use the Ubuntu Software app to
-   find and install GIMP, a FOSS package for editing images. Run the
+   find and install GIMP (Graphics Image Manipulation Program),
+   a FOSS package for editing images. Run the
    GIMP application to verify that it works.
 
 1. **Snapshot**: Make another snapshot of the system with GIMP
    installed.
-   
-1. **Eclipse install, first attempt**: 
+
+1. **Eclipse install, first attempt**:
 
    * **Confirm No Java**: By default, Ubuntu does not come with Java
       installed. You can confirm this by typing `java` on the command
@@ -64,14 +65,14 @@ Complete each of the following exercises:
       installation program called `snap`. We won't study any details
       of snap here, but you can feel free to use snap as one of your
       install methods in the next part of this activity.
-	  
+
    * **Research Eclipse and Java install**: Use a search engine to
      find some advice on how to install Eclipse and/or Java on Ubuntu
      or more generally on Linux. Make a note of at least two
      approaches that seem promising. Use your best judgment in
      deciding how much time to spend on research; between five minutes
-     and 15 minutes is probably suitable. 
-	 
+     and 15 minutes is probably suitable.
+
    * **Install Eclipse**: Your objective here is to get Eclipse
      installed and then compile and run a 'hello world' Java program
      in Eclipse. Choose one of the approaches that you researched in
@@ -88,24 +89,24 @@ Complete each of the following exercises:
    that you can practice snapshotting. Recall that in an earlier part
    of this activity, you made a note of at least two approaches to
    installing Eclipse. So far you have implemented only one of those
-   approaches. 
-   
+   approaches.
+
    * Roll back to an earlier snapshot, then try a second, different
    approach to installing Eclipse. Again attempt to create a 'hello
    world' project and run it.
-   
+
    * Create another snapshot after this installation.
-   
+
    * Decide which of your two installations was more successful. If
      your first installation was more successful, switch back to that
      snapshot.
 
-1. **Git**: In order to interact with GitHub for things like
+1. *Git**: In order to interact with GitHub for things like
    retrieving code from, or contributing changes to an source project
    you will need to use the `git` command line tool. We won't be using
    this today, but we'll need it for our class on version
    control. So we'll go ahead install it now. Figure out how to use
-   apt from the command line to install Git. Run `git` from
+   apt from the command line to install git. Run `git` from
    the command line to ensure that it has been installed. If it has
    been successfully installed you should see a help screen showing
    the "usage: " of Git and a long list of the "common Git commands."
@@ -116,12 +117,12 @@ Complete each of the following exercises:
 1. **Meld**: When using Git and GitHub for team development,
    situations will arise when two people have changed the same file in
    incompatible ways. When this happens it will be necessary to merge
-   the changes manually. A good tool for displaying the changes and
+   the changes manually. A graphical tool for displaying the changes and
    allowing you to choose which change to accept makes this job a lot
    easer. Meld is just such a tool.  Like Git, we won't be using Meld
    today, but let's go ahead and install it so its ready when we need
    it. Figure out how to install Meld. Once you have it installed you
-   can verify that it works by typing meld on the command line. If
+   can verify that it works by typing `meld` on the command line. If
    everything is good then the GUI tool should appear.
 
 1. **Snapshot**: Make another snapshot of the system now that you have
