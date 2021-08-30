@@ -19,5 +19,5 @@ homework assignments from the previous class meeting.
 
 ### Homework
 
-- Reading and Preparation next class discussion. Details are on the page for the next meeting (Individual)
+- Reading and Preparation for next class discussion. Details are on the page for the next meeting (Individual)
 - [H/FOSS Project Exploration Activity II](02-ProjExplore.md) (Individual) Complete the second half of your project explorations. Repeat the process of your first project exploration, but using different H/FOSS projects.

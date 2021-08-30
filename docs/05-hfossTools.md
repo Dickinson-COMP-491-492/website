@@ -24,7 +24,6 @@ Discussion of Project Reviews; Discussion of tools and structures of H/FOSS proj
 
 ### Homework
 
-- Reading and Preparation next class discussion. Details are on the page for the next meeting (Individual)
+- Reading and Preparation for next class discussion. Details are on the page for the next meeting (Individual)
 - [H/FOSS Project Review II](04-projectReview.md) This is your
-  second project *review*, which is more detailed than the
-  *explorations* done previously. (Individual)
+  second project *review* (not required if pursuing Honors), repeat the process for your first project review with a second H/FOSS project. (Individual)

@@ -30,4 +30,4 @@ A collection of [Video Recordings of speeches given by Richard Stallman](http://
 
 - [Ryan's Tutorials - Linux Tutorial](https://ryanstutorials.net/linuxtutorial/) - In pairs, using your Ubuntu install, complete Tutorial Sections 1-12 (Click on the Blue "Tutorial Sections" button to see them). Keep a Slack live-log (create a new private channel e.g. "gb-yz-unix-tutorial", invite your instructor and your partner). (Pairs)
 - [H/FOSS Project Exploration Activity I](02-ProjExplore.md) (Individual) - complete the first half of your project explorations.  That is 2 for those pursuing H/FOSS projects or 1 for those pursuing Honors Research.
-- Blog Post I - Write a reflective blog post on H/FOSS History & Philosophy or on H/FOSS Communities (next week). See the syllabus for details about the posting. (Individual)
+- Blog Post I - Write a reflective blog post on either H/FOSS History & Philosophy (today's topic) or H/FOSS Communities (next week). See the syllabus for details about the posting. (Individual)

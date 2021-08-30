@@ -8,14 +8,14 @@
 
 ## COMP 491 Outline
 
-Date            | Class Information                                    | Homework Assigned
-----------------|------------------------------------------------------|-------------
-T 08/31/21      | [Course Introduction](01-intro.md)                   | - 09/03/21: Blog/Slack/Wiki/Git Activity (Individual)<br>- 09/03/21: Reading & Preparation (Individual)<br>- 09/03/21: Ubuntu Install (Pairs)
-F 09/03/21      | [H/FOSS History & Philosophy](02-history.md)         | - 09/07/21: Linux Tutorials (Pairs)<br>- 09/10/21: H/FOSS Project Exploration I (Individual)<br>- 09/17/21: Blog Post I (Individual)
-T 09/07/21      | [Unix Tool Challenges](03-unixTools.md)              | - 09/10/21: Reading & Preparation (Individual)<br>- 09/10/21: H/FOSS Project Exploration II  (Individual)<br>- 09/17/21: Blog Post I (Individual)
-F 09/10/21      | [H/FOSS Communities](04-hfossCommunities.md)         | - 09/14/21: Reading & Preparation (Individual)<br>- 09/17/21: H/FOSS Project Review I (Individual)- 09/17/21: Blog Post I (Individual)
+Date            | Class Information                                        | Homework Assigned
+----------------|----------------------------------------------------------|-------------
+T 08/31/21      | [Course Introduction](01-intro.md)                       | - 09/03/21: Complete the Blog/Slack/Wiki/Git Activity (Individual)<br>- 09/03/21: Reading & Preparation (Individual)<br>- 09/03/21: Ubuntu Install (Pairs)
+F 09/03/21      | [H/FOSS History & Philosophy](02-history.md)             | - 09/07/21: Linux Tutorials (Pairs)<br>- 09/07/21: H/FOSS Project Exploration I (Individual)<br>- 09/17/21: Blog Post I (Individual)
+T 09/07/21      | [Unix Tool Challenges](03-unixTools.md)                  | - 09/10/21: Reading & Preparation (Individual)<br>- 09/10/21: H/FOSS Project Exploration II  (Individual)<br>- 09/17/21: Blog Post I (Individual)
+F 09/10/21      | [H/FOSS Communities](04-hfossCommunities.md)             | - 09/14/21: Reading & Preparation (Individual)<br>- 09/14/21: H/FOSS Project Review I (Individual)- 09/17/21: Blog Post I (Individual)
 T 09/14/21      | [H/FOSS Tools/Structures/Communication](05-hfossTools.md)| - 09/17/21: Reading & Preparation (Individual)<br>- 09/17/21: H/FOSS Project Review II (Individual)<br>- 09/17/21: Blog Post I (Individual)
-F 09/17/21      | [Linux System Administration](06-linuxSysAdmin.md)   | - 9/21/21: Complete the Software Installation activity (Pairs)<br>- 9/21/21: Reading & Preparation (Individual)<br> - 9/21/21: Complete the Learn Git Branching: Introduction Sequence (1-4) (Paired)<br>- 9/21/21: Complete "Part 1 - Before the First Class" in the Git/GitHub Workflow Activity (Paired)<br>- 9/24/21: H/FOSS Project Ranking & Selection Assignment (Teams)
+F 09/17/21      | [Linux System Administration](06-linuxSysAdmin.md)       | - 9/21/21: Complete the Software Installation activity (Pairs)<br>- 9/21/21: Reading & Preparation (Individual)<br> - 9/21/21: Complete the Learn Git Branching: Introduction Sequence (1-4) (Pairs)<br>- 9/21/21: Complete "Part 1 - Before the First Class" in the Git/GitHub Workflow Activity (Pairs)<br>- 9/24/21: H/FOSS Project Ranking & Selection Assignment (Teams)
 T 09/21/21      | [Version Control I](07-versionControl-I.md)          |
 F 09/24/21      | Version Control II                                   |
 T 09/28/21      | Project Selection Presentations - Group I            |
