@@ -33,14 +33,14 @@ Students will:
 
 ### 491 Grade Determination
 
-Course Component                                  | Weight
---------------------------------------------------|---------
-Preparation/Attendance/Engagement (PAE) (3)	      | 15%
-Blog / Reflective Writing (2)	                    | 10%
-HW Exercises (5)	                                | 15%
-Project/Community Selection or Research Proposal	| 15%
-Project Checkpoint #1	                            | 15%
-Project Checkpoint #2	                            | 30%
+Course Component                                    | Weight
+----------------------------------------------------|---------
+Preparation/Attendance/Engagement (PAE)             | 15%
+Reflective Writing Blog Posts                       | 10%
+Homework Exercises                                  | 15%
+Project Selection (or Research Proposal for honors projects) | 15%
+Project Checkpoint #1                               | 15%
+Project Checkpoint #2                               | 30%
 
 <!--
 ### 492 Grade Determination (tentative)
