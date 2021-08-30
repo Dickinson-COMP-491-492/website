@@ -1,7 +1,7 @@
 ## Course Introduction
 
 ### Overview
-Overview of course content and structure; Syllabus w/ assignment types and grading; Pre-survey; Discussion of perceptions of H/FOSS; Machine assignments; Discussion of Slack live-log expectations.
+Overview of course content and structure; Syllabus w/ assignment types and grading; Pre-survey; Discussion of perceptions of H/FOSS; Discussion of Slack live-log expectations.
 
 ### Hands-On Work
 
