@@ -7,7 +7,7 @@ Overview of course content and structure; Syllabus w/ assignment types and gradi
 
 - link for pre-survey: [https://bit.ly/COMP491-PreSurvey](https://bit.ly/COMP491-PreSurvey)
 
-- Blog/Slack/Wiki/Git Activity (Individual)
+- [Blog/Slack/GitHub/Wiki Activity](01-BlogSlackWikiGit.md) (Individual)
 
 ### Homework
 - Complete the [Blog/Slack/GitHub/Wiki Activity](01-BlogSlackWikiGit.md) (Individual)
