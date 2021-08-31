@@ -15,7 +15,7 @@ F 09/03/21      | [H/FOSS History & Philosophy](02-history.md)             | - 0
 T 09/07/21      | [Unix Tool Challenges](03-unixTools.md)                  | - 09/10/21: Reading & Preparation (Individual)<br>- 09/10/21: H/FOSS Project Exploration II  (Individual)
 F 09/10/21      | [H/FOSS Communities](04-hfossCommunities.md)             | - 09/14/21: Reading & Preparation (Individual)<br>- 09/14/21: H/FOSS Project Review I (Individual)<br>- 10/08/21: Blog Post I (Individual)
 T 09/14/21      | [H/FOSS Tools/Structures/Communication](05-hfossTools.md)| - 09/17/21: Reading & Preparation (Individual)<br>- 09/17/21: H/FOSS Project Review II (Individual)
-F 09/17/21      | [Linux System Administration](06-linuxSysAdmin.md)       | - 9/21/21: Complete the Software Installation activity (Pairs)<br>- 9/21/21: Reading & Preparation (Individual)<br> - 9/21/21: Complete the Learn Git Branching: Introduction Sequence (1-4) (Pairs)<br>- 9/21/21: Complete "Part 1 - Before the First Class" in the Git/GitHub Workflow Activity (Pairs)<br>- 9/24/21: H/FOSS Project Ranking & Selection Assignment (Teams)
+F 09/17/21      | [Linux System Administration](06-linuxSysAdmin.md)       | - 9/21/21: Complete the Software Installation activity (Pairs)<br>- 9/21/21: Reading & Preparation (Individual)<br>- 9/24/21: H/FOSS Project Ranking & Selection Assignment (Teams)
 T 09/21/21      | [Version Control I](07-versionControl-I.md)          |
 F 09/24/21      | Version Control II                                   |
 T 09/28/21      | Project Selection Presentations - Group I            |
