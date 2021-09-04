@@ -21,12 +21,12 @@ GitHub. The activity is divided into four parts:
   fixing the issue, pushing the fix to your GitHub repo, making a pull
   request, and keeping your local and remote repos into synch with
   upstream changes.
-* Part 3 - Before the Second Class: You will complete this part
-  following the first class period and before the second. In it you
-  will repeat the process of claiming an issue, creating a branch,
-  making a fix, pushing the fix to your GitHub repo and making a pull
-  request.
-* Part 4 - Hands-On in the Second Class: You will complete this part
+* [Part 3 - Before the Second Class](#part-3-before-the-second-class):
+  You will complete this part following the first class period and
+  before the second. In it you will repeat the process of claiming an
+  issue, creating a branch, making a fix, pushing the fix to your
+  GitHub repo and making a pull request.
+* [Part 4 - Hands-On in the Second Class](#part-4-hands-on-in-the-second-class): You will complete this part
   hands-on during the second class period. It will walk you through
   the process of resolving conflicts with concurrent upstream
   changes. You will synchronize your repos with the upstream, use a
@@ -189,7 +189,7 @@ To set the Upstream Repository:
 
 ### Snapshot
 
-Make snapshot of your virtual machine.
+Make a snapshot of your virtual machine.
 
 ![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
 "stop")
@@ -451,3 +451,182 @@ Delete the feature branch from your local and origin:
 
 ![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
 "stop")
+
+## Part 3: Before the Second Class
+
+Thus far, the changes you have made and integrated into the project
+have been carefully selected so that no change you made conflicted
+with a change made by someone else. This meant that your feature
+branch was able to be merged into the upstream main
+automatically. In practice however, it is quite likely that when
+multiple people are changing code concurrently they will make changes
+that are in conflict with each other. Complete the steps below before
+the next class. These steps will have you make a change that will
+generate conflicts and we will then walk through the process of
+resolving those conflicts in the next class.
+
+### Fix A Round2 Issue
+
+The steps below are the same steps you used in fixing your "Round1"
+bug and making a pull request. So, you can refer to the steps above or
+use the [Git/GitHub Cheatsheet](07-github-cheatsheet.md) to refresh
+your memory on the commands required.
+
+1. Go to the GitHub Issues tab on the upstream repository and browse
+   the "Round2" bugs. Comment on one of the "Round2" tickets that you
+   want to fix. Refresh the page and check if you are the first
+   commenter on the ticket. If you are, then the bug is yours. If you
+   are not the first commenter on the issue try another until you are!
+1. `git branch round2fix`
+1. Edit the code in your `round2fix` branch to address the issue that
+   you have claimed.
+1. `git status`
+1. `git add Calculator.java`
+1. `git commit -m "<Descriptive commit message>"`
+1. `git push origin round2fix`
+1. Make a pull request to the upstream for your feature branch. (Note:
+   GitHub may tell you that it "Can't automatically merge" your pull
+   request. That's expected, go ahead and create it anyway.)
+
+![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
+"stop") 
+
+## Part 4: Hands-On in the Second Class
+
+Before this class you made changes that fixed a "Round2" issue and
+generated a pull request to the upstream to merge your results. In
+practice, while you are working on your fix other contributors will
+make pull requests and their work will be merged into the upstream. To
+simulate this, the instructor has made changes to the upstream. These
+changes have been designed to conflict (i.e. have changes in the same
+line of code, or changes that cannot be merged automatically). You may
+have noticed when you created your pull request that GitHub indicated
+(in red) that it "Can't automatically merge" your pull request. This
+is GitHub's way of letting you and the upstream project managers know
+that there is a conflict between the code in the upstream and the
+edits in your pull request.
+
+When a branch cannot be merged automatically what is typically done is
+that the person issuing the pull request will be asked to *merge* the
+changes from the current upstream main into their feature
+branch. During this process you will have to resolve the conflicts
+that exist manually by deciding what the conflicting code should look
+like in each case. Once the conflicts are resolved, the pull request
+is updated by pushing your edited feature branch to your origin. The
+upstream manager will then be able to merge your updated pull request
+you issued into the upstream.
+
+### Synchronize Local and Origin with Upstream main:
+
+1. `git checkout main`
+1. `git pull upstream main`
+1. `git push`
+
+ ![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
+"stop") 
+
+### Merge main Branch Changes into your Feature Branch:
+
+1. `git checkout round2fix`
+1. `git merge main`
+   * Notice that the merge will fail due to conflicts. Git needs your
+     help to manually resolve the conflicts. You can see the conflicts
+     if you look inside the `Calculator.java` file.
+
+### Examine the Conflicts
+
+1. cat Calculator.java
+1. Scroll to where you made your edits. You should see something similar to:
+```
+<<<<<<< HEAD
+	public double sphereVolume(double r) {
+=======
+	public static double sphVol(double r) {
+>>>>>>> main
+```
+      
+This is Git's way of indicating what has happened. The main branch had
+been edited to make the `sphVol` method `static`. But the local branch
+(`HEAD`) had been edited to rename the `sphVol` method to
+`sphereVolume`, as requested in the issue ticket. Because these
+changes are in the same line Git is unable to automatically merge
+them. You could resolve the conflict by manually editing the file and
+removing the information about the conflict leaving only the desired
+code. But it is often easier, more convenient and less error prone to
+use a graphical merge tool as you will below.
+
+ ![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
+"stop") 
+
+### Resolve the Conflicts:
+
+1. Launch the graphical merge tool (Meld):
+   * `git mergetool`
+      - The left pane (`LOCAL`) shows the code in your feature
+        branch. This includes the edits that you have included in your
+        pull request.
+	  - The right pane (`REMOTE`) shows the code from
+        the current main branch in your local repository. This is also
+        the code as it exists in the upstream since you just synched.
+      - The middle pane shows the file as it existed at the time your
+        feature branch was created. Thus, it does not contain any of
+        the changes to the main branch or any of the changes in your
+        feature branch. This is also where you will indicate what the
+        file should look like with all of the conflicts resolved.
+      - Code highlighted in blue are changes in the main branch that
+        do not conflict with changes in your feature branch. These
+        need to be moved into your feature branch to bring it into
+        synch with the main branch.
+      - Code highlighted in red are changes in the main branch that
+        conflict with changes in your feature branch. You will need to
+        resolve these conflicts.
+1. Use the arrow buttons to move the blue highlighted lines from the
+   main branch into the center pane. This is you accepting the
+   non-conflicting upstream changes into your feature branch.
+1. Edit the code in the center panel to resolve the remaining
+   conflict. (i.e. the method should have your new name and also be
+   `static`).
+1. Save the changes in the merge tool. Note that when you
+   save it is the code in the center pane that is saved.
+1. Exit the mergetool.
+1. Use `cat Calculator.java` and verify that the merged file now appears
+   as desired.
+
+![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
+"stop") 
+
+### Commit and Push (Update Pull Request):
+
+1. `git status`
+1. `git commit -m "merged upstream changes"`
+1. `git push origin round2fix`
+   * Now check your pull request on GitHub. It will have been updated
+     to have your merged changes and will also indicate that it can
+     now be automatically merged.
+
+![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
+"stop") 
+
+### Synchronize Local and Origin main branches with Upstream main:
+
+1. git checkout main
+1. git pull upstream main
+1. git push origin main
+
+### Delete the feature branch:
+
+1. git branch -d round2fix
+1. git push origin :round2fix
+
+![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
+"stop") 
+
+----
+
+Acknowledgements: This assignment builds from and adapts ideas and content from the following activities created by others:
+
+* http://foss2serve.org/index.php/Git:_GitHub_Issues_and_Pull_Requests
+* http://foss2serve.org/index.php/Git:_GitHub_Workflow_Activity
+* http://foss2serve.org/index.php/Git:_Working_Locally_from_the_Command_Line
+* http://foss2serve.org/index.php/Git:_Working_with_Remotes_from_the_Command_Line
+* http://foss2serve.org/index.php/Why_Use_Version_Control
