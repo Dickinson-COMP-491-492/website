@@ -45,4 +45,14 @@ Discussion of Project Ranking & Selection; Discussion of Version Control reading
 
 ### Hands-On
 
+- [Git/GitHub Workflow Activity](07-gitActivity.md) &ndash; Complete *Part 2 &ndash; Hands-on in the First Class*. Append to your Slack live log (Paired).
+- [Git/GitHub Workflow Slides](07-githubslides.pdf) &ndash;  the slides used in class.
+
 ### Homework
+
+- Do the Reading & Preparation for the next class (Individual)
+- Complete *Part 3 &ndash; Before the Second Class* in the [Git/GitHub
+Workflow Activity](07-gitActivity.md). Append to your Slack live-log
+(Paired).
+- [H/FOSS Project Ranking and Selection](projSelectionAsst.md) (Teams)
+  or Honors Research Proposal (Individual)

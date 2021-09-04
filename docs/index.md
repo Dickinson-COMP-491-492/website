@@ -15,9 +15,9 @@ F 09/03/21      | [H/FOSS History & Philosophy](02-history.md)             | - 0
 T 09/07/21      | [Unix Tool Challenges](03-unixTools.md)                  | - 09/10/21 8am: Reading & Preparation (Individual)<br>- 09/10/21: H/FOSS Project Exploration II  (Individual)
 F 09/10/21      | [H/FOSS Communities](04-hfossCommunities.md)             | - 09/14/21 8am: Reading & Preparation  (Individual)<br>- 09/14/21: H/FOSS Project Review I (Individual)<br>- 10/08/21: Blog Post I (Individual)
 T 09/14/21      | [H/FOSS Tools/Structures/Communication](05-hfossTools.md)| - 09/17/21 8am: Reading & Preparation (Individual)<br>- 09/17/21: H/FOSS Project Review II (Individual)
-F 09/17/21      | [Linux System Administration](06-linuxSysAdmin.md)       | - 9/21/21: Complete the Software Installation activity (Pairs)<br>- 9/21/21 8am: Reading & Preparation (Individual)<br>- 9/24/21: H/FOSS Project Ranking & Selection Assignment (Teams)
-T 09/21/21      | [Version Control I](07-versionControl-I.md)          |
-F 09/24/21      | Version Control II                                   |
+F 09/17/21      | [Linux System Administration](06-linuxSysAdmin.md)       | - 09/21/21: Complete the Software Installation activity (Pairs)<br>- 09/21/21 8am: Reading & Preparation (Individual)<br>- 09/24/21: H/FOSS Project Ranking & Selection Assignment (Teams)
+T 09/21/21      | [Version Control I](07-versionControl-I.md)          | - 09/24/21 8am: Reading & Preparation (Individual)<br>- 09/24/21: Complete *Part 3 &ndash; Before the Second Class* in the Git/GitHub Workflow Activity.<br>- 09/24/21: H/FOSS Project Ranking & Selection Assignment (Teams)
+F 09/24/21      | [Version Control II](08-versionControl-II.md)        | - 09/28/21 and 10/01/21: presentation component of the H/FOSS Project Ranking and Selection assignment
 T 09/28/21      | Project Selection Presentations - Group I            |
 F 10/01/21      | Project Selection Presentations - Group II           |
 T 10/05/21      | Bash Scripting                                       | - 10/08/21: Blog Post I (Individual)
