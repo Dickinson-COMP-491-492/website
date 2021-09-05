@@ -114,4 +114,28 @@ git push origin master --force
 git checkout -- <bad filename>
 ```
 
+## Obtain a new GitHub PAT (personal authentication token)
+
+  * The GitHub documentation on [Creating a personal access token](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+explains the procedure in detail. Follow the step-by-step instructions
+provided there, taking note of the following points which help with
+our specific scenario:
+    - You can choose any name you want for this PAT. "Repo access"
+      would be an appropriate choice.
+    - For the expiration of the token, it will be easiest to use the
+      same token throughout the semester. Therefore, choose the Custom
+      expiration option and select a date after the end of the
+      semester. You can also choose to have no expiry date, if you
+      don't care about the security of your GitHub repositories.
+    - When choosing the scopes or permissions for the token, select
+      the "repo" option and leave everything else unchecked.
+    - The random string highlighted in green is your PAT. Copy this
+      and save it somewhere secure. Treat it the same way you would
+      treat any other password. Anyone who knows this PAT has full
+      access to your GitHub repositories.
+    - Your PAT now serves the purpose of a password for accessing your
+      GitHub repository. Whenever you are asked for a "password" to
+      access a repository, you should instead use this PAT. Your
+      GitHub account password is still used for accessing GitHub from
+      a web browser.
 
