@@ -67,3 +67,45 @@ available for later reference. The titles of the slides illustrating
 each task correspond to underlined sub-section names below.
 
 A [GitHub cheatsheet](07-github-cheatsheet.md) with a short summary of each of the sets of commands that we use for particular tasks is also available.
+
+
+## Part 1: Before the First Class
+
+In order to allow us to focus on the more interesting and complicated parts of Git/GitHub in class you are asked to do some parts of this activity now, before the first class period. You'll also be asked after this class to do some additional work in preparation for the second class period.
+
+### Configuring Git
+
+There are a few settings in the Git configuration that need to be set
+before we begin. Note that these commands will only need to be issued
+once on each machine where you use Git. Issue the following commands
+in a terminal (customizing as appropriate) to setup the Git
+configuration:
+
+```
+git config --global user.name <GitHubUserName>
+git config --global user.email <you@email.org>
+git config --global push.default simple
+git config --global merge.tool meld
+git config --global mergetool.keepBackup false
+git config --global credential.helper cache
+```
+
+Use the following command to ensure that you have set all of the configurations:
+
+```
+git config --global --list
+```
+
+
+### Forking the Upstream
+
+Any H/FOSS project on which you will work will maintain a repository
+on a Git compatible site that contains all of the code for the
+project. We will use GitHub, but a similar process exists for all of
+the others as well. The project's repository will be read-only except
+for the core project team that manages the project. So to work on the
+code for the project you will create a copy of the repository in your
+own GitHub account. The process of making this copy is called *forking*
+and the repository belonging to the H/FOSS project itself is called
+the *upstream repository*.
+
