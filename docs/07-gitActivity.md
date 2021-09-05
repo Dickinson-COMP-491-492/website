@@ -533,3 +533,42 @@ Delete the feature branch from your local and origin:
 ![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
 "stop")
 
+## Part 3: Before the Second Class
+
+Thus far, the changes you have made and integrated into the project
+have been carefully selected so that no change you made conflicted
+with a change made by someone else. This meant that your feature
+branch was able to be merged into the upstream main
+automatically. In practice, however, it is quite likely that when
+multiple people are changing code concurrently they will make changes
+that are in conflict with each other. Complete the steps below before
+the next class. These steps will have you make a change that will
+generate conflicts and we will then walk through the process of
+resolving those conflicts in the next class.
+
+### Fix A Round2 Issue
+
+The steps below are the same steps you used in fixing your "Round1"
+bug and making a pull request. So, you can refer to the steps above or
+use the [Git/GitHub Cheatsheet](07-github-cheatsheet.md) to refresh
+your memory on the commands required.
+
+1. Go to the Issues tab on the upstream repository on GitHub, and
+   browse the "Round2" bugs. Comment on one of the "Round2" tickets
+   that you want to fix. Refresh the page and check if you are the
+   first commenter on the ticket. If you are, then the bug is
+   yours. If you are not the first commenter on the issue try another
+   until you are!
+1. `git branch round2fix`
+1. Edit the code in your `round2fix` branch to address the issue that
+   you have claimed.
+1. `git status`
+1. `git add Calculator.java`
+1. `git commit -m "<Descriptive commit message>"`
+1. `git push origin round2fix`
+1. Make a pull request to the upstream for your feature branch. (Note:
+   GitHub may tell you that it "Can't automatically merge" your pull
+   request. That's expected, go ahead and create it anyway.)
+
+![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
+"stop") 
