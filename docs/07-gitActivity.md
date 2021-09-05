@@ -572,3 +572,69 @@ your memory on the commands required.
 
 ![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
 "stop") 
+
+## Part 4: Hands-On in the Second Class
+
+Before this class you made changes that fixed a "Round2" issue and
+generated a pull request to the upstream to merge your results. In
+practice, while you are working on your fix other contributors will
+make pull requests and their work will be merged into the upstream. To
+simulate this, the instructor has made changes to the upstream. These
+changes have been designed to conflict (i.e. have changes in the same
+line of code, or changes that cannot be merged automatically). You may
+have noticed when you created your pull request that GitHub indicated
+(in red) that it "Can't automatically merge" your pull request. This
+is GitHub's way of letting you and the upstream project managers know
+that there is a conflict between the code in the upstream and the
+edits in your pull request.
+
+When a branch cannot be merged automatically, the person issuing the
+pull request will typically be asked to *merge* the changes from the
+current upstream main into their feature branch. During this process
+you will have to manually resolve the conflicts that exist, by
+deciding what the conflicting code should look like in each case. Once
+the conflicts are resolved, the pull request is updated by pushing
+your edited feature branch to your origin. The upstream manager will
+then be able to merge your updated pull request into the upstream.
+
+### Synchronize Local and Origin with Upstream main:
+
+1. `git switch main`
+1. `git pull upstream main`
+1. `git push`
+
+ ![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
+"stop") 
+
+### Merge main Branch Changes into your Feature Branch:
+
+1. `git switch round2fix`
+1. `git merge main`
+   * Notice that the merge will fail due to conflicts. Git needs your
+     help to manually resolve the conflicts. You can see the conflicts
+     if you look inside the `Calculator.java` file.
+
+### Examine the Conflicts
+
+1. cat Calculator.java
+1. Scroll to where you made your edits. You should see something similar to:
+```
+<<<<<<< HEAD
+	public double sphereVolume(double r) {
+=======
+	public static double sphVol(double r) {
+>>>>>>> main
+```
+      
+This is Git's way of indicating what has happened. The main branch had
+been edited to make the `sphVol` method `static`. But the local branch
+(`HEAD`) had been edited to rename the `sphVol` method to
+`sphereVolume`, as requested in the issue ticket. Because these
+changes are in the same line Git is unable to automatically merge
+them. You could resolve the conflict by manually editing the file and
+removing the information about the conflict leaving only the desired
+code. But it is often easier, more convenient and less error prone to
+use a graphical merge tool as you will below.
+
+ ![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
+"stop") 
