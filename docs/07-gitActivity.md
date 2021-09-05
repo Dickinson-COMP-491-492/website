@@ -109,3 +109,103 @@ own GitHub account. The process of making this copy is called *forking*
 and the repository belonging to the H/FOSS project itself is called
 the *upstream repository*.
 
+To fork the Upstream Repository:
+
+1. Log into your GitHub account
+1. Go to the repository for the project in GitHub
+   * Often you would have this URL or you can use the search feature
+     in GitHub. For this activity you will need to clone the [Dickinson-COMP-491-492/github-issues-activity](https://github.com/Dickinson-COMP-491-492/github-issues-activity)
+     repository.
+1. Click on the "Fork" button in the upper right hand corner.
+1. If a pop-up dialog appears, select your GitHub account from those
+   shown.
+1. Look at your repositories in GitHub and verify that you have a fork
+   of the `git-hub-issues-activity` repository.
+
+### Cloning your Origin
+
+The fork of the upstream repository in your GitHub account is called
+your *origin repository*. Because this repository is in your GitHub
+account you will be able to both read and write to this repository. It
+will provide cloud storage for all of the work you do on the project
+and will also be the means for contributing code back to the main
+project through pull requests. To work on the code however, you will
+*clone* your origin repository onto your local machine making a copy
+of it into a *local repository*.
+
+To clone your origin repository:
+
+1. From the github-issues-activity repository click the green "Code" button.
+1. Make sure that the URL shown has your GitHub user name in it.
+1. Click the little clipboard icon to copy your Origin Repository URL. 
+   * There are several different options here, but we want the URL
+     corresponding to the "HTTPS" method, which is usually the
+     default.
+1. Open a terminal window on your machine.
+1. Navigate to the directory where you want to store your cloned
+   repository.
+1. Use the command: `git clone <Origin Repository URL>`
+1. Verify that you now have a local repository:
+   - You should have a directory named `github-issues-activity` in the
+     current directory.
+   - Change into the `github-issues-activity` directory.
+   - Verify that it contains three files (`Calculator.java`, 
+     `Instructor.md`,  `README.md`).
+
+### Setting the Upstream Remote
+
+You now have a local repository which is a clone all of the code in
+your origin repository, which was forked from the upstream
+repository. Your origin repository and the upstream repository are
+both referred to as *remote repositories* in Git terminology,
+reflecting that they are not local to your machine. The Git tool on
+your machine will keep track of the remote repositories (i.e. your
+origin and the upstream) corresponding to your local repository. This
+will be useful when working on H/FOSS projects to push changes from
+your local repository to your origin and to pull changes made by
+others in the upstream into your local repository. However, at this
+time your Git tool only knows about your origin remote because that is
+the repository you cloned. You will need to tell Git where to find the
+upstream repository.
+
+To set the Upstream Repository:
+
+1. Change into the github-issues-activity directory.
+1. Use the command: `git remote -v`
+   * This will list all of the remote repositories that Git knows
+     about. At this time it should list only your origin repository (2
+     lines, one for fetch and one for push). Verify that the URL for
+     the origin contains your GitHub username in the URL. So something
+     similar to: 
+     ```
+     origin https://github.com/braughtstu/github-issues-activity.git (fetch)
+     origin https://github.com/braughtstu/github-issues-activity.git (push)
+     ```
+	 If it does not and instead contains the course GitHub URL
+     from which you forked the repository you will need to delete the
+     github-issues-activity directory and repeat the "cloning your
+     origin" step above before continuing.
+1. Go to the upstream repository on GitHub.
+1. Use the "Code" button to copy the upstream repository URL (again
+   choosing the HTTPS option).
+1. Use the command: `git remote add upstream <Upstream Repository URL>`
+1. Use the command: `git remote -v`
+   * You should now see four lines (2 for origin and 2 for
+     upstream). The lines for upstream should contain the course
+     GitHub URL and those for origin should contain your GitHub
+     username. So something like:
+   ```
+   origin https://github.com/braughtstu/github-issues-activity.git (fetch)
+   origin https://github.com/braughtstu/github-issues-activity.git (push)
+   upstream https://github.com/Dickinson-COMP-491-492/github-issues-activity.git (fetch)
+   upstream https://github.com/Dickinson-COMP-491-492/github-issues-activity.git (push)
+   ```
+
+### Snapshot
+
+Make a snapshot of your virtual machine.
+
+![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
+"stop")
+
+
