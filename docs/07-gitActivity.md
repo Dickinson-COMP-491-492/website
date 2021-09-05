@@ -638,3 +638,77 @@ use a graphical merge tool as you will below.
 
  ![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
 "stop") 
+
+
+### Resolve the Conflicts:
+
+1. Launch the graphical merge tool (Meld):
+   * `git mergetool`
+      - The left pane (`LOCAL`) shows the code in your feature
+        branch. This includes the edits that you have included in your
+        pull request.
+	  - The right pane (`REMOTE`) shows the code from
+        the current main branch in your local repository. This is also
+        the code as it exists in the upstream since you just synced.
+      - The middle pane shows the file as it existed at the time your
+        feature branch was created. Thus, it does not contain any of
+        the changes to the main branch or any of the changes in your
+        feature branch. This is also where you will indicate what the
+        file should look like with all of the conflicts resolved.
+      - Code highlighted in blue are changes in the main branch that
+        do not conflict with changes in your feature branch. These
+        need to be moved into your feature branch to bring it into
+        sync with the main branch.
+      - Code highlighted in red are changes in the main branch that
+        conflict with changes in your feature branch. You will need to
+        resolve these conflicts.
+1. Use the arrow buttons to move the blue highlighted lines from the
+   main branch into the center pane. This is you accepting the
+   non-conflicting upstream changes into your feature branch.
+1. Edit the code in the center panel to resolve the remaining
+   conflict. (i.e. the method should have your new name and also be
+   `static`).
+1. Save the changes in the merge tool. Note that, when you
+   save, it is the code in the *center* pane that is saved.
+1. Exit the mergetool.
+1. Use `cat Calculator.java` and verify that the merged file now appears
+   as desired.
+
+![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
+"stop") 
+
+### Commit and Push (Update Pull Request):
+
+1. `git status`
+1. `git commit -m "merged upstream changes"`
+1. `git push origin round2fix`
+   * Now check your pull request on GitHub. It will have been updated
+     to have your merged changes and will also indicate that it can
+     now be automatically merged.
+
+![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
+"stop") 
+
+### Synchronize Local and Origin main branches with Upstream main:
+
+1. git switch main
+1. git pull upstream main
+1. git push origin main
+
+### Delete the feature branch:
+
+1. git branch -d round2fix
+1. git push -d origin round2fix
+
+![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
+"stop") 
+
+----
+
+Acknowledgements: This assignment builds from and adapts ideas and content from the following activities created by others:
+
+* http://foss2serve.org/index.php/Git:_GitHub_Issues_and_Pull_Requests
+* http://foss2serve.org/index.php/Git:_GitHub_Workflow_Activity
+* http://foss2serve.org/index.php/Git:_Working_Locally_from_the_Command_Line
+* http://foss2serve.org/index.php/Git:_Working_with_Remotes_from_the_Command_Line
+* http://foss2serve.org/index.php/Why_Use_Version_Control
