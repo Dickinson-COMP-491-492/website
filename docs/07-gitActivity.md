@@ -45,14 +45,14 @@ activity. The following sites provide good starting points:
   activity.
 * In addition, you should have received and accepted the e-mail
   invitation from GitHub "to collaborate on the
-  `github-issues-activity` repository."
+  `github-issues-sec1` (or `sec2`) repository."
 
 ## General Information:
 
 In the following text, commands to be typed at the terminal are shown
 in mono-spaced type `like this` and any parts of those commands that
 you will need to customize for yourself are shown in angle brackets
-`<*like this*>`. The angle brackets are not part of the command and
+`<like this>`. The angle brackets are not part of the command and
 should be omitted when you fill in the appropriate values.
 
 Each time you reach a ![stop](images/stop.png
@@ -114,13 +114,13 @@ To fork the Upstream Repository:
 1. Log into your GitHub account
 1. Go to the repository for the project in GitHub
    * Often you would have this URL or you can use the search feature
-     in GitHub. For this activity you will need to clone the [Dickinson-COMP-491-492/github-issues-activity](https://github.com/Dickinson-COMP-491-492/github-issues-activity)
-     repository.
+     in GitHub. For this activity you will need to clone the [Dickinson-COMP-491-492/github-issues-sec1](https://github.com/Dickinson-COMP-491-492/github-issues-sec1) or [Dickinson-COMP-491-492/github-issues-sec2](https://github.com/Dickinson-COMP-491-492/github-issues-sec2)
+     repository as appropriate.
 1. Click on the "Fork" button in the upper right hand corner.
 1. If a pop-up dialog appears, select your GitHub account from those
    shown.
 1. Look at your repositories in GitHub and verify that you have a fork
-   of the `git-hub-issues-activity` repository.
+   of the `github-issues-sec1/sec2` repository.
 
 ### Cloning your Origin
 
@@ -135,7 +135,7 @@ of it into a *local repository*.
 
 To clone your origin repository:
 
-1. From the github-issues-activity repository click the green "Code" button.
+1. From the `github-issues-sec1/sec2` repository click the green "Code" button.
 1. Make sure that the URL shown has your GitHub user name in it.
 1. Click the little clipboard icon to copy your Origin Repository URL. 
    * There are several different options here, but we want the URL
@@ -146,9 +146,9 @@ To clone your origin repository:
    repository.
 1. Use the command: `git clone <Origin Repository URL>`
 1. Verify that you now have a local repository:
-   - You should have a directory named `github-issues-activity` in the
+   - You should have a directory named `github-issues-sec1` in the
      current directory.
-   - Change into the `github-issues-activity` directory.
+   - Change into the `github-issues-sec1/sec2` directory.
    - Verify that it contains three files (`Calculator.java`, 
      `Instructor.md`,  `README.md`).
 
@@ -170,7 +170,7 @@ upstream repository.
 
 To set the Upstream Repository:
 
-1. Change into the github-issues-activity directory.
+1. Change into the `github-issues-sec1/sec2` directory.
 1. Use the command: `git remote -v`
    * This will list all of the remote repositories that Git knows
      about. At this time it should list only your origin repository (2
@@ -178,12 +178,12 @@ To set the Upstream Repository:
      the origin contains your GitHub username in the URL. So something
      similar to: 
      ```
-     origin https://github.com/braughtstu/github-issues-activity.git (fetch)
-     origin https://github.com/braughtstu/github-issues-activity.git (push)
+     origin https://github.com/braughtstu/github-issues-sec1.git (fetch)
+     origin https://github.com/braughtstu/github-issues-sec1.git (push)
      ```
 	 If it does not and instead contains the course GitHub URL
      from which you forked the repository you will need to delete the
-     github-issues-activity directory and repeat the "cloning your
+     `github-issues-sec1/sec2` directory and repeat the "cloning your
      origin" step above before continuing.
 1. Go to the upstream repository on GitHub.
 1. Use the "Code" button to copy the upstream repository URL (again
@@ -195,10 +195,10 @@ To set the Upstream Repository:
      GitHub URL and those for origin should contain your GitHub
      username. So something like:
    ```
-   origin https://github.com/braughtstu/github-issues-activity.git (fetch)
-   origin https://github.com/braughtstu/github-issues-activity.git (push)
-   upstream https://github.com/Dickinson-COMP-491-492/github-issues-activity.git (fetch)
-   upstream https://github.com/Dickinson-COMP-491-492/github-issues-activity.git (push)
+   origin https://github.com/braughtstu/github-issues-sec1.git (fetch)
+   origin https://github.com/braughtstu/github-issues-sec1.git (push)
+   upstream https://github.com/Dickinson-COMP-491-492/github-issues-sec1.git (fetch)
+   upstream https://github.com/Dickinson-COMP-491-492/github-issues-sec1.git (push)
    ```
 
 ### Snapshot
@@ -396,7 +396,7 @@ our specific scenario:
       a web browser.
 
 Check that your feature branch and changes have been pushed to your
-origin by looking at the `github-issues-activity` repository in your
+origin by looking at the `github-issues-sec1/sec2` repository in your
 GitHub account. You should verify several things:
 
 * There is a message near the top indicating that `round1fix` was
@@ -422,7 +422,7 @@ in your fork of their project (i.e. your origin) into their repository
 
 Make a pull request for your `round1fix` branch:
 
-1. Open your `github-issues-activity` repository on GitHub.
+1. Open your `github-issues-sec1/sec2` repository on GitHub.
 1. Create a new pull request. There are multiple ways to do this within the GitHub interface:
    * The green "Compare & pull request" button may be visible if your
      change was made recently. Click it if you see it.
@@ -436,9 +436,9 @@ Make a pull request for your `round1fix` branch:
    main branch of the upstream.
    * This is always the branch where you want your changes to go. In
      this case, we want the `main` branch of the
-     `Dickinson-COMP-491-492/github-issues-activity` repository.
+     `Dickinson-COMP-491-492/github-issues-sec1/sec2` repository.
 1. Set the "head repository" and "compare" branch to the `round1fix`
-   branch in your own fork of `github-issues-respository`.
+   branch in your own fork of `github-issues-sec1/sec2`.
    * This is always the branch containing the changes that you want to
      integrate into the upstream.
 1. Scroll down and verify that the pull request contains the changes
