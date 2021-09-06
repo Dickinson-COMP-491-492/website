@@ -17,7 +17,7 @@ For each project your exploration page must contain the following information:
 - **Project Repository:** The URL of the repository where the latest version of the source code is located. This is where a developer would go to get the code for the project (e.g. GitHub, BitBucket, SourceForge, etc.).
 - **Project Homepage:** The public-facing homepage for the project. For many projects this will be different from the repository. Some smaller projects may keep everything in the repository.
 - **Product:** Summarize in a few sentences what the software product does.
-- **Target User Community:** Summarize in a few sentences who the user community for the software product is what the benefit of the software is to them.
+- **Target User Community:** Summarize in a few sentences: (i) Who is the user community for the software product? (ii) What is the benefit of the software to the user community.
 - **Getting Started:** Imagine that you have been assigned to start working on this project as a developer...
 What did you find that would make it easy to get started as a developer on this project? (Give links to resources as appropriate).
 What did you find (or not find) that would make it difficult to get started as a developer with this project?
@@ -27,7 +27,7 @@ What did you find (or not find) that would make it difficult to get started as a
 
 There are literally millions of open source projects out there. However, not all open source projects are equally good candidates for use in this course. You'll want to find a project you are interested in, of course. But you'll also want a project that is active, technically approachable, has a variety of ways to contribute and has a welcoming developer community that will help you get started and that you can go to when you have questions. Below are resources that may help you find suitable projects of interest.
 
-Projects from a number of different application areas that have been used here during past semesters or in other in courses similar to ours, and that students and instructors have reported having good success with include:
+Projects from a number of different application areas that have been used here during past semesters or in other courses similar to ours, and that students and instructors have reported having good success with include:
 
 - [Sugar Labs](https://www.sugarlabs.org/)
 - [Sahana Eden](https://sahanafoundation.org/products/eden/)
