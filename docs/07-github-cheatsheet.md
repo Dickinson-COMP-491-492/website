@@ -37,7 +37,7 @@ git remote -v
 ```
 git branch
 git branch <newBranchName>
-git checkout <newBranchName>
+git switch <newBranchName>
 ```
 
 ## Status, Add, Commit:
@@ -64,18 +64,18 @@ Within `git log`:
 
 1. Open your `github-issues-activity` repository on GitHub.
 2. Click the "New pull request" button.
-3. Check that the "base fork" is set to the master branch of the upstream.
+3. Check that the "base fork" is set to the main branch of the upstream.
 4. Set the "head fork" to the branch in your origin with your changes.
 5. Verify that the pull request contains the changes that you have made.
 6. Click the green "Create pull request" button.
 7. Edit the title and the "Leave a comment" box (use "Fixes #<bugid>")
 8. Click the green "Create pull request" button.
 
-## Synchronize Local and Origin master branches with Upstream master:
+## Synchronize Local and Origin main branches with Upstream main:
 
 ```
-git checkout master
-git pull upstream master
+git switch main
+git pull upstream main
 git push
 ```
 
@@ -89,29 +89,29 @@ git push origin :<BranchName>
 ## Resolve Conflicts:
 
 ```
-git checkout master
-git pull upstream master
-git checkout <BranchName>
-git merge master
+git switch main
+git pull upstream main
+git switch <BranchName>
+git merge main
 git mergetool
 git status
 git commit -m "<descriptive message>"
 git push origin :<BranchName>
 ```
 
-## Force master to match Upstream:
+## Force main to match Upstream:
 
 ```
-git checkout master
-git fetch upstream master
-git reset --hard upstream/master
-git push origin master --force
+git switch main
+git fetch upstream main
+git reset --hard upstream/main
+git push origin main --force
 ```
 
 ## Undo all uncommitted changes to a file:
 
 ```
-git checkout -- <bad filename>
+git restore <bad filename>
 ```
 
 ## Obtain a new GitHub PAT (personal authentication token)

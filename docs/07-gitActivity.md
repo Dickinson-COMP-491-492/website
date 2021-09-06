@@ -146,7 +146,7 @@ To clone your origin repository:
    repository.
 1. Use the command: `git clone <Origin Repository URL>`
 1. Verify that you now have a local repository:
-   - You should have a directory named `github-issues-sec1` in the
+   - You should have a directory named `github-issues-sec1/sec2` in the
      current directory.
    - Change into the `github-issues-sec1/sec2` directory.
    - Verify that it contains three files (`Calculator.java`, 
