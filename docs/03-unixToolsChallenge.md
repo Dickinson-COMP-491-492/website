@@ -8,7 +8,7 @@ there are multiple possible ways to accomplish each of these
 challenges. If your solution is different, try running the instructor's
 solution and see if it gives the same results as yours.
 
-1. Give a command line using the `ps` command that display all processes that are running on the system (should be more than a hundred).
+1. Give a command line using the `ps` command that displays all processes that are running on the system (should be more than a hundred).
 
 1. Give a command line using the `ps`, `tail` and `wc` commands, with pipes, to display just the number of processes that are running in the current terminal session (use `ps` alone to check your results).
 
@@ -16,13 +16,13 @@ solution and see if it gives the same results as yours.
 
 1. Open a new terminal window and run the `xeyes` command. Give a command line that will terminate (i.e. kill) the `xeyes` process when executed in a separate terminal window.
 
-1. Learn about the find command using its man page.
+1. Learn about the `find` command using its man page.
 
 1. Give a command line using `find` that displays the location of all files named `passwd` that reside within a depth of 5 sub-directories of the machine's root directory.
 
 1. In the last challenge, there are many `permission denied` error messages written to standard error (similar to standard output and appears on the console). Give a command line that redirects standard error to the file `/dev/null` so that these error messages are discarded and the results can be seen more easily. Note: `/dev/null` is a pseudo file on Unix systems that simply discards all data written into it.
 
-1. Consider the passwd file in the `/etc` directory from the previous exercise. This file contains one line for each valid user in the system (use `cat` to examine it). Each line has a number of fields delimited by `:` characters. The next to the last field gives the path to the user's home directory (e.g. `/home/braught`). Give a command line that will write the path to the home directory for the `root` user into a file named `userhome.txt` in the `/var/tmp` directory. Hint: `man cut`. Note: `/var/tmp` is a directory on Unix machines that all users can write to and is usually used for temporary files.
+1. Consider the `passwd` file in the `/etc` directory from the previous exercise. This file contains one line for each valid user in the system (use `cat` to examine it). Each line has a number of fields delimited by `:` characters. The next to the last field gives the path to the user's home directory (e.g. `/home/braught`). Give a command line that will write the path to the home directory for the `root` user into a file named `userhome.txt` in the `/var/tmp` directory. Hint: `man cut`. Note: `/var/tmp` is a directory on Unix machines that all users can write to and is usually used for temporary files.
 
 1. Give a command line that will append the path of the home directory of your user to the `userhome.txt` file.
 
