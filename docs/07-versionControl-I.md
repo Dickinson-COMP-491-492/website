@@ -1,7 +1,5 @@
 ## Version Control I
 
-[under construction]
-
 ### Overview
 
 Discussion of Project Ranking & Selection; Discussion of Version Control readings; Git/GitHub activity I.

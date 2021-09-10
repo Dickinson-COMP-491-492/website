@@ -1,7 +1,5 @@
 ## Version Control II
 
-[under construction]
-
 ### Overview
 
 Discussion of Project Ranking & Selection; Draw dates for presentations; Discussion of Version Control readings; git/GitHub activity II.
