@@ -31,13 +31,13 @@ GitHub. The activity is divided into four parts:
   graphical merge tool to resolve conflicts and update your pull
   request before finally resynchronizing your repo with the upstream
   one final time.
-  
+
 ## Prerequisites:
 
 * A basic familiarity with Git is helpful before beginning this
 activity. The following sites provide good starting points:
   - [Learn Git Branching: Introduction Sequence
-(1-4)](https://learngitbranching.js.org/) 
+(1-4)](https://learngitbranching.js.org/)
   - [Video Introduction to Git](https://git-scm.com/videos)
 * You should have already completed the Software Installation
   activity. All work for this Git/GitHub Workflow activity should be
@@ -87,7 +87,7 @@ git config --global user.email <you@email.org>
 git config --global push.default simple
 git config --global merge.tool meld
 git config --global mergetool.keepBackup false
-git config --global credential.helper cache
+git config --global credential.helper store
 ```
 
 Use the following command to ensure that you have set all of the configurations:
@@ -96,6 +96,7 @@ Use the following command to ensure that you have set all of the configurations:
 git config --global --list
 ```
 
+Note: Setting the property `credential.helper` to `store` will cause your GitHub Personal Access Token (PAT - see below) to be stored in the `~/git-credentials` file indefinitely. This prevents you having to reenter it.  However, the PAT is stored in plain text.  If you prefer a more secure approach you should read more about the Git `credential.helper` and how to interface it with an encrypted keychain.
 
 ### Forking the Upstream
 
@@ -120,7 +121,7 @@ To fork the Upstream Repository:
 1. If a pop-up dialog appears, select your GitHub account from those
    shown.
 1. Look at your repositories in GitHub and verify that you have a fork
-   of the `github-issues-sec1/sec2` repository.
+   of the `github-issues-sec` repository for your section (1 or 2).
 
 ### Cloning your Origin
 
@@ -135,9 +136,9 @@ of it into a *local repository*.
 
 To clone your origin repository:
 
-1. From the `github-issues-sec1/sec2` repository click the green "Code" button.
+1. From the `github-issues-sec1` or `sec2` repository click the green "Code" button.
 1. Make sure that the URL shown has your GitHub user name in it.
-1. Click the little clipboard icon to copy your Origin Repository URL. 
+1. Click the little clipboard icon to copy your Origin Repository URL.
    * There are several different options here, but we want the URL
      corresponding to the "HTTPS" method, which is usually the
      default.
@@ -146,10 +147,10 @@ To clone your origin repository:
    repository.
 1. Use the command: `git clone <Origin Repository URL>`
 1. Verify that you now have a local repository:
-   - You should have a directory named `github-issues-sec1/sec2` in the
+   - You should have a directory named `github-issues-sec1/sec1` or `sec2` in the
      current directory.
-   - Change into the `github-issues-sec1/sec2` directory.
-   - Verify that it contains three files (`Calculator.java`, 
+   - Change into the `github-issues-sec1/sec` or `sec2` directory.
+   - Verify that it contains three files (`Calculator.java`,
      `Instructor.md`,  `README.md`).
 
 ### Setting the Upstream Remote
@@ -170,20 +171,20 @@ upstream repository.
 
 To set the Upstream Repository:
 
-1. Change into the `github-issues-sec1/sec2` directory.
+1. Change into the `github-issues-sec1` or `sec2` directory.
 1. Use the command: `git remote -v`
    * This will list all of the remote repositories that Git knows
      about. At this time it should list only your origin repository (2
      lines, one for fetch and one for push). Verify that the URL for
      the origin contains your GitHub username in the URL. So something
-     similar to: 
+     similar to (with your username and the correct section number):
      ```
      origin https://github.com/braughtstu/github-issues-sec1.git (fetch)
      origin https://github.com/braughtstu/github-issues-sec1.git (push)
      ```
 	 If it does not and instead contains the course GitHub URL
      from which you forked the repository you will need to delete the
-     `github-issues-sec1/sec2` directory and repeat the "cloning your
+     `github-issues-sec1` or `sec2` directory and repeat the "cloning your
      origin" step above before continuing.
 1. Go to the upstream repository on GitHub.
 1. Use the "Code" button to copy the upstream repository URL (again
@@ -193,13 +194,51 @@ To set the Upstream Repository:
    * You should now see four lines (2 for origin and 2 for
      upstream). The lines for upstream should contain the course
      GitHub URL and those for origin should contain your GitHub
-     username. So something like:
+     username. So something like (with your username and the correct section number):
    ```
    origin https://github.com/braughtstu/github-issues-sec1.git (fetch)
    origin https://github.com/braughtstu/github-issues-sec1.git (push)
    upstream https://github.com/Dickinson-COMP-491-492/github-issues-sec1.git (fetch)
    upstream https://github.com/Dickinson-COMP-491-492/github-issues-sec1.git (push)
    ```
+
+### Getting a Personal Access Token (PAT)
+
+GitHub will allow you to log in through the browser using your password. However, when issuing commands thorugh the git command line interface (CLI) GitHub requires that you use a Personal Access Token (PAT).
+
+If you do not already have a GitHub PAT, please use the following instructions to obtain one.
+  * The GitHub documentation on [Creating a personal access token](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token).
+
+Follow the step-by-step instructions provided there, taking note of the following points which help with
+our specific scenario:
+    - You can choose any name you want for this PAT. "Repo access"
+      would be an appropriate choice.
+    - For the expiration of the token, it will be easiest to use the
+      same token throughout the year. Therefore, choose the Custom
+      expiration option and select a date after the end of the
+      year. You can also choose to have no expiry date, if you
+      don't care about the security of your GitHub repositories.
+    - When choosing the scopes or permissions for the token, select
+      the "repo" option and leave everything else unchecked.
+    - The random string highlighted in green is your PAT. Copy this
+      and save it somewhere secure. __Note that you will not be able to see your PAT in GitHub after it is created.__ Treat it the same way you would
+      treat any other password. Anyone who knows this PAT has full
+      access to your GitHub repositories.
+
+### Storing the Personal Access Token (PAT)
+
+Your PAT now serves the purpose of a password for accessing your
+GitHub repository through the git CLI. Whenever you are asked for a "password" to
+access a repository, you should instead use this PAT. Your
+GitHub account password is still used for accessing GitHub from a web browser.
+
+Change into the `git-hub-issues-sec1` or `sec2` directory and use the following command to cause git to prompt you for your username and password.  Entering your GitHub username and PAT will store them in git so that you do not have to enter them for every operation:
+```
+git push origin main
+```
+
+If you are successful you will see the message `Everything up to date.` If you do not get that
+message try the steps for "Getting a Personal Access Token" again.
 
 ### Snapshot
 
@@ -257,7 +296,7 @@ ticket. If you are, then the bug is yours. If you are not the first
 commenter on the issue, try another until you are!
 
  ![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
-"stop") 
+"stop")
 
 ### Branch and Fix
 
@@ -278,16 +317,16 @@ To create a feature branch:
 
 1. `git branch`
    * Notice the difference.
-   
+
 1. `git switch round1fix`
    * This will switch you to the round1fix branch and allow you to
      edit the files on that branch, ensuring that the files in the
      main branch are unchanged and remain consistent with the
      upstream.
-   
+
 1. `git branch`
    * Notice the difference.
-   
+
 Now edit the `Calculator.java` file to make the fix described in the
 issue that you claimed. Be sure not to edit any other code in the
 class.
@@ -300,7 +339,7 @@ compiles:
 `javac Calculator.java`
 
  ![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
-"stop") 
+"stop")
 
 ### Status, Stage and Commit
 
@@ -354,7 +393,7 @@ behaves, do the following:
    * Is your change there?
 
 ![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
-"stop") 
+"stop")
 
 ### Push Branch to Origin
 
@@ -367,33 +406,7 @@ Push your branch to origin:
 
 `git push origin round1fix`
 
-You will be asked for your GitHub username and password. However,
-GitHub security measures require that instead of your password you
-should use a *PAT* (*personal authentication token*). If you do not
-already have a GitHub PAT, please use the following instructions to
-obtain one.
-  * The GitHub documentation on [Creating a personal access token](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)
-explains the procedure in detail. Follow the step-by-step instructions
-provided there, taking note of the following points which help with
-our specific scenario:
-    - You can choose any name you want for this PAT. "Repo access"
-      would be an appropriate choice.
-    - For the expiration of the token, it will be easiest to use the
-      same token throughout the semester. Therefore, choose the Custom
-      expiration option and select a date after the end of the
-      semester. You can also choose to have no expiry date, if you
-      don't care about the security of your GitHub repositories.
-    - When choosing the scopes or permissions for the token, select
-      the "repo" option and leave everything else unchecked.
-    - The random string highlighted in green is your PAT. Copy this
-      and save it somewhere secure. Treat it the same way you would
-      treat any other password. Anyone who knows this PAT has full
-      access to your GitHub repositories.
-    - Your PAT now serves the purpose of a password for accessing your
-      GitHub repository. Whenever you are asked for a "password" to
-      access a repository, you should instead use this PAT. Your
-      GitHub account password is still used for accessing GitHub from
-      a web browser.
+Note: If you are asked for your GitHub username and password, use your PAT and not your password.
 
 Check that your feature branch and changes have been pushed to your
 origin by looking at the `github-issues-sec1/sec2` repository in your
@@ -407,7 +420,7 @@ GitHub account. You should verify several things:
     your change.
   - If you choose "main" the `Calculator.java` file will not contain
     your change.
- 
+
 ![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
  "stop")
 
@@ -427,7 +440,7 @@ Make a pull request for your `round1fix` branch:
    * The green "Compare & pull request" button may be visible if your
      change was made recently. Click it if you see it.
    * Otherwise, navigate to the branch whose changes you would like to
-     submit. In our case, this is `round1fix`. 
+     submit. In our case, this is `round1fix`.
 	 - Look for a drop-down menu labeled "contribute". This is
        probably just below and to the left of the green "Code" button.
 	 - From the drop-down menu, click on the green "Open pull request"
@@ -467,7 +480,7 @@ repeat several times before your proposed changes are merged into the
 project.
 
  ![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
-"stop") 
+"stop")
 
 ### Synchronize Local and Origin with Upstream
 
@@ -512,7 +525,7 @@ Synchronize your main branches with the upstream main:
    main branches are now in sync with the upstream.
 
  ![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
-"stop") 
+"stop")
 
 ### Delete a Feature Branch
 
@@ -571,7 +584,7 @@ your memory on the commands required.
    request. That's expected, go ahead and create it anyway.)
 
 ![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
-"stop") 
+"stop")
 
 ## Part 4: Hands-On in the Second Class
 
@@ -604,7 +617,7 @@ then be able to merge your updated pull request into the upstream.
 1. `git push`
 
  ![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
-"stop") 
+"stop")
 
 ### Merge main Branch Changes into your Feature Branch:
 
@@ -625,7 +638,7 @@ then be able to merge your updated pull request into the upstream.
 	public static double sphVol(double r) {
 >>>>>>> main
 ```
-      
+
 This is Git's way of indicating what has happened. The main branch had
 been edited to make the `sphVol` method `static`. But the local branch
 (`HEAD`) had been edited to rename the `sphVol` method to
@@ -637,7 +650,7 @@ code. But it is often easier, more convenient and less error prone to
 use a graphical merge tool as you will below.
 
  ![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
-"stop") 
+"stop")
 
 
 ### Resolve the Conflicts:
@@ -675,7 +688,7 @@ use a graphical merge tool as you will below.
    as desired.
 
 ![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
-"stop") 
+"stop")
 
 ### Commit and Push (Update Pull Request):
 
@@ -687,7 +700,7 @@ use a graphical merge tool as you will below.
      now be automatically merged.
 
 ![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
-"stop") 
+"stop")
 
 ### Synchronize Local and Origin main branches with Upstream main:
 
@@ -701,7 +714,7 @@ use a graphical merge tool as you will below.
 1. git push -d origin round2fix
 
 ![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
-"stop") 
+"stop")
 
 ----
 
