@@ -220,8 +220,8 @@ our specific scenario:
       don't care about the security of your GitHub repositories.
     - When choosing the scopes or permissions for the token, select
       the "repo" option and leave everything else unchecked.
-    - The random string highlighted in green is your PAT. Copy this
-      and save it somewhere secure. __Note that you will not be able to see your PAT in GitHub after it is created.__ Treat it the same way you would
+    - The random string highlighted in green is your PAT. __Copy this
+      and save it somewhere secure because you will not be able to see your PAT again after it is created.__ Treat it the same way you would
       treat any other password. Anyone who knows this PAT has full
       access to your GitHub repositories.
 
