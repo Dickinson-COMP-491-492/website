@@ -240,8 +240,6 @@ To store your PAT:
 message try the steps for "Getting a Personal Access Token" again.
 
 Once successful, your GitHub username and PAT will be stored by Git so that you do not have to enter them for every operation.
-```
-
 
 ### Snapshot
 
