@@ -384,13 +384,13 @@ behaves, do the following:
 
 1. `cat Calculator.java`
    * Is your change there?
-1. git switch main
-1. git branch
-1. cat Calculator.java
+1. `git switch main`
+1. `git branch`
+1. `cat Calculator.java`
    * Is your change there? Why not?
-1. git switch round1fix
-1. git branch
-1. cat Calculator.java
+1. `git switch round1fix`
+1. `git branch`
+1. `cat Calculator.java`
    * Is your change there?
 
 ![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
@@ -450,9 +450,9 @@ Make a pull request for your `round1fix` branch:
    main branch of the upstream.
    * This is always the branch where you want your changes to go. In
      this case, we want the `main` branch of the
-     `Dickinson-COMP-491-492/github-issues-sec1/sec2` repository.
+     `Dickinson-COMP-491-492/github-issues-sec1` or `sec2` repository.
 1. Set the "head repository" and "compare" branch to the `round1fix`
-   branch in your own fork of `github-issues-sec1/sec2`.
+   branch in your own fork of `github-issues-sec1` or `sec2`.
    * This is always the branch containing the changes that you want to
      integrate into the upstream.
 1. Scroll down and verify that the pull request contains the changes
@@ -705,14 +705,14 @@ use a graphical merge tool as you will below.
 
 ### Synchronize Local and Origin main branches with Upstream main:
 
-1. git switch main
-1. git pull upstream main
-1. git push origin main
+1. `git switch main`
+1. `git pull upstream main`
+1. `git push origin main`
 
 ### Delete the feature branch:
 
-1. git branch -d round2fix
-1. git push -d origin round2fix
+1. `git branch -d round2fix`
+1. `git push -d origin round2fix`
 
 ![stop](images/stop.png "stop")Checkpoint![stop](images/stop.png
 "stop")
