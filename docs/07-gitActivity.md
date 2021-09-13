@@ -232,13 +232,16 @@ GitHub repository through the git CLI. Whenever you are asked for a "password" t
 access a repository, you should instead use this PAT. Your
 GitHub account password is still used for accessing GitHub from a web browser.
 
-Change into the `git-hub-issues-sec1` or `sec2` directory and use the following command to cause git to prompt you for your username and password.  Entering your GitHub username and PAT will store them in git so that you do not have to enter them for every operation:
-```
-git push origin main
+To store your PAT:
+1. Change into the `git-hub-issues-sec1` or `sec2` directory
+1. Use the command `git push origin main`
+1. Enter your GitHub username and PAT when prompted
+1. If you are successful you will see the message `Everything up-to-date`. If you do not get that
+message try the steps for "Getting a Personal Access Token" again.
+
+Once successful, your GitHub username and PAT will be stored by Git so that you do not have to enter them for every operation.
 ```
 
-If you are successful you will see the message `Everything up to date.` If you do not get that
-message try the steps for "Getting a Personal Access Token" again.
 
 ### Snapshot
 
