@@ -211,19 +211,10 @@ If you do not already have a GitHub PAT, please use the following instructions t
 
 Follow the step-by-step instructions provided there, taking note of the following points which help with
 our specific scenario:
-    - You can choose any name you want for this PAT. "Repo access"
-      would be an appropriate choice.
-    - For the expiration of the token, it will be easiest to use the
-      same token throughout the year. Therefore, choose the Custom
-      expiration option and select a date after the end of the
-      year. You can also choose to have no expiry date, if you
-      don't care about the security of your GitHub repositories.
-    - When choosing the scopes or permissions for the token, select
-      the "repo" option and leave everything else unchecked.
-    - The random string highlighted in green is your PAT. __Copy this
-      and save it somewhere secure because you will not be able to see your PAT again after it is created.__ Treat it the same way you would
-      treat any other password. Anyone who knows this PAT has full
-      access to your GitHub repositories.
+- You can choose any name you want for this PAT. "Repo access" would be an appropriate choice.
+- For the expiration of the token, it will be easiest to use the same token throughout the year. Therefore, choose the Custom expiration option and select a date after the end of the year. You can also choose to have no expiry date, if you don't care about the security of your GitHub repositories.
+- When choosing the scopes or permissions for the token, select the "repo" option and leave everything else unchecked.
+- The random string highlighted in green is your PAT. __Copy this and save it somewhere secure because you will not be able to see your PAT again after it is created.__ Treat it the same way you would treat any other password. Anyone who knows this PAT has full access to your GitHub repositories.
 
 ### Storing the Personal Access Token (PAT)
 
@@ -239,7 +230,7 @@ To store your PAT:
 1. If you are successful you will see the message `Everything up-to-date`. If you do not get that
 message try the steps for "Getting a Personal Access Token" again.
 
-Once successful, your GitHub username and PAT will be stored by Git so that you do not have to enter them for every operation.
+Once successful, your GitHub username and PAT will be stored by Git so that you do not have to enter them for every operation. To confirm this try the command in step 2 above again.  You should receive the `Everything up-to-date` message without entering your username or PAT.
 
 ### Snapshot
 
