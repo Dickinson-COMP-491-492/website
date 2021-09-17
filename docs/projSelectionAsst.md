@@ -25,7 +25,7 @@ To complete this assignment:
 
 Each project team must rank a minimum of 3 projects and each of those projects must have been previously explored and reviewed by at least one team member.
 
-1. Add each project to the Projects Considered section of the Wiki page with links to the project's home page and to the Wiki page holding each of the Project Explorations and Project Reviews that were completed by our class (including those done by those on other teams).
+1. Add each project to the Project Considered section of the Project Ranking Template with links to the project's home page and to the Wiki pages of all of the Project Explorations and Project Reviews that were completed (including those not on your team team).
 1. Add the name of each project to the Project Name column in the table in the Project Rankings section of the Wiki page.
 1. Using the information contained in the Project Explorations and Project Reviews and collecting additional information as is necessary and helpful rank the projects 1,2,3... (with 1 being the best) along the dimensions described below. Ties are allowed.
    * **Community**: *How would it be to work within this project's community?* Consider issues such as the size and diversity of the user and developer communities, the availability and variety of communication channels, the quality and tone of communications, how newcomers are treated, etc. Try to find similar questions across the projects and compare the responses.
@@ -37,7 +37,7 @@ Each project team must rank a minimum of 3 projects and each of those projects m
 
 ## Project Selection
 
-In the Project Selection section of the Wiki page:
+In the Project Selection section of the Project Ranking Template:
 
 1. Indicate the project that your team has selected.
 1. Give a paragraph explaining the rationale for your team's choice. It is not necessary that you choose strictly based upon the rankings, but they should be carefully considered.
