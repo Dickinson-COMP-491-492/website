@@ -1,8 +1,8 @@
-## H/FOSS Project Tools/Structures/Communication
+## Linux System Administration
 
 ### Overview
 
-Discussion of Project Reviews; Introduction of Project Ranking & Selection; System administration and Software installation activity.
+Discussion of Project Reviews; Introduction of Project Ranking & Selection; Selection of project groupings by students; System administration and Software installation activity.
 
 ### Preparation and Readings
 
