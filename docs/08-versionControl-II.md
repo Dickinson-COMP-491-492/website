@@ -7,7 +7,7 @@ Discussion of Project Ranking & Selection; Draw dates for presentations; Discuss
 ### Preparation and Readings
 
 - Homework previously assigned (see previous class for details):
-  * Complete “Part 1 - Before the Second Class” in the Git/GitHub
+  * Complete “Part 3 - Before the Second Class” in the Git/GitHub
     Workflow Activity (Pairs)
 - Required reading:
   * Sections 4 and 5 of [Understanding Git
