@@ -10,8 +10,7 @@ Discussion of Project Ranking & Selection; Draw dates for presentations; Discuss
   * Complete “Part 3 - Before the Second Class” in the Git/GitHub
     Workflow Activity (Pairs)
 - Required reading:
-  * Sections 4 and 5 of [Understanding Git
-    Conceptually](https://www.sbf5.com/~cduan/technical/git/)
+  * Sections 4 and 5 of [Understanding Git Conceptually](https://www.sbf5.com/~cduan/technical/git/)
 - Post questions for class discussion to the Moodle forum. Please also
   feel free to comment on or respond to others' questions as
   appropriate.
@@ -32,5 +31,4 @@ Discussion of Project Ranking & Selection; Draw dates for presentations; Discuss
 
 ### Homework
 
-- Work on the presentation component of the [H/FOSS Project Ranking
-  and Selection](projSelectionAsst.md) assignment.
+- Work on the presentation component of the [H/FOSS Project Ranking and Selection](projSelectionAsst.md) assignment.

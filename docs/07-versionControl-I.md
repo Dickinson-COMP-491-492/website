@@ -28,16 +28,13 @@ Discussion of Project Ranking & Selection; Discussion of Version Control reading
 
 ### Supplemental Readings
 
-- [A Visual Guide to Version
-  Control](https://betterexplained.com/articles/a-visual-guide-to-version-control/) -
+- [A Visual Guide to Version Control](https://betterexplained.com/articles/a-visual-guide-to-version-control/) -
   an introduction to centralized version control (e.g. CVS/SVN).
-- [Introduction to Distributed Version
-  Control](https://betterexplained.com/articles/intro-to-distributed-version-control-illustrated/) -
+- [Introduction to Distributed Version Control](https://betterexplained.com/articles/intro-to-distributed-version-control-illustrated/) -
   an introduction to distributed version control (e.g. Mercurial/Git).
 - You may also find the [Git Videos](https://git-scm.com/videos)
   informative.
-- [Git Tutorial
-  Videos](https://www.youtube.com/playlist?list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx)
+- [Git Tutorial Videos](https://www.youtube.com/playlist?list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx)
   by Corey Schafer that cover a variety of git topics. The one on
   "Command-Line Fundamentals" is most relevant for today's class.
 
@@ -49,8 +46,7 @@ Discussion of Project Ranking & Selection; Discussion of Version Control reading
 ### Homework
 
 - Do the Reading & Preparation for the next class (Individual)
-- Complete *Part 3 &ndash; Before the Second Class* in the [Git/GitHub
-Workflow Activity](07-gitActivity.md). Append to your Slack live-log
+- Complete *Part 3 &ndash; Before the Second Class* in the [Git/GitHub Workflow Activity](07-gitActivity.md). Append to your Slack live-log
 (Paired).
 - [H/FOSS Project Ranking and Selection](projSelectionAsst.md) (Teams)
   or Honors Research Proposal (Individual)
