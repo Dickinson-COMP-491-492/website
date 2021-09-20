@@ -115,7 +115,7 @@ To fork the Upstream Repository:
 1. Log into your GitHub account
 1. Go to the repository for the project in GitHub
    * Often you would have this URL or you can use the search feature
-     in GitHub. For this activity you will need to clone the [Dickinson-COMP-491-492/github-issues-sec1](https://github.com/Dickinson-COMP-491-492/github-issues-sec1) or [Dickinson-COMP-491-492/github-issues-sec2](https://github.com/Dickinson-COMP-491-492/github-issues-sec2)
+     in GitHub. For this activity you will need to clone the [Dickinson-COMP-491-492/github-issues-sec1](https://github.com/Dickinson-COMP-491-492/github-issues-sec1)(Braught) or [Dickinson-COMP-491-492/github-issues-sec2](https://github.com/Dickinson-COMP-491-492/github-issues-sec2)(MacCormick)
      repository as appropriate.
 1. Click on the "Fork" button in the upper right hand corner.
 1. If a pop-up dialog appears, select your GitHub account from those

@@ -8,8 +8,8 @@ Discussion of Project Ranking & Selection; Discussion of Version Control reading
 
 - Homework previously assigned (see previous class for details):
   * Complete the Learn Git Branching: Introduction Sequence (1-4) (Pairs)
-  * Complete “Part 1 - Before the First Class” in the Git/GitHub
-    Workflow Activity (Pairs)
+  * Complete “Part 1 - Before the First Class” in the [Git/GitHub
+    Workflow Activity](07-gitActivity.html) (Pairs)
 - Required reading:
   * [Producing OSS: Version
     Control](http://producingoss.com/en/vc.html) &ndash; an overview
