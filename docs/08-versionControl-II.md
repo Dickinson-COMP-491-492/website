@@ -28,7 +28,7 @@ Discussion of Project Ranking & Selection; Draw dates for presentations; Discuss
 ### Hands-On
 
 - [Git/GitHub Workflow Activity](07-gitActivity.md) &ndash; Complete *Part 4 &ndash; Hands-on in the Second Class*. Append to your Slack live log (Paired).
-- [Git/GitHub Workflow Slides](07-githubslides.pdf) &ndash;  the slides used in class.
+- [Git/GitHub Workflow Slides](07-GitHub-Slides.pptx) &ndash;  the slides used in class.
 
 ### Homework
 

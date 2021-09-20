@@ -44,7 +44,7 @@ Discussion of Project Ranking & Selection; Discussion of Version Control reading
 ### Hands-On
 
 - [Git/GitHub Workflow Activity](07-gitActivity.md) &ndash; Complete *Part 2 &ndash; Hands-on in the First Class*. Append to your Slack live log (Paired).
-- [Git/GitHub Workflow Slides](07-githubslides.pdf) &ndash;  the slides used in class.
+- [Git/GitHub Workflow Slides](07-GitHub-Slides.pptx) &ndash;  the slides used in class.
 
 ### Homework
 
