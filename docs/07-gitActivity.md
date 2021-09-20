@@ -61,7 +61,7 @@ operations and ensure that the class is progressing together. If you
 reach a checkpoint before other groups, check to see if you might be
 able to provide assistance.
 
-The [slides used during the activity](07-githubslides.pdf) are
+The [slides used during the activity](07-github.pptx) are
 available for later reference. The titles of the slides illustrating
 each task correspond to underlined sub-section names below.
 
