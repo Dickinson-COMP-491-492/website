@@ -1,4 +1,4 @@
-# H/FOSS Project Selection Presentations
+# Project Selection Presentations
 
 ## Introduction:
 
