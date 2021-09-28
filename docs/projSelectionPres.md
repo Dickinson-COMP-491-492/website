@@ -14,7 +14,7 @@ Your presentation should clearly communicate the following:
 * The members of your team.
 * The purpose of the project. Consider questions such as: What is the product? Why did they make it? Who uses it? What have they used it for?
 * Why you chose the project. In doing so you should consider the process you've used and what you've learned along the way.
-* The key communication channels for the purposes of each and show that you have subscribed/tried/connected on each of them (as appropriate for the project community norms).
+* The key communication channels for the project and the purpose of each. If appropriate, also show that you have subscribed/tried/connected on each of them (as consistent with the project community norms).
 * Some commentary on the available resources for getting started on the project.
 * The significant challenges you anticipate facing in working on the project.
 
