@@ -24,8 +24,4 @@ Complete each of the following Hacker Rank challenges and paste your solutions i
 ### Homework
 
 - Complete the [Software Installation activity](06-softwareInstallActivity.md) (Pairs)
-- Begin the Project Activities:
-  1. [User Install Activity](projUserInstall.md)
-  2. [Developer Install Activity](projDevInstall.md)
-  3. [Bug Gardening Activity](projBugGardening.md)
-  4. [Bug Fix Activity](projBugFix.md)
+- Begin the [Project Activities](projActivities.md) (Teams)
