@@ -23,5 +23,5 @@ Complete each of the following Hacker Rank challenges and paste your solutions i
 
 ### Homework
 
-- Complete the [Software Installation activity](06-softwareInstallActivity.md) (Pairs)
+- Complete Hands-On activities from above (Pairs)
 - Begin the [Project Activities](projActivities.md) (Teams)
