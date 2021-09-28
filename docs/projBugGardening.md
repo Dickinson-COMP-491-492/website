@@ -21,7 +21,7 @@ Every H/FOSS project worth its salt will have a bug/issue tracker. In addition t
 
 Find and read all of the bug-related resources that your project provides. Under a heading of "Bug Resources" on your team's Bug Activities Wiki page create, collectively as a team, an annotated list of the useful bug-related resources that you found. Be sure to include the bug/issue tracker itself, information about how developers claim bugs on which they plan to work, and how bug fixes are contributed back to the project. This list should be a one-stop shop for all of the information you need about dealing with bugs in your project. Entries in the list should be of the form:
 
-- [Title as Link to Resource](): Short description of the resource and how it may be useful.
+- [Title as Link to Resource]: Short description of the resource and how it may be useful.
 
 Finally, before continuing read Simon Tatham's article on [How to Report Bugs Effectively](http://www.chiark.greenend.org.uk/~sgtatham/bugs.html).
 
@@ -37,9 +37,9 @@ All of the suspect bugs investigated by the full project team should collected t
 | __Bug ID__	| __Sub-Team__ | __Description__ | __Why Suspect__ | __Exists__	| __Actions__ |
 |-------------|--------------|-----------------|---------------------|-------------|-------------|
 | _The identifier for the bug as a link into the issue tracker_ | _Initials of sub-team members_ | _A short description of the bug_ | _A short explanation of why the bug suspect_ | _Yes if able to confirm existence of the bug in the latest dev version, No if able to confirm it does not exist. Uncertain, if neither yes or no. Along with brief comments._ | _Description of any action taken on the bug. Include links to any artifacts that document your actions._ |
-| [1234]() | GB/XY| Deposit field allows negative amounts. |	Ticket dated 2008, latest version released 2016. |	No. | Followed steps in ticket to reproduce and negative amount was rejected. |	Commented on the ticket suggesting it be closed. |
-| [X5432b]() | 	GB/XY	| UI unresponsive when sorting data.	| Ticket posted for version 1.3, latest product version is 2.7.	| Yes. | Confirmed unresponsiveness when sorting the very large test data set.	| Commented on the ticket indicating problem was seen in Version 2.7 using the large test data set, but was not noticeable with the small test data set. |
-[AB392c]() | JM/PQ | Program crashes on dates before 1970.	| Ticket posted for version 1.3, latest product version is 2.7.	| Uncertain. | Unable to replicate bug because steps for replication were incomplete/unclear with regard to version 2.7. | Commented on the ticket explaining source of confusion and asking for clarification. |
+| [1234] | GB/XY| Deposit field allows negative amounts. |	Ticket dated 2008, latest version released 2016. |	No. | Followed steps in ticket to reproduce and negative amount was rejected. |	Commented on the ticket suggesting it be closed. |
+| [X5432b] | 	GB/XY	| UI unresponsive when sorting data.	| Ticket posted for version 1.3, latest product version is 2.7.	| Yes. | Confirmed unresponsiveness when sorting the very large test data set.	| Commented on the ticket indicating problem was seen in Version 2.7 using the large test data set, but was not noticeable with the small test data set. |
+[AB392c] | JM/PQ | Program crashes on dates before 1970.	| Ticket posted for version 1.3, latest product version is 2.7.	| Uncertain. | Unable to replicate bug because steps for replication were incomplete/unclear with regard to version 2.7. | Commented on the ticket explaining source of confusion and asking for clarification. |
 
 If a sub-team happens to identify a new bug that does not already appear in the issue tracker they may open a new ticket for the bug in lieu of one of the suspect bug reports. The corresponding row in the table above should link to and describe their new issue ticket.
 
