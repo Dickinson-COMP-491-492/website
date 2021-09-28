@@ -19,9 +19,9 @@ F 09/17/21      | [Linux System Administration](06-linuxSysAdmin.md)       | - 0
 T 09/21/21      | [Version Control I](07-versionControl-I.md)          | - 09/24/21 8am: Reading & Preparation (Individual)<br>- 09/24/21: Complete *Part 3 &ndash; Before the Second Class* in the Git/GitHub Workflow Activity.<br>- 09/24/21: H/FOSS Project Ranking & Selection Assignment (Teams)
 F 09/24/21      | [Version Control II](08-versionControl-II.md)        | - 09/28/21 and 10/01/21: presentation component of the H/FOSS Project Ranking and Selection assignment
 T 09/28/21      | [Project Selection Presentations](projSelectionPres.md) - Group I            | <br>- [Project Activities](projActivities.md)
-F 10/01/21      | [Project Selection Presentations](projSelectionPres.md) - Group II           | - 10/05/21: Reading and Preparation for Bash Scripting (Pairs)
-T 10/05/21      | [Bash Scripting](09-bashScript.md)                   | - 10/08/21: Blog Post I (Individual)
-F 10/08/21      | Work Day - Alumni Visit                              |
+F 10/01/21      | [Project Selection Presentations](projSelectionPres.md) - Group II           | - 10/05/21: Reading and Preparation for Bash Scripting (Pairs)<br>- [Project Activities](projActivities.md)
+T 10/05/21      | [Bash Scripting](09-bashScript.md)                   | - 10/08/21: Blog Post I (Individual)<br>- [Project Activities](projActivities.md)
+F 10/08/21      | Work Day - Alumni Visit                              | - [Project Activities](projActivities.md)
 T 10/12/21      | Build Tools                                          |
 F 10/15/21      | Getting around a FOSS Project                        |
 T 10/19/21      | **Fall Pause**                                       |
@@ -38,7 +38,7 @@ T 11/23/21      | Software Testing                                     |
 F 11/26/21      | **Thanksgiving Break**                               |
 T 11/30/21      | Software Processes                                   |
 F 12/03/21      | H/FOSS Motivations                                   |
-T 12/07/21      | H/FOSS Success Stories and Criticisms                | 
+T 12/07/21      | H/FOSS Success Stories and Criticisms                |
 F 12/10/21      | Wrap Up                                              |
 .               |                                                      |
 F 12/17/21<br>2:00pm | Project Checkpoint #2 (Final Exam Slot)    |
