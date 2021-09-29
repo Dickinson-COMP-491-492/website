@@ -16,9 +16,9 @@ All of the bugs that the team has attempted to fix must be collected together an
 | __Bug ID__ | __Sub-Team__ | __Description__	| __Confirmed__ | __Result__ |
 |------------|--------------|-----------------|---------------|------------|
 | _The identifier for the bug as a link into the issue tracker_ | _Initials of sub-team members_ | _A short description of the bug_ | _Yes/No/Unknown - does the bug exist in the current development version._ | _Description of any action taken on the bug. Include links to any artifacts that document your actions._ |
-| [7890]((http://example.com/link7890.html)) | GB/XY | Withdraw field allows zero amount.	| No. | Appears to have already been fixed. Commented on the ticket suggesting it be closed. |
-| [AB392c]((http://example.com/linkAB392c.html)) | GB/XY |Program crashes on dates before 1970.	| Yes | Claimed in issue tracker. Abandoned and released in issue tracker. After a few hours, this appears to be too complex for our current level of familiarity. |
-| [X5432b]((http://example.com/linkX5432b.html)) | JP/PQ | UI unresponsive when sorting data. | Yes | Assigned to self in issue tracker. Recoded using Quicksort instead of Bubble Sort. Issued a pull request. Pull request was merged! |
+| [7890](http://example.com/link7890.html) | GB/XY | Withdraw field allows zero amount.	| No. | Appears to have already been fixed. Commented on the ticket suggesting it be closed. |
+| [AB392c](http://example.com/linkAB392c.html) | GB/XY |Program crashes on dates before 1970.	| Yes | Claimed in issue tracker. Abandoned and released in issue tracker. After a few hours, this appears to be too complex for our current level of familiarity. |
+| [X5432b](http://example.com/linkX5432b.html) | JP/PQ | UI unresponsive when sorting data. | Yes | Assigned to self in issue tracker. Recoded using Quicksort instead of Bubble Sort. Issued a pull request. Pull request was merged! |
 
 It is important to document all of the bugs that you attempt to work on, regardless of the outcome. This will ensure that all sub-teams can learn from each other and do not duplicate work.
 
