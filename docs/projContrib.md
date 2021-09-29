@@ -1,7 +1,7 @@
 # Project Contribution Activity
 
 ## Introduction
-In completing each of the prior activities ([User Install](projUserInstall.md), [Developer Install](projDevInstall.md), [Bug Gardening](projBugGardening.md), [Bug Fix](projBugFix.md)) you have become increasingly familiar with your project and more deeply involved with the community. Now its time to figure out what else you can do to contribute to your project.
+In completing each of the prior activities ([User Install](projUserInstall.md), [Developer Install](projDevInstall.md), [Bug Gardening](projBugGardening.md), [Bug Fix](projBugFix.md)) you have become increasingly familiar with your project and more deeply involved with the community. Now it's time to figure out what else you can do to contribute to your project.
 
 ## Assignment
 
