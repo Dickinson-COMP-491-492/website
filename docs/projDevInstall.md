@@ -20,7 +20,7 @@ The completion criteria that each sub-team must demonstrate for this activity ar
   - __Possible Contributions:__ An annotated list of possible contributions relevant to this activity that your team might consider making to the project. Think about things that would improve the experience for other new users (e.g. corrections, clarifications or additions to install documentation or tutorials, etc.) It is not necessary that the contributions be offered to the community. Please consult with the course faculty before offering contributions to the project. Each sub-team must list at least one possible contribution and the sub-team should be identified for each item.
   - __Interactions:__ An annotated list, with links if possible, of any interactions that your team or sub-team had with the community during this activity (e.g. message board posts, mailing list messages, etc.). Please indicate the date of the interaction and the sub-team that had the interaction. Note: Interactions are not required for this activity. However if they occur, please link them here for reference.
   - __Contributions:__ An annotated list, with links if possible, of any contributions that your team or sub-team made to the project during this activity (e.g. corrections/clarifications/additions to documentation, etc.). Please indicate the date of the contribution and the sub-team that made the contribution. Note: Contributions are not required for this activity. However if they occur, please link them here for reference.
-- Have made a VirutalBox snapshot of a clean developer install.
+- Have made a VirtualBox snapshot of a clean developer install.
 
 Each team member must be able to:
 - Participate competently in a discussion of the installation process.
