@@ -24,5 +24,4 @@ Complete each of the following Hacker Rank challenges and paste your solutions i
 ### Homework
 
 - Complete Hands-On activities from above (Pairs)
-- Blog Post II - Write a reflective blog post on an issue related to FOSS Licensing. See the syllabus for details about the posting. (Individual)
 - Begin the [Project Activities](projActivities.md) (Teams)
