@@ -28,7 +28,7 @@ T 10/19/21      | **Fall Pause**                                       |
 F 10/22/21      | Work Day - Alumni Visit                              |
 T 10/26/21      | Software Flaws                                       |
 F 10/29/21      | Work Day                                             |
-T 11/02/21      | Software Testing                                     |
+T 11/02/21      | Software Testing                                     | - 11/05/21: Blog Post II (Individual)
 F 11/05/21      | Work Day                                             |
 T 11/09/21      | Project Checkpoint #1 - Group II                     |
 F 11/12/21      | Project Checkpoint #1 - Group I                      |
