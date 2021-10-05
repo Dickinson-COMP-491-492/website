@@ -22,24 +22,24 @@ T 09/28/21      | [Project Selection Presentations](projSelectionPres.md) - Grou
 F 10/01/21      | [Project Selection Presentations](projSelectionPres.md) - Group II           | - 10/05/21: Reading and Preparation for Bash Scripting (Pairs)<br>- [Project Activities](projActivities.md) (Teams)
 T 10/05/21      | [Bash Scripting](09-bashScript.md)                   | - 10/08/21: Blog Post I (Individual)<br>- [Project Activities](projActivities.md) (Teams)
 F 10/08/21      | Work Day - Alumni Visit                              | - 10/12/21: Reading and Preparation (Individual)<br>- [Project Activities](projActivities.md) (Teams)
-T 10/12/21      | [FOSS Licensing](10-fossLicensing.md)                | - [Project Activities](projActivities.md) (Teams)<br>- 11/05/21: Blog Post II (Individual)
-F 10/15/21      | Work Day - Alumni Visit                              | - [Project Activities](projActivities.md) (Teams)
+T 10/12/21      | [FOSS Licensing](10-fossLicensing.md)                | - [Project Activities](projActivities.md) (Teams)<br>- 11/05/21: Blog Post II (Individual)<br>- 10/15/21 - 5-15 (Team)
+F 10/15/21      | Work Day - Alumni Visit                              | - [Project Activities](projActivities.md) (Teams)<br>-10/22/21 - 5-15 (Individual)
 T 10/19/21      | **Fall Pause**                                       |
-F 10/22/21      | Work Day - Alumni Visit                              |
-T 10/26/21      | Software Flaws                                       |
-F 10/29/21      | Work Day                                             |
-T 11/02/21      | Software Testing                                     | - 11/05/21: Blog Post II (Individual)
-F 11/05/21      | Work Day                                             |
-T 11/09/21      | Project Checkpoint #1 - Group II                     |
-F 11/12/21      | Project Checkpoint #1 - Group I                      |
-T 11/16/21      | Software Patterns                                    |
-F 11/19/21      | Work Day                                             |
-T 11/23/21      | Software Processes                                   |
+F 10/22/21      | Work Day - Alumni Visit                              | - 10/26/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
+T 10/26/21      | Software Flaws                                       | - 10/29/21: 5-15 (Team)<br>- [Project Activities](projActivities.md) (Teams)
+F 10/29/21      | Work Day                                             | - 11/02/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
+T 11/02/21      | Software Testing                                     | - 11/05/21: Blog Post II (Individual)<br>-11/05/21 - 5-15 (Individual)<br>- [Project Activities](projActivities.md) (Teams)
+F 11/05/21      | Work Day                                             | - 11/09/21: 5-15 (Team Group II)<br>- [Project Activities](projActivities.md) (Teams)
+T 11/09/21      | Project Checkpoint #1 - Group II                     | - 11/12/21: 5-15 (Team Group I)<br>- [Project Activities](projActivities.md) (Teams)
+F 11/12/21      | Project Checkpoint #1 - Group I                      | - 11/16/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
+T 11/16/21      | Software Patterns                                    | - 11/19/21: 5-15 (Individual)<br>- [Project Activities](projActivities.md) (Teams)
+F 11/19/21      | Work Day                                             | - 11/23/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
+T 11/23/21      | Software Processes                                   | - 11/30/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
 F 11/26/21      | **Thanksgiving Break**                               |
-T 11/30/21      | H/FOSS Motivations                                   |
-F 12/03/21      | Work Day                                             |
-T 12/07/21      | H/FOSS Success Stories and Criticisms                |
-F 12/10/21      | Wrap Up                                              |
+T 11/30/21      | H/FOSS Motivations                                   | - 12/03/21: 5-15 (Team)<br>- [Project Activities](projActivities.md) (Teams)
+F 12/03/21      | Work Day                                             | - 12/07/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
+T 12/07/21      | H/FOSS Success Stories and Criticisms                | - 12/10/21: 5-15 (Individual)<br>- [Project Activities](projActivities.md) (Teams)
+F 12/10/21      | Wrap Up                                              | - 12/17/21: 5-15 (Team)<br>- [Project Activities](projActivities.md) (Teams)
 .               |                                                      |
 F 12/17/21<br>2:00pm | Project Checkpoint #2 (Final Exam Slot)    |
 
