@@ -38,3 +38,5 @@ Discussion of project status; Discussion of videos on Software Flaws.
 ### Homework
 
 - [Project Activities](projActivities.md) (Teams)
+
+- 5-15 (Team)
