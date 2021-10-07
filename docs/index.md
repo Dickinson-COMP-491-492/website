@@ -26,7 +26,7 @@ T 10/12/21      | [FOSS Licensing](10-fossLicensing.md)                | - [Proj
 F 10/15/21      | Work Day - Alumni Visit                              | - [Project Activities](projActivities.md) (Teams)<br>-10/22/21 - 5-15 (Individual)
 T 10/19/21      | **Fall Pause**                                       |
 F 10/22/21      | Work Day - Alumni Visit                              | - 10/26/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
-T 10/26/21      | Software Flaws                                       | - 10/29/21: 5-15 (Team)<br>- [Project Activities](projActivities.md) (Teams)
+T 10/26/21      | [Software Flaws](12-software-flaws.md)               | - 10/29/21: 5-15 (Team)<br>- [Project Activities](projActivities.md) (Teams)
 F 10/29/21      | Work Day                                             | - 11/02/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
 T 11/02/21      | Software Testing                                     | - 11/05/21: Blog Post II (Individual)<br>-11/05/21 - 5-15 (Individual)<br>- [Project Activities](projActivities.md) (Teams)
 F 11/05/21      | Work Day                                             | - 11/09/21: 5-15 (Team Group II)<br>- [Project Activities](projActivities.md) (Teams)
