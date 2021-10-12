@@ -31,5 +31,6 @@ Discussion of Licensing issues in FOSS; Licensing of chosen FOSS projects.
 
 ### Homework
 
+- 10/15/21 - 5-15 (Team)
 - 11/05/21 - Blog Post II - Write a reflective blog post on a topic related to FOSS Licensing. See the syllabus for details about the posting. (Individual)
 - [Project Activities](projActivities.md) (Teams)
