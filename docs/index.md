@@ -28,7 +28,7 @@ T 10/19/21      | **Fall Pause**                                       |
 F 10/22/21      | Work Day - Alumni Visit                              | - 10/26/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
 T 10/26/21      | [Software Flaws](12-software-flaws.md)               | - 10/29/21: 5-15 (Team)<br>- [Project Activities](projActivities.md) (Teams)
 F 10/29/21      | Work Day                                             | - 11/02/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
-T 11/02/21      | Software Testing                                     | - 11/05/21: Blog Post II (Individual)<br>-11/05/21 - 5-15 (Individual)<br>- [Project Activities](projActivities.md) (Teams)
+T 11/02/21      | [Software Testing](13-software-testing.md)           | - 11/05/21: Blog Post II (Individual)<br>-11/05/21 - 5-15 (Individual)<br>- [Project Activities](projActivities.md) (Teams)
 F 11/05/21      | Work Day                                             | - 11/09/21: 5-15 (Team Group II)<br>- [Project Activities](projActivities.md) (Teams)
 T 11/09/21      | Project Checkpoint #1 - Group II                     | - 11/12/21: 5-15 (Team Group I)<br>- [Project Activities](projActivities.md) (Teams)
 F 11/12/21      | Project Checkpoint #1 - Group I                      | - 11/16/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
