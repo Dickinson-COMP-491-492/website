@@ -13,6 +13,7 @@ Discussion of Licensing issues in FOSS; Licensing of chosen FOSS projects.
 
 - Post questions for class discussion to the Moodle forum. Please also feel free to comment on or respond to others' questions as appropriate.
 - Determine which license has been applied to your selected project, research the particulars of that license and be prepared to discuss its advantages and disadvantages and the reasons why it may have been chosen for your project.
+- Determine if your project uses Copyright Assignment, a Contributor License Agreement or a Developer Certificate of Origin. Why might it have chosen that approach?
 
 ### Supplemental Readings
 
