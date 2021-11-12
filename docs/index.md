@@ -34,7 +34,7 @@ T 11/09/21      | [Project Checkpoint #1](projCheckPoint1Pres.md) - Group II    
 F 11/12/21      | [Project Checkpoint #1](projCheckPoint1Pres.md) - Group I                      | - 11/16/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
 T 11/16/21      | [Software Patterns](14-software-patterns.md)                                    | - 11/19/21: 5-15 (Individual)<br>- [Project Activities](projActivities.md) (Teams)
 F 11/19/21      | Work Day                                             | - 11/23/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
-T 11/23/21      | Software Processes                                   | - 11/30/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
+T 11/23/21      | [Software Processes](15-software-processes.md)       | - 11/30/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
 F 11/26/21      | **Thanksgiving Break**                               |
 T 11/30/21      | H/FOSS Motivations                                   | - 12/03/21: 5-15 (Team)<br>- [Project Activities](projActivities.md) (Teams)
 F 12/03/21      | Work Day                                             | - 12/07/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
