@@ -30,15 +30,15 @@ T 10/26/21      | [Software Flaws](12-software-flaws.md)               | - 10/29
 F 10/29/21      | Work Day                                             | - 11/02/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
 T 11/02/21      | [Software Testing](13-software-testing.md)           | - 11/05/21: Blog Post II (Individual)<br>-11/05/21 - 5-15 (Individual)<br>- [Project Activities](projActivities.md) (Teams)
 F 11/05/21      | Work Day                                             | - 11/09/21: 5-15 (Team Group II)<br>- [Project Activities](projActivities.md) (Teams)
-T 11/09/21      | [Project Checkpoint #1](projCheckPoint1Pres.md) - Group II                     | - 11/12/21: 5-15 (Team Group I)<br>- [Project Activities](projActivities.md) (Teams)
-F 11/12/21      | [Project Checkpoint #1](projCheckPoint1Pres.md) - Group I                      | - 11/16/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
-T 11/16/21      | [Software Patterns](14-software-patterns.md)                                    | - 11/19/21: 5-15 (Individual)<br>- [Project Activities](projActivities.md) (Teams)
+T 11/09/21      | [Project Checkpoint #1](projCheckPoint1Pres.md) - Group II | - 11/12/21: 5-15 (Team Group I)<br>- [Project Activities](projActivities.md) (Teams)
+F 11/12/21      | [Project Checkpoint #1](projCheckPoint1Pres.md) - Group I  | - 11/16/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
+T 11/16/21      | [Software Patterns](14-software-patterns.md)         | - 11/19/21: 5-15 (Individual)<br>- [Project Activities](projActivities.md) (Teams)
 F 11/19/21      | Work Day                                             | - 11/23/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
 T 11/23/21      | [Software Processes](15-software-processes.md)       | - 11/30/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
 F 11/26/21      | **Thanksgiving Break**                               |
 T 11/30/21      | [H/FOSS Motivations](16-FossMotivations.md)          | - 12/03/21: 5-15 (Team)<br>- [Project Activities](projActivities.md) (Teams)
 F 12/03/21      | Work Day                                             | - 12/07/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
-T 12/07/21      | H/FOSS Success Stories and Criticisms                | - 12/10/21: 5-15 (Individual)<br>- [Project Activities](projActivities.md) (Teams)
+T 12/07/21      | [H/FOSS Success Stories and Criticisms](17-FossSuccess.md) | - 12/10/21: 5-15 (Individual)<br>- [Project Activities](projActivities.md) (Teams)
 F 12/10/21      | Wrap Up                                              | - 12/17/21: 5-15 (Team)<br>- [Project Activities](projActivities.md) (Teams)
 .               |                                                      |
 F 12/17/21<br>2:00pm | Project Checkpoint #2 (Final Exam Slot)    |
