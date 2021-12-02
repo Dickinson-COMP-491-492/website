@@ -37,7 +37,7 @@ F 11/19/21      | Work Day                                             | - 11/23
 T 11/23/21      | [Software Processes](15-software-processes.md)       | - 11/30/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
 F 11/26/21      | **Thanksgiving Break**                               |
 T 11/30/21      | [H/FOSS Motivations](16-FossMotivations.md)          | - 12/03/21: 5-15 (Team)<br>- [Project Activities](projActivities.md) (Teams)
-F 12/03/21      | Work Day                                             | - 12/07/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
+F 12/03/21      | Work Day                                             | - 12/07/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)<br>- [Post Semester Survey](https://forms.office.com/r/Mx1ChsjwBk)
 T 12/07/21      | [H/FOSS Success Stories and Criticisms](17-FossSuccess.md) | - 12/10/21: 5-15 (Individual)<br>- [Project Activities](projActivities.md) (Teams)
 F 12/10/21      | Wrap Up                                              | - 12/17/21: 5-15 (Team)<br>- [Project Activities](projActivities.md) (Teams)
 .               |                                                      |
