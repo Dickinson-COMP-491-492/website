@@ -41,7 +41,14 @@ F 12/03/21      | Work Day                                             | - 12/07
 T 12/07/21      | [H/FOSS Success Stories and Criticisms](17-FossSuccess.md) | - 12/10/21: 5-15 (Individual)<br>- [Project Activities](projActivities.md) (Teams)
 F 12/10/21      | Wrap Up                                              | - 12/17/21: 5-15 (Team)<br>- [Project Activities](projActivities.md) (Teams)
 .               |                                                      |
-F 12/17/21<br>2:00pm | Project Checkpoint #2 (Final Exam Slot)    |
+F 12/17/21<br>2:00pm | Project Checkpoint #2 (Final Exam Slot)<br>
+1. SymPy<br>
+2. OpenMRS<br>
+3. Wagtail<br>
+Short Break<br>
+4. Odin<br>
+5. Teammates<br>
+6. Kubernetes |
 
 
 
