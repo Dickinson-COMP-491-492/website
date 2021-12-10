@@ -40,14 +40,7 @@ T 11/30/21      | [H/FOSS Motivations](16-FossMotivations.md)          | - 12/03
 F 12/03/21      | Work Day                                             | - 12/07/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)<br>- [Post Semester Survey](https://forms.office.com/r/Mx1ChsjwBk)
 T 12/07/21      | [H/FOSS Success Stories and Criticisms](17-FossSuccess.md) | - 12/10/21: 5-15 (Individual)<br>- [Project Activities](projActivities.md) (Teams)
 F 12/10/21      | Wrap Up                                              | - 12/17/21: 5-15 (Team)<br>- [Project Activities](projActivities.md) (Teams)               |                                                      |
-F 12/17/21<br>2:00pm | [Project Checkpoint #2](projCheckPoint2Pres.md) (Final Exam Slot)<br>
-1 - SymPy<br>
-2 - OpenMRS<br>
-3 - Wagtail<br>
-Short Break<br>
-4 - Odin<br>
-5 - Teammates<br>
-6 - Kubernetes |    
+F 12/17/21<br>2:00pm | [Project Checkpoint #2](projCheckPoint2Pres.md) (Final Exam Slot) |    
 
 ## COMP 492 Outline
 
