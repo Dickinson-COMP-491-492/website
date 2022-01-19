@@ -30,18 +30,18 @@ T 03/22/22      | Visit by Louis van Ahn and **Priestly Lecture @ 5:00**   | - 0
 F 03/25/22      | Work Day                                                 |
 T 03/29/22      | Project Checkpoint #1: Group A                           |
 F 04/01/22      | Project Checkpoint #1: Group B                           | - 04/05/22: Readings and Moodle Post
-T 04/05/22      | Discussion Group 3                                       | - 04/08/22: Individual 5-15<br>- Submit Civic Engagement Symposium Abstract
-F 04/08/22      | Work Day                                                 | - 04/12/22: Reading and Moodle Post
-T 04/12/22      | Discussion Group 4                                       | - 04/15/22: Civic Engagement Poster Draft<br>- Team 5-15
-F 04/15/22      | Poster Draft Peer Reviews                                | - 04/19/22: Civic Engagement Poster Final Draft & Printing
+T 04/05/22      | Discussion Group 3                                       | - 04/08/22: Individual 5-15<br>- Submit Poster Abstract
+F 04/08/22      | Poster Abstract Peer Review & Work Day                   | - 04/12/22: Reading and Moodle Post
+T 04/12/22      | Discussion Group 4                                       | - 04/15/22: Poster Draft<br>- Team 5-15
+F 04/15/22      | Poster Draft Peer Review & Work Day                      | - 04/19/22: Poster Final Draft & Printing
 T 04/19/22      | Work Day                                                 | - 04/22/22: Reading and Moodle Post
 F 04/22/22      | Discussion Group 5                                       | - 04/26/22: Blog Post 2 Due
-T 04/26/22      | No Meeting (Poster Session 04/27/22)                     | - 04/29/22: Individual 5-15
-**W 04/27/22**  | Civic Engagement Symposium - Poster Session              |
+T 04/26/22      | No Meeting (Poster Sessions 04/27/22)                    | - 04/29/22: Individual 5-15
+**W 04/27/22**  | Civic Engagement Symposium (12:00-2:00pm)<br>Science Student Research Symposium (4:30pm-6:00pm) |
 F 04/29/22      | Work Day                                                 | - 05/03/22: Reading and Moodle Post
 T 05/03/22      | Discussion Group 6                                       | - 05/06/22: Team 5-15
 F 05/06/22      | Wrap Up                                                  | - 05/16/22: Reflective Blog Post
-&nbsp;          |                                                      |
+&nbsp;          |                                                          |
 M 05/16/22<br>9:00am | Final Exam Slot - Project Checkpoint #2             | - 05/22/22: **Graduate!**
 
 ## COMP 491 Outline
