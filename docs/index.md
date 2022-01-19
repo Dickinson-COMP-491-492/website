@@ -6,6 +6,44 @@
 - [Slack Organization](https://comp491.slack.com/)
 - [Summary of major assignments](major-assts.md)
 
+## COMP 492 Outline
+
+Date            | Class Information                                        | Homework Assigned
+----------------|----------------------------------------------------------|-------------
+T 01/25/22      | Introduction and Team Meetings                           |
+F 01/28/22      | Work Day                                                 | - 02/01/22: Readings and Moodle Post
+T 02/01/22      | Ethics and Tech                                          | - 02/04/22: Team 5-15
+F 02/04/22      | Work Day                                                 | - 02/08/22: Readings and Moodle Post
+T 02/08/22      | Ethical Frameworks                                       | - 02/12/22: Individual 5-15
+F 02/11/22      | Work Day                                                 | - 02/15/22: Readings and Moodle Post
+T 02/15/22      | Autonomous Vehicles                                      | - 02/18/22: Team 5-15
+F 02/18/22      | Work Day                                                 | - 02/22/22: Readings and Moodle Post
+T 02/22/22      | Discussion Group 1                                       | - 02/25/22: Individual 5-15
+F 02/25/22      | Work Day                                                 | - 03/01/22: Readings and Moodle Post
+T 03/01/22      | Discussion Group 2                                       | - 03/04/22: Team 5-15
+F 03/04/22      | Work Day (Prof. Braught away)                            | - 03/08/22: Readings and Moodle Post
+T 03/08/22      | Background for Louis von Ahn Visit                       | - 03/11/22: Individual 5-15<br>- Louis von Anh Questions
+F 03/11/22      | Work Day                                                 | - 03/22/22: Review for Louis von Anh Visit
+T 03/15/22      | **Spring Break**                                         |
+F 03/18/22      | **Spring Break**                                         |
+T 03/22/22      | Visit by Louis van Ahn and **Priestly Lecture @ 5:00**   | - 03/25/22: Team 5-15<br>- Blog Post 1 Due
+F 03/25/22      | Work Day                                                 |
+T 03/29/22      | Project Checkpoint #1: Group A                           |
+F 04/01/22      | Project Checkpoint #1: Group B                           | - 04/05/22: Readings and Moodle Post
+T 04/05/22      | Discussion Group 3                                       | - 04/08/22: Individual 5-15<br>- Submit Civic Engagement Symposium Abstract
+F 04/08/22      | Work Day                                                 | - 04/12/22: Reading and Moodle Post
+T 04/12/22      | Discussion Group 4                                       | - 04/15/22: Civic Engagement Poster Draft<br>- Team 5-15
+F 04/15/22      | Poster Draft Peer Reviews                                | - 04/19/22: Civic Engagement Poster Final Draft & Printing
+T 04/19/22      | Work Day                                                 | - 04/22/22: Reading and Moodle Post
+F 04/22/22      | Discussion Group 5                                       | - 04/26/22: Blog Post 2 Due
+T 04/26/22      | No Meeting (Poster Session 04/27/22)                     | - 04/29/22: Individual 5-15
+**W 04/27/22**  | Civic Engagement Symposium - Poster Session              |
+F 04/29/22      | Work Day                                                 | - 05/03/22: Reading and Moodle Post
+T 05/03/22      | Discussion Group 6                                       | - 05/06/22: Team 5-15
+F 05/06/22      | Wrap Up                                                  | - 05/16/22: Reflective Blog Post
+&nbsp;          |                                                      |
+M 05/16/22<br>9:00am | Final Exam Slot - Project Checkpoint #2             | - 05/22/22: **Graduate!**
+
 ## COMP 491 Outline
 
 Date            | Class Information                                        | Homework Assigned
@@ -42,10 +80,6 @@ T 12/07/21      | [H/FOSS Success Stories and Criticisms](17-FossSuccess.md) | -
 F 12/10/21      | Wrap Up                                              | - 12/17/21: 5-15 (Team)<br>- [Project Activities](projActivities.md) (Teams)             
 &nbsp;          |                                                      |
 F 12/17/21<br>2:00pm | [Project Checkpoint #2](projCheckPoint2Pres.md) (Final Exam Slot) |    1 - SymPy<br>2 - OpenMRS<br>3 - Wagtail<br>Short Break<br>4 - Odin<br>5 - Teammates<br>6 - Kubernetes
-
-## COMP 492 Outline
-
-- Will be posted in January 2022.
 
 ---
 
