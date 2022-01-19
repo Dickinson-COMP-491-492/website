@@ -5,14 +5,14 @@
 | Class Discussion Questions          | Various      | 2%
 | Class Discussion Written Responses  | Various      | 3%
 | Class Discussion                    | Various      | 3%
-| Blog Post I                         | 3/25         | 5%
+| Blog Post I                         | 3/25         | 3.3%
 | Project Checkpoint I                | 3/29 or 4/1  | 15%
-| Poster Abstract                     | 4/8          | 3%
-| Poster Draft                        | 4/15         | 3%
+| Poster Abstract                     | 4/8          | 2.5%
+| Poster Draft                        | 4/15         | 2.5%
 | Poster Final Version                | 4/19         | 10%
-| Blog Post II                        | 4/26         | 5%
-| Poster Presentation                 | 4/27         | 4%
-| Reflective Blog Post                | 5/16         | 5%
+| Blog Post II                        | 4/26         | 3.3%
+| Poster Presentation                 | 4/27         | 5%
+| Reflective Blog Post                | 5/16         | 3.4%
 | Project Checkpoint II               | 5/16         | 30%
 
 Notes:
