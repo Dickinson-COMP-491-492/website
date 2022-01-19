@@ -47,9 +47,9 @@ Project Checkpoint #2                               | 30%
 Course Component                                    | Weight
 ----------------------------------------------------|---------
 Preparation/Attendance/Engagement (PAE)             | 15%
-Blog / Reflective Writing (3)                       | 15%
+Blog / Reflective Writing (3)                       | 10%
 Leading a Discussion	                              | 10%
-Poster (Draft, Peer Review, Final, Session)	        | 15%
+Poster                                      	      | 20%
 Project Checkpoint #1	                              | 15%
 Project Checkpoint #2	                              | 30%
 
