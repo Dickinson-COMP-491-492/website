@@ -147,7 +147,7 @@ Class discussions will be scored using the rubric below. The standard score, and
 
 _Click rubric to enlarge image._<br>
 [![Class Discussion Rubric](images/discussion.jpg)](images/discussion.jpg)
-_Note: Some language adapted from John MacCormick's earlier offering of this course._
+<br>_Note: Some language adapted from John MacCormick's earlier offering of this course._
 
 You can be creative in how you organize and run the discussion. You might model your class on what you have experienced in other courses or other settings. The following sites also give some good advice on leading discussions:
   - [The Big List of Class Discussion Strategies](https://www.cultofpedagogy.com/speaking-listening-techniques/) on Jennifer Gonzalez's Cult of Pedagogy blog.
@@ -178,7 +178,7 @@ Posters will be scored using the rubric below. The standard score, and what you 
 
    _Click rubric to enlarge image._<br>
    [![Poster Rubric](images/poster.jpg)](images/poster.jpg)
-   _Note: Some language adapted from John MacCormick's earlier offering of this course._
+   <br>_Note: Some language adapted from John MacCormick's earlier offering of this course._
 
 ### Time & Effort Documentation Tools
 
