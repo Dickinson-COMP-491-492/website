@@ -10,37 +10,37 @@
 
 Date            | Class Information                                        | Homework Assigned
 ----------------|----------------------------------------------------------|-------------
-T 01/25/22      | Introduction and Team Meetings                           |
-F 01/28/22      | Work Day                                                 | - 02/01/22: Readings and Moodle Post
-T 02/01/22      | Ethics and Tech                                          | - 02/04/22: Team 5-15
-F 02/04/22      | Work Day                                                 | - 02/08/22: Readings and Moodle Post
-T 02/08/22      | Ethical Frameworks                                       | - 02/12/22: Individual 5-15
-F 02/11/22      | Work Day                                                 | - 02/15/22: Readings and Moodle Post
-T 02/15/22      | Autonomous Vehicles                                      | - 02/18/22: Team 5-15
-F 02/18/22      | Work Day                                                 | - 02/22/22: Readings and Moodle Post
-T 02/22/22      | Discussion Group 1                                       | - 02/25/22: Individual 5-15
-F 02/25/22      | Work Day                                                 | - 03/01/22: Readings and Moodle Post
-T 03/01/22      | Discussion Group 2                                       | - 03/04/22: Team 5-15
-F 03/04/22      | Work Day (Prof. Braught away)                            | - 03/08/22: Readings and Moodle Post
-T 03/08/22      | Background for Louis von Ahn Visit                       | - 03/11/22: Individual 5-15<br>- Louis von Anh Questions
-F 03/11/22      | Work Day                                                 | - 03/22/22: Review for Louis von Anh Visit
+T 01/25/22      | Introduction and Team Meetings                           | - [Project Activities](projActivities.md)
+F 01/28/22      | Work Day                                                 | - 02/01/22: Readings and Moodle Post<br>- [Project Activities](projActivities.md)
+T 02/01/22      | Ethics and Tech                                          | - 02/04/22: Team 5-15<br>- [Project Activities](projActivities.md)
+F 02/04/22      | Work Day                                                 | - 02/08/22: Readings and Moodle Post<br>- [Project Activities](projActivities.md)
+T 02/08/22      | Ethical Frameworks                                       | - 02/12/22: Individual 5-15<br>- [Project Activities](projActivities.md)
+F 02/11/22      | Work Day                                                 | - 02/15/22: Readings and Moodle Post<br>- [Project Activities](projActivities.md)
+T 02/15/22      | Autonomous Vehicles                                      | - 02/18/22: Team 5-15<br>- [Project Activities](projActivities.md)
+F 02/18/22      | Work Day                                                 | - 02/22/22: Readings and Moodle Post<br>- [Project Activities](projActivities.md)
+T 02/22/22      | Discussion Group 1                                       | - 02/25/22: Individual 5-15<br>- [Project Activities](projActivities.md)
+F 02/25/22      | Work Day                                                 | - 03/01/22: Readings and Moodle Post<br>- [Project Activities](projActivities.md)
+T 03/01/22      | Discussion Group 2                                       | - 03/04/22: Team 5-15<br>- [Project Activities](projActivities.md)
+F 03/04/22      | Work Day (Prof. Braught away)                            | - 03/08/22: Readings and Moodle Post<br>- [Project Activities](projActivities.md)
+T 03/08/22      | Background for Louis von Ahn Visit                       | - 03/11/22: Individual 5-15<br>- Louis von Anh Questions<br>- [Project Activities](projActivities.md)
+F 03/11/22      | Work Day                                                 | - 03/22/22: Review for Louis von Anh Visit<br>- [Project Activities](projActivities.md)
 T 03/15/22      | **Spring Break**                                         |
 F 03/18/22      | **Spring Break**                                         |
-T 03/22/22      | Visit by Louis van Ahn and **Priestly Lecture @ 5:00**   | - 03/25/22: Team 5-15<br>- Blog Post 1 Due
-F 03/25/22      | Work Day                                                 |
-T 03/29/22      | Project Checkpoint #1: Group A                           |
-F 04/01/22      | Project Checkpoint #1: Group B                           | - 04/05/22: Readings and Moodle Post
-T 04/05/22      | Discussion Group 3                                       | - 04/08/22: Individual 5-15<br>- Submit Poster Abstract
-F 04/08/22      | Poster Abstract Peer Review & Work Day                   | - 04/12/22: Reading and Moodle Post
-T 04/12/22      | Discussion Group 4                                       | - 04/15/22: Poster Draft<br>- Team 5-15
-F 04/15/22      | Poster Draft Peer Review & Work Day                      | - 04/19/22: Poster Final Draft & Printing
-T 04/19/22      | Work Day                                                 | - 04/22/22: Reading and Moodle Post
-F 04/22/22      | Discussion Group 5                                       | - 04/26/22: Blog Post 2 Due
-T 04/26/22      | No Meeting (Poster Sessions 04/27/22)                    | - 04/29/22: Individual 5-15
+T 03/22/22      | Visit by Louis van Ahn and **Priestly Lecture @ 5:00**   | - 03/25/22: Team 5-15<br>- Blog Post 1 Due<br>- [Project Activities](projActivities.md)
+F 03/25/22      | Work Day                                                 | - [Project Activities](projActivities.md)
+T 03/29/22      | Project Checkpoint #1: Group A                           | - [Project Activities](projActivities.md)
+F 04/01/22      | Project Checkpoint #1: Group B                           | - 04/05/22: Readings and Moodle Post<br>- [Project Activities](projActivities.md)
+T 04/05/22      | Discussion Group 3                                       | - 04/08/22: Individual 5-15<br>- Submit Poster Abstract<br>- [Project Activities](projActivities.md)
+F 04/08/22      | Poster Abstract Peer Review & Work Day                   | - 04/12/22: Reading and Moodle Post<br>- [Project Activities](projActivities.md)
+T 04/12/22      | Discussion Group 4                                       | - 04/15/22: Poster Draft<br>- Team 5-15<br>- [Project Activities](projActivities.md)
+F 04/15/22      | Poster Draft Peer Review & Work Day                      | - 04/19/22: Poster Final Draft & Printing<br>- [Project Activities](projActivities.md)
+T 04/19/22      | Work Day                                                 | - 04/22/22: Reading and Moodle Post<br>- [Project Activities](projActivities.md)
+F 04/22/22      | Discussion Group 5                                       | - 04/26/22: Blog Post 2 Due<br>- [Project Activities](projActivities.md)
+T 04/26/22      | No Meeting (Poster Sessions 04/27/22)                    | - 04/29/22: Individual 5-15<br>- [Project Activities](projActivities.md)
 **W 04/27/22**  | Civic Engagement Symposium (12:00-2:00pm)<br>Science Student Research Symposium (4:30pm-6:00pm) |
-F 04/29/22      | Work Day                                                 | - 05/03/22: Reading and Moodle Post
-T 05/03/22      | Discussion Group 6                                       | - 05/06/22: Team 5-15
-F 05/06/22      | Wrap Up                                                  | - 05/16/22: Reflective Blog Post
+F 04/29/22      | Work Day                                                 | - 05/03/22: Reading and Moodle Post<br>- [Project Activities](projActivities.md)
+T 05/03/22      | Discussion Group 6                                       | - 05/06/22: Team 5-15<br>- [Project Activities](projActivities.md)
+F 05/06/22      | Wrap Up                                                  | - 05/16/22: Reflective Blog Post<br>- [Project Activities](projActivities.md)
 &nbsp;          |                                                          |
 M 05/16/22<br>9:00am | Final Exam Slot - Project Checkpoint #2             | - 05/22/22: **Graduate!**
 
