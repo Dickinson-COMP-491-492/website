@@ -1,3 +1,24 @@
+# Summary of major assignments for COMP492
+| Assignment                          | due date     | approximate %<br>of final grade<br>(see syllabus)
+| ----------------------------------- | ------------ | -----------------
+| Class Discussion Readings           | Various      | 2%
+| Class Discussion Questions          | Various      | 2%
+| Class Discussion Written Responses  | Various      | 3%
+| Class Discussion                    | Various      | 3%
+| Blog Post I                         | 3/25         | 5%
+| Project Checkpoint I                | 3/29 or 4/1  | 15%
+| Poster Abstract                     | 4/8          | 3%
+| Poster Draft                        | 4/15         | 3%
+| Poster Final Version                | 4/19         | 10%
+| Blog Post II                        | 4/26         | 5%
+| Poster Presentation                 | 4/27         | 4%
+| Reflective Blog Post                | 5/16         | 5%
+| Project Checkpoint II               | 5/16         | 30%
+
+Notes:
+- Details of all of the assignments and the assessment criterion are given in the course syllabus.
+
+
 # Summary of major assignments for COMP491
 
 | Assignment                  | due date     | approximate %<br>of final grade<br>(see syllabus)
@@ -23,7 +44,7 @@ Notes:
   * Project Review II
   * Project Selection
   * Project Proposal Presentation
-  
+
 - All other homework assignments and in-class activities (which must
   be completed as homework) count towards the 15% of the final
   grade. This category is described as "Homework Exercises" on the
