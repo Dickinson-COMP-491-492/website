@@ -37,8 +37,7 @@ F 04/15/22      | Poster Draft Peer Review & Work Day                      | - 0
 T 04/19/22      | Work Day                                                 | - 04/22/22: Reading and Moodle Post<br>- [Project Activities](projActivities.md)
 F 04/22/22      | Discussion Group 5                                       | - 04/26/22: Blog Post 2 Due<br>- [Project Activities](projActivities.md)
 T 04/26/22      | No Meeting (Poster Sessions 04/27/22)                    | - 04/29/22: Individual 5-15<br>- [Project Activities](projActivities.md)
-**W 04/27/22**  | Civic Engagement Symposium (12:00-2:00pm)<br>Science Student Research Symposium (4:30pm-6:00pm) |
-F 04/29/22      | Work Day                                                 | - 05/03/22: Reading and Moodle Post<br>- [Project Activities](projActivities.md)
+<font color="red">F 04/29/22</font>      | Work Day                                                 | - 05/03/22: Reading and Moodle Post<br>- [Project Activities](projActivities.md)
 T 05/03/22      | Discussion Group 6                                       | - 05/06/22: Team 5-15<br>- [Project Activities](projActivities.md)
 F 05/06/22      | Wrap Up                                                  | - 05/16/22: Reflective Blog Post<br>- [Project Activities](projActivities.md)
 &nbsp;          |                                                          |
