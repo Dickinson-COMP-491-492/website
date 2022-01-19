@@ -1,4 +1,5 @@
 # Summary of major assignments for COMP492
+
 | Assignment                          | due date     | approximate %<br>of final grade<br>(see syllabus)
 | ----------------------------------- | ------------ | -----------------
 | Class Discussion Readings           | Various      | 2%
