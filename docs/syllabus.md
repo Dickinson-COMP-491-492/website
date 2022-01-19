@@ -38,21 +38,20 @@ Course Component                                    | Weight
 Preparation/Attendance/Engagement (PAE)             | 15%
 Reflective Writing Blog Posts                       | 10%
 Homework Exercises                                  | 15%
-Project Selection (or Research Proposal for honors projects) | 15%
+Project Selection                                   | 15%
 Project Checkpoint #1                               | 15%
 Project Checkpoint #2                               | 30%
 
-<!--
-### 492 Grade Determination (tentative)
+### 492 Grade Determination
 
-Preparation/Attendance/Engagement (PAE) (3)	15%
-Leading a Discussion	10%
-Blog / Reflective Writing (2)	15%
-Code Review	05%
-Poster	15%
-Project Checkpoint #1	15%
-Project Checkpoint #2	25%
--->
+Course Component                                    | Weight
+----------------------------------------------------|---------
+Preparation/Attendance/Engagement (PAE)             | 15%
+Blog / Reflective Writing (3)                       | 15%
+Leading a Discussion	                              | 10%
+Poster (Draft, Peer Review, Final, Session)	        | 15%
+Project Checkpoint #1	                              | 15%
+Project Checkpoint #2	                              | 30%
 
 ### Course Components
 
@@ -131,14 +130,55 @@ Project Checkpoints will be scored using the rubric below. The standard score, a
 _Click rubric to enlarge image._<br>
 [![Project Checkpoint Rubric](images/checkpoint.jpg)](images/checkpoint.jpg)
 
-<!-- For 492
-Leading a Discussion
-Small groups of students will select readings on a social, legal or ethical issue in computing and then prepare and lead a class discussion on that topic.
-Code Review
-Each student will present a technical code review to the class based on code with which they have worked on during the year. Additional details will be provided on the assignment page and in class.
-Poster Presentation
-Honors/research students will present a poster on their research project at the Science Research Symposium. Teams working on H/FOSS projects will present a poster on their project at the Service Learning / Community Based Learning Poster session. Additional details will be provided on the assignment page and in class.
--->
+#### Leading a Discussion
+Class readings and discussions during the spring semester will focus on contemporary social, legal and ethical issues in computing. The professor will establish the basis for these discussions during the first several weeks of the course through readings and discussions of ethical frameworks and case studies of their application. Students, in small groups, will select the topics, identify readings and prepare and lead a class discussion.
+
+Work for this assignment will consist of three main components:
+1. **Topic Selection:** Topics will be identified and selected; groups and dates for discussion will be assigned during the first week of class. In addition, it is highly recommended that each group visit with the professor to discuss their topic and their approach to it. The professor will be able to help shape and focus the topic and may be able to suggest resources and possible readings for your topic.
+2. **Preparation:** In preparation for leading your discussion the following elements are required:
+   1. _Readings:_ Identify reading(s) for the class to complete before the discussion. The reading(s) should provide both an academic overview of the topic area and a current discussion, example or case study. You may find it helpful to use both library and on-line searches to find the most appropriate materials. You are expected to read much more about your topic than you assign to the class. This is to better inform you about the topic and to ensure that you are well informed on it as you begin to prepare to lead the discussion. The list of readings that you plan to assign is _due to the professor two weeks prior to your discussion date._ You are highly encouraged to discuss your reading lists with the professor prior to the submitting the final list.
+   2. _Questions:_ Develop a list of 3-5 questions for class discussion. These questions should be designed to address the important issues, facilitate the examination of the issue from different perspectives and lead to engaging conversation during class. Your list of questions is due to the professor _one week prior to your discussion date._ You are highly encouraged to discuss your questions with the professor prior to the submitting the final list.
+   3. _Plan the Discussion:_ The group must decide how to run the discussion (see Leading a Discussion below) and identify the key points to be sure are raised in the discussion. Your plan should include the questions you posed, trying to anticipate different views and thinking about how to respectfully challenge the views that arise.
+   4. _Written Responses:_ Each member of the discussion group must submit an individually written response (~1 paragraph each) for each of the questions that have been posed. These responses are to be submitted to Moodle by 8am on the day of the discussion.
+   5. _Review Moodle Forum Posts:_ Before leading the discussion the group members must review the forum posts made by the rest of the class. You are not expected to change your plan for the discussion based on these posts. Rather, having read them you will know better what to expect during the discussion. This will enable you to ask effective follow-on questions or to draw out interesting perspectives that have been expressed by your classmates by asking them to contribute.
+3. **Leading Class Discussion:** Lead the class discussion in a well organized, thoughtful and effective manner. This will include exercising appropriate control over the discussion, ensuring all voices are heard and respected, making sure that the most significant points are addressed and moving through the topics at a reasonable pace.
+
+Class discussions will be scored using the rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or down to 0 or ✓-. Rarely a ✓++ score may be given to recognize truly outstanding performance in a rubric category.
+
+_Click rubric to enlarge image._<br>
+[![Class Discussion Rubric](images/discussion.jpg)](images/discussion.jpg)
+_Note: Some language adapted from John MacCormick's earlier offering of this course._
+
+You can be creative in how you organize and run the discussion. You might model your class on what you have experienced in other courses or other settings. The following sites also give some good advice on leading discussions:
+  - [The Big List of Class Discussion Strategies](https://www.cultofpedagogy.com/speaking-listening-techniques/) on Jennifer Gonzalez's Cult of Pedagogy blog.
+  - [13 Strategies to Improve Student Classroom Discussion](https://www.weareteachers.com/13-strategies-to-improve-student-classroom-discussions/) from the WeAreTeachers Site.
+  - [Discussion Strategies](https://ctl.wustl.edu/resources/discussion-strategies/) from The Teaching Center.
+
+#### Poster Presentation
+Posters have become a common mechanism for presenting project results at professional meetings and conferences. This assignment provides experience developing a poster and presenting your work in a less formal small group or one-on-one setting. Students will present their poster at the Science Research Symposium or the [Civic Engagement Symposium](https://www.dickinson.edu/info/20378/civic_engagement/4213/civic_engagement_symposium). The course faculty will work with teams to determine the appropriate venue.
+
+##### Poster Content and Audience
+
+- Science symposium posters should emphasize the research question being addressed, the methods used and the results obtained.
+- Civic Engagement Symposium posters should emphasize the need addressed by the application, the user and developer communities, interactions with those communities, the interactions and contributions that you have made and what you have learned from the experience.  More details on the expectations for this type of poster are available on the [Civic Engagement Symposium](https://www.dickinson.edu/info/20378/civic_engagement/4213/civic_engagement_symposium) site.
+- The target audience for the posters should be other students and faculty who are unfamiliar with your project and also are not studying computer science. Note: This does not imply that you should not include any code, but you'll need to plan and contextualize carefully to make your points to this audience!
+- Consider whether having a live demo as part of your presentation makes sense. If so, use a laptop beside the poster for the demo.
+
+##### Poster Creation
+- Posters should be a maximum of 36"h x 44"w.
+- Posters titles should be legible from 20 feet. Other content should be clearly legible from 4-6 feet.
+- Creating your poster as a single large PowerPoint slide is a relatively easy approach. Search for [PowerPoint Poster Templates](https://www.google.com/search?q=powerpoint+poster+templates&oq=power+point+poster+tem&aqs=chrome.1.69i57j0l5.7495j0j7&sourceid=chrome&ie=UTF-8) to find lots of predefined templates you can adapt to your needs. Or, express your own style by setting the slide size in PowerPoint to the size of the poster you want and laying everything out yourself!
+- Use the posters hanging around the department as examples. Read a few of them and emulate the ones you feel do a good job. In addition, there are a number of good sites that give advice on producing poster for presentations:
+   - [Ten Simple Rules for a Good Poster Presentation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876493/) from PLos Computational Biology, May 2007.
+   - [Make a Good Poster](https://undergrad.stanford.edu/opportunities/research/go-further/surpsasurps/make-good-poster) - Video and tips from the Undergrad Research and Independent Projects site at Stanford.
+   - [Poster Presentation Information](https://in.nau.edu/undergraduate-research/poster-presentation-information/) from the Division of Undergraduate Research at Northern Arizona University.
+   - [Effective Poster Presentations](https://cirt.gcu.edu/research/developmentresources/tutorials/posterpresent) from the Center for Innovation and Research in Teaching at Grand Canyon University. The embedded videos are helpful!
+
+Posters will be scored using the rubric below. The standard score, and what you should generally expect to receive, is a ✓. Something exceptionally notable is required to move either up to a ✓+ or down to 0 or ✓-. Rarely a ✓++ score may be given to recognize truly outstanding performance in a rubric category.
+
+   _Click rubric to enlarge image._<br>
+   [![Poster Rubric](images/poster.jpg)](images/poster.jpg)
+   _Note: Some language adapted from John MacCormick's earlier offering of this course._
 
 ### Time & Effort Documentation Tools
 
