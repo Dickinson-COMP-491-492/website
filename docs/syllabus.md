@@ -256,3 +256,8 @@ If you’ve already been granted accommodations at Dickinson, please follow the 
 ### Life Happens:
 
 Sometimes stuff just happens, even more so in the challenging situations in we currently find ourselves. Sometimes it is an unexpected sudden event such as an illness or family emergency. Other times it may be an ongoing issue or concern or an accumulation of smaller issues. Any of these things may affect your (or my) ability to focus or perform up to your (or my) potential through no shortcoming or fault of your (my) own. Dickinson is a kind and caring community and we want to see you achieve at your full potential. So, if you are experiencing life events that are affecting your performance please don’t hesitate to talk to your instructor, your advisor or your class Dean. They will all be willing to talk with you, help to formulate a plan and/or connect you with others that may be able to assist. If I am experiencing such events, I will communicate them to you as well and we will adapt.
+
+___
+![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+![GPL V3 or Later](https://www.gnu.org/graphics/gplv3-or-later-sm.png "GPL V3 or later") All executable code used in this course is licensed under the [GNU General Public License Version 3 or later](https://www.gnu.org/licenses/gpl.txt)
