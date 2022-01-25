@@ -14,9 +14,9 @@ T 01/25/22      | Introduction and Team Meetings                           | - [
 F 01/28/22      | Work Day                                                 | - 02/01/22: Readings and Moodle Post<br>- [Project Activities](projActivities.md)
 T 02/01/22      | [Ethics and Tech](18-EthicsAndTech.md)                   | - 02/04/22: Team 5-15<br>- [Project Activities](projActivities.md)
 F 02/04/22      | Work Day                                                 | - 02/08/22: Readings and Moodle Post<br>- [Project Activities](projActivities.md)
-T 02/08/22      | Ethical Frameworks                                       | - 02/12/22: Individual 5-15<br>- [Project Activities](projActivities.md)
+T 02/08/22      | Privacy By Design Game                                   | - 02/12/22: Individual 5-15<br>- [Project Activities](projActivities.md)
 F 02/11/22      | Work Day                                                 | - 02/15/22: Readings and Moodle Post<br>- [Project Activities](projActivities.md)
-T 02/15/22      | Autonomous Vehicles                                      | - 02/18/22: Team 5-15<br>- [Project Activities](projActivities.md)
+T 02/15/22      | Ethical Frameworks                                       | - 02/18/22: Team 5-15<br>- [Project Activities](projActivities.md)
 F 02/18/22      | Work Day                                                 | - 02/22/22: Readings and Moodle Post<br>- [Project Activities](projActivities.md)
 T 02/22/22      | Discussion Group 1                                       | - 02/25/22: Individual 5-15<br>- [Project Activities](projActivities.md)
 F 02/25/22      | Work Day                                                 | - 03/01/22: Readings and Moodle Post<br>- [Project Activities](projActivities.md)
@@ -37,7 +37,7 @@ F 04/15/22      | Poster Draft Peer Review & Work Day                      | - 0
 T 04/19/22      | Work Day                                                 | - 04/22/22: Reading and Moodle Post<br>- [Project Activities](projActivities.md)
 F 04/22/22      | Discussion Group 5                                       | - 04/26/22: Blog Post 2 Due<br>- [Project Activities](projActivities.md)
 T 04/26/22      | No Meeting (Poster Session 04/27/22 or 04/28/22)         | - 04/29/22: Individual 5-15<br>- [Project Activities](projActivities.md)
-<font color="red">W 4/27/22</font> | Science Student Research Symposium 4:30-6:00 
+<font color="red">W 4/27/22</font> | Science Student Research Symposium 4:30-6:00
 <font color="red">R 4/28/22</font> | Civic Engagement Symposium 12:00-2:00
 F 04/29/22      | Work Day                                                 | - 05/03/22: Reading and Moodle Post<br>- [Project Activities](projActivities.md)
 T 05/03/22      | Discussion Group 6                                       | - 05/06/22: Team 5-15<br>- [Project Activities](projActivities.md)
