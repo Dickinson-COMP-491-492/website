@@ -16,13 +16,13 @@ T 02/01/22      | [Ethics and Tech](18-EthicsAndTech.md)                   | - 0
 F 02/04/22      | Work Day                                                 | - 02/08/22: Readings and Moodle Post<br>- [Project Activities](projActivities.md)
 T 02/08/22      | [Privacy By Design Game](19-PrivacyByDesign.md)          | - 02/12/22: Individual 5-15<br>- [Project Activities](projActivities.md)
 F 02/11/22      | Work Day                                                 | - 02/15/22: Readings and Moodle Post<br>- [Project Activities](projActivities.md)
-T 02/15/22      | Ethical Frameworks                                       | - 02/18/22: Team 5-15<br>- [Project Activities](projActivities.md)
+T 02/15/22      | [Ethical Frameworks](20-EthicalFrameworks.md)            | - 02/18/22: Team 5-15<br>- [Project Activities](projActivities.md)
 F 02/18/22      | Work Day                                                 | - 02/22/22: Readings and Moodle Post<br>- [Project Activities](projActivities.md)
 T 02/22/22      | Work Day                                                 | - 02/25/22: Individual 5-15<br>- [Project Activities](projActivities.md)
 F 02/25/22      | Social Media Recommendation Algorithms (Group 1)         | - 03/01/22: Readings and Moodle Post<br>- [Project Activities](projActivities.md)
 T 03/01/22      | Work Day (Prof. Braught away)                            | - 03/04/22: Team 5-15<br>- [Project Activities](projActivities.md)
 F 03/04/22      | Work Day (Prof. Braught away)                            | - 03/08/22: Readings and Moodle Post<br>- [Project Activities](projActivities.md)
-T 03/08/22      | Background for Louis von Ahn Visit                       | - 03/11/22: Individual 5-15<br>- Louis von Ahn Questions<br>- [Project Activities](projActivities.md)
+T 03/08/22      | Background for Louis von Ahn Visit                       | - 03/11/22: Individual 5-15<br>- 03/11/22 - Louis von Ahn Questions<br>- [Project Activities](projActivities.md)
 F 03/11/22      | Surveillance & Privacy (Group 2)                         | - 03/22/22: Review for Louis von Ahn Visit<br>- [Project Activities](projActivities.md)
 T 03/15/22      | **Spring Break**                                         |
 F 03/18/22      | **Spring Break**                                         |
