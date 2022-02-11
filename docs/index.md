@@ -14,7 +14,7 @@ T 01/25/22      | Introduction and Team Meetings                           | - [
 F 01/28/22      | Work Day                                                 | - 02/01/22: Readings and Moodle Post<br>- [Project Activities](projActivities.md)
 T 02/01/22      | [Ethics and Tech](18-EthicsAndTech.md)                   | - 02/04/22: Team 5-15<br>- [Project Activities](projActivities.md)<br>- 02/04/22: Ranked Discussion Topic Lists
 F 02/04/22      | Work Day                                                 | - 02/08/22: Readings and Moodle Post<br>- [Project Activities](projActivities.md)
-T 02/08/22      | [Privacy By Design Game](19-PrivacyByDesign.md)          | - 02/12/22: Individual 5-15<br>- [Project Activities](projActivities.md)
+T 02/08/22      | [Privacy By Design Game](19-PrivacyByDesign.md)          | - 02/11/22: Individual 5-15<br>- [Project Activities](projActivities.md)
 F 02/11/22      | Work Day                                                 | - 02/15/22: Readings and Moodle Post<br>- [Project Activities](projActivities.md)
 T 02/15/22      | [Ethical Frameworks](20-EthicalFrameworks.md)            | - 02/18/22: Team 5-15<br>- [Project Activities](projActivities.md)
 F 02/18/22      | Work Day                                                 | - 02/22/22: Readings and Moodle Post<br>- [Project Activities](projActivities.md)
