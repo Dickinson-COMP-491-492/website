@@ -18,7 +18,7 @@ T 02/08/22      | [Privacy By Design Game](19-PrivacyByDesign.md)          | - 0
 F 02/11/22      | Work Day                                                 | - 02/15/22: Readings and Moodle Post<br>- [Project Activities](projActivities.md)
 T 02/15/22      | [Ethical Frameworks](20-EthicalFrameworks.md)            | - 02/18/22: Team 5-15<br>- [Project Activities](projActivities.md)
 F 02/18/22      | Work Day                                                 | - [Project Activities](projActivities.md)
-T 02/22/22      | Work Day                                                 | - 02/25/22: Readings and Moodle Post<br>02/25/22: Individual 5-15<br>- [Project Activities](projActivities.md)
+T 02/22/22      | Work Day                                                 | - 02/25/22: Readings and Moodle Post<br>- 02/25/22: Individual 5-15<br>- [Project Activities](projActivities.md)
 F 02/25/22      | [Social Media Recommendation Algorithms](21-SocialMedia.md) (Group 1)         | - 03/01/22: Readings and Moodle Post<br>- [Project Activities](projActivities.md)
 T 03/01/22      | Work Day (Prof. Braught away)                            | - 03/04/22: Team 5-15<br>- [Project Activities](projActivities.md)
 F 03/04/22      | Work Day (Prof. Braught away)                            | - 03/08/22: Readings and Moodle Post<br>- [Project Activities](projActivities.md)
