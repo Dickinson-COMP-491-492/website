@@ -16,7 +16,6 @@ In general, we are thinking of discussing:
 * [How Social Media Algorithms Are Increasing Political Polarisation](https://www.youngausint.org.au/post/how-social-media-algorithms-are-increasing-political-polarisation)
 * [Social media copies gambling methods 'to create psychological cravings'](https://www.theguardian.com/technology/2018/may/08/social-media-copies-gambling-methods-to-create-psychological-cravings)
 
-
 ### Discussion Questions
 
 Post to Moodle a response to _at least one_ of the following questions.  You are encouraged to also read and respond to your classmates postings, and to make additional posts adding your own thoughts or raising your own questions for discussion.  Your posts will help shape the discussion that we have during the class period.
