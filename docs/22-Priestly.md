@@ -6,7 +6,6 @@
 
 ### Readings
 
-
 * [Luis von Ahn's Captcha and reCaptcha](https://www.youtube.com/watch?v=ITrNU5fpiSo) (9:38)
 * [Duolingo -- the next chapter in human computation](https://www.youtube.com/watch?v=cQl6jUjFjp4) (17:06)
 * [Designing Games with a Purpose](https://dl.acm.org/doi/pdf/10.1145/1378704.1378719)
@@ -26,4 +25,4 @@ Post to Moodle a response to _prompts 1 and 2_ and optionally 3 below.  You are 
 
 2. Give at least one question that you would like to ask Louis.  Briefly explain why you want to ask that question.
 
-3. If you did additional reading or research on your own, did you find any sources or information that you would like to share with the class? 
+3. If you did additional reading or research on your own, did you find any sources or information that you would like to share with the class?
