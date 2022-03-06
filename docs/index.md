@@ -23,7 +23,7 @@ F 02/25/22      | [Social Media Recommendation Algorithms](21-SocialMedia.md) (G
 T 03/01/22      | Work Day (Prof. Braught away)                            | - 03/04/22: Team 5-15<br>- [Project Activities](projActivities.md)
 F 03/04/22      | Work Day (Prof. Braught away)                            | - 03/08/22: Readings and Moodle Post<br>- [Project Activities](projActivities.md)
 T 03/08/22      | [Background for Louis von Ahn Visit](22-Priestly.md)     | - 03/11/22: Readings and Moodle Post<br>- 03/11/22: Individual 5-15<br>- 03/11/22 - Louis von Ahn Questions<br>- [Project Activities](projActivities.md)
-F 03/11/22      | Surveillance & Privacy (Group 2)                         | - 03/22/22: Review for Louis von Ahn Visit<br>- [Project Activities](projActivities.md)
+F 03/11/22      | [Surveillance & Privacy](23-Surveillance.md) (Group 2)   | - 03/22/22: Review for Louis von Ahn Visit<br>- [Project Activities](projActivities.md)
 T 03/15/22      | **Spring Break**                                         |
 F 03/18/22      | **Spring Break**                                         |
 T 03/22/22      | Visit by Louis von Ahn (Stafford Auditorium)<br>**Priestly Lecture @ 5:00**   | - 03/25/22: Team 5-15<br>- Blog Post 1 Due<br>- [Project Activities](projActivities.md)
