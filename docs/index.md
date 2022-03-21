@@ -26,7 +26,7 @@ T 03/08/22      | [Background for Louis von Ahn Visit](22-Priestly.md)     | - 0
 F 03/11/22      | [Surveillance & Privacy](23-Surveillance.md) (Group 2)   | - 03/22/22: Review for Louis von Ahn Visit<br>- [Project Activities](projActivities.md)
 T 03/15/22      | **Spring Break**                                         |
 F 03/18/22      | **Spring Break**                                         |
-T 03/22/22      | Visit by Louis von Ahn (Stafford Auditorium)<br>**Priestly Lecture @ 5:00**   | - 03/25/22: Team 5-15<br>- Blog Post 1 Due<br>- [Project Activities](projActivities.md)
+T 03/22/22      | Visit by Louis von Ahn<br>**Priestly Lecture @ 5:00**   | - 03/25/22: Team 5-15<br>- Blog Post 1 Due<br>- [Project Activities](projActivities.md)
 F 03/25/22      | Work Day                                                 | - [Project Activities](projActivities.md)
 T 03/29/22      | Project Checkpoint #1: Group A (Stafford Auditorium)     | - [Project Activities](projActivities.md)
 F 04/01/22      | Project Checkpoint #1: Group B (Stafford Auditorium)     | - 04/05/22: Readings and Moodle Post<br>- [Project Activities](projActivities.md)
