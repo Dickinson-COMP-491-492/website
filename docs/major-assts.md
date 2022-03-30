@@ -10,7 +10,7 @@
 | Project Checkpoint I                | 3/29 or 4/1  | 15%
 | Poster Abstract                     | 4/8          | 2.5%
 | Poster Draft                        | 4/15         | 2.5%
-| Poster Final Version                | 4/19         | 10%
+| Poster Final Version                | 4/15         | 10%
 | Blog Post II                        | 4/26         | 3.3%
 | Poster Presentation                 | 4/27         | 5%
 | Reflective Blog Post                | 5/16         | 3.4%
