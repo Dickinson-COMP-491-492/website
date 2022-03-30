@@ -35,3 +35,9 @@ Submit your final poster as follows:
 * The poster must be submitted to the [Civic Engagement Symposium](https://www.dickinson.edu/info/20378/civic_engagement/4213/civic_engagement_symposium) by 11:59pm on the due date.
 * One team member must submit the poster to Moodle by 11:59am on the due date.
 * All team members must place the final poster into a COMP492 folder in their individual WiD repositories on GitHub by 11:59pm on the assigned due date.  Your repository should contain both the draft and the final versions of the poster with filenames that make clear what they are.
+
+## Poster Printing
+
+Posters can be printed at the Dickinson College Print Center.  Information about submitting your poster for printing are available on [Print Center's Printing Page](https://www.dickinson.edu/info/20087/print_center/1603/printing).  You must submit the pdf of your poster and a **print request form** to the Print Center at least 7 days before the poster session.  Failure to submit your poster with sufficient time to receive it prior to the event will result in a 0 for the assignment.
+
+The Department will pay for printing of a poster meeting the requirements for the [Civic Engagement Symposium](https://www.dickinson.edu/info/20378/civic_engagement/4213/civic_engagement_symposium).  Your instructor will provide you with an account number to place on your print request form.
