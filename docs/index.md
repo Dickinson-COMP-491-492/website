@@ -32,7 +32,7 @@ T 03/29/22      | Project Checkpoint #1: Group A (Stafford Auditorium)     | - [
 F 04/01/22      | Project Checkpoint #1: Group B (Stafford Auditorium)     | - 04/05/22: Readings and Moodle Post<br>- [Project Activities](projActivities.md)
 T 04/05/22      | [Cryptocurrency & Blockchain](24-Cryptocurrency.md) (Group 3)  | - 04/08/22: Individual 5-15<br>- 04/08/22: [Poster](poster.md) Abstract - Moodle by 8am<br>- 04/08/22: [Poster](poster.md) Abstract to CCLA by 11:59pm<br>- [Project Activities](projActivities.md)
 F 04/08/22      | [Poster Abstract Peer Review](poster.md) & Work Day                   | - 04/12/22: Reading and Moodle Post<br>- [Project Activities](projActivities.md)
-T 04/12/22      | Piracy (Group 4)                                         | - 04/15/22: [Poster](poster.md) Draft - Moodle by 8am<br>- 04/15/22: Final [Poster](poster.md) to CCLA by 11:59pm<br>- 04/15/22: Team 5-15<br>- [Project Activities](projActivities.md)
+T 04/12/22      | [Piracy](25-Piracy.md) (Group 4)                                         | - 04/15/22: [Poster](poster.md) Draft - Moodle by 8am<br>- 04/15/22: Final [Poster](poster.md) to CCLA by 11:59pm<br>- 04/15/22: Team 5-15<br>- [Project Activities](projActivities.md)
 F 04/15/22      | [Poster Draft Peer Review](poster.md) & Work Day                      | - 04/19/22:  [Project Activities](projActivities.md)
 T 04/19/22      | Work Day                                                 | - 04/22/22: Reading and Moodle Post<br>- [Project Activities](projActivities.md)
 F 04/22/22      | The _Metaverse_ (Group 5)                                | - 04/26/22: Blog Post 2 Due<br>- [Project Activities](projActivities.md)
