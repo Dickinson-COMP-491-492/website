@@ -10,7 +10,7 @@
 ### Supplemental Readings
 
 * [Here's what Russia legalizing piracy could mean for tech companies](https://www.windowscentral.com/heres-what-russia-legalizing-piracy-could-mean-tech-companies)
-* [US Apple Piracy](https://www.windowscentral.com/heres-what-russia-legalizing-piracy-could-mean-tech-companies)
+* [Software pirates use Apple tech to put hacked apps on iPhones ](https://www.reuters.com/article/us-apple-piracy-idUSKCN1Q3097)
 * [Four Data Driven Ways to Combat Software Piracy](https://www.forbes.com/sites/forbestechcouncil/2019/06/27/four-data-driven-ways-to-combat-software-piracy/?sh=7e2228ae320e)
 * [The Dark Side of Music Piracy - YouTube](https://www.youtube.com/watch?v=LRKkucvrjWs) (22:55)
 
