@@ -16,4 +16,8 @@
 
 Post to Moodle a response to _at least one_ of the following questions.  You are encouraged to also read and respond to your classmates postings, and to make additional posts adding your own thoughts or raising your own questions for discussion.  Your posts will help shape the discussion that we have during the class period.
 
-1.
+1. If some other company other than Meta was leading the development of Metaverse, would you be more inclined to use it or would it deter you from using metaverse?
+
+2. Verified identity will be an important factor in the use of the Metaverse, as it can alter the way people interact and punish unethical behavior. How do you think Metaverse will handle identity and anonymity? Who will be held responsible for such policies if this is handled by an algorithm?
+
+3. To improve and expand their metaverse, Meta will be collecting data on your metaverse usage. What kind of data are you willing to share? What are you not willing to share? What if your data could improve Metaverse and make it a safer space? On the flip side, say, they need to keep track of your conversations to make it a safer space, how would you feel about Metaverse then?
