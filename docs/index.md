@@ -39,7 +39,7 @@ F 04/22/22      | [The _Metaverse_](26-Metaverse.md) (Group 5)             | - 0
 T 04/26/22      | No Meeting (Poster Session 04/28/22)                     | - 04/29/22: Individual 5-15<br>- [Project Activities](projActivities.md)
 <font color="red">R 4/28/22</font> | Civic Engagement Symposium 12:00-2:00
 F 04/29/22      | Work Day                                                 | - 05/03/22: Reading and Moodle Post<br>- [Project Activities](projActivities.md)
-T 05/03/22      | Web3 (Group 6)                                           | - 05/06/22: Team 5-15<br>- [Project Activities](projActivities.md)
+T 05/03/22      | [Web3](27-Web3.md) (Group 6)                             | - 05/06/22: Team 5-15<br>- [Project Activities](projActivities.md)
 F 05/06/22      | Wrap Up                                                  | - 05/16/22: Reflective Blog Post<br>- [Project Activities](projActivities.md)
 &nbsp;          |                                                          |
 M 05/16/22<br>9:00am | Final Exam Slot - Project Checkpoint #2 (Tome 115)  | - 05/22/22: **Graduate!**
