@@ -35,8 +35,8 @@ F 04/08/22      | [Poster Abstract Peer Review](poster.md) & Work Day      | - 0
 T 04/12/22      | [Piracy](25-Piracy.md) (Group 4)                         | - 04/15/22: [Poster](poster.md) Draft - Moodle by 8am<br>- 04/15/22: Final [Poster](poster.md) to CCLA by 11:59pm<br>- 04/15/22: Team 5-15<br>- [Project Activities](projActivities.md)
 F 04/15/22      | [Poster Draft Peer Review](poster.md) & Work Day         | - 04/19/22: [Project Activities](projActivities.md)<br>- 04/21/22 Final Poster to Moodle/WiD/Print Center
 T 04/19/22      | Work Day                                                 | - 04/21/22 Final Poster to Moodle/WiD/Print Center<br>- 04/22/22: Reading and Moodle Post<br>- [Project Activities](projActivities.md)
-F 04/22/22      | [The _Metaverse_](26-Metaverse.md) (Group 5)             | - 04/26/22: Blog Post 2 Due<br>- [Project Activities](projActivities.md)
-T 04/26/22      | No Meeting (Poster Session 04/28/22)                     | - 04/29/22: Individual 5-15<br>- [Project Activities](projActivities.md)
+F 04/22/22      | [The _Metaverse_](26-Metaverse.md) (Group 5)             | - [Project Activities](projActivities.md)
+T 04/26/22      | No Meeting (Poster Session 04/28/22)                     | - 04/29/22: Blog Post 2 Due<br>- 04/29/22: Individual 5-15<br>- [Project Activities](projActivities.md)
 <font color="red">R 4/28/22</font> | Civic Engagement Symposium 12:00-2:00
 F 04/29/22      | Work Day                                                 | - 05/03/22: Reading and Moodle Post<br>- [Project Activities](projActivities.md)
 T 05/03/22      | [Web3](27-Web3.md) (Group 6)                             | - 05/06/22: Team 5-15<br>- [Project Activities](projActivities.md)
