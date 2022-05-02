@@ -30,6 +30,7 @@ Students will:
 - expand their perspectives on the value of computing, including: the role of computing in understanding the physical world, generating commercial value, advancing technology, and driving social change; and the transformational power of computing in service to the greater good.
 - [WiD goal] enhance their ability to present technical information to an audience of computing professionals in both written and oral form.
 - [WiD goal] develop their ability to write about and express an opinion on a social, legal or ethical issue in computing for a broad technical audience.
+- [WiD goal] reflect on their experiences with the computer science major and the relationship of those experiences to their future goals and plans.
 
 ### 491 Grade Determination
 
