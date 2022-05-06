@@ -42,14 +42,7 @@ F 04/29/22      | Work Day                                                 | - 0
 T 05/03/22      | [Web3](27-Web3.md) (Group 6)                             | - 05/06/22: Team 5-15<br>- [Project Activities](projActivities.md)
 F 05/06/22      | [Course Feedback](https://dickinson.campuslabs.com/eval-home/direct/1227753) & Wrap Up                                | - 05/16/22: [Reflective Blog Post & WiD Portfolio](wid.md)<br>- [Project Activities](projActivities.md)
 &nbsp;          |                                                          |
-M 05/16/22<br>9:00am | Final Exam Slot - Project Checkpoint #2 (Tome 115)<br>
-9:05-9:30 - WagTail<br>
-9:30-9:55 - OpenMRS<br>
-9:55-10:20 - Kubernetes<br>
-10:20-10:30 - Break<br>
-10:30-10:55 - Oden<br>
-10:55-11:20 - Teammates
-  | - 05/22/22: **Graduate!**
+M 05/16/22<br>9:00am | Final Exam Slot - Project Checkpoint #2 (Tome 115)<br>9:05-9:30 - WagTail<br>9:30-9:55 - OpenMRS<br>9:55-10:20 - Kubernetes<br>10:20-10:30 - Break<br>10:30-10:55 - Oden<br>10:55-11:20 - Teammates                     | - 05/22/22: **Graduate!**
 
 ## COMP 491 Outline
 
