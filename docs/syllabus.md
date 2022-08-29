@@ -1,4 +1,4 @@
-## Syllabus
+discussion## Syllabus
 
 ### Course Description
 
@@ -37,23 +37,47 @@ Students will:
 Course Component                                    | Weight
 ----------------------------------------------------|---------
 Preparation/Attendance/Engagement (PAE)             | 15%
-Reflective Writing Blog Posts                       | 10%
-Homework Exercises                                  | 15%
-Project Selection                                   | 15%
-Project Checkpoint #1                               | 15%
-Project Checkpoint #2                               | 30%
+A01 - Slack/Blog/GitHub/Wiki                        | 2%
+A02(a,b,c) - Project Exploration/Review/Selection   | 15% (5% each)
+A03(a,b) - Reflective Blog posts                    | 10% (5% each)
+A04 - Bug Gardening                                 | 10%
+A05 - Tech Spikes                                   | 13%
+A06 - Project Work                                  | 25%
 
-### 492 Grade Determination
+The grading rubric for PAE is given below.  More specific grading rubrics for each assignment will be given in the assignment document linked on the course schedule.
 
-Course Component                                    | Weight
-----------------------------------------------------|---------
-Preparation/Attendance/Engagement (PAE)             | 15%
-Blog / Reflective Writing (3)                       | 10%
-Leading a Discussion	                              | 10%
-Poster                                      	      | 20%
-Project Checkpoint #1	                              | 15%
-Project Checkpoint #2	                              | 30%
+#### Participation/Attendance/Engagement (PAE)
 
+The success of the Senior Seminar is in a large part up to you as its primary participants. My hope is that you will all engage in the material, prepare carefully and come to our meetings excited to participate in discussions and activities with your peers. If that happens then our meetings will be lively and interesting and we will be able to focus largely on the aspects of the material that are most interesting to you as a group. Plus, its good practice - many employers are now using [Group Discussions as a screening technique before or during interviews!](https://www.reed.co.uk/career-advice/group-interview-tips-dos-and-donts/)
+
+##### On Discussion Days
+
+On days that we are discussing topics, you are expected to complete readings before class, think about and process them.  In addition, you are expected to find, read and process at least one additional source on the topic of the day.  
+
+**By 8:00am on the class day** you are expected to make a posting to the discussion forum on the course Moodle site  Your posting must include the following headings and content:
+- **Thoughts** - Give's a few sentences of your own thoughts on the topic. Don't simply summarize the readings. Give your thoughts on the topic but ensure that they are clearly connected to the content in the assigned reading(s).
+- **Source** - Cite the additional source that you read on the topic (with a link or a full citation) and summarize in a few sentences how it expanded or changed your understanding of the topic.
+- **Question(s)** - Post at least one question or discussion topic you would like us to consider as a class and include a sentence about why you think it would be a good question or topic to discuss as a class.
+- Optionally, but encouraged, respond to your classmates posts, adding your thoughts or perspectives and/or seconding their questions/discussion topics.
+
+I will organize our discussions around the posts that you make. So the more thought you put into them the more the discussion will be focused around things that are of interest to the class.
+
+If you find participating in class discussions challenging, please feel free to talk with me about strategies that may help.  In addition, these sites have some good advice on increasing or improving class participation:
+- [Ways to Improve Your Class Participation Experience](https://studylib.net/doc/18188459/ways-to-improve-your-class-participation-experience--sugg...): A short list of suggestions from Students from the Bureau of Study Counsel in the Center for Academic and Personal Development at Harvard University.
+- [Class Participation: More Than Just Raising Your Hand](https://www.millersville.edu/gened/files/pdfs-faculty-handbook/class-participation-tutorial.pdf): A longer tutorial that may help you assess strengths and weaknesses and formulate a plan for improving your class participation.
+
+##### On Work Days
+
+On days that are designated "Work Day" you will have time to work on assignments. Early on, this will be individual work, but later it will be time to work collectively with your project team. On these days it is expected that you (and your team) will have done work prior to the class and will arrive in class with a plan for how to make productive use of the time. In addition, I will circulate among the project teams to check on the status of your work and to help address challenges being faced.
+
+##### PAE rubric
+
+PAE will be evaluated daily using the criteria in the following rubric.
+
+_Click rubric to enlarge image._<br>
+[![PAE Rubric - ask instructor for clarification.](images/PAE-Rubric.jpg)](images/PAE-Rubric.jpg)
+
+<!--
 ### Course Components
 
 #### Participation/Attendance/Engagement (PAE)
@@ -131,6 +155,7 @@ Project Checkpoints will be scored using the rubric below. The standard score, a
 _Click rubric to enlarge image._<br>
 [![Project Checkpoint Rubric](images/checkpoint.jpg)](images/checkpoint.jpg)
 
+<!--
 #### Leading a Discussion
 Class readings and discussions during the spring semester will focus on contemporary social, legal and ethical issues in computing. The professor will establish the basis for these discussions during the first several weeks of the course through readings and discussions of ethical frameworks and case studies of their application. Students, in small groups, will select the topics, identify readings and prepare and lead a class discussion.
 
@@ -180,7 +205,9 @@ Posters will be scored using the rubric below. The standard score, and what you 
    _Click rubric to enlarge image._<br>
    [![Poster Rubric](images/poster.jpg)](images/poster.jpg)
    <br>_Note: Some language adapted from John MacCormick's earlier offering of this course._
+-->
 
+<!--
 ### Time & Effort Documentation Tools
 
 #### Slack Live-Logs
@@ -237,6 +264,7 @@ Each Project 5-15 must have the headings given below and each must be followed b
 4. What challenges/roadblocks do I face?
 5. What's next?
 6. What steps will I take to accomplish that? When?
+-->
 
 ### Academic Integrity
 
@@ -246,17 +274,19 @@ Please take the time to read the Academic Misconduct section of [Dickinson's Com
 
 Audio or video recording of class meetings, lectures or discussions is prohibited without explicit permission of the instructor. Photographic records of whiteboards, projected slides or other visual media is also prohibited without explicit permission of the instructor. In any case where permission is given for audio/video/photographic records to be made they are for personal use only. They may not be shared or redistributed and must be destroyed at the end of their usefulness or within one week following the termination of this course, whichever comes first. Similarly, any redistribution of sample code, homework solution sets or provided lab code is prohibited. Please note that all outside materials used in the course (readings/tutorials/assignments/projects/etc) are also be governed by their own licensing agreements.
 
-### Accommodations for Disabilities
+### Accommodations Students with Disabilities
 
-Dickinson values diverse types of learners and is committed to ensuring that each student is afforded equitable access to participate in all learning experiences. If you have (or think you may have) a learning difference or a disability – including a mental health, medical, or physical impairment – that would hinder your access to learning or demonstrating knowledge in this class, please contact Access and Disability Services (ADS). They will confidentially explain the accommodation request process and the type of documentation that Dean and Director Marni Jones will need to determine your eligibility for reasonable accommodations. To learn more about available supports, go to [www.dickinson.edu/ADS](https://www.dickinson.edu/ADS), email access@dickinson.edu, call (717) 245-1734, or go to the ADS office in Room 005 of Old West, Lower Level (aka "the OWLL").
+Dickinson values diverse types of learners and is committed to ensuring that each student is afforded equitable access to participate in all learning experiences. If you have (or think you may have) a learning difference or a disability – including a mental health, medical, or physical impairment – that would hinder your access to learning or demonstrating knowledge in this class, please contact Access and Disability Services (ADS). They will confidentially explain the accommodation request process and the type of documentation that Dean and Director Marni Jones will need to determine your eligibility for reasonable accommodations. To learn more about available supports, go to www.dickinson.edu/ADS, email access@dickinson.edu, call (717)245-1734, or go to the ADS office in Room 005 of Old West, Lower Level (aka "the OWLL").
 
-If you’ve already been granted accommodations at Dickinson, please follow the guidance at [www.dickinson.edu/AccessPlan](https://www.dickinson.edu/AccessPlan) for disclosing the accommodations for which you are eligible and scheduling a meeting with me as soon as possible so that we can discuss your accommodations and finalize your Access Plan. If test proctoring will be needed from ADS, remember that we will need to complete your Access Plan in time to give them at least one week’s advance notice.
+If you’ve already been granted accommodations at Dickinson, please follow the guidance at www.dickinson.edu/AccessPlan for disclosing the accommodations for which you are eligible and scheduling a meeting with me as soon as possible so that we can discuss your accommodations and finalize your Access Plan. If you will be using any test-taking accommodations in this class, be sure to enter all test dates into your Access Plan in advance of our meeting.
 
-“Our classroom / My office is located on the second floor of Tome Hall, which has an elevator, located to the left of the main entrance. If you require the use of an elevator to access the second floor, please let me know. If there is ever a malfunction with the elevator please let me know (e.g. via Teams or e-mail).  I will if necessary relocate or hold class virtually. Similarly, if you are ever unable to reach my office for office hours or a meeting I will be happy to move the meeting to an accessible location or hold it virtually.
+### Accessibility
+
+This class meets and my office are located on the second floor of Tome Hall, which has an elevator, located to the left of the stairs inside the main entrance. If you require the use of an elevator to access our class or my office, please let me know. If there is ever a malfunction with the elevator, we will be notified by email, and I will consult with ADS to identify our options for that day.
 
 ### Life Happens:
 
-Sometimes stuff just happens, even more so in the challenging situations in we currently find ourselves. Sometimes it is an unexpected sudden event such as an illness or family emergency. Other times it may be an ongoing issue or concern or an accumulation of smaller issues. Any of these things may affect your (or my) ability to focus or perform up to your (or my) potential through no shortcoming or fault of your (my) own. Dickinson is a kind and caring community and we want to see you achieve at your full potential. So, if you are experiencing life events that are affecting your performance please don’t hesitate to talk to your instructor, your advisor or your class Dean. They will all be willing to talk with you, help to formulate a plan and/or connect you with others that may be able to assist. If I am experiencing such events, I will communicate them to you as well and we will adapt.
+Sometimes stuff just happens, even more so in the challenging situations in we currently find ourselves. Sometimes it is an unexpected sudden event such as an illness or family emergency. Other times it may be an ongoing issue or concern or an accumulation of smaller issues. Any of these things may affect your (or my) ability to focus or perform up to your (or my) potential through no shortcoming or fault of your (my) own. Dickinson is a kind and caring community and we want to see you achieve at your full potential. So, if you are experiencing life events that are affecting your performance please don’t hesitate to talk to your instructor, your advisor or your class Dean. They will all be willing to talk with you, help to formulate a plan and/or connect you with others that may be able to assist. If you are going to miss a due date for this course, please contact the instructor in advance. If I am experiencing such events, I will communicate them to you as well and we will adapt.
 
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)

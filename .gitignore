@@ -1,2 +1,5 @@
 # emacs backup files
 *~
+
+.DS_Store
+**/.DS_Store

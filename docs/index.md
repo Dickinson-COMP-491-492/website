@@ -1,11 +1,87 @@
 ## General Course Information
-- Academic Year 2021-22
+- Fall 2022
   - T/F 1:30-2:45
 - [Syllabus & Course Information](syllabus.md)
-- [Course Moodle](https://lms.dickinson.edu/course/view.php?id=46512)
+- [Course Moodle](https://lms.dickinson.edu/course/view.php?id=48065)
 - [Slack Organization](https://comp491.slack.com/)
-- [Summary of major assignments](major-assts.md)
 
+## COMP 491 Outline
+
+Date            | Class Information                                        | Homework Assigned
+----------------|----------------------------------------------------------|----------------------------------------------------------
+T 08/30/22      | C01 - Course Introduction                                | [A01 - Slack/Blog/GitHub/Wiki](assignments/A01-SlackBlogWikiGithub.md) (Due: F 09/02/22)
+F 09/02/22      | C02 - Work Day                                           | A02a - Project Explorations (Due: F 09/09/22)
+T 09/06/22      | C03 - SWE / FOSS History                                 |
+F 09/09/22      | C04 - Work Day                                           | A02b - Project Reviews (Due: F 09/16/22)
+T 09/13/22      | C05 - Organizations & Communities                        |
+F 09/16/22      | C06 - Work Day                                           | A02c - Project Ranking and Selection (Due: **M** 09/26/22)
+T 09/20/22      | C07 - Licensing                                          |
+F 09/23/22      | C08 - Work Day                                           | A03a - Blog Post #1 (Due: **M** 10/03/22)
+T 09/27/22      | C09 - Project Selection Presentations - group A          |
+F 09/30/22      | C10 - Project Selection Presentations - group B          | A04 - Bug Gardening (Due: **M** 10/11/22)
+T 10/04/22      | C11 - Communication                                      |
+F 10/07/22      | C12 - Work Day                                           |
+T 10/11/22      | C13 - Productivity & Quality                             | A05 - Tech Spikes (Live Logs / Presentations)
+F 10/14/22      | C14 - Work Day                                           |
+&nbsp;          |                                                          |
+T 10/18/22      | **Fall Pause**                                           |
+&nbsp;          |                                                          |
+F 10/21/22      | C15 - Work Day (Prof. Braught away - Teams Meet)         |
+T 10/25/22      | C16 - Requirements, Architecture & Specifications        |
+F 10/28/22      | C17 - Work Day                                           | A03b - Blog Post #2 (Due: T 11/08/22)
+T 11/02/22      | C18 - Tech Spike Presentations - group B                 |
+F 11/04/22      | C19 - Tech Spike Presentations - group A                 | A06 - Project Work (Live Logs / 15-5's / Presentations)
+T 11/08/22      | C20 - Work Day                                           |
+F 11/11/22      | C21 - Work Day                                           | Team 15-5 Due
+T 11/15/22      | C22 - Process & Agile                                    |
+F 11/18/22      | C23 - Agile / Scrum Game(s) I                            | Individual 15-5 Due
+T 11/22/22      | C24 - Agile / Scrum Game(s) II                           |
+&nbsp;          |                                                          |
+F 11/25/22      | **Thanksgiving Break**                                   |
+&nbsp;          |                                                          |
+T 11/29/22      | C25 - Comprehension, Verification                        |
+F 12/02/22      | C26 - Work Day                                           | Team 15-5 Due
+T 12/06/22      | C27 - Monitoring and Evolution                           |
+F 12/09/22      | C28 - Wrap up                                            | Individual 15-5 Due
+&nbsp;          |                                                          |
+F 12/16/22      | **2:00pm - Final Exam Time**<br>Project Status Reports   | Team 15-5 Due
+
+<!--
+T 08/31/21      | [Course Introduction](01-intro.md)                       | - 09/03/21: Complete the Blog/Slack/Wiki/Git Activity (Individual)<br>- 09/03/21 8am: Reading & Preparation (Individual)<br>- 09/03/21: Ubuntu Install (Pairs)
+F 09/03/21      | [H/FOSS History & Philosophy](02-history.md)             | - 09/07/21: Linux Tutorials (Pairs)<br>- 09/07/21: H/FOSS Project Exploration I (Individual)<br>- 10/08/21: Blog Post I (Individual) &ndash; choice of "H/FOSS History & Philosophy" or "H/FOSS Communities"
+T 09/07/21      | [Unix Tool Challenges](03-unixTools.md)                  | - 09/10/21 8am: Reading & Preparation (Individual)<br>- 09/10/21: H/FOSS Project Exploration II  (Individual)
+F 09/10/21      | [H/FOSS Communities](04-hfossCommunities.md)             | - 09/14/21 8am: Reading & Preparation (Individual)<br>- 09/14/21: H/FOSS Project Review I (Individual)<br>- 10/08/21: Blog Post I (Individual) &ndash; choice of "H/FOSS History & Philosophy" or "H/FOSS Communities"
+T 09/14/21      | [H/FOSS Tools/Structures/Communication](05-hfossTools.md)| - 09/17/21 8am: Reading & Preparation (Individual)<br>- 09/17/21 <font color="red">8am</font>: H/FOSS Project Review II (Individual)
+F 09/17/21      | [Linux System Administration](06-linuxSysAdmin.md)       | - 09/21/21: Complete the Software Installation activity (Pairs)<br>- 09/21/21 8am: Reading & Preparation (Individual)<br>- 09/21/21: Complete *Part 1 &ndash; Before the First Class* in the Git/GitHub Workflow Activity.<br>- 09/24/21: H/FOSS Project Ranking & Selection Assignment (Teams)
+T 09/21/21      | [Version Control I](07-versionControl-I.md)          | - 09/24/21 8am: Reading & Preparation (Individual)<br>- 09/24/21: Complete *Part 3 &ndash; Before the Second Class* in the Git/GitHub Workflow Activity.<br>- 09/24/21: H/FOSS Project Ranking & Selection Assignment (Teams)
+F 09/24/21      | [Version Control II](08-versionControl-II.md)        | - 09/28/21 and 10/01/21: presentation component of the H/FOSS Project Ranking and Selection assignment
+T 09/28/21      | [Project Selection Presentations](projSelectionPres.md) - Group I            | <br>- [Project Activities](projActivities.md)
+F 10/01/21      | [Project Selection Presentations](projSelectionPres.md) - Group II           | - 10/05/21: Reading and Preparation for Bash Scripting (Pairs)<br>- [Project Activities](projActivities.md) (Teams)
+T 10/05/21      | [Bash Scripting](09-bashScript.md)                   | - 10/08/21: Blog Post I (Individual)<br>- [Project Activities](projActivities.md) (Teams)
+F 10/08/21      | Work Day - Alumni Visit                              | - 10/12/21: Reading and Preparation (Individual)<br>- [Project Activities](projActivities.md) (Teams)
+T 10/12/21      | [FOSS Licensing](10-fossLicensing.md)                | - [Project Activities](projActivities.md) (Teams)<br>- 11/05/21: Blog Post II (Individual)<br>- 10/15/21 - 5-15 (Team)
+F 10/15/21      | Work Day - Alumni Visit                              | - [Project Activities](projActivities.md) (Teams)<br>-10/22/21 - 5-15 (Individual)
+T 10/19/21      | **Fall Pause**                                       |
+F 10/22/21      | Work Day - Alumni Visit                              | - 10/26/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
+T 10/26/21      | [Software Flaws](12-software-flaws.md)               | - 10/29/21: 5-15 (Team)<br>- [Project Activities](projActivities.md) (Teams)
+F 10/29/21      | Work Day                                             | - 11/02/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
+T 11/02/21      | [Software Testing](13-software-testing.md)           | - 11/05/21: Blog Post II (Individual)<br>-11/05/21 - 5-15 (Individual)<br>- [Project Activities](projActivities.md) (Teams)
+F 11/05/21      | Work Day                                             | - 11/09/21: 5-15 (Team Group II)<br>- [Project Activities](projActivities.md) (Teams)
+T 11/09/21      | [Project Checkpoint #1](projCheckPoint1Pres.md) - Group II | - 11/12/21: 5-15 (Team Group I)<br>- [Project Activities](projActivities.md) (Teams)
+F 11/12/21      | [Project Checkpoint #1](projCheckPoint1Pres.md) - Group I  | - 11/16/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
+T 11/16/21      | [Software Patterns](14-software-patterns.md)         | - 11/19/21: 5-15 (Individual)<br>- [Project Activities](projActivities.md) (Teams)
+F 11/19/21      | Work Day                                             | - 11/23/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
+T 11/23/21      | [Software Processes](15-software-processes.md)       | - 11/30/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
+F 11/26/21      | **Thanksgiving Break**                               |
+T 11/30/21      | [H/FOSS Motivations](16-FossMotivations.md)          | - 12/03/21: 5-15 (Team)<br>- [Project Activities](projActivities.md) (Teams)
+F 12/03/21      | Work Day                                             | - 12/07/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)<br>- [Post Semester Survey](https://forms.office.com/r/Mx1ChsjwBk)
+T 12/07/21      | [H/FOSS Success Stories and Criticisms](17-FossSuccess.md) | - 12/10/21: 5-15 (Individual)<br>- [Project Activities](projActivities.md) (Teams)
+F 12/10/21      | Wrap Up                                              | - 12/17/21: 5-15 (Team)<br>- [Project Activities](projActivities.md) (Teams)             
+&nbsp;          |                                                      |
+F 12/17/21<br>2:00pm | [Project Checkpoint #2](projCheckPoint2Pres.md) (Final Exam Slot) |    1 - SymPy<br>2 - OpenMRS<br>3 - Wagtail<br>Short Break<br>4 - Odin<br>5 - Teammates<br>6 - Kubernetes
+-->
+
+<!--
 ## COMP 492 Outline
 
 Date            | Class Information                                        | Homework Assigned
@@ -43,43 +119,8 @@ T 05/03/22      | [Web3](27-Web3.md) (Group 6)                             | - 0
 F 05/06/22      | [Course Feedback](https://dickinson.campuslabs.com/eval-home/direct/1227753) & Wrap Up                                | - 05/16/22: [Reflective Blog Post & WiD Portfolio](wid.md)<br>- [Project Activities](projActivities.md)
 &nbsp;          |                                                          |
 M 05/16/22<br>9:00am | Final Exam Slot - Project Checkpoint #2 (Tome 115)<br>9:05-9:30 - WagTail<br>9:30-9:55 - OpenMRS<br>9:55-10:20 - Kubernetes<br>10:20-10:30 - Break<br>10:30-10:55 - Oden<br>10:55-11:20 - Teammates                     | - 05/22/22: **Graduate!**
+-->
 
-## COMP 491 Outline
-
-Date            | Class Information                                        | Homework Assigned
-----------------|----------------------------------------------------------|-------------
-T 08/31/21      | [Course Introduction](01-intro.md)                       | - 09/03/21: Complete the Blog/Slack/Wiki/Git Activity (Individual)<br>- 09/03/21 8am: Reading & Preparation (Individual)<br>- 09/03/21: Ubuntu Install (Pairs)
-F 09/03/21      | [H/FOSS History & Philosophy](02-history.md)             | - 09/07/21: Linux Tutorials (Pairs)<br>- 09/07/21: H/FOSS Project Exploration I (Individual)<br>- 10/08/21: Blog Post I (Individual) &ndash; choice of "H/FOSS History & Philosophy" or "H/FOSS Communities"
-T 09/07/21      | [Unix Tool Challenges](03-unixTools.md)                  | - 09/10/21 8am: Reading & Preparation (Individual)<br>- 09/10/21: H/FOSS Project Exploration II  (Individual)
-F 09/10/21      | [H/FOSS Communities](04-hfossCommunities.md)             | - 09/14/21 8am: Reading & Preparation (Individual)<br>- 09/14/21: H/FOSS Project Review I (Individual)<br>- 10/08/21: Blog Post I (Individual) &ndash; choice of "H/FOSS History & Philosophy" or "H/FOSS Communities"
-T 09/14/21      | [H/FOSS Tools/Structures/Communication](05-hfossTools.md)| - 09/17/21 8am: Reading & Preparation (Individual)<br>- 09/17/21 <font color="red">8am</font>: H/FOSS Project Review II (Individual)
-F 09/17/21      | [Linux System Administration](06-linuxSysAdmin.md)       | - 09/21/21: Complete the Software Installation activity (Pairs)<br>- 09/21/21 8am: Reading & Preparation (Individual)<br>- 09/21/21: Complete *Part 1 &ndash; Before the First Class* in the Git/GitHub Workflow Activity.<br>- 09/24/21: H/FOSS Project Ranking & Selection Assignment (Teams)
-T 09/21/21      | [Version Control I](07-versionControl-I.md)          | - 09/24/21 8am: Reading & Preparation (Individual)<br>- 09/24/21: Complete *Part 3 &ndash; Before the Second Class* in the Git/GitHub Workflow Activity.<br>- 09/24/21: H/FOSS Project Ranking & Selection Assignment (Teams)
-F 09/24/21      | [Version Control II](08-versionControl-II.md)        | - 09/28/21 and 10/01/21: presentation component of the H/FOSS Project Ranking and Selection assignment
-T 09/28/21      | [Project Selection Presentations](projSelectionPres.md) - Group I            | <br>- [Project Activities](projActivities.md)
-F 10/01/21      | [Project Selection Presentations](projSelectionPres.md) - Group II           | - 10/05/21: Reading and Preparation for Bash Scripting (Pairs)<br>- [Project Activities](projActivities.md) (Teams)
-T 10/05/21      | [Bash Scripting](09-bashScript.md)                   | - 10/08/21: Blog Post I (Individual)<br>- [Project Activities](projActivities.md) (Teams)
-F 10/08/21      | Work Day - Alumni Visit                              | - 10/12/21: Reading and Preparation (Individual)<br>- [Project Activities](projActivities.md) (Teams)
-T 10/12/21      | [FOSS Licensing](10-fossLicensing.md)                | - [Project Activities](projActivities.md) (Teams)<br>- 11/05/21: Blog Post II (Individual)<br>- 10/15/21 - 5-15 (Team)
-F 10/15/21      | Work Day - Alumni Visit                              | - [Project Activities](projActivities.md) (Teams)<br>-10/22/21 - 5-15 (Individual)
-T 10/19/21      | **Fall Pause**                                       |
-F 10/22/21      | Work Day - Alumni Visit                              | - 10/26/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
-T 10/26/21      | [Software Flaws](12-software-flaws.md)               | - 10/29/21: 5-15 (Team)<br>- [Project Activities](projActivities.md) (Teams)
-F 10/29/21      | Work Day                                             | - 11/02/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
-T 11/02/21      | [Software Testing](13-software-testing.md)           | - 11/05/21: Blog Post II (Individual)<br>-11/05/21 - 5-15 (Individual)<br>- [Project Activities](projActivities.md) (Teams)
-F 11/05/21      | Work Day                                             | - 11/09/21: 5-15 (Team Group II)<br>- [Project Activities](projActivities.md) (Teams)
-T 11/09/21      | [Project Checkpoint #1](projCheckPoint1Pres.md) - Group II | - 11/12/21: 5-15 (Team Group I)<br>- [Project Activities](projActivities.md) (Teams)
-F 11/12/21      | [Project Checkpoint #1](projCheckPoint1Pres.md) - Group I  | - 11/16/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
-T 11/16/21      | [Software Patterns](14-software-patterns.md)         | - 11/19/21: 5-15 (Individual)<br>- [Project Activities](projActivities.md) (Teams)
-F 11/19/21      | Work Day                                             | - 11/23/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
-T 11/23/21      | [Software Processes](15-software-processes.md)       | - 11/30/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)
-F 11/26/21      | **Thanksgiving Break**                               |
-T 11/30/21      | [H/FOSS Motivations](16-FossMotivations.md)          | - 12/03/21: 5-15 (Team)<br>- [Project Activities](projActivities.md) (Teams)
-F 12/03/21      | Work Day                                             | - 12/07/21: Reading and Preparation<br>- [Project Activities](projActivities.md) (Teams)<br>- [Post Semester Survey](https://forms.office.com/r/Mx1ChsjwBk)
-T 12/07/21      | [H/FOSS Success Stories and Criticisms](17-FossSuccess.md) | - 12/10/21: 5-15 (Individual)<br>- [Project Activities](projActivities.md) (Teams)
-F 12/10/21      | Wrap Up                                              | - 12/17/21: 5-15 (Team)<br>- [Project Activities](projActivities.md) (Teams)             
-&nbsp;          |                                                      |
-F 12/17/21<br>2:00pm | [Project Checkpoint #2](projCheckPoint2Pres.md) (Final Exam Slot) |    1 - SymPy<br>2 - OpenMRS<br>3 - Wagtail<br>Short Break<br>4 - Odin<br>5 - Teammates<br>6 - Kubernetes
 
 ---
 
