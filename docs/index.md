@@ -9,7 +9,7 @@
 
 Date            | Class Information                                        | Homework Assigned
 ----------------|----------------------------------------------------------|----------------------------------------------------------
-T 08/30/22      | C01 - Course Introduction                                | [A01 - Slack/Blog/GitHub/Wiki](assignments/A01-SlackBlogWikiGithub.md) (Due: F 09/02/22)
+T 08/30/22      | C01 - Course Introduction                                | [A01 - Slack/Blog/GitHub/Wiki](assignments/A01-SlackBlogWikiGitHub.md) (Due: F 09/02/22)
 F 09/02/22      | C02 - Work Day                                           | A02a - Project Explorations (Due: F 09/09/22)
 T 09/06/22      | C03 - SWE / FOSS History                                 |
 F 09/09/22      | C04 - Work Day                                           | A02b - Project Reviews (Due: F 09/16/22)
