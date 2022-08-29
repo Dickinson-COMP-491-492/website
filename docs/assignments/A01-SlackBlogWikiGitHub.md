@@ -1,21 +1,7 @@
 # A01 - Slack, Blog, Wiki, GitHub
 
 ## Introduction
-Professional and open source software development makes use of many different communication channels, each with its own strengths and purpose. We will be making use of four such communication channels (Blog, Slack, Wiki, GitHub) in this class and many of you will find yourselves also using others (IRC/Gitter/etc.) as they apply to your selected H/FOSS projects.
-
-## Blog
-
-You will be using a blog to post written reflections on the reading and discussion topics (see the syllabus for more details.)
-
-### Tasks:
-
-1. Create an account on a blog site. If you have a favorite blog site, you are welcome to use it (just create a new blog for the course). If you do not, then I recommend [Tumblr](https://www.tumblr.com/), as its minimal interface is relatively easy to learn. Note that if you prefer, you may use a pseudonym for your blog username so that you are not personally identifiable on your blog. You will later be asked to post a link to your blog on our (secure) course Wiki for grading purposes.
-2. Give your blog a meaningful title.
-3. Make an initial post to your blog that includes:
-   - A statement that the blog is being created for this course and will be used to post reflective writing on reading and discussion topics related to social, ethical and legal issues in computing.
-   - Then respond in a few sentences to each of the following prompts:
-     - "My plans after college are to..."
-     - "What I hope to gain from this course is..."
+Professional and open source software development makes use of many different communication channels, each with its own strengths and purpose. We will be making use of four such communication channels (Slack, Blog, Wiki, GitHub) in this class and many of you will find yourselves also using others (IRC/Gitter/etc.) as they apply to your selected H/FOSS projects.
 
 ## Slack
 
@@ -46,6 +32,20 @@ Slack is "A messaging app for teams". Slack helps teams working on projects to d
      - Start a *huddle* with someone from a direct message.
 6. Using the Slack search feature do the following:
    - Find the message that talks about "Linux Foundation's Open Source Jobs Report."
+
+## Blog
+
+You will be using a blog to post written reflections on the reading and discussion topics (see the syllabus for more details.)
+
+### Tasks:
+
+1. Create an account on a blog site. If you have a favorite blog site, you are welcome to use it (just create a new blog for the course). If you do not, then I recommend [Tumblr](https://www.tumblr.com/), as its minimal interface is relatively easy to learn. Note that if you prefer, you may use a pseudonym for your blog username so that you are not personally identifiable on your blog. You will later be asked to post a link to your blog on our (secure) course Wiki for grading purposes.
+2. Give your blog a meaningful title.
+3. Make an initial post to your blog that includes:
+   - A statement that the blog is being created for this course and will be used to post reflective writing on reading and discussion topics related to social, ethical and legal issues in computing.
+   - Then respond in a few sentences to each of the following prompts:
+     - "My plans after college are to..."
+     - "What I hope to gain from this course is..."
 
 ## GitHub
 
