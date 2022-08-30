@@ -9,16 +9,16 @@
 
 Date            | Class Information                                        | Homework Assigned
 ----------------|----------------------------------------------------------|----------------------------------------------------------
-T 08/30/22      | C01 - Course Introduction                                | [A01 - Slack/Blog/GitHub/Wiki](assignments/A01-SlackBlogWikiGitHub.md) (Due: F 09/02/22)
-F 09/02/22      | C02 - Work Day                                           | A02a - Project Explorations (Due: F 09/09/22)
+T 08/30/22      | C01 - Course Introduction                                | [A01 - Slack/Blog/GitHub/Wiki](assignments/A01-SlackBlogWikiGitHub.md) (Due: F 09/02/22 8:00am)
+F 09/02/22      | C02 - Work Day                                           | A02a - Project Explorations (Due: F 09/09/22 8:00am)
 T 09/06/22      | C03 - SWE / FOSS History                                 |
-F 09/09/22      | C04 - Work Day                                           | A02b - Project Reviews (Due: F 09/16/22)
+F 09/09/22      | C04 - Work Day                                           | A02b - Project Reviews (Due: F 09/16/22 8:00am)
 T 09/13/22      | C05 - Organizations & Communities                        |
-F 09/16/22      | C06 - Work Day                                           | A02c - Project Ranking and Selection (Due: **M** 09/26/22)
+F 09/16/22      | C06 - Work Day                                           | A02c - Project Ranking and Selection (Due: **M** 09/26/22 8:00am)
 T 09/20/22      | C07 - Licensing                                          |
-F 09/23/22      | C08 - Work Day                                           | A03a - Blog Post #1 (Due: **M** 10/03/22)
+F 09/23/22      | C08 - Work Day                                           | A03a - Blog Post #1 (Due: **M** 10/03/22 8:00am)
 T 09/27/22      | C09 - Project Selection Presentations - group A          |
-F 09/30/22      | C10 - Project Selection Presentations - group B          | A04 - Bug Gardening (Due: **M** 10/11/22)
+F 09/30/22      | C10 - Project Selection Presentations - group B          | A04 - Bug Gardening (Due: **M** 10/11/22 8:00am)
 T 10/04/22      | C11 - Communication                                      |
 F 10/07/22      | C12 - Work Day                                           |
 T 10/11/22      | C13 - Productivity & Quality                             | A05 - Tech Spikes (Live Logs / Presentations)
@@ -28,23 +28,23 @@ T 10/18/22      | **Fall Pause**                                           |
 &nbsp;          |                                                          |
 F 10/21/22      | C15 - Work Day (Prof. Braught away - Teams Meet)         |
 T 10/25/22      | C16 - Requirements, Architecture & Specifications        |
-F 10/28/22      | C17 - Work Day                                           | A03b - Blog Post #2 (Due: T 11/08/22)
+F 10/28/22      | C17 - Work Day                                           | A03b - Blog Post #2 (Due: T 11/08/22 8:00am)
 T 11/02/22      | C18 - Tech Spike Presentations - group B                 |
 F 11/04/22      | C19 - Tech Spike Presentations - group A                 | A06 - Project Work (Live Logs / 15-5's / Presentations)
-T 11/08/22      | C20 - Work Day                                           |
-F 11/11/22      | C21 - Work Day                                           | Team 15-5 Due
-T 11/15/22      | C22 - Process & Agile                                    |
-F 11/18/22      | C23 - Agile / Scrum Game(s) I                            | Individual 15-5 Due
+T 11/08/22      | C20 - Work Day                                           | Team 15-5 (Due 11/11/22 8:00am)
+F 11/11/22      | C21 - Work Day                                           |
+T 11/15/22      | C22 - Process & Agile                                    | Individual 15-5 (Due 11/18/22 8:00am)
+F 11/18/22      | C23 - Agile / Scrum Game(s) I                            |
 T 11/22/22      | C24 - Agile / Scrum Game(s) II                           |
 &nbsp;          |                                                          |
 F 11/25/22      | **Thanksgiving Break**                                   |
 &nbsp;          |                                                          |
-T 11/29/22      | C25 - Comprehension, Verification                        |
-F 12/02/22      | C26 - Work Day                                           | Team 15-5 Due
-T 12/06/22      | C27 - Monitoring and Evolution                           |
-F 12/09/22      | C28 - Wrap up                                            | Individual 15-5 Due
+T 11/29/22      | C25 - Comprehension, Verification                        | Team 15-5 (Due 12/02/22 8:00am)
+F 12/02/22      | C26 - Work Day                                           |
+T 12/06/22      | C27 - Monitoring and Evolution                           | Individual 15-5 (Due 12/09/22 8:00am)
+F 12/09/22      | C28 - Wrap up                                            | Team 15-5 (Due: 12/16/22 8:00am)
 &nbsp;          |                                                          |
-F 12/16/22      | **2:00pm - Final Exam Time**<br>Project Status Reports   | Team 15-5 Due
+F 12/16/22      | **2:00pm - Final Exam Time**<br>Project Status Reports   |
 
 <!--
 T 08/31/21      | [Course Introduction](01-intro.md)                       | - 09/03/21: Complete the Blog/Slack/Wiki/Git Activity (Individual)<br>- 09/03/21 8am: Reading & Preparation (Individual)<br>- 09/03/21: Ubuntu Install (Pairs)
