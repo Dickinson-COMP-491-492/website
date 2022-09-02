@@ -7,8 +7,8 @@ Resources and information about finding projects to explore are included in the 
 For each project you choose to explore:
 1. Visit the course Wiki on the course Moodle (link on home page).
 2. Go to the H/FOSS Projects List page on the Wiki.
-3. Under the "Project Exploration" heading, add a line for the project you are exploring. The line will contain a link to the project's webpage and a link to a new Wiki Page that will contain your information about the project. See the instructions on the Wiki page and use my sample entry provided there as a template.
-4. On the new Wiki page to which you linked in the previous step, complete your exploration of the project according to the H/FOSS Project Exploration section below. There is a sample exploration on my (GBraught) Wiki page for the "My Robot Lab" project. You can click "edit" on my page to copy and paste the source to your own page and then edit it there.
+3. Under the "Project Exploration" heading, add a line for the project you are exploring, or add to the line if there is already one, there should only be one line per project. **Also, please keep the projects listed in alphabetical order.** The line will contain a link to the project's webpage and a link to a new Wiki Page that will contain your information about the project. See the instructions on the Wiki page and use my sample entry provided there as a template.
+4. On the new Wiki page to which you linked in the previous step, complete your exploration of the project according to the H/FOSS Project Exploration section below. There is a sample exploration on my (GBraught) Wiki page for the "FarmData2" project. You can click "edit" on my page to copy and paste the source to your own page and then edit it there.
 
 ### Project Exploration Documents
 
