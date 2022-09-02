@@ -18,7 +18,7 @@ For each project your exploration page must contain the following information:
 - **Project Repository:** The URL of the repository where the latest version of the source code is located. This is where a developer would go to get the code for the project (e.g. GitHub, BitBucket, SourceForge, etc.).
 - **Project Homepage:** The public-facing homepage for the project. For many projects this will be different from the repository. Some smaller projects may keep everything in the repository.
 - **Product:** Summarize in a paragraph what the software product does.
-- **Activity:** Give some things that you noticed that indicate that the project is ongoing and has some developer community around it.
+- **Activity:** Give some things that you noticed that indicate that the project is ongoing and has some developer community around it.  You should at least consider things like the issue tracker and pull requests.
 - **Target User Community:** Summarize in a paragraph: (i) Who is the user community for the software product? (ii) What need(s) of this user community does the software address? Briefly explain how the software addresses those needs.
 - **Getting Started:** Imagine that you have been assigned to start working on this project as a developer. From that perspective, explore the project repository and homepage and document what you find.  In particular, be sure to address:
 What did you find that would make it easy to get started as a developer on this project? (Give links to resources as appropriate).
