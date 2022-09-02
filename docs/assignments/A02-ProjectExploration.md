@@ -1,6 +1,6 @@
 ## H/FOSS Project Exploration
 
-Students pursuing a H/FOSS Project must each complete a Project Exploration of at least 4 H/FOSS projects of interest. Students pursuing Honors/Research Projects must complete the Project Exploration of at least 2 H/FOSS projects. You should plan to look briefly at lot of projects and then do explorations only for those that you might seriously consider working on for the remainder of the year. For the projects that you choose to explore, you should spend ~1 hour learning as much as you can about it and then writing it up as described below.
+Students pursuing a H/FOSS Project must each complete a Project Exploration of at least 4 H/FOSS projects of interest. Students pursuing Honors/Research Projects must complete the Project Exploration of at least 2 H/FOSS projects. You should plan to look briefly at lot of projects and then do explorations only for those that you might seriously consider working on for the remainder of the year. In doing so, you should be sure that the projects you are exploring have an active community around them.  Don't spend time exploring projects that dead (show no activity).  For the projects that you choose to explore, you should spend ~1 hour learning as much as you can about it and then writing it up as described below.
 
 Resources and information about finding projects to explore are included in the **Finding H/FOSS Projects** section below.
 
@@ -18,6 +18,7 @@ For each project your exploration page must contain the following information:
 - **Project Repository:** The URL of the repository where the latest version of the source code is located. This is where a developer would go to get the code for the project (e.g. GitHub, BitBucket, SourceForge, etc.).
 - **Project Homepage:** The public-facing homepage for the project. For many projects this will be different from the repository. Some smaller projects may keep everything in the repository.
 - **Product:** Summarize in a paragraph what the software product does.
+- **Activity:** Give some things that you noticed that indicate that the project is ongoing and has some developer community around it.
 - **Target User Community:** Summarize in a paragraph: (i) Who is the user community for the software product? (ii) What need(s) of this user community does the software address? Briefly explain how the software addresses those needs.
 - **Getting Started:** Imagine that you have been assigned to start working on this project as a developer. From that perspective, explore the project repository and homepage and document what you find.  In particular, be sure to address:
 What did you find that would make it easy to get started as a developer on this project? (Give links to resources as appropriate).
