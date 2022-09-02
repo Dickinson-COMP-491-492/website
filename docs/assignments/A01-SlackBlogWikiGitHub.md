@@ -85,3 +85,10 @@ This assignment will be graded using the criteria in the rubric below.
 
 _Click rubric to enlarge image._<br>
 [![Rubric: 3 pts - On time; All parts of assignment have been fully and carefully addressed; work clearly demostrates strong investment and understanding; well organized, neat, clear and concise; uses complete sentences. 2 pts - On time; All parts of the assignment have been addressed; Work demonstrates reasonable effort and understanding. 1 pts - On time; Fails to fully address all parts of the assignment; work demonstrates a lack of effort, care and/or understanding; disorganized, sloppy or hard to understand. 0 pts - Late, missing or substantially incomplete; fails to address majority of assignment.](images/Activity-Rubric.jpg)](images/Activity-Rubric.jpg)
+
+
+---
+
+![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+![GPL V3 or Later](https://www.gnu.org/graphics/gplv3-or-later-sm.png "GPL V3 or later") All executable code used in this course is licensed under the [GNU General Public License Version 3 or later](https://www.gnu.org/licenses/gpl.txt)
