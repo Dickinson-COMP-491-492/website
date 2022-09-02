@@ -19,9 +19,9 @@ For each project your exploration page must contain the following information:
 - **Project Homepage:** The public-facing homepage for the project. For many projects this will be different from the repository. Some smaller projects may keep everything in the repository.
 - **Product:** Summarize in a paragraph what the software product does.
 - **Target User Community:** Summarize in a paragraph: (i) Who is the user community for the software product? (ii) What need(s) of this user community does the software address? Briefly explain how the software addresses those needs.
-- **Getting Started:** Imagine that you have been assigned to start working on this project as a developer...
+- **Getting Started:** Imagine that you have been assigned to start working on this project as a developer. From that perspective, explore the project repository and homepage and document what you find.  In particular, be sure to address:
 What did you find that would make it easy to get started as a developer on this project? (Give links to resources as appropriate).
-What did you find (or not find) that would make it difficult to get started as a developer with this project?
+What did you find (or not find that you would expect to find) that would make it difficult to get started as a developer with this project?
 - **Personal Interest:** Briefly describe the reasons that led you to chose to explore this project.  Then discuss things that you learned during the exploration that either increased or decreased your interest in engaging with this project.
 - **Other:** Add any additional thoughts that you would like to record about the project.  Include things that you think may be helpful later when deciding which project to engage with.
 
