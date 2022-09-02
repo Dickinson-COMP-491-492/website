@@ -1,6 +1,6 @@
 ## H/FOSS Project Exploration
 
-Students pursuing a H/FOSS Project must each complete a Project Exploration of at least 4 H/FOSS projects of interest. Students pursuing Honors/Research Projects must complete the Project Exploration of at least 2 H/FOSS projects. You should plan to look briefly at lot of projects and then do explorations only for those that you might seriously consider working on for the remainder of the year. For the projects that you choose to explore, you should spend ~30 minutes learning as much as you can about it and then writing it up as described below.
+Students pursuing a H/FOSS Project must each complete a Project Exploration of at least 4 H/FOSS projects of interest. Students pursuing Honors/Research Projects must complete the Project Exploration of at least 2 H/FOSS projects. You should plan to look briefly at lot of projects and then do explorations only for those that you might seriously consider working on for the remainder of the year. For the projects that you choose to explore, you should spend ~45-60 minutes learning as much as you can about it and then writing it up as described below.
 
 Resources and information about finding projects to explore are included in the **Finding H/FOSS Projects** section below.
 
