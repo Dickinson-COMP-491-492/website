@@ -52,15 +52,7 @@ The success of the Senior Seminar is in a large part up to you as its primary pa
 
 ##### On Discussion Days
 
-On days that we are discussing topics, you are expected to complete readings before class, think about and process them.  In addition, you are expected to find, read and process at least one additional source on the topic of the day.  
-
-**By 8:00am on the class day** you are expected to make a posting to the discussion forum on the course Moodle site  Your posting must include the following headings and content:
-- **Thoughts** - Give's a few sentences of your own thoughts on the topic. Don't simply summarize the readings. Give your thoughts on the topic but ensure that they are clearly connected to the content in the assigned reading(s).
-- **Source** - Cite the additional source that you read on the topic (with a link or a full citation) and summarize in a few sentences how it expanded or changed your understanding of the topic.
-- **Question(s)** - Post at least one question or discussion topic you would like us to consider as a class and include a sentence about why you think it would be a good question or topic to discuss as a class.
-- Optionally, but encouraged, respond to your classmates posts, adding your thoughts or perspectives and/or seconding their questions/discussion topics.
-
-I will organize our discussions around the posts that you make. So the more thought you put into them the more the discussion will be focused around things that are of interest to the class.
+On days that we are discussing topics, you are expected to complete readings before class, think about and process them.  In addition, you are expected to find, read and process at least one additional source on the topic of the day. You will then make a post to the discussion forum on the course Moodle.  The [Readings](assignments/readings.md) gives the assigned readings for each day and the details on what must be included in the Moodle post. You are then expected to actively participate in the class discussion of the topic. I will organize our discussions around the Moodle posts that you make. So the more thought you put into your Mood'e posts the more the discussion will be focused around things that are of interest to the class.
 
 If you find participating in class discussions challenging, please feel free to talk with me about strategies that may help.  In addition, these sites have some good advice on increasing or improving class participation:
 - [Ways to Improve Your Class Participation Experience](https://studylib.net/doc/18188459/ways-to-improve-your-class-participation-experience--sugg...): A short list of suggestions from Students from the Bureau of Study Counsel in the Center for Academic and Personal Development at Harvard University.
