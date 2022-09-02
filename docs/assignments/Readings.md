@@ -18,7 +18,7 @@ On days that we are discussing topics, you are expected to complete readings bef
 
 Date            | Reading / Discussion Topic              | Assigned Readings
 ----------------|-----------------------------------------|--------------------
-T 09/06/22      | C03 - SWE / FOSS History                | SWE [History](https://faculty.washington.edu/ajko/books/cooperative-software-development/history)<br>[6 pivotal moments in open source history](https://opensource.com/article/18/2/pivotal-moments-history-open-source)
+T 09/06/22      | C03 - SWE / FOSS History                | 1. SWE [History](https://faculty.washington.edu/ajko/books/cooperative-software-development/history)<br> 2. [6 pivotal moments in open source history](https://opensource.com/article/18/2/pivotal-moments-history-open-source)<br> 3. [Why Do Large Companies Open Source Their Tech?](https://analyticsindiamag.com/why-do-large-companies-open-source-their-tech/)
 
 
 ---
