@@ -65,7 +65,7 @@ Your H/FOSS Project Review must contain the information indicated below. Please 
 
     - **Organization:** How well organized is the project overall? Some questions to consider here include How easy was it to find information as a newcomer to the project? Is it easy to identify the information you might need? Is the amount of information helpful without being overwhelming? Is there out of date or redundant information that may be confusing?
 
-    - **Communication:** Browse the communication channels and the issue tracker and find some messages/comments by newcomers  Have they received responses? Does the tone of communications seem welcoming to new developers? Why?
+    - **Code of Conduct:** Does this project publish a code of conduct for its community? Review the code if it exists and comment on your thoughts of it for governing conduct in the community.
 
     - **Issues:** Most issue trackers allow issues to be tagged/labeled. What (if any) tags/labels does the project use to identify issues that would be good for new developers?  How many issues are tagged/labeled in this way? How recently were they posted? Have comments/questions on them received responses from the community? Are issues tagged in this way getting closed?
 
