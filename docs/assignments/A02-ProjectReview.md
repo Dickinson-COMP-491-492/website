@@ -78,12 +78,17 @@ Your H/FOSS Project Review must contain the information indicated below. Please 
     - **Repositories:** How many repositories make up the project (1, 2-5, 5-10, >10)? Are they well organized and is it clear what the purpose of each repository is?  Select a few (1-3) of the most active repositories and report the following:
       - **Origins:** When was this repository created?
       - **License:** Which open source license is applied to this repository?
-      - **Currency:** When was the most recent update (commit) to this repository?
-      - **Activity:** How many updates (commits) have been made to this repository in the last few months?
       - **Languages:** What are the main languages used in the repository and approximately what percentage of code is in each language?
+      - **Activity:** Answer the following questions to get an idea of how actively this repository is being worked on.
+        - When was the most recent commit to this repository?
+        - How many commits have been made to this repository in the last few months?
+        - How many pull/merge requests are currently open?
+        - When was the most recent pull/merge request opened?
+        - When was the most recently closed pull/merge request accepted?
+        - How many pull/merge requests have been accepted in the past few months?
       - **Contributors:** How many different people have contributed to this repository in the last year?
       - **New Contributors:** Of those contributors how many have made their first contribution within in the last year?
-      - **Top Contributors:** Who are the top 3-5 contributors to this repository? How many commits have they made in the last year?
+      - **Top Contributors:** Who are the top 3-5 contributors to this repository? How many commits have they each made in the last year?
 
   - **Tools/Libraries/Frameworks:** This section looks at the project specific tools, libraries and/or frameworks that are used by the project. Use information from the project's web page, repositories, forums, etc. to answer the questions below.  You may also need to do some external reading about tools, libraries and frameworks to determine their purposes.
 
