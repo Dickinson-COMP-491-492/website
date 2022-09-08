@@ -80,12 +80,18 @@ Your H/FOSS Project Review must contain the information indicated below. Please 
       - **License:** Which open source license is applied to this repository?
       - **Languages:** What are the main languages used in the repository and approximately what percentage of code is in each language?
       - **Activity:** Answer the following questions to get an idea of how actively this repository is being worked on.
-        - When was the most recent commit to this repository?
-        - How many commits have been made to this repository in the last few months?
-        - How many pull/merge requests are currently open?
-        - When was the most recent pull/merge request opened?
-        - When was the most recently closed pull/merge request accepted?
-        - How many pull/merge requests have been accepted in the past few months?
+        - **Commits:**
+          - When was the most recent commit to this repository?
+          - How many commits have been made to this repository in the last few months?
+        - **Open Pull/Merge Requests:**
+          - How many pull/merge requests are currently open?
+          - How many pull/merge requests are older than a week?
+          - When was the most recent pull/merge request created?
+        - **Closed Pull/Merge Requests:**
+          - When was the most recently accepted pull/merge request?
+          - How many pull/merge requests have been accepted in the past few months?
+          - Do accepted pull/merge requests seem to have timely and helpful discussion?
+          - About how long does it take from the time a relatively small pull/merge request is created until it is merged?
       - **Contributors:** How many different people have contributed to this repository in the last year?
       - **New Contributors:** Of those contributors how many have made their first contribution within in the last year?
       - **Top Contributors:** Who are the top 3-5 contributors to this repository? How many commits have they each made in the last year?
