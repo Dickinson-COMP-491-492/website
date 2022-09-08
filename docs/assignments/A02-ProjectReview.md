@@ -76,13 +76,14 @@ Your H/FOSS Project Review must contain the information indicated below. Please 
   - **Code Base:** This section will explore the code base in detail to get a better idea of how active the project is and how open it is to contributions from newcomers. Use information from the organization and repository(ies) to answer the following questions:
 
     - **Repositories:** How many repositories make up the project (1, 2-5, 5-10, >10)? Are they well organized and is it clear what the purpose of each repository is?  Select a few (1-3) of the most active repositories and report the following:
-    - **Origins:** When was this repository created?
-    - **Currency:** When was the most recent update (commit) to this repository?
-    - **Activity:** How many updates (commits) have been made to this repository in the last few months?
-    - **Languages:** What are the main languages used in the repository and approximately what percentage of code is in each language?
-    - **Contributors:** How many different people have contributed to this repository in the last year?
-    - **New Contributors:** Of those contributors how many have made their first contribution within in the last year?
-    - **Top Contributors:** Who are the top 3-5 contributors to this repository? How many commits have they made in the last year?
+      - **Origins:** When was this repository created?
+      - **License:** Which open source license is applied to this repository?
+      - **Currency:** When was the most recent update (commit) to this repository?
+      - **Activity:** How many updates (commits) have been made to this repository in the last few months?
+      - **Languages:** What are the main languages used in the repository and approximately what percentage of code is in each language?
+      - **Contributors:** How many different people have contributed to this repository in the last year?
+      - **New Contributors:** Of those contributors how many have made their first contribution within in the last year?
+      - **Top Contributors:** Who are the top 3-5 contributors to this repository? How many commits have they made in the last year?
 
   - **Tools/Libraries/Frameworks:** This section looks at the project specific tools, libraries and/or frameworks that are used by the project. Use information from the project's web page, repositories, forums, etc. to answer the questions below.  You may also need to do some external reading about tools, libraries and frameworks to determine their purposes.
 
