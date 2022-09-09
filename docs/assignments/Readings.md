@@ -19,6 +19,7 @@ On days that we are discussing topics, you are expected to complete readings bef
 Date            | Reading / Discussion Topic              | Assigned Readings
 ----------------|-----------------------------------------|--------------------
 T 09/06/22      | C03 - SWE / FOSS History                | 1. SWE [History](https://faculty.washington.edu/ajko/books/cooperative-software-development/history)<br> 2. [6 pivotal moments in open source history](https://opensource.com/article/18/2/pivotal-moments-history-open-source)<br> 3. [Why Do Large Companies Open Source Their Tech?](https://analyticsindiamag.com/why-do-large-companies-open-source-their-tech/)
+T 09/13/22      | C05 - Organizations & Communities       | 1. SWE [Organizations](https://faculty.washington.edu/ajko/books/cooperative-software-development/organizations)<br>2. [Four types of open source communities](https://opensource.com/business/13/6/four-types-organizational-structures-within-open-source-communities)<br>3. [Open-Source Contribution: The Ultimate Guide](https://builtin.com/software-engineering-perspectives/open-source-contribution)<br>4. [WTF is Wrong with Open Source Communities?](https://blog.container-solutions.com/wtf-is-wrong-with-open-source-communities)
 
 
 ---
