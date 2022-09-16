@@ -18,7 +18,7 @@ F 09/16/22      | C06 - Work Day                                           | C07
 T 09/20/22      | C07 - Licensing                                          |
 F 09/23/22      | C08 - Work Day                                           | A03a - Blog Post #1 (Due: **M** 10/03/22 8:00am)
 T 09/27/22      | C09 - Project Selection Presentations - group A          |
-F 09/30/22      | C10 - Project Selection Presentations - group B          | A04 - Bug Gardening (Due: **M** 10/11/22 8:00am)
+F 09/30/22      | C10 - Project Selection Presentations - group B          | A04 - Bug Gardening (Due: 10/11/22 8:00am)
 T 10/04/22      | C11 - Culture & Communication                            |
 F 10/07/22      | C12 - Work Day                                           |
 T 10/11/22      | C13 - Productivity & Quality                             | A05 - Tech Spikes (Live Logs / Presentations)
