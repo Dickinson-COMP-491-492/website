@@ -16,7 +16,7 @@ F 09/09/22      | C04 - Work Day                                           | C05
 T 09/13/22      | C05 - Organizations & Communities                        |
 F 09/16/22      | C06 - Work Day                                           | C07 - [Readings & Moodle Post](assignments/Readings.md) (Due: T 09/20/22 8:00am)<br>[A02c - Project Ranking and Selection](assignments/A02c-ProjectSelection.md) (Due: **M** 09/26/22 8:00am)
 T 09/20/22      | C07 - Licensing                                          |
-F 09/23/22      | C08 - Work Day                                           | A03a - Blog Post #1 (Due: **M** 10/03/22 8:00am)
+F 09/23/22      | C08 - Work Day                                           | [A03a - Blog Post #1](assignments/A03-BlogPost.md) (Due: **M** 10/03/22 8:00am)
 T 09/27/22      | C09 - Project Selection Presentations - group A          |
 F 09/30/22      | C10 - Project Selection Presentations - group B          | A04 - Bug Gardening (Due: 10/11/22 8:00am)
 T 10/04/22      | C11 - Culture & Communication                            |
@@ -28,7 +28,7 @@ T 10/18/22      | **Fall Pause**                                           |
 &nbsp;          |                                                          |
 F 10/21/22      | C15 - Work Day (Prof. Braught away - Teams Meet)         |
 T 10/25/22      | C16 - Requirements, Architecture & Specifications        |
-F 10/28/22      | C17 - Work Day                                           | A03b - Blog Post #2 (Due: T 11/08/22 8:00am)
+F 10/28/22      | C17 - Work Day                                           | [A03b - Blog Post #2](assignments/A03-BlogPost.md) (Due: T 11/08/22 8:00am)
 T 11/02/22      | C18 - Tech Spike Presentations - group B                 |
 F 11/04/22      | C19 - Tech Spike Presentations - group A                 | A06 - Project Work (Live Logs / 15-5's / Presentations)
 T 11/08/22      | C20 - Work Day                                           | Team 15-5 (Due 11/11/22 8:00am)
