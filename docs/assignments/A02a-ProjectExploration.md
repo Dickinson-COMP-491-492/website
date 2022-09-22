@@ -1,4 +1,4 @@
-## A02a - H/FOSS Project Exploration
+# A02a - H/FOSS Project Exploration
 
 Students pursuing a H/FOSS Project must each complete a Project Exploration of at least 4 H/FOSS projects of interest. Students pursuing Honors/Research Projects must complete the Project Exploration of at least 2 H/FOSS projects. You should plan to look briefly at lot of projects and then do explorations only for those that you might seriously consider working on for the remainder of the year. In doing so, you should be sure that the projects you are exploring have an active community around them.  Don't spend time exploring projects that dead (show no activity).  For the projects that you choose to explore, you should spend ~1 hour learning as much as you can about it and then writing it up as described below.
 
@@ -10,7 +10,7 @@ For each project you choose to explore:
 3. Under the "Project Exploration" heading, add a line for the project you are exploring, or add to the line if there is already one, there should only be one line per project. **Also, please keep the projects listed in alphabetical order.** The line will contain a link to the project's webpage and a link to a new Wiki Page that will contain your information about the project. See the instructions on the Wiki page and use my sample entry provided there as a template.
 4. On the new Wiki page to which you linked in the previous step, complete your exploration of the project according to the H/FOSS Project Exploration section below. There is a sample exploration on my (GBraught) Wiki page for the "FarmData2" project. You can click "edit" on my page to copy and paste the source to your own page and then edit it there.
 
-### Project Exploration Documents
+## Project Exploration Documents
 
 For each project your exploration page must contain the following information:
 
@@ -26,7 +26,7 @@ What did you find (or not find that you would expect to find) that would make it
 - **Personal Interest:** Briefly describe the reasons that led you to chose to explore this project.  Then discuss things that you learned during the exploration that either increased or decreased your interest in engaging with this project.
 - **Other:** Add any additional thoughts that you would like to record about the project.  Include things that you think may be helpful later when deciding which project to engage with.
 
-### Finding H/FOSS Projects
+## Finding H/FOSS Projects
 
 There are literally millions of open source projects out there. However, not all open source projects are equally good candidates for engagement. You will, of course, want to find projects that you are interested in. But you'll also want to find projects that are active, technically approachable, have a variety of ways to contribute and have a welcoming developer community that will help you get started and that you can go to when you have questions. Below are resources that may help you find suitable projects of interest.
 
@@ -81,14 +81,14 @@ If nothing in any of those places catches your attention, or you want to explore
   - [Launch Pad](https://launchpad.net/)
   - [Savannah](http://savannah.gnu.org/)
 
-### Grading
+## Grading
 
 The Project Exploration will be graded according to the rubric given below:
 
 _Click rubric to enlarge image._<br>
 [![Project Exploration Rubric. 3 pts - On time; All explorations contain all required information;  Information presented gives a thoughtful, clear and detailed picture of the projects; Writing is clear, concise, well organized, uses complete sentences and proper grammar; Explorations are correctly linked, neatly formatted and easy to read. 2 pts - On time; All explorations contain all required information; Information presented accurately describes the project; Writing may have minor issues but does not distract from meaning or understanding; Explorations are correctly linked but may be poorly formatted or difficult to read. 1 pt - On time; One or more explorations may be missing entirely or missing required information; Information in the exploration does not give an adequate picture of the project; Information may simply be copy and pasted; Writing, formatting or grammar may interfere with understanding. Explorations may be incorrectly linked, poorly formatted or difficult to read. 0 pts - Late, missing or substantially incomplete; clearly demonstrates little to no investment in the assignment.](images/ProjectExploration-Rubric.jpg)](images/ProjectExploration-Rubric.jpg)
 
-### Acknowledgements:
+## Acknowledgements:
 
 This assignment builds from and adapts ideas and content from the following activities created by others:
 

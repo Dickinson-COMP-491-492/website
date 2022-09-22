@@ -1,10 +1,10 @@
-## A02b - H/FOSS Project Review
+# A02b - H/FOSS Project Review
 
-### Introduction
+## Introduction
 
 In the H/FOSS Project Exploration assignment you collected basic information about some projects to which you might be interested in contributing. In this assignment you will build on that background by gathering more in depth and detailed information about a few of the projects that you are most interested in. This will include assessing how welcoming a community is to new comers, how responsive they are to questions, how well documented and organized the project is, and thinking about what you'll need to learn to get started. Collecting this additional information will take some time and effort, but it will be very helpful in making a well informed decision in the next activity, which asks you (and your teammates) to select the project community with which you will work for the remainder of the year.  You should anticipate spending ~3 hours on each Project Review.
 
-### Assignment
+## Assignment
 
 Students pursuing a FOSS Project must complete an H/FOSS Project Review for 2 H/FOSS projects of interest. Students pursuing Honors Projects must complete the an H/FOSS Review for 1 H/FOSS project. Ideally, your project reviews will build upon your project explorations. However, they may also be projects that were explored by others (see the Wiki) or they could include a newly discovered project. If you elect to review a project that you did not explore, you will need to complete a [Project Exploration](A02-ProjectExploration.md) for the new project before completing a Project Review for it.
 
@@ -15,7 +15,7 @@ For each project that you review:
 3. Under the "Project Review" heading, add a line for the project you are exploring, or add to the line if there is already one, there should only be one line per project. Link to the same Wiki page that you created for the Project Exploration, you will add your review to the bottom of that page.  **Also, please keep the projects listed in alphabetical order.** The format of the link line should be the same as for the Project Exploration assignment.
 4. Add the information described in the *H/FOSS Project Review* section below at the bottom of the Wiki page you created for the Project Exploration.
 
-### H/FOSS Project Review
+## H/FOSS Project Review
 
 Your H/FOSS Project Review must contain the information indicated below. Please use headings and bulleted lists corresponding to each section below to make it easy for the instructor (and you) to identify the information.
 
@@ -117,14 +117,16 @@ Your H/FOSS Project Review must contain the information indicated below. Please 
 
   - **Assessment**: Give an overall assessment of the project based on your review.  Be sure to comment on why you are interested (or are no longer interested) in the project, what you believe would facilitate or make it difficult to join this project, and what concerns you have about joining this project.
 
-### Grading
+## Grading
 
 The Project Review will be graded according to the rubric given below:
 
 _Click rubric to enlarge image._<br>
 [![Project Review Rubric. 3 pts - On time; All reviews contain all required information;  Information presented gives a clear and highly detailed picture of the projects; Summaries of each section are thoughtful, reflective and insightful; Writing is clear, concise, well organized, uses complete sentences and proper grammar; Reviews are correctly linked, neatly formatted and easy to read. 2 pts - On time; All reviews contain all required information; Information presented addresses the prompts; Summaries of each section are largely factual rather than reflective; Writing may have minor issues but does not distract from meaning or understanding; Reviews are correctly linked but may be poorly formatted or difficult to read. 1 pt - On time; One or more reviews may be missing entirely or missing required information; Information in the review does not give an adequate picture of the project; Summaries of each section are cursory or do not align with the review; Writing, formatting or grammar may interfere with understanding; Reviews may be incorrectly linked, poorly formatted or difficult to read. 0 pts - Late, missing or substantially incomplete; Clearly demonstrates little to no investment in the assignment.](images/ProjectReview-Rubric.jpg)](images/ProjectReview-Rubric.jpg)
 
-**Acknowledgements**: This assignment builds from and adapts ideas and content from the following activities created by others:
+## Acknowledgements:
+
+This assignment builds from and adapts ideas and content from the following activities created by others:
 
 * https://github.com/ChrisMurphyOnline/open-source-software-development-course/blob/master/activities/foss-evaluation-activity.txt
 * http://foss2serve.org/index.php/Intro_to_FOSS_Project_Anatomy_(Activity)

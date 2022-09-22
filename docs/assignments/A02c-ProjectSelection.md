@@ -1,14 +1,14 @@
-## A02c - H/FOSS Project Ranking and Selection Assignment
+# A02c - H/FOSS Project Ranking and Selection Assignment
 
-### Introduction
+## Introduction
 
 Through the project explorations and reviews you have all gained a great deal of familiarity with a wide variety of H/FOSS project. This assignment asks you to form a project team, make a direct comparison between a number of the projects in which your team is interested, and based on that comparison select the H/FOSS project on which your team will work for the year.
 
-### Team Formation
+## Team Formation
 
 Your instructor will use the information from the explorations and reviews that you have posted on the H/FOSS Project Wiki page to identify common areas of interest across the class.  During class time, these areas will be presented and you will indicate your interest in working on different projects.  We as a class will then negotiate the exact composition of each project team such that everyone has been placed on a team in which they have some shared interest.  There will be a maximum of 4 (preferably 3) teams and each team will have between 2 and 6 members. Keep in mind that during the actual project work, teams may divide into smaller groups (sub-teams of two or three) which work on different aspects of the same H/FOSS project.
 
-### Assignment
+## Assignment
 
 Once the teams have been formed, each team will complete the Ranking and Selection activities below in order to choose the project on which they will work. There will be one submission for this assignment for each project team. The submission must be completed collaboratively with the involvement of all team members.
 
@@ -26,14 +26,14 @@ To complete this assignment:
    7. Complete the Project Ranking section below.
    8. Complete the Project Selection section below.
 
-#### Projects Considered
+### Projects Considered
 
 Each project team must consider a minimum of 3 projects and each of those projects must have been explored and reviewed by at least one team member.
 
 1. Have a discussion within your team and select at least 3 projects that have been explored and reviewed by at least one member of the team. All members of the team must have equal voice in the decision of which projects are going to be considered. This may ultimately require that the team consider more than 3 projects.
 2. When your team has settled on the projects to be considered, add each project to the Project Considered section of the Project Ranking Template with links to the project's home page and to the Wiki pages of all of the Project Explorations and Project Reviews that were completed (including those not done by your team team). Note: You may come back and add additional projects here later.
 
-#### Install Spikes
+### Install Spikes
 
 You have, as a part of the exploration and review stages looked at the documentation for installing, running and working on these projects.  However, it is often not until you really attempt to install, use or work on the project that it becomes clear how helpful (or not) this documentation is.  The spikes in this section will help you to more fully evaluate how easy or how difficult it might be to get started with the project.
 
@@ -42,7 +42,7 @@ You have, as a part of the exploration and review stages looked at the documenta
    1. Assign a sub-set of the team's members to do the install spike for that project.
    2. The sub-set of team members assigned to each project will then complete the two Install Spikes for that project as described just below.
 
-##### User Perspective Spike
+#### User Perspective Spike
 
 The purpose of this spike is to get a feel for what it would be like as a user coming to the product. You will want to find and use the directions that they provide for new users wanting to install the product. This may require you to download and install the executable program or there may be a live demo available online, or you may have to build the executable program from its source code. You want the easiest way to begin using the latest version of the product as a user.  
 
@@ -53,7 +53,7 @@ Add the following information under the "User Install" bullet for the project ba
 * A link to the download site or the live demo site you used.
 * A paragraph summarizing your experience trying to install/run the program as a user. Your summary should address whether you were successful or not in running the program, how you ran the program (installed/live demo/etc...), the quality of the documentation, how difficult you found it and what the causes were for any difficulties you experienced.
 
-##### Developer Perspective Spike
+#### Developer Perspective Spike
 
 The purpose of this spike is to get a feel for what it will be like to get setup to contribute to this project. You will want to find the directions that the project provides for getting set up on your computer to modify the code of the project. This will definitely require forking and cloning the project repository, among other steps.  Often projects will call this "getting started" or "how to contribute" or "developer install". You may need to dig around a little to find the appropriate documentation. See your instructor if you have difficulty finding the relevant information for your project.
 
@@ -64,7 +64,7 @@ Add the following information under the "Developer Install" bullet for the proje
 * Links to your fork of the project repository and to the upstream repository.
 * A paragraph summarizing your experience trying to install/run the program as a developer. Your summary should address whether you were successful or not in running the program, the quality of the documentation, how difficult you found it and what the causes were for any difficulties you experienced.
 
-#### Project Ranking
+### Project Ranking
 
 Once your team has completed the Install Spikes, you will create rankings for the projects being considered.  Information including the Project Explorations, Project Reviews, the Install Spikes (just above) as well as the team members' backgrounds and interests will factor into these rankings. All team members must have equal voice in this conversation.
 
@@ -78,7 +78,7 @@ Once your team has completed the Install Spikes, you will create rankings for th
    * **Appeal**: *How interested is your team in this project?* Consider issues such as the application domain, the benefits to end users, the technologies employed, etc.
 4. Complete the "Rationale" section by giving a paragraph for each dimension that summarizes your team's rationale for the rankings in that dimension. The paragraph for each dimension should be comparative.  It should make it clear which factors influenced projects to be ranked higher or lower than others on that dimension. Use details from the Project Explorations, Project Reviews and the Install Spikes to support your rankings.
 
-#### Project Selection
+### Project Selection
 
 As a full team, have a discussion of the rankings and rationale that you produced in the prior section with the goal of selecting one on which to work.  The rankings are to help inform your decision but it is not required that you simply choose the highest ranked project. All team members must have equal voice in this conversation.
 
@@ -90,14 +90,16 @@ When your team has selected a project complete the Project Selection section of 
 4. List, with a brief explanation, any additional knowledge that your team will need to acquire before beginning work on this project. For example, what tools/languages/frameworks will you need to learn?
 5. List, with a brief explanation, any additional concerns your team has about working on this project.
 
-### Grading
+## Grading
 
 The Project Ranking and Selection will be graded according to the rubric given below:
 
 _Click rubric to enlarge image._<br>
 [![Project Review Rubric. 3 pts - On time; Wiki contains all required information;  Information presented gives a clear and highly detailed picture of why the team selected the project that they did; Rankings and selection are clearly and well supported by thoughtful, reflective and insightful rationales that draw directly on the gathered information; Writing is clear, concise, well organized, uses complete sentences and proper grammar; Wiki is correctly linked, neatly formatted and easy to read. 2 pts - On time; Wiki contains all required information; Information presented indicates why the team selected the project that they did; Rankings and selection are supported by rationales that mention gathered information; Writing may have minor issues but does not distract from meaning or understanding; Reviews are correctly linked but may be poorly formatted or difficult to read. 1 pt - On time; Wiki may be missing required information; Information in the Wiki does not give an adequate picture of why the team selected the project they did; Rankings may be insufficiently connected to the rationale or rationale may not use or may not align with provided information; Writing, formatting or grammar may interfere with understanding; Reviews may be incorrectly linked, poorly formatted or difficult to read. 0 pts - Late, missing or substantially incomplete; Clearly demonstrates little to no investment in the assignment.](images/ProjectRanking-Rubric.jpg)](images/ProjectRanking-Rubric.jpg)
 
-**Acknowledgements**: This assignment builds from and adapts ideas and content from the following activities created by others:
+## Acknowledgements**:
+
+This assignment builds from and adapts ideas and content from the following activities created by others:
 
 * https://github.com/ChrisMurphyOnline/open-source-software-development-course/blob/master/activities/foss-evaluation-activity.txt
 * http://foss2serve.org/index.php/Project_Evaluation_Activity_V2

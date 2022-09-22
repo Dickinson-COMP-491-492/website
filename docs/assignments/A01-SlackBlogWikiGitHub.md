@@ -79,7 +79,7 @@ A Wiki provides a way to collaboratively create, modify and structure the conten
    - NOTE: You can find the code for this by clicking "Edit" on my page (but please don't change it.)
    - NOTE: With our Wiki anyone can edit any page. This is great for collaborative creation of the site, but it also comes with great responsibility. Please do not edit anyone else's personal pages. Keep in mind that the Wiki software logs all changes and the user that makes them (Have a look at the "History" tab if you are curious).
 
-## Rubric
+## Grading
 
 This assignment will be graded using the criteria in the rubric below.
 
