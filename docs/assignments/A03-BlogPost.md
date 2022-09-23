@@ -40,7 +40,7 @@ Blog posts will be assessed using the rubric below.
 _Click rubric to enlarge image._<br>
 [![Blog Post Rubric. 3 pts - On time; Post has a thesis that is insightful or will be thought provoking and is clearly connected to a course topic; Text integrates readings, discussion and/or other sources; Writing is well organized, grammatically correct. Post is likely to be of interest to an external audience; Links and use of media are integrated and enhance the post; Post is of appropriate length. 2 pts - On time; Post has a recognizable thesis and is  connected to a course topic; Text touches on readings, discussion and/or other sources; Writing contains few grammatical errors that do not interfere with meaning; Post may be contextualized in the course, potentially limiting interest to an external audience; Links and use of media may not be fully integrated; Post may be slightly short or long. 1 pt - On time; Post lacks a thesis and/or is not clearly connected to a course topic; Text does not draw on readings, discussion and/or other sources; Writing is disorganized and/or contains grammatical errors that interfere with meaning; Links and/or use of media seem disconnected or gratuitous; Post is excessively short or long. 0 pts - Late, missing or substantially incomplete; Clearly demonstrates little to no investment in the assignment.](images/BlogPost-Rubric.jpg)](images/BlogPost-Rubric.jpg)
 
-## Acknowledgements**:
+## Acknowledgements:
 
 This assignment builds from and adapts ideas and content from the following activities created by others:
 
