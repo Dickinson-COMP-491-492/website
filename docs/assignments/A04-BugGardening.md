@@ -62,7 +62,7 @@ This section of the Wiki page should include a table with one row for each suspe
 | _The identifier for the bug as a live link into the project's issue tracker_ | _Initials of the team members investigating this issue_ | _A short description of the issue in your own words_ | _A short explanation of why you found the issue suspect_ | _Yes if you were able to confirm existence of the issue in the latest version. No, if you were were able to confirm it does not exist. Uncertain, if neither yes or no. Also include brief explanation for your answer._ | _Description of any action taken on the bug. If you comment on the ticket or elsewhere, include live links that document your actions._ |
 | [1234](http://example.com/link1234.html) | GB/XY| Deposit field allows negative amounts. |	Ticket dated 2008, latest version released 2016. |	No. Followed steps in ticket to reproduce and negative amount was rejected. |	Commented on the ticket [here](ttp://example.com/sample.html) suggesting that it be closed. |
 | [X5432b](http://example.com/linkX5432b.html) | 	GB/XY	| UI is unresponsive when sorting data.	| Ticket posted for version 1.3, latest product version is 2.7.	| Yes. Confirmed unresponsiveness when sorting the very large test data set.	| Commented on the ticket [here](ttp://example.com/sample.html) indicating problem was seen in Version 2.7 using the large test data set, but was not noticeable with the small test data set. |
-[AB392c](http://example.com/linkAB392c.html) | JM/PQ | Program crashes on dates before 1970.	| Ticket dated 2010, had lots of comments and but no resolution.	| Uncertain. | We were unable to replicate bug because steps for replication were incomplete/unclear with regard to the latest version. Commented on the ticket [here](ttp://example.com/sample.html) explaining source of confusion and asking for clarification. |
+[AB392c](http://example.com/linkAB392c.html) | JM/PQ | Program crashes on dates before 1970.	| Ticket dated 2010, had lots of comments and but no resolution.	| Uncertain. | We were unable to replicate bug because steps for replication were incomplete/unclear with regard to the latest version. Conversed with community [here](ttp://example.com/sample.html) about the issue. Commented on the ticket [here](ttp://example.com/sample.html) with clarified steps. |
 | [9876](http://example.com/link9876.html) | JM/FS | About dialog gives incorrect copyright year. |	Ticket dated 2020, but good first issue tag suggests it should be easy to fix. |	Yes. Followed steps in ticket to reproduce and copyright is still incorrect. |	No action taken. |
 
 If members of your team happen to identify a new issue that does not already appear in the issue tracker you may open a new ticket for that issue in lieu of one of the suspect issues. The corresponding row in the table above should link to the new ticket and describe the issue.  If you go this way, be sure to do a thorough search of the issue tracker before reporting a new issue.
@@ -71,12 +71,9 @@ If members of your team happen to identify a new issue that does not already app
 
 The Bug Gardening assignment will be assessed using the rubric below.
 
-Coming Soon!
-
-<!--
 _Click rubric to enlarge image._<br>
-[![Bug Gardening Rubric. 3 pts -  2 pts -  1 pt -  0 pts - Late, missing or substantially incomplete; Clearly demonstrates little to no investment in the assignment.](images/BugGardening-Rubric.jpg)](images/BugGardening-Rubric.jpg)
--->
+[![Bug Gardening Rubric. 3 pts - On time; Project's bug information is very complete and detailed. Individual has reported on the required number of suspect bugs; Individual's suspect issue reports are clear, complete and detailed with live links; Effective and reasonable actions were taken on suspect issues; Wiki page is well organized and nicely formatted. 2 pts - On time; Project's bug information is listed with some detail. Individual has reported on the required number of suspect bugs; Individual's suspect issue reports are complete with live links, but may lack sufficient detail; Reasonable action(s) may not have been taken on suspect issues. Wiki page is generally organized and reasonably formatted. 1 pt - On time; Project's bug information is incomplete or insufficiently detailed.  Individual did not report on required number of suspect bugs;  Individual's suspect issue reports are incomplete, missing live links, and lack sufficient detail; Reasonable action was not taken on any suspect issue. Wiki page has organization and/or formatting issues. 0 pts - Late, missing or substantially incomplete; Clearly demonstrates little to no investment in the assignment.](images/BugGardening-Rubric.jpg)](images/BugGardening-Rubric.jpg)
+
 
 <!--
 ## Completion Criteria
