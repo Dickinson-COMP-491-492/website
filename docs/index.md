@@ -18,11 +18,11 @@ F 09/16/22      | C06 - Work Day                                           | C07
 T 09/20/22      | C07 - Licensing                                          |
 F 09/23/22      | C08 - Work Day                                           | [A03a - Blog Post #1](assignments/A03-BlogPost.md) (Due: 10/04/22 8:00am)
 T 09/27/22      | C09 - Work Day                                           |
-F 09/30/22      | C10 - Project Selection Presentations - group A          |
-T 10/04/22      | C11 - Project Selection Presentations - group B          | C12 - [Readings & Moodle Post](assignments/Readings.md) (Due: T 10/07/22 8:00am)<br>A04 - Bug Gardening (Due: 10/14/22 8:00am)
-F 10/07/22      | C12 - Culture & Communication                            |
-T 10/11/22      | C13 - Productivity & Quality                             |
-F 10/14/22      | C14 - Work Day                                           | A05 - Tech Spikes (Live Logs / Presentations)
+F 09/30/22      | C10 - Project Selection Presentations                    |
+T 10/04/22      | C11 - Work day                                           | [A04 - Bug Gardening](assignments/A04-BugGardening.md) (Due: F 10/14/22 8:00am)
+F 10/07/22      | C12 - Project Selection Presentation & Work Day          | C13 - [Readings & Moodle Post](assignments/Readings.md) (Due: T 10/11/22 8:00am)
+T 10/11/22      | C13 - Culture & Communication                            |
+F 10/14/22      | C14 - Productivity & Quality & Work Day                  | A05 - Tech Spikes (Live Logs / Presentations)
 &nbsp;          |                                                          |
 T 10/18/22      | **Fall Pause**                                           |
 &nbsp;          |                                                          |
