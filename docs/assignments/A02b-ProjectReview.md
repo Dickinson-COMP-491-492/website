@@ -124,7 +124,7 @@ The Project Review will be graded according to the rubric given below:
 _Click rubric to enlarge image._<br>
 [![Project Review Rubric. 3 pts - On time; All reviews contain all required information;  Information presented gives a clear and highly detailed picture of the projects; Summaries of each section are thoughtful, reflective and insightful; Writing is clear, concise, well organized, uses complete sentences and proper grammar; Reviews are correctly linked, neatly formatted and easy to read. 2 pts - On time; All reviews contain all required information; Information presented addresses the prompts; Summaries of each section are largely factual rather than reflective; Writing may have minor issues but does not distract from meaning or understanding; Reviews are correctly linked but may be poorly formatted or difficult to read. 1 pt - On time; One or more reviews may be missing entirely or missing required information; Information in the review does not give an adequate picture of the project; Summaries of each section are cursory or do not align with the review; Writing, formatting or grammar may interfere with understanding; Reviews may be incorrectly linked, poorly formatted or difficult to read. 0 pts - Late, missing or substantially incomplete; Clearly demonstrates little to no investment in the assignment.](images/ProjectReview-Rubric.jpg)](images/ProjectReview-Rubric.jpg)
 
-## Acknowledgements:
+## Acknowledgements
 
 This assignment builds from and adapts ideas and content from the following activities created by others:
 

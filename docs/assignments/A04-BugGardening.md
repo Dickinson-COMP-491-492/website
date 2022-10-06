@@ -10,7 +10,7 @@ In this assignment you will engage as part of your project's community by doing 
 - Develop an understanding of your project's process for dealing with bugs/issues.
 - Help with the maintenance of your project's issue tracker by Bug Gardening.
 
-### Getting Started:
+### Getting Started
 
 For this activity there will be a number of deliverables that will be collectively produced by your project team and posted to the team Wiki page.
 
@@ -26,7 +26,7 @@ For this activity there will be a number of deliverables that will be collective
 
 All of the team members will be adding information to your "Bug Gardening" Wiki page throughout the activity. However, it is the full team's responsibility to keep your Team's "Project Deliverables" and "Bug Gardening" Wiki pages well organized and nicely formatted.
 
-### Collecting the Project's Bug Information:
+### Collecting the Project's Bug Information
 
 Every H/FOSS project worth its salt will have an issue tracker. In addition to that many projects also have resources (documents/communication channels/etc) that describe the processes and expectations for reporting/triaging/fixing issues or provide ways to discuss issues.
 
@@ -35,7 +35,7 @@ Every H/FOSS project worth its salt will have an issue tracker. In addition to t
 - Collectively as a team, create an annotated list of all of the useful bug/issue related resources that you found.  This list should be a one-stop shop for all of the information you need about dealing with issues in your project. Each entry should contain a live link to the resource that you have found and a sentence or two describing what the resource is.
 - Finally, before continuing read Simon Tatham's article on [How to Report Bugs Effectively](http://www.chiark.greenend.org.uk/~sgtatham/bugs.html).
 
-### Gardening for "Suspect Tickets":
+### Gardening for "Suspect Tickets"
 
 In this part of the activity you will try to help your project by doing some bug gardening. Specifically you will investigate *suspect tickets* in the issue tracker for your project. A suspect ticket is one that is still open (i.e. has not been closed) but that may not actually exist in the current version of the product. Suspect tickets can arise in a variety of ways. Someone may simply have forgotten to close the ticket, someone may have re-discovered and fixed the issue while working on another ticket or the relevant features may have been eliminated from the product.
 
@@ -50,7 +50,7 @@ For example, you may work in pairs, where each pair investigates three suspect t
 Your team must:
 - Decide on a plan and post the details of it to a message in your Teams's slack channel.
 
-#### Reporting "Suspect Tickets":
+#### Reporting "Suspect Tickets"
 
 All of the suspect bugs investigated by the team should collected together and documented under the heading "Suspect Tickets" on your team's "Bug Gardening" Wiki page.
 
@@ -73,25 +73,6 @@ The Bug Gardening assignment will be assessed using the rubric below.
 
 _Click rubric to enlarge image._<br>
 [![Bug Gardening Rubric. 3 pts - On time; Project's bug information is very complete and detailed. Individual has reported on the required number of suspect bugs; Individual's suspect issue reports are clear, complete and detailed with live links; Effective and reasonable actions were taken on suspect issues; Wiki page is well organized and nicely formatted. 2 pts - On time; Project's bug information is listed with some detail. Individual has reported on the required number of suspect bugs; Individual's suspect issue reports are complete with live links, but may lack sufficient detail; Reasonable action(s) may not have been taken on suspect issues. Wiki page is generally organized and reasonably formatted. 1 pt - On time; Project's bug information is incomplete or insufficiently detailed.  Individual did not report on required number of suspect bugs;  Individual's suspect issue reports are incomplete, missing live links, and lack sufficient detail; Reasonable action was not taken on any suspect issue. Wiki page has organization and/or formatting issues. 0 pts - Late, missing or substantially incomplete; Clearly demonstrates little to no investment in the assignment.](images/BugGardening-Rubric.jpg)](images/BugGardening-Rubric.jpg)
-
-
-<!--
-## Completion Criteria
-
-The completion criteria that each sub-team must demonstrate for this activity are:
-- A link on the team wiki to a Bug Activities page.
-- A single, nicely formatted Bug Activities page built collaboratively by all sub-teams on the project. This page must include the following sections and information:
-  - __Bug Resources:__ An annotated list of all of the bug related resources for the project.
-  - __Suspect Bugs:__ The table of suspect bugs that were investigated along with the actions that were taken as described above. Links in this table that qualify as Interactions or Contributions should also be linked in the sub-sections below. Yes, this is repeated information, but the separate organization is helpful to your instructor.
-  - __Interactions:__ An annotated list, with links if possible, of any interactions that your team or sub-team had with the community during this activity (e.g. message board posts, mailing list messages, comments/clarifications on issues, etc.). Please indicate the date of the interaction and the sub-team that had the interaction. Note: Interactions are not required for this activity. However if they occur, please link them here for reference.
-  - __Contributions:__ An annotated list, with links if possible, of any contributions that your team or sub-team made to the project during this activity (e.g. corrections/clarifications/additions to documentation, closed issues, etc.). Please indicate the date of the contribution and the sub-team that made the contribution. Note: Contributions are not required for this activity. However if you discover interesting information about a bug, you are highly encouraged to contribute what you find back to the community. If you do comment on an issue ticket, please include the link here for reference.
-
-Each team member must be able to:
-- Participate competently in a discussion of the bug resources for the project.
-- Show and competently discuss the issue ticket for one suspect bug (e.g. What is the issue? Why is it suspect?) Each sub-team member must select a different suspect bug.
-- Walk through a demonstration of what was done to investigate the suspect bugs.
-- Competently discuss the actions that were taken and show any artifacts (i.e. interactions or contributions) related to the actions.
--->
 
 ---
 

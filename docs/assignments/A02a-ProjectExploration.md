@@ -88,7 +88,7 @@ The Project Exploration will be graded according to the rubric given below:
 _Click rubric to enlarge image._<br>
 [![Project Exploration Rubric. 3 pts - On time; All explorations contain all required information;  Information presented gives a thoughtful, clear and detailed picture of the projects; Writing is clear, concise, well organized, uses complete sentences and proper grammar; Explorations are correctly linked, neatly formatted and easy to read. 2 pts - On time; All explorations contain all required information; Information presented accurately describes the project; Writing may have minor issues but does not distract from meaning or understanding; Explorations are correctly linked but may be poorly formatted or difficult to read. 1 pt - On time; One or more explorations may be missing entirely or missing required information; Information in the exploration does not give an adequate picture of the project; Information may simply be copy and pasted; Writing, formatting or grammar may interfere with understanding. Explorations may be incorrectly linked, poorly formatted or difficult to read. 0 pts - Late, missing or substantially incomplete; clearly demonstrates little to no investment in the assignment.](images/ProjectExploration-Rubric.jpg)](images/ProjectExploration-Rubric.jpg)
 
-## Acknowledgements:
+## Acknowledgements
 
 This assignment builds from and adapts ideas and content from the following activities created by others:
 
