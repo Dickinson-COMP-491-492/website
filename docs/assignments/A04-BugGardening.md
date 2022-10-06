@@ -76,7 +76,9 @@ _Click rubric to enlarge image._<br>
 
 ---
 
-Acknowledgements: This assignment builds from and adapts ideas and content from the following activities created by others:
+## Acknowledgements
+
+This assignment builds from and adapts ideas and content from the following activities created by others:
 - http://foss2serve.org/index.php/Bug_Gardening
 - http://foss2serve.org/index.php/Bug_Selection
 - http://foss2serve.org/index.php/Research_Bug_Activity
