@@ -21,7 +21,7 @@ T 09/27/22      | C09 - Work Day                                           |
 F 09/30/22      | C10 - Project Selection Presentations                    |
 T 10/04/22      | C11 - Work day                                           | [A04 - Bug Gardening](assignments/A04-BugGardening.md) (Due: F 10/14/22 8:00am)
 F 10/07/22      | C12 - Project Selection Presentation & Work Day          | C13 - [Readings & Moodle Post](assignments/Readings.md) (Due: T 10/11/22 8:00am)
-T 10/11/22      | C13 - Culture & Communication                            |
+T 10/11/22      | C13 - Culture & Communication                            | C14 - [Readings & Moodle Post](assignments/Readings.md) (Due: F 10/14/22 8:00am)
 F 10/14/22      | C14 - Productivity & Quality & Work Day                  | A05 - Tech Spikes (Live Logs / Presentations)
 &nbsp;          |                                                          |
 T 10/18/22      | **Fall Pause**                                           |
