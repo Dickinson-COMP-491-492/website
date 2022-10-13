@@ -22,27 +22,27 @@ F 09/30/22      | C10 - Project Selection Presentations                    |
 T 10/04/22      | C11 - Work day                                           | [A04 - Bug Gardening](assignments/A04-BugGardening.md) (Due: F 10/14/22 8:00am)
 F 10/07/22      | C12 - Project Selection Presentation & Work Day          | C13 - [Readings & Moodle Post](assignments/Readings.md) (Due: T 10/11/22 8:00am)
 T 10/11/22      | C13 - Culture & Communication                            | C14 - [Readings & Moodle Post](assignments/Readings.md) (Due: F 10/14/22 8:00am)
-F 10/14/22      | C14 - Productivity & Quality & Work Day                  | A05 - Tech Spikes (Live Logs / Presentations)
+F 10/14/22      | C14 - Productivity & Quality & Work Day                  | [A05 - Tech Spikes](assignments/A05-TechSpikes.md) (Gap Analysis & Learning Resources Due: F 10/21/22 8:00am)
 &nbsp;          |                                                          |
 T 10/18/22      | **Fall Pause**                                           |
 &nbsp;          |                                                          |
 F 10/21/22      | C15 - Work Day (Prof. Braught away - Teams Meet)         |
-T 10/25/22      | C16 - Requirements, Architecture & Specifications        |
-F 10/28/22      | C17 - Work Day                                           | [A03b - Blog Post #2](assignments/A03-BlogPost.md) (Due: T 11/08/22 8:00am)
-T 11/02/22      | C18 - Tech Spike Presentations - group B                 |
-F 11/04/22      | C19 - Tech Spike Presentations - group A                 | A06 - Project Work (Live Logs / 15-5's / Presentations)
-T 11/08/22      | C20 - Work Day                                           | Team 15-5 (Due 11/11/22 8:00am)
-F 11/11/22      | C21 - Work Day                                           |
-T 11/15/22      | C22 - Process & Agile                                    | Individual 15-5 (Due 11/18/22 8:00am)
-F 11/18/22      | C23 - Agile / Scrum Game(s) I                            |
+T 10/25/22      | C16 - Work Day                                           |
+F 10/28/22      | C17 - Requirements, Architecture & Specifications        |
+T 11/01/22      | C18 - Work Day                                           | [A03b - Blog Post #2](assignments/A03-BlogPost.md) (Due: T 11/11/22 8:00am)
+F 11/04/22      | C19 - Process & Agile                                    |
+T 11/08/22      | C20 - Tech Spike Presentations - group B                 |
+F 11/11/22      | C21 - Tech Spike Presentations - group A                 | A06 - Project Work (Live Logs / 15-5's / Presentations)
+T 11/15/22      | C22 - Work Day                                           | Team 15-5 (Due F 11/18/22 8:00am)
+F 11/18/22      | C23 - Agile / Scrum Game(s) I                            | Individual 15-5 (Due T 11/22/22 8:00am)
 T 11/22/22      | C24 - Agile / Scrum Game(s) II                           |
 &nbsp;          |                                                          |
 F 11/25/22      | **Thanksgiving Break**                                   |
 &nbsp;          |                                                          |
-T 11/29/22      | C25 - Comprehension, Verification                        | Team 15-5 (Due 12/02/22 8:00am)
+T 11/29/22      | C25 - Comprehension, Verification                        | Team 15-5 (Due F 12/02/22 8:00am)
 F 12/02/22      | C26 - Work Day                                           |
-T 12/06/22      | C27 - Monitoring and Evolution                           | Individual 15-5 (Due 12/09/22 8:00am)
-F 12/09/22      | C28 - Wrap up                                            | Team 15-5 (Due: 12/16/22 8:00am)
+T 12/06/22      | C27 - Monitoring and Evolution                           | Individual 15-5 (Due F 12/09/22 8:00am)
+F 12/09/22      | C28 - Wrap up                                            | Team 15-5 (Due: F 12/16/22 8:00am)
 &nbsp;          |                                                          |
 F 12/16/22      | **2:00pm - Final Exam Time**<br>Project Status Reports   |
 
