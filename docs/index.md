@@ -27,7 +27,7 @@ F 10/14/22      | C14 - Productivity & Quality & Work Day                  | [A0
 T 10/18/22      | **Fall Pause**                                           |
 &nbsp;          |                                                          |
 F 10/21/22      | C15 - Work Day (Prof. Braught away - Teams Meet)         |
-T 10/25/22      | C16 - Work Day                                           |
+T 10/25/22      | C16 - Work Day                                           | C17 - [Readings & Moodle Post](assignments/Readings.md) (Due: F 10/28/22 8:00am)
 F 10/28/22      | C17 - Requirements, Architecture & Specifications        |
 T 11/01/22      | C18 - Work Day                                           | [A03b - Blog Post #2](assignments/A03-BlogPost.md) (Due: T 11/11/22 8:00am)
 F 11/04/22      | C19 - Process & Agile                                    |
