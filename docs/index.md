@@ -29,7 +29,7 @@ T 10/18/22      | **Fall Pause**                                           |
 F 10/21/22      | C15 - Work Day (Prof. Braught away - Teams Meet)         |
 T 10/25/22      | C16 - Work Day                                           | C17 - [Readings & Moodle Post](assignments/Readings.md) (Due: F 10/28/22 8:00am)
 F 10/28/22      | C17 - Requirements, Architecture & Specifications        |
-T 11/01/22      | C18 - Work Day                                           | C19 - [Readings & Moodle Post](assignments/Readings.md) (Due: F 11/04/22 8:00am)<br>[A03b - Blog Post #2](assignments/A03-BlogPost.md) (Due: T 11/11/22 8:00am)
+T 11/01/22      | C18 - Work Day                                           | C19 - [Readings & Moodle Post](assignments/Readings.md) (Due: F 11/04/22 8:00am)<br>[A03b - Blog Post #2](assignments/A03-BlogPost.md) (Due: F 11/11/22 8:00am)
 F 11/04/22      | C19 - Process & Agile                                    |
 T 11/08/22      | C20 - Tech Spike Presentations - group B                 |
 F 11/11/22      | C21 - Tech Spike Presentations - group A                 | A06 - Project Work (Live Logs / 15-5's / Presentations)
