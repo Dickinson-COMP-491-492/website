@@ -71,7 +71,7 @@ A key quality of good 5-15s is that each successive 5-15 clearly relates back to
      - List and briefly describe the team's accomplishments since the prior 5-15. Credit should be given to individuals when they have been instrumental in an accomplishment. You should explicitly connect back to goals that were set and challenges that were identified in prior 5-15's.
    - **Team Function:** 
      - Breifly describe how the team is functioning, any challenges it is facting and how the team function might be improved. You should explicitly connect back to challenges and ideas for improvement that were identified in prior 5-15's.
-   - ***Blockers:**
+   - **Blockers:**
      - Briefly describe any technical challenges/roadblocks is the team currently facing.
    - **Action Plan:**
      - Identify the items that the team will work on between now and the next 5-15 report. These might include new tasks, things ongoing from prior 5-15s and efforts to address the blockers that have been identified. Specific actions should be proposed and responsibility for them assigned to individuals or sub-teams.
