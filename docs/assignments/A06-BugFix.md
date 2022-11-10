@@ -1,4 +1,4 @@
-# Bug Fixes
+# Bug/Issue Fixes
 
 ## Introduction
 
