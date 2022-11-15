@@ -30,12 +30,12 @@ F 10/21/22      | C15 - Work Day (Prof. Braught away - Teams Meet)         |
 T 10/25/22      | C16 - Work Day                                           | C17 - [Readings & Moodle Post](assignments/Readings.md) (Due: F 10/28/22 8:00am)
 F 10/28/22      | C17 - Requirements, Architecture & Specifications        |
 T 11/01/22      | C18 - Work Day                                           | C19 - [Readings & Moodle Post](assignments/Readings.md) (Due: F 11/04/22 8:00am)<br>[A03b - Blog Post #2](assignments/A03-BlogPost.md) (Due: F 11/11/22 8:00am)
-F 11/04/22      | C19 - Process & Agile                                    |
+F 11/04/22      | C19 - Processes                                          |
 T 11/08/22      | C20 - Tech Spike Presentations - group B                 |
 F 11/11/22      | C21 - Tech Spike Presentations - group A                 | [A06 - Bug/Issues Fixes](assignments/A06-BugFix.md)
 T 11/15/22      | C22 - Work Day                                           | C23 - [Readings & Moodle Post](assignments/Readings.md) (Due: F 11/18/22 8:00am)<br>Team 15-5 (Due F 11/18/22 8:00am)
-F 11/18/22      | C23 - Agile / Scrum Game(s) I                            | Individual 15-5 (Due T 11/22/22 8:00am)
-T 11/22/22      | C24 - Agile / Scrum Game(s) II                           |
+F 11/18/22      | C23 - Agile Processes & Games I                          | Individual 15-5 (Due T 11/22/22 8:00am)
+T 11/22/22      | C24 - Agile Processes & Game(s) II                       |
 &nbsp;          |                                                          |
 F 11/25/22      | **Thanksgiving Break**                                   |
 &nbsp;          |                                                          |
