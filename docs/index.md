@@ -35,12 +35,12 @@ T 11/08/22      | C20 - Tech Spike Presentations - group B                 |
 F 11/11/22      | C21 - Tech Spike Presentations - group A                 | [A06 - Bug/Issues Fixes](assignments/A06-BugFix.md)
 T 11/15/22      | C22 - Work Day                                           | C23 - [Readings & Moodle Post](assignments/Readings.md) (Due: F 11/18/22 8:00am)<br>Team 15-5 (Due F 11/18/22 8:00am)
 F 11/18/22      | C23 - Agile Processes & Games I                          | Individual 15-5 (Due T 11/22/22 8:00am)
-T 11/22/22      | C24 - Agile Processes & Game(s) II                       | C25 - [Readings & Moodle Post](assignments/Readings.md) (Due: F 11/29/22 8:00am)
+T 11/22/22      | C24 - Agile Processes & Game(s) II                       | C25 - [Readings & Moodle Post](assignments/Readings.md) (Due: T 11/29/22 8:00am)
 &nbsp;          |                                                          |
 F 11/25/22      | **Thanksgiving Break**                                   |
 &nbsp;          |                                                          |
-T 11/29/22      | C25 - Comprehension, Verification                        | Team 15-5 (Due F 12/02/22 8:00am)
-F 12/02/22      | C26 - Work Day                                           |
+T 11/29/22      | C25 - Comprehension, Verification & CI/CD                | Team 15-5 (Due F 12/02/22 8:00am)
+F 12/02/22      | C26 - Work Day                                           | C27 - [Readings & Moodle Post](assignments/Readings.md) (Due: T 12/06/22 8:00am)
 T 12/06/22      | C27 - Monitoring and Evolution                           | Individual 15-5 (Due F 12/09/22 8:00am)
 F 12/09/22      | C28 - Wrap up                                            | Team 15-5 (Due: F 12/16/22 8:00am)<br>[A07 - WiD Repo Check](assignments/A07-WiDRepoCheck.md) (Due: F 12/16/22)
 &nbsp;          |                                                          |
