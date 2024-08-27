@@ -1,50 +1,53 @@
 ## General Course Information
-- Fall 2022
-  - T/F 1:30-2:45
+- Fall 2024
+  - Section 01: T/F 1:30-2:45
+  - Section 02: T/F 3:00-4:15
 - [Syllabus & Course Information](syllabus.md)
-- [Course Moodle](https://lms.dickinson.edu/course/view.php?id=48065)
 - [Slack Organization](https://comp491.slack.com/)
+- [Course GitHub Repo](https://github.com/Dickinson-COMP-491-492/AY23-24)
+- [Course Moodle](https://lms.dickinson.edu/user/index.php?id=58387)
 
 ## COMP 491 Outline
 
-Date            | Class Information                                        | Homework Assigned
-----------------|----------------------------------------------------------|----------------------------------------------------------
-T 08/30/22      | C01 - Course Introduction                                | [A01 - Slack/Blog/GitHub/Wiki](assignments/A01-SlackBlogWikiGitHub.md) (Due: F 09/02/22 8:00am)
-F 09/02/22      | C02 - Work Day                                           | C03 - [Readings & Moodle Post](assignments/Readings.md) (Due: T 09/06/22 8:00am)<br>[A02a - Project Explorations](assignments/A02a-ProjectExploration.md) (Due: F 09/09/22 8:00am)
-T 09/06/22      | C03 - SWE / FOSS History                                 |
-F 09/09/22      | C04 - Work Day                                           | C05 - [Readings & Moodle Post](assignments/Readings.md) (Due: T 09/13/22 8:00am)<br>[A02b - Project Reviews](assignments/A02b-ProjectReview.md) (Due: F 09/16/22 8:00am)
-T 09/13/22      | C05 - Organizations & Communities                        |
-F 09/16/22      | C06 - Work Day                                           | C07 - [Readings & Moodle Post](assignments/Readings.md) (Due: T 09/20/22 8:00am)<br>[A02c - Project Ranking and Selection](assignments/A02c-ProjectSelection.md) (Due: **M** 09/26/22 8:00am)
-T 09/20/22      | C07 - Licensing                                          |
-F 09/23/22      | C08 - Work Day                                           | [A03a - Blog Post #1](assignments/A03-BlogPost.md) (Due: 10/04/22 8:00am)
-T 09/27/22      | C09 - Work Day                                           |
-F 09/30/22      | C10 - Project Selection Presentations                    |
-T 10/04/22      | C11 - Work day                                           | [A04 - Bug Gardening](assignments/A04-BugGardening.md) (Due: F 10/14/22 8:00am)
-F 10/07/22      | C12 - Project Selection Presentation & Work Day          | C13 - [Readings & Moodle Post](assignments/Readings.md) (Due: T 10/11/22 8:00am)
-T 10/11/22      | C13 - Culture & Communication                            | C14 - [Readings & Moodle Post](assignments/Readings.md) (Due: F 10/14/22 8:00am)
-F 10/14/22      | C14 - Productivity & Quality & Work Day                  | [A05 - Tech Spikes](assignments/A05-TechSpikes.md) (Gap Analysis & Learning Resources Due: F 10/21/22 8:00am)
-&nbsp;          |                                                          |
-T 10/18/22      | **Fall Pause**                                           |
-&nbsp;          |                                                          |
-F 10/21/22      | C15 - Work Day (Prof. Braught away - Teams Meet)         |
-T 10/25/22      | C16 - Work Day                                           | C17 - [Readings & Moodle Post](assignments/Readings.md) (Due: F 10/28/22 8:00am)
-F 10/28/22      | C17 - Requirements, Architecture & Specifications        |
-T 11/01/22      | C18 - Work Day                                           | C19 - [Readings & Moodle Post](assignments/Readings.md) (Due: F 11/04/22 8:00am)<br>[A03b - Blog Post #2](assignments/A03-BlogPost.md) (Due: F 11/11/22 8:00am)
-F 11/04/22      | C19 - Processes                                          |
-T 11/08/22      | C20 - Tech Spike Presentations - group B                 |
-F 11/11/22      | C21 - Tech Spike Presentations - group A                 | [A06 - Bug/Issues Fixes](assignments/A06-BugFix.md)
-T 11/15/22      | C22 - Work Day                                           | C23 - [Readings & Moodle Post](assignments/Readings.md) (Due: F 11/18/22 8:00am)<br>Team 15-5 (Due F 11/18/22 8:00am)
-F 11/18/22      | C23 - Agile Processes & Games I                          | Individual 15-5 (Due T 11/22/22 8:00am)
-T 11/22/22      | C24 - Agile Processes & Game(s) II                       | C25 - [Readings & Moodle Post](assignments/Readings.md) (Due: T 11/29/22 8:00am)
-&nbsp;          |                                                          |
-F 11/25/22      | **Thanksgiving Break**                                   |
-&nbsp;          |                                                          |
-T 11/29/22      | C25 - Comprehension, Verification & CI/CD                | Team 15-5 (Due F 12/02/22 8:00am)
-F 12/02/22      | C26 - Work Day                                           | C27 - [Readings & Moodle Post](assignments/Readings.md) (Due: T 12/06/22 8:00am)
-T 12/06/22      | C27 - Monitoring and Evolution                           | Individual 15-5 (Due F 12/09/22 8:00am)
-F 12/09/22      | C28 - Wrap up                                            | Team 15-5 (Due: F 12/16/22 8:00am)<br>[A07 - WiD Repo Check](assignments/A07-WiDRepoCheck.md) (Due: F 12/16/22)
-&nbsp;          |                                                          |
-F 12/16/22      | **2:00pm - Final Exam Time**<br>Project Status Reports   | 
+Date            | Class Topic                      | Assigned    | Due
+----------------|----------------------------------|-------------|-------------------
+T 09/03/24      | C01: Introduction                | PA01        |
+F 09/06/24      | C02: Project Explorations        | PA02, RD01  | PA01 
+T 09/10/24      | C03: SWE/FOSS History            |             | RD01
+F 09/13/24      | C04: Project Reviews             | PA03, RD02  | PA02
+T 09/17/24      | C05: Organizations & Communities |             | RD02
+F 09/20/24      | C06: Project Selection           | PA04, RD03  | PA03
+T 09/24/24      | C07: Culture & Communication     |             | RD03
+F 09/27/24      | C08: Tech Spikes                 | PA05        | PA04
+T 10/01/24      | C09: Work Day                    | RD04        | PA05
+F 10/04/24      | C10: Productivity & Quality      | RD05        | RD04
+T 10/08/24      | C11: Lunch with Nate Mitchell    |             | RD05
+F 10/11/24      | C12: Work Day                    | RD06        | FF01
+T 11/15/24      | C13: Reqs, Specs & Archs         | WA01        | RD06
+F 10/18/24      | C14: Work Day (Prof @ CCSC)      |             | FF02
+&nbsp;          |                                  |             | 
+T 10/22/24      | **Fall Pause**                   |             |
+&nbsp;          |                                  |             |
+F 10/25/24      | C15: Work Day                    |             | FF03
+T 10/29/24      | C16: Tech Spike Presentations A  |             | PR01(A), WA01(B)
+F 11/01/24      | C17: Tech Spike Presentations B  |             | PR01(B), WA01(A)
+T 11/05/24      | C18: Project Milestones          | PA06, RD07  |
+F 11/08/24      | C19: Software Processes          |             | RD07
+T 11/12/24      | C20: Work Day                    | RD08        | FF04
+F 11/15/24      | C21: Comprehension, V-and-V      |             | RD08
+T 11/15/24      | C22: Work Day                    | RD09, WA02  | FF05
+F 11/19/24      | C23: Agile Game Round 1          |             | RD09
+T 11/22/24      | C24: Agile Game Round 2          |             | WA02
+&nbsp;          |
+F 11/29/24      | **Thanksgiving Break**
+&nbsp;          |
+T 12/03/24      | C25:  Work Day                   | RD10, WA03  | FF06
+F 12/06/24      | C26:  Test Driven Development    |             | RD10
+T 12/10/24      | C27:  Work Day                   | RD11        | FF07
+F 12/13/24      | C28:  Monitoring & Evolution     |             | RD11, WA03
+&nbsp;          |
+F 12/20/24      | **2:00pm - Final Exam Time**<br>Section 01 |   | PR02, FF08
+S 12/21/23      | **9:00am - Final Exam Time**<br>Section 02 |   | PR02, FF08
 
 ---
 
