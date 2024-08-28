@@ -35,7 +35,18 @@ Students will:
 
 ### Grade Determination
 
-Grades for the course will be determined using the Course Components and their associated weights as listed below. Specific grading criteria for each component will be provided in the linked assignment documents.
+Grades for the course will be be assigned using the following scale:
+
+Percent    | Grade
+-----------|------
+&gt;= 93   | A
+&gt;= 90   | A-
+&gt;= 88   | B+
+&gt;= 83   | B
+&gt;= 80   | B
+etc...     |
+
+The percentage for the course will be determined using the Course Components and their associated weights as listed below. Specific grading criteria for each component will be provided in the linked assignment documents.
 
 #### COMP491 (Fall)
 
@@ -43,7 +54,7 @@ Weight | Course Component
 -------|--------------------------------------------
 20%    | RD: Readings and Discussions
 &nbsp; | **PA: Project Assignments**
-1%     | PA01: Slack, Markdown & GitHub
+1%     | [PA01](assignments/PA01-CourseTools): Course Tools
 3%     | PA02: Project Exploration
 3%     | PA03: Project Reviews
 5%     | PA04: Project Selection
@@ -56,7 +67,7 @@ Weight | Course Component
 4%     | WA01: Blog Post Draft
 3%     | WA02: Blog Post Peer Reviews
 8%     | WA04: Blog Post Final Draft
-15%    | IPE: Individual Project Effectiveness
+15%    | PE: Project Effectiveness
 
 #### COMP492 (Spring)
 
@@ -74,9 +85,9 @@ If advance notice is received and the absence is excused you will be required to
 
 #### Late Work
 
-Managing your time, balancing priorities and accepting quality tradeoffs are important skills and dispositions. Thus, with the notable exceptions of excused absences, late work will not be accepted. 
+Managing your time, balancing priorities and accepting quality tradeoffs are important skills and dispositions. Thus, with the notable exceptions of excused absences, individual extensions will not be given and late work will not be accepted. 
 
-In the event of other unavoidable events, the instructor will determine if due date adjustments are warranted for the class as a whole.
+In the event of other unavoidable events, the instructor will determine if due date adjustments are warranted and if so will grant them for the entire class.
 
 ### Academic Integrity
 
