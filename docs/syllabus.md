@@ -62,7 +62,7 @@ Weight | Course Component
 -------|--------------------------------------------
 20%    | [RD](assignments/RD-ReadingsAndDiscussion.md): Readings and Discussions
 &nbsp; | **PA: Project Assignments**
-1%     | [PA01](assignments/PA01-CourseTools): Course Tools
+1%     | [PA01](assignments/PA01-CourseTools.md): Course Tools
 3%     | PA02: Project Exploration
 3%     | PA03: Project Reviews
 5%     | PA04: Project Selection

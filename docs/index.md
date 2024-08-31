@@ -49,7 +49,7 @@ F 12/20/24      | **2:00pm - Final Exam Time**<br>Section 01 |    | PP02, TF12
 S 12/21/23      | **9:00am - Final Exam Time**<br>Section 02 |    | PP02, TF12
 
 
-[PA01]: assignments/PA01-CourseTools (PA01 - Course Tools)
+[PA01]: assignments/PA01-CourseTools.md (PA01 - Course Tools)
 [RD01]: assignments/RD-ReadingsAndDiscussion.md#preparation (Reading Assignments)
 
 ---
