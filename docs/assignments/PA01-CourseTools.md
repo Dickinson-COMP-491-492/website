@@ -1,4 +1,4 @@
-## PA-01: Course Tools
+## PA01: Course Tools
 
 ### Introduction
 

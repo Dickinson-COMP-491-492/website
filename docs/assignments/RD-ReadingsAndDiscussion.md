@@ -26,22 +26,26 @@ Discussions provide an opportunity for you to refine your understanding of the t
 
 ### Reading Assignments
 
-Discussion Date | Reading / Discussion Topic           | Assigned Readings
-----------------|--------------------------------------|--------------------
-T 09/10/24      | RD-01: SWE/FOSS History              | 1. [SWE History]<br>2. [Mysteries of OSS]
-T 09/17/24      | RD-02: Organizations & Communities   |
-T 09/24/24      | RD-03: Culture & Communication       |
-F 10/04/24      | RD-04: Productivity & Quality        |
-T 10/08/24      | RD-05: Lunch with Nate Mitchell      |
-T 11/15/24      | RD-06: Reqs, Specs & Archs           |
-F 11/08/24      | RD-07: Software Processes            |
-F 11/15/24      | RD-08: Comprehension, V-and-V        |
-F 11/19/24      | RD-09: Agile Game Round 1            |
-F 12/06/24      | RD-10: Test Driven Development       |
-F 12/13/24      | RD-11: Monitoring & Evolution        |
+Discussion Date | Reading / Discussion Topic          | Assigned Readings
+----------------|-------------------------------------|--------------------
+T 09/10/24      | RD01: SWE/FOSS History              | 1. [SWE History]<br>2. [Mysteries of OSS]
+T 09/17/24      | RD02: Organizations & Communities   | 1. [SWE Organizations]<br>2. [OSS Communities]<br>3. [DEI in OSS]
+T 09/24/24      | RD03: Culture & Communication       |
+F 10/04/24      | RD04: Productivity & Quality        |
+T 10/08/24      | RD05: Lunch with Nate Mitchell      |
+T 11/15/24      | RD06: Reqs, Specs & Archs           |
+F 11/08/24      | RD07: Software Processes            |
+F 11/15/24      | RD08: Comprehension, V-and-V        |
+F 11/19/24      | RD09: Agile Game Round 1            |
+F 12/06/24      | RD10: Test Driven Development       |
+F 12/13/24      | RD11: Monitoring & Evolution        |
 
 [SWE History]: https://faculty.washington.edu/ajko/books/cooperative-software-development/history
 [Mysteries of OSS]: https://doi.ieeecomputersociety.org/10.1109/HICSS.2005.609
+
+[SWE Organizations]: (https://faculty.washington.edu/ajko/books/cooperative-software-development/organizations)
+[OSS Communities]: https://opensource.com/business/13/6/four-types-organizational-structures-within-open-source-communities
+[DEI in OSS]: https://blog.container-solutions.com/wtf-is-wrong-with-open-source-communities
 
 ### Grading
 
@@ -65,7 +69,6 @@ Note: Intermediate scores between the above values may also be used.
 
 <!--
 
-T 09/13/22      | C05 - Organizations & Communities                 | 1. SWE [Organizations](https://faculty.washington.edu/ajko/books/cooperative-software-development/organizations)<br>2. [Four types of open source communities](https://opensource.com/business/13/6/four-types-organizational-structures-within-open-source-communities)<br>3. [Open-Source Contribution: The Ultimate Guide](https://builtin.com/software-engineering-perspectives/open-source-contribution)<br>4. [WTF is Wrong with Open Source Communities?](https://blog.container-solutions.com/wtf-is-wrong-with-open-source-communities)
 T 09/20/22	    | C07 - Licensing                                   | 1. [How to Use Popular Open Source Licenses, Explained](https://www.capitalone.com/tech/open-source/open-source-licenses-explained-2021/)<br>2. [If Software is My Copilot, Who Programmed My Software?](https://sfconservancy.org/blog/2022/feb/03/github-copilot-copyleft-gpl/)<br>3. [Dual Licensing in Open Source Software Industry](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1354&context=sim)
 T 10/11/22      | C13 - Culture & Communication                     | 1. SWE [Communication](https://faculty.washington.edu/ajko/books/cooperative-software-development/communication)<br>2. Producing OSS [Chapter #6 - Communications](https://producingoss.com/en/producingoss.html#communications) (Stop at Publicity)<br>3. [Why Companies Should Model Their Culture After Open Source](https://www.forbes.com/sites/forbestechcouncil/2021/06/29/why-companies-should-model-their-culture-after-open-source)
 F 10/14/22      | C14 - Productivity & Quality                      | 1. SWE [Productivity](https://faculty.washington.edu/ajko/books/cooperative-software-development/productivity)<br>2. SWE [Quality](https://faculty.washington.edu/ajko/books/cooperative-software-development/quality)<br>3. [The Cathedral and the Bazaar](https://lms.dickinson.edu/mod/resource/view.php?id=1136133)
