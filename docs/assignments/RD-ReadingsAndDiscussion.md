@@ -1,4 +1,4 @@
-## Readings and Class Discussions
+## RD: Readings and Class Discussions
 
 Readings and class discussions are an important part of the senior seminar.  They are intended to provide you with exposure to, and the chance to discuss, topics in software engineering (concentrated in 491/fall) and timely computing related unsettled social, legal and ethical issues (concentrated in 492/spring). Our coverage of software engineering topics complements provides exposure to concepts and processes that you should be aware of but that are not covered elsewhere in the curriculum.  The coverage of computing related unsettled social, legal and ethical issues provides you with the opportunity to examine multiple perspectives on todays complex issues, form opinions, discuss them and write about them.
 
@@ -41,7 +41,7 @@ F 12/06/24      | RD-10: Test Driven Development       |
 F 12/13/24      | RD-11: Monitoring & Evolution        |
 
 [SWE History]: https://faculty.washington.edu/ajko/books/cooperative-software-development/history
-[Mysteries of OSS]: https://www.computer.org/csdl/pds/api/csdl/proceedings/download-article/12OmNwBjP1x/pdf
+[Mysteries of OSS]: https://doi.ieeecomputersociety.org/10.1109/HICSS.2005.609
 
 ### Grading
 
