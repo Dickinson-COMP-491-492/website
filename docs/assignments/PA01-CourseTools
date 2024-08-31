@@ -1,6 +1,6 @@
-# Project Assignment O1 - Course Tools
+## PA-O1 - Course Tools
 
-## Introduction
+### Introduction
 
 Professional and open source software developers make use of many different tools each with its own purpose, strengths and weaknesses. We will be making use of a variety of such tools (Teams, git/GitHub, Markdown,Teammates) in this class.  In addition, you will find yourselves needing to use a number of other tools to engage with the Free and Open Source Software (FOSS) community you select for your project.
 
@@ -10,26 +10,27 @@ The tools that we will use can be broadly divided into four categories:
 - Content Authoring Language: Used for writing and formatting text-based documents.  This includes things such as HTML, Markdown, LaTeX, and AsciiDoc.  We will be using Markdown.
 - Performance Reviews: Used for conducting personnel reviews and providing feedback to teams. Many companies use proprietary tools and processes for annual reviews (e.g. [360 Reviews](https://www.thebalancemoney.com/what-is-a-360-review-1917541)).  We will be using Teammates.
 
-## Assignment
+### Assignment
 
 This assignment will prepare you to use the tools that we will employ in this course.  Each of the following sections focuses on one of our tools and gives you some tasks to complete. Completing the tasks will ensure that you are ready to use these tools in other assignments.
 
-### Teams
+#### Teams
 
 We will be using teams as our primary form of communication in this course.  All course related communication with the instructor and within your teams will take place on Teams. 
 
-Complete the following tasks on Teams.
+Complete the following tasks on Teams to find our course and to (re)familiarize yourself with it.
 1. Find the COMP491/492-AY24-25 Team in your browser or the Teams app.
 2. Open the PA01 - Course Tools Channel
    1. Find "Introduce Yourself" post, read it, and post a response.
    2. Find the "Tag Someone" post, read it, and post a response.
+   3. React to a at least one other post with a "Thumbs Up".
 3. Use the Teams Chat feature to send a direct message to the course instructor with the GitHub username that you use for the [Dickinson COMP WiD](https://github.com/Dickinson-COMP-WiD) repository.
 
-### git/GitHub
+#### git/GitHub
 
 We will be using git/GitHub pull requests to build a repository of completed assignments for this course. You will fork and clone this repository and add to it by making pull requests as you and your team work on assignments. You will also be using git and GitHub (or another repository hosting service) extensively in your work on your project.
 
-Complete the following tasks using git/GitHub.  You may have to brush up your git/GitHub skills.
+Complete the following tasks using git/GitHub to find our course repository and to refresh your git/GitHub skills.
 1. If you have not already, accept the invitation to join the `Dickinson-COMP-491-491/AY24-25` repository as a contributor.
 2. Fork the [Dickinson-COMP-491-491/AY24-25](https://github.com/Dickinson-COMP-491-492/AY24-25) repository into your GitHub account. 
    - By default your fork will be named just `AY-24-25` you can give this a more meaningful name when you create your fork, or via the settings on your fork after you create it. 
@@ -39,8 +40,7 @@ Complete the following tasks using git/GitHub.  You may have to brush up your gi
    - [VSCode](https://code.visualstudio.com/) or its FOSS alternative [VSCodium](https://vscodium.com/) are good choices that you can install for free if you do not already have a preferred editor.
 5. Each of you has an individual directory within this repository.  In this step you will make changes to a file in that directory and create a pull request to have them merged into the upstream.
    1. Create a new feature branch from `main` for your changes.
-   2. Find the `student` directory and your directory inside of it.
-      - Your directory will be named using your Dickinson username.
+   2. Find the `students` directory and your directory inside of it.
    3. Open the `README.md` file in your directory, it will be empty.
    4. Edit the file to include a sentence or two introducing yourself and what you are hoping to do after graduation.
    5. Save the file.
@@ -50,7 +50,7 @@ Complete the following tasks using git/GitHub.  You may have to brush up your gi
    8. Create a pull request to the upstream for your changes.
       - Be sure to give your PR a descriptive title.
     
-### Markdown
+#### Markdown
 
 GitHub and many other platforms use Markdown as their content authoring language.  Markdown uses basic syntax to allow you to style and format documents. On GitHub, this allows you to style (e.g. boldface, underline, links, etc) and structure (e.g. section headings, tables, images, etc) content in issues, pull requests and in any file with a `.md` extension.
 
@@ -70,7 +70,7 @@ When rendered in GitHub this markdown will appear like this:
 
 ![A small example of rendered markdown with headings, bold and italic text.](images/markdown-sample.png)
 
-Use the documentation on the [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) page and the [Organizing information with tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) page when completing the following tasks:
+Use the documentation on the [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) page and the [Organizing information with tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) page to complete the following tasks and (re)familiarize yourself with Markdown.
 
 1. Create a new feature branch from `main`
 2. Add the following to your `README.md` file
@@ -91,8 +91,41 @@ Use the documentation on the [Basic writing and formatting syntax](https://docs.
 
 There is a lot more to Markdown than that, but once you have the basics, its easy enough to look up the rest when you need it.
 
-### Teammates
+#### Teammates
 
-## Grading
+We will be using [Teammates](https://teammatesv4.appspot.com/web/front/home) to perform self-assessments, to give and receive anonymous peer-feedback, and to receive instructor feedback on project work.
 
-Graded on completion.
+Complete the following tasks to become familiar with how Teammates works.
+
+1. If you have not already, use the link in the e-mail that you received from Teammates to register for our course.
+2. Find the "PA-01" session in teammates:
+   1. Click the "Start Submission" button for "PA-01"
+   2. Complete the survey
+      - This is just for practice so:
+        - you have been assigned to made up teams for this exercise.
+        - you won't have a basis for providing feedback so make things up.
+        - be sure to respond to every question in some way.
+   3. Submit the survey either question by question as you go or all at once at the end.
+3. Check the responses that you receive. 
+   - In this instance, you will see feedback as it is submitted.
+   - For later uses, you will receive feedback only after the instructor reviews and releases it.
+
+### Grading
+
+This assignment will be graded as follows.
+
+Score | Criteria
+------|----------
+10    | All elements have been completed correctly.
+8     | All elements have been completed, but there are a few minor issues.
+5     | Most but not all elements have been completed, or there are major issues.
+2     | A few elements have been completed.
+0     | Assignment not submitted on time.
+
+Note: Intermediate scores between the above values may also be used.
+
+---
+
+![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+![GPL V3 or Later](https://www.gnu.org/graphics/gplv3-or-later-sm.png "GPL V3 or later") All executable code used in this course is licensed under the [GNU General Public License Version 3 or later](https://www.gnu.org/licenses/gpl.txt)

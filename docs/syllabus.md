@@ -1,6 +1,6 @@
 ## Syllabus
 
-### Course Description
+### Course Content
 
 The Senior Seminar (COMP491/492 combined) has two main components:
 
@@ -18,7 +18,7 @@ Assignment details including all due dates are given on the Course Home Page:
 
 ### Textbook
 
-Reading materials for COMP491/492 will be provided via links on the course schedule or via Moodle.
+Reading materials for COMP491/492 will be provided via links on the course schedule.
 
 ### Learning Goals
 
@@ -33,11 +33,19 @@ Students will:
 - [WiD goal] develop their ability to write about and express an opinion on a social, legal or ethical issue in computing for a broad technical audience.
 - [WiD goal] reflect on their experiences with the computer science major and the relationship of those experiences to their future goals and plans.
 
+### Community and Inclusivity
+
+All members of this class are equally valued members of our course community. The instructor aims to create an inclusive atmosphere in which we can listen and speak in ways that are respectful of each other and our diversity of heritages, identities, experiences, knowledge, and views. All questions will be accepted and treated with kindness. Some topics will push us to develop new ideas and opinions about things we may not have thought about before. The instructor aims to promote a generous atmosphere. One where we listen and speak to understand. One where all are given the benefit of the doubt as they try out new and partially formed thoughts and opinions. One where we respond to and critique statements and ideas, not individuals. If you feel at any time that these ideals are not being met or have ways that our course atmosphere can be improved you are encouraged to reach out to the instructor. In cases where talking with the instructor is not comfortable please contact your advisor, the Department Chair or another trusted College official for guidance.
+
+### Time Commitment
+
+Courses at Dickinson are equivalent to four credit hours, even though they only meet for 150 minutes a week (or three credit hours). The awarding of the fourth credit hour is predicated on the expectation that every hour spent in class is accompanied by at least three hours of work outside of class.  Thus, the expectation is that you will be spending between 7 and 9 hours per week doing work outside of class for this course. That time will be divided between reading and discussion preparation (typically at least 1-2 hours/week) and project work (typically at least 6-8 hours/week).
+
 ### Grade Determination
 
 Grades for the course will be be assigned using the following scale:
 
-Percent    | Grade
+Percentage | Grade
 -----------|------
 &gt;= 93   | A
 &gt;= 90   | A-
@@ -46,13 +54,13 @@ Percent    | Grade
 &gt;= 80   | B
 etc...     |
 
-The percentage for the course will be determined using the Course Components and their associated weights as listed below. Specific grading criteria for each component will be provided in the linked assignment documents.
+Every assignment will receive a score from 0-10. The percentage for the course will be determined using those scores and weights for each course component as listed below. A curve that increases all students' percentages may be applied at the instructor's discretion when computing reported grades (Roll Call, Final Grade). The specific grading criteria for each component will be provided in the assignment documents linked below.
 
 #### COMP491 (Fall)
 
 Weight | Course Component                              
 -------|--------------------------------------------
-20%    | RD: Readings and Discussions
+20%    | [RD](assignments/RD-ReadingsAndDiscussion.md): Readings and Discussions
 &nbsp; | **PA: Project Assignments**
 1%     | [PA01](assignments/PA01-CourseTools): Course Tools
 3%     | PA02: Project Exploration
@@ -60,6 +68,7 @@ Weight | Course Component
 5%     | PA04: Project Selection
 3%     | PA05: Technology Spike Prep
 5%     | PA06: Bug Gardening
+15%    | PE: Project Effectiveness
 &nbsp; | **PP: Project Presentations**
 10%    | PP01: Tech Spike Presentation
 20%    | PP02: Final Project Presentation
@@ -67,7 +76,7 @@ Weight | Course Component
 4%     | WA01: Blog Post Draft
 3%     | WA02: Blog Post Peer Reviews
 8%     | WA04: Blog Post Final Draft
-15%    | PE: Project Effectiveness
+
 
 #### COMP492 (Spring)
 

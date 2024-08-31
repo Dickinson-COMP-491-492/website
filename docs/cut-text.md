@@ -1,4 +1,5 @@
 
+
 <!---
  Plus, its good practice - many employers are now using [Group Discussions as a screening technique before or during interviews!](https://www.reed.co.uk/career-advice/group-interview-tips-dos-and-donts/)
 -->

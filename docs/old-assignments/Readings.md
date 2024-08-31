@@ -1,10 +1,10 @@
-# Class Discussion Readings
+# Readings and Discussions
 
 This page will provide the readings for all of the class discussions.  Readings for topics will be added as the discussion days approach.  Be sure that you are completing the readings for the correct topic and date.
 
 Our readings on Software Engineering topics will be drawn from the book [Cooperative Software Development](https://faculty.washington.edu/ajko/books/cooperative-software-development/) by [Amy J. Ko](https://faculty.washington.edu/ajko/). Additional readings on other topics will be drawn from a variety of sources.
 
-## Class Preparation:
+## Preparation:
 
 On days that we are discussing topics, you are expected to complete readings before class, think about and process them.  In addition, you are expected to find and complete at least one additional reading on a topic in the above readings or on a question of your own related to today's topic that you would like to learn more about.
 
@@ -14,7 +14,7 @@ On days that we are discussing topics, you are expected to complete readings bef
 - **Question(s)** - Post at least one question or discussion topic you would like us to consider as a class and include a sentence about why you think it would be a good question or topic to discuss as a class.
 - Optionally, but encouraged, respond to your classmates posts, adding your thoughts or perspectives and/or seconding their questions/discussion topics.
 
-## Reading and Discussion Topics:
+## Reading Assignments:
 
 Date            | Reading / Discussion Topic                        | Assigned Readings
 ----------------|---------------------------------------------------|--------------------
