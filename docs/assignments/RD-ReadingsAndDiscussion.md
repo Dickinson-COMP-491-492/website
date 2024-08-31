@@ -41,7 +41,7 @@ F 12/06/24      | RD-10: Test Driven Development       |
 F 12/13/24      | RD-11: Monitoring & Evolution        |
 
 [SWE History]: https://faculty.washington.edu/ajko/books/cooperative-software-development/history
-[Mysteries of OSS]: https://csdl-downloads.ieeecomputer.org/proceedings/hicss/2005/2268/07/22680196a.pdf
+[Mysteries of OSS]: https://www.computer.org/csdl/pds/api/csdl/proceedings/download-article/12OmNwBjP1x/pdf
 
 ### Grading
 
