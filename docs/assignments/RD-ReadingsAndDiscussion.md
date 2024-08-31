@@ -43,7 +43,7 @@ F 12/13/24      | RD11: Monitoring & Evolution        |
 [SWE History]: https://faculty.washington.edu/ajko/books/cooperative-software-development/history
 [Mysteries of OSS]: https://doi.ieeecomputersociety.org/10.1109/HICSS.2005.609
 
-[SWE Organizations]: (https://faculty.washington.edu/ajko/books/cooperative-software-development/organizations)
+[SWE Organizations]: https://faculty.washington.edu/ajko/books/cooperative-software-development/organizations
 [OSS Communities]: https://opensource.com/business/13/6/four-types-organizational-structures-within-open-source-communities
 [DEI in OSS]: https://blog.container-solutions.com/wtf-is-wrong-with-open-source-communities
 
