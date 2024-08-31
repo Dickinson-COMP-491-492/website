@@ -50,7 +50,18 @@ S 12/21/23      | **9:00am - Final Exam Time**<br>Section 02 |    | PP02, TF12
 
 
 [PA01]: assignments/PA01-CourseTools.md
+
 [RD01]: assignments/RD-ReadingsAndDiscussion.md#preparation
+[RD02]: assignments/RD-ReadingsAndDiscussion.md#preparation
+[RD03]: assignments/RD-ReadingsAndDiscussion.md#preparation
+[RD04]: assignments/RD-ReadingsAndDiscussion.md#preparation
+[RD05]: assignments/RD-ReadingsAndDiscussion.md#preparation
+[RD06]: assignments/RD-ReadingsAndDiscussion.md#preparation
+[RD07]: assignments/RD-ReadingsAndDiscussion.md#preparation
+[RD08]: assignments/RD-ReadingsAndDiscussion.md#preparation
+[RD09]: assignments/RD-ReadingsAndDiscussion.md#preparation
+[RD10]: assignments/RD-ReadingsAndDiscussion.md#preparation
+[RD11]: assignments/RD-ReadingsAndDiscussion.md#preparation
 
 ---
 
