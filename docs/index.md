@@ -15,8 +15,8 @@ F 09/06/24      | C02: Project Explorations        | [PA02], [RD01] | [PA01]
 T 09/10/24      | C03: SWE/FOSS History            |                | [RD01]
 F 09/13/24      | C04: Project Reviews             | PA03, [RD02]   | [PA02]
 T 09/17/24      | C05: Organizations & Communities |                | [RD02]
-F 09/20/24      | C06: Project Selection           | PA04, RD03     | PA03
-T 09/24/24      | C07: Culture & Communication     |                | RD03
+F 09/20/24      | C06: Project Selection           | PA04, [RD03]   | PA03
+T 09/24/24      | C07: Culture & Communication     |                | [RD03]
 F 09/27/24      | C08: Tech Spikes                 | PA05           | PA04, TF01
 T 10/01/24      | C09: Work Day                    | RD04           | PA05
 F 10/04/24      | C10: Productivity & Quality      | RD05           | RD04, TF02
