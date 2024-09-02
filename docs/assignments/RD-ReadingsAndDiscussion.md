@@ -30,7 +30,7 @@ Discussion Date | Reading / Discussion Topic          | Assigned Readings
 ----------------|-------------------------------------|--------------------
 T 09/10/24      | RD01: SWE/FOSS History              | 1. [SWE History]<br>2. [Mysteries of OSS]
 T 09/17/24      | RD02: Organizations & Communities   | 1. [SWE Organizations]<br>2. [OSS Communities]<br>3. [DEI in OSS]
-T 09/24/24      | RD03: Culture & Communication       |
+T 09/24/24      | RD03: Culture & Communication       | 1. [SWE Communication]<br>2. [OSS Communications]<br>(Stop before "Handling Growth")
 F 10/04/24      | RD04: Productivity & Quality        |
 T 10/08/24      | RD05: Lunch with Nate Mitchell      |
 T 11/15/24      | RD06: Reqs, Specs & Archs           |
@@ -47,25 +47,17 @@ F 12/13/24      | RD11: Monitoring & Evolution        |
 [OSS Communities]: https://opensource.com/business/13/6/four-types-organizational-structures-within-open-source-communities
 [DEI in OSS]: https://blog.container-solutions.com/wtf-is-wrong-with-open-source-communities
 
+[SWE Communication]: https://faculty.washington.edu/ajko/books/cooperative-software-development/communication
+[OSS Communications]: https://producingoss.com/en/producingoss.html#communications
+
 ### Grading
 
 A grade for Readings and Discussion will be recorded three times throughout the semester.  Each grade will take into account all Reading and Discussion assignments since the prior grade was recorded.
 
-The grade will be determined by considering three factors <b>Discussion Questions</b>, <b>Preparation</b>, and <b>Engagement</b> as shown below.
-
-Score | Discussion Questions<br>and Explanations            | Preparation*                                                | Engagement
-------|-----------------------------------------------------|----------------------------------------------------------|-----------------------------------
-10    | Demonstrate authentic engagement with every reading | Evidence of exceptional preparation for every discussion | Consistently attentive and enhanced every discussion
-9     | Demonstrate familiarity with every reading          | Evidence of preparation for every discussion             | Consistently attentive and contributed effectively to most discussions
-8     | &nbsp;                                              | &nbsp;                                                   | Consistently attentive and contributed to at least one discussion
-7     | Are perfunctory for most readings                   | &nbsp;                                                   | Periods of inattentiveness or did not contribute to any discussions
-4     | One missing or late                                 | Evidence of limited familiarity with readings            | &nbsp;
-2     | Two missing or late                                 | &nbsp;                                                   | Disruptive or consistently inattentive
-0     | All missing or late                                 | No evidence of preparation                               | Absent or fully disengaged
-
-Note: Intermediate scores between the above values may also be used.
-
-<b>*</b> Preparation can be demonstrated in multiple ways. Posting exceptional discussion questions with thoughtful explanations can help to demonstrate preparation, but will not be sufficient on its own. Demonstrating a strong familiarity with the readings by making thoughtful, insightful, and timely contributions to the discussion will can demonstrate preparation. In an instance where you feel your discussion questions, and/or contributions to the discussion do not adequately demonstrate your preparation, you may also submit your sheet of handwritten notes to the instructor following class as evidence of preparation.
+The grade will be determined by assigning scores to three factors <b>Discussion Questions</b>, <b>Preparation</b>, and <b>Engagement</b>.  The scores for these factors will be assigned using the general [Assignment Score](../syllabus.md#assignment-scores) criteria.
+- **Discussion Questions**: These are the discussion question(s) and explanation(s) that you post to the Teams channel for the assignment.
+- **Preparation**: Preparation can be demonstrated in multiple ways. Posting exceptional discussion questions with thoughtful explanations can help to demonstrate preparation, but will not be sufficient on its own. Demonstrating a strong familiarity with the readings by making thoughtful, insightful, and timely contributions to the discussion will can demonstrate preparation. In an instance where you feel your discussion questions, and/or contributions to the discussion do not adequately demonstrate your preparation, you may also submit your sheet of handwritten notes to the instructor following class as evidence of preparation.
+- **Engagement**: Engagement is measured using the in-class discussion.  You are expected to be preset, attentive and to regularly contribute to the discussion in constructive ways.  Contributions should be on-topic, connected to the current thread of discussion.  You should be conscious of your level of contribution and regulate accordingly to ensure that you participate, and that everyone else has an opportunity to contribute.
 
 <!--
 

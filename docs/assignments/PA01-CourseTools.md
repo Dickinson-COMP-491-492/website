@@ -47,7 +47,7 @@ Complete the following tasks using git/GitHub to find our course repository and 
    6. Stage and commit your changes to the feature branch that you created.
       - Be sure to use a meaningful commit message that describes the change that you made.
    7. Push your feature branch to your origin on GitHub.
-   8. Create a pull request to the upstream for your changes.
+   8. Turn in your work by creating a pull request to the upstream for your changes.
       - Be sure to give your PR a descriptive title.
     
 #### Markdown
@@ -73,7 +73,7 @@ When rendered in GitHub this markdown will appear like this:
 Use the documentation on the [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) page and the [Organizing information with tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) page to complete the following tasks and (re)familiarize yourself with Markdown.
 
 1. Create a new feature branch from `main`
-2. Add the following to your `README.md` file
+2. Add the following to your `README.md` file:
    1. A top level section header with your name.
    2. Second level section headers for "About Me" and "My Schedule"
    3. In the "About Me" section:
@@ -87,7 +87,7 @@ Use the documentation on the [Basic writing and formatting syntax](https://docs.
       - the name of each course in the appropriate cells.
 3. Stage and commit your changes
 4. Push your feature branch to your origin on GitHub
-5. Create a pull request to the upstream for your branch.
+5. Turn in your work by creating a pull request to the upstream for your branch.
 
 There is a lot more to Markdown than that, but once you have the basics, its easy enough to look up the rest when you need it.
 
@@ -109,20 +109,6 @@ Complete the following tasks to become familiar with how Teammates works.
 3. Check the responses that you receive. 
    - In this instance, you will see feedback as it is submitted.
    - For later uses, you will receive feedback only after the instructor reviews and releases it.
-
-### Grading
-
-This assignment will be graded as follows.
-
-Score | Criteria
-------|----------
-10    | All elements have been completed correctly.
-8     | All elements have been completed, but there are a few minor issues.
-5     | Most but not all elements have been completed, or there are major issues.
-2     | A few elements have been completed.
-0     | Assignment not submitted on time.
-
-Note: Intermediate scores between the above values may also be used.
 
 ---
 

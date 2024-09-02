@@ -16,6 +16,11 @@ The Senior Seminar (COMP491/492 combined) has two main components:
 Assignment details including all due dates are given on the Course Home Page:
 - https://dickinson-comp-491-492.github.io/website/
 
+### Instructor's Schedule
+
+The instructor's schedule including office hours can be found on his Home Page:
+- https://users.dickinson.edu/~braught/
+
 ### Textbook
 
 Reading materials for COMP491/492 will be provided via links on the course schedule.
@@ -43,9 +48,79 @@ Courses at Dickinson are equivalent to four credit hours, even though they only 
 
 ### Grade Determination
 
-Grades for the course will be be assigned using the following scale:
+#### Assignment Scores
 
-Percentage | Grade
+Every assignment will receive an Assignment Score from 0-10 based on the scale and criteria shown below. The specific requirements for each assignment are provided in the assignment documents linked on the [Course Schedule](index.md) or below in the [491](#comp491-course-components-fall) and [492](#comp492-course-components-spring) Course Components sections.
+
+Score | Criteria
+------|----------
+10    | [Exceptional Work](#exceptional-work)
+8-9   | [Good Work](#good-work)
+7     | [Sufficient Work](#sufficient-work)
+5-6   | [Deficient Work](#deficient-work)
+1-4   | [Incomplete Work](#incomplete-work)
+0     | [Missing Work](#missing-work)
+
+Note that comments received on an assignment are provided as constructive feedback and are not intended to be a justification of the assigned score. Students feeling that a score was not fairly assigned may meet with the instructor to discuss the score. If a higher score is being requested, the student should prepare evidence that the work meets the criteria for the higher score.
+
+##### Exceptional Work
+
+Exceptional work shows an engagement with the assignment that is above and beyond expectations.  
+
+Exceptional work is work that in the judgement of the instructor:
+- clearly meets all of the assignment requirements. 
+- is universally clear, correct, logical, well organized, and considerate.
+- is universally at a level appropriate to the target audience.
+- clearly demonstrates thoughtfulness, engagement and attention to detail.
+- leaves no doubt that at least the expected amount of time was invested in its completion.
+- is universally neatly presented.
+- universally uses correct grammar. 
+- often reflects research, insight or thoughtfulness beyond what is specified by the assignment. 
+- may also reflect extremely high quality, an effective extension, a thoughtful insight, a creative connection to other work or content, or a novel interpretation of the assignment.
+
+##### Good Work
+
+Good work shows a successful completion of the assignment that meets expectations.
+
+Good work is work that in the judgement of the instructor:
+- meets all of the assignment requirements, with possible allowance for a few small omissions.
+- is consistently clear, correct, logical, well organized, and considerate.
+- is consistently at a level appropriate to the target audience.
+- demonstrates thoughtfulness, engagement and attention to detail.
+- suggests that at least the expected amount of time was invested in its completion.
+- is consistently neatly presented.
+- uses correct grammar to the extent that any issues do not interfere with understanding.
+
+##### Sufficient Work
+
+Sufficient work is work that does not fully meet the criteria for [Good Work](#good-work), but exceeds the criteria for [Deficient Work](#deficient-work).
+
+##### Deficient Work
+
+Deficient work shows a completion of assignment that does not meet expectations in one or more ways.
+
+Deficient work is work that in the judgement of the instructor:
+- meets the most important assignment requirements, but may have significant omissions.
+- may contain incorrect, unclear, illogical, disorganized, or inconsiderate content.
+- may not consistently be at a level appropriate to the target audience.
+- reflects insufficient thought, engagement or attention to detail.
+- suggests that much less than the expected amount of time was invested in its completion.
+- may be messy making it hard to follow.
+- may contain significant grammar issues that interfere with understanding.
+
+##### Incomplete Work
+
+Incomplete work is work in which essential and/or substantial portions of the assignment are missing.
+
+##### Missing Work
+
+Missing work is when no work has been submitted for the assignment or the work was submitted after the deadline without prior approval.
+
+#### Course Grades
+
+Course Grades (Roll Call and Final Grades) will will be determined by weighting each Assignment Score using the associated weight for its Course Component as specified in the [491](#comp491-course-components-fall) and [492](#comp492-course-components-spring) Course Components sections to compute a Course Percentage.  The Course Percentage is translated to a letter grade using the scale shown below. In addition, a curve may be applied at the instructor's discretion when computing Course Grades.
+
+Course<br>Percentage | Course<br>Grade
 -----------|------
 &gt;= 93   | A
 &gt;= 90   | A-
@@ -54,9 +129,7 @@ Percentage | Grade
 &gt;= 80   | B
 etc...     |
 
-Every assignment will receive a score from 0-10. The percentage for the course will be determined using those scores and weights for each course component as listed below. A curve that increases all students' percentages may be applied at the instructor's discretion when computing reported grades (Roll Call, Final Grade). The specific grading criteria for each component will be provided in the assignment documents linked below.
-
-#### COMP491 (Fall)
+#### COMP491 Course Components (Fall)
 
 Weight | Course Component                              
 -------|--------------------------------------------
@@ -78,7 +151,7 @@ Weight | Course Component
 8%     | WA04: Blog Post Final Draft
 
 
-#### COMP492 (Spring)
+#### COMP492 Course Components (Spring)
 
 Course Component                                    | Weight
 ----------------------------------------------------|---------
@@ -86,9 +159,9 @@ Will be announced in spring 2025
 
 #### Attendance
 
-The success of the Senior Seminar is in a large part up to you as its primary participants. Thus, attendance is required for every class period. Each *unexcused* absence will result in a 5% reduction of your final grade. Leaving the classroom with excessive frequency or for prolonged periods of time may also result in a grade reduction.
+The success of the Senior Seminar is in a large part up to you as its primary participants. Thus, attendance is required for every class period. Each *unexcused* absence will result in a 5% reduction of your final grade. Leaving the classroom with excessive frequency or for prolonged periods of time may also result in a grade reduction, following a discussion of the issue.
 
-Up to two absences may be excused with **reasonable advance notice** and **a valid reason**. Valid reasons include illness, job interviews with documentation, religious holidays, and emergencies. As much advance notice as is possible should be given. Absences without reasonable advance notice will very rarely be excused regardless of reason.
+Up to two absences may be excused with **reasonable advance notice** and **a valid reason**. Valid reasons *include* illness, job interviews with documentation, religious holidays, and emergencies. If you have another reason that you believe is valid please discuss it with the instructor who will make the determination if the absence is excused or not.  Note that leaving early or returning late from breaks or weekends are priority decisions and will not be excused absences. As much advance notice as is possible should be given and documentation may be required depending upon the reasons and circumstances. Absences without reasonable advance notice or appropriate documentation when requested will not be excused regardless of reason.
 
 If advance notice is received and the absence is excused you will be required to complete an additional assignment to makeup for the missed experience. The instructor will provide the exact assignment and its due date when an absence is excused.
 
@@ -101,6 +174,12 @@ In the event of other unavoidable events, the instructor will determine if due d
 ### Academic Integrity
 
 Please take the time to read the Academic Misconduct section of [Dickinson's Community Standards](https://www.dickinson.edu/download/downloads/id/11821/community_standards.pdf). Violations of this policy are considered serious transgressions, so you should be especially certain that you understand your rights and responsibilities under it. Students suspected of academic dishonesty will be subject to the process outlined in the [Student Conduct](http://www.dickinson.edu/homepage/69/student_conduct) pages. The specific collaboration policies for each component of this course are detailed in the assignments. If you are unsure about whether or not certain kinds of collaboration are permissible on an assignment or in this course, ask your instructor
+
+#### AI Use 
+
+The use cases of AI listed below are permissible in this course.  Any use of AI other than the listed use cases is not permitted. Any evidence of impermissible use of AI will be treated as a violation of [Academic Integrity](#academic-integrity) as described above.  If you have any question about whether you can use AI for a particular purpose in the course, please discuss it with the instructor prior to using it.
+- **Revision of Writing:** You may use AI to **revise** any writing that you have done.  Your writing process must begin with your own writing. The AI can then be used to improve the organization, grammar, clarity, etc of the writing.  However, all of the facts, concepts, ideas appearing in the submitted assignment must be your own and must appear in the writing before the AI is used for revision. **If you use AI for revision, you must maintain a copy of your original writing to present in the event that the instructor has concerns about impermissible AI use.**
+- **Project Work:** When working on an H/FOSS project, you may use AI tools for code or documentation that is being contributed to the project (i.e. in a Pull Request), unless it violates the policy of your chosen project.  It is your responsibility to ensure that your contributions to the project are in compliance with the project's policy.  For research/Honors projects, the use of AI must be negotiated with the project supervisor.
 
 ### Intellectual Property Rights
 

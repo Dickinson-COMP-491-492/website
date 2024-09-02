@@ -2,6 +2,172 @@
 
 ### Introduction
 
+Selecting the H/FOSS (FOSS or humanitarian FOSS) project on which you will work is a three step process. This assignment, **PA02 - Project Explorations** is the first step. In this step you will explore a variety of H/FOSS projects to begin to get a feel for what it might be like to work on them. You will learn what they do, the value they provide to their user community, whether they are active and open to contributions, and how approachable they seem to be.  The next assignment **PA03 - Project Reviews** is the second step, and asks you to become more informed about the projects in which you are most interested. In the third step, **PA04 - Project Ranking and Selection** we will form teams around commonalities in the projects that were reviewed and each team will work together to select the project on which they will work.
 
+### Assignment
 
-[Open-Source Contribution: The Ultimate Guide](https://builtin.com/software-engineering-perspectives/open-source-contribution)<br>
+Before beginning it is recommended that you read [Open-Source Contribution: The Ultimate Guide](https://builtin.com/software-engineering-perspectives/open-source-contribution) to get a feel for the kinds of things you'll want to be thinking about as you browse projects looking for ones that you might be interested in working on.
+
+#### Candidate Projects
+
+In this part of the assignment you will build a preliminary list of *candidate projects* on which you might be interested in working.
+
+1. Browse the resources in the [Finding H/FOSS Projects](#finding-hfoss-projects) section looking for projects that interest you and that seem to be active.
+2. From the projects you have looked at, identify 10 candidate projects (5 for students doing an individual research or honors project).
+3. Using your clone of the course repository:
+   1. Ensure that you are on the `main` branch.
+   2. Pull the upstream `main` branch to synchronize with the upstream.
+   3. Create a new feature branch from `main`.
+   4. Using the `README.md` file in your directory:
+      1. `Add a second level header for "Candidate Projects".
+      2. For each candidate project add a bullet point that gives:
+         - the name of the project as a link to its home page or repository.
+         - your impression of the suitability of the project in 1-2 sentences. 
+    5. Commit your changes to your feature branch.
+
+#### Project Explorations
+
+In this part of the assignment you will perform more detailed Project Explorations on a subset of the candidate projects that you have identified.
+
+1. Select 4 candidate projects (2 for students doing an individual research or honors project) that seem promising to you.
+2. For each candidate project that you selected:
+   1. Create a new `.md` file for the candidate project in your directory in the course repository.
+   2. Add the following sections and content to the `.md` for the candidate project:
+      - **Project Title:** The title of the project.
+      - **Project Repository:** The URL of the repository where the latest version of the source code is located. This is where a developer would go to get the code for the project (e.g. GitHub, BitBucket, SourceForge, etc.).
+      - **Project Homepage:** The public-facing homepage for the project. For many projects this will be different from the repository. Some smaller projects may keep everything in the repository.
+      - **Product:** Summarize in a paragraph what the software product does.
+      - **Activity:** Give some things that you noticed that indicate that the project is ongoing and has some developer community around it.  You should at least consider things like the issue tracker and pull requests.
+      - **Target User Community:** Summarize in a paragraph: (i) Who is the user community for the software product? (ii) What need(s) of this user community does the software address? Briefly explain how the software addresses those needs.
+      - **Getting Started:** Imagine that you have been assigned to start working on this project as a developer. From that perspective, explore the project repository and homepage and document what you find.  In particular, be sure to address:
+        - What did you find that would make it easy to get started as a developer on this project? (Give links to resources as appropriate).
+        - What did you find (or not find that you would expect to find) that would make it difficult to get started as a developer with this project?
+      - **Personal Interest:** Briefly describe the reasons that led you to chose to explore this project.  Then discuss things that you learned during the exploration that either increased or decreased your interest in engaging with this project.  If there are particular aspects of the project that you are interested in working on, indicate those as well.
+      - **Other:** Add any additional thoughts that you would like to record about the project.  Include things that you think may be helpful later when deciding which project to engage with.
+   3. Commit your changes to your feature branch.
+3. Turn in your work by creating a pull request for your changes.
+
+### Finding H/FOSS Projects
+
+There are literally millions of open source projects out there. However, not all open source projects are equally good candidates for engagement. You will, of course, want to find projects that you are interested in. But you'll also want to find projects that are active, technically approachable, have a variety of ways to contribute and have a welcoming developer community that will help you get started and that you can go to when you have questions. Below are resources that may help you find suitable candidate projects.
+
+#### Humanitarian FOSS (HFOSS) Projects
+
+As you know, HFOSS is an acronym for humanitarian free open source software. We encourage you to explore at least a few *humanitarian* FOSS (HFOSS) projects because they reflect the potential for computing to benefit society and thus will align your major well with the broader mission of Dickinson College. In addition, past students and faculty from this course, and other courses similar to ours, report that HFOSS project communities tend to be friendly, supportive and open to helping new contributors come on board. That said, should explore and select projects according to all relevant factors, including your own personal interest and you are not required to pursue any humanitarian projects.
+
+The following lists are good places to find humanitarian projects that might be of interest:
+- [HFOSS Projects](https://teachingopensource.org/HFOSS_Projects) NOTE: Be sure to examine the whole page, not just the table at the top. The bullet point lists contain projects that are not in the table at the top of the page.
+- [awesome-humanitarian-foss](https://hfoss.etica.ai/): A curated list of HFOSS projects.
+
+#### Mentored FOSS Infrastructure Projects
+
+Having a mentor to guide your work in a project can be very useful in getting started, identifying appropriate tasks and getting help when you are stuck. Regardless of the project that you pick you will want to make an effort to find a mentor in the project. This is easier in some projects and harder in others. 
+
+A contact at the [OpenInfra Foundation](https://openinfra.dev/) has offered to connect a few teams from Dickinson with mentors in the the projects listed below. If these projects seem interesting, you are encouraged to consider them because of the mentoring opportunity.
+
+- [Kata Containers](https://katacontainers.io/)
+- [OpenStack](https://www.openstack.org/)
+
+#### Broader H/FOSS Project Lists
+
+The following lists are also good places to find H/FOSS projects that are are open to contributions:
+
+- [Past Google Summer of Code Projects](https://summerofcode.withgoogle.com/archive): The H/FOSS projects that have participated in Google's Summer of Code program.
+- [Past Outreachy Internship Projects](https://www.outreachy.org/past-projects/): The H/FOSS projects that have sponsored Outreachy internships.
+- [NumFOCUS Sponsored](https://numfocus.org/sponsored-projects) and [Affiliated](https://numfocus.org/sponsored-projects/affiliated-projects) projects that focus on research, data, and scientific computing.
+- [Awesome FOSS apps](https://github.com/DataDaoDe/awesome-foss-apps): A curated list of some large popular FOSS projects.
+
+#### H/FOSS Projects for New Contributors
+
+There are also a few sites that are specifically designed to help new people get involved in FOSS projects. These often have a list of projects with "introductory" issues that make good targets for new contributors. Listing a project here and tagging issues as "introductory" suggests that the projects may be particularly welcoming to new contributors. So you may want to search these sites:
+
+- [Up For Grabs](https://up-for-grabs.net/#/)
+- [Good First Issue](https://goodfirstissue.dev/)
+- [OVIO](https://ovio.org/) - requires a free signup.
+
+#### H/FOSS Projects Selected by Past Senior Seminar Teams
+
+Below is the list of all H/FOSS projects selected as capstone projects by previous Dickinson senior seminar students. Note that we do not necessarily recommend every project on this list. Every project has both advantages and disadvantages. If you are considering pursuing one of these projects, feel free to discuss it with the instructor to find out about the experience of previous Dickinson students.
+
+- 2023-24:
+[Apache Kafka](https://kafka.apache.org/),
+[SugarLabs](https://www.sugarlabs.org/),
+[OpenBSD](https://www.openbsd.org/),
+[Huggingface](https://huggingface.co/),
+[Mermaid](https://mermaid.js.org/)
+- 2022-23: 
+[Hugging Face Transformers](https://github.com/huggingface/transformers),
+[Oppia](https://www.oppia.org/),
+[Wagtail](https://wagtail.org/)
+- 2021-22: 
+[Kubernetes](https://kubernetes.io/),
+[Teammates](https://github.com/TEAMMATES), 
+[The Odin Project](https://github.com/TheOdinProject/),
+[SymPy](https://www.sympy.org/en/index.html),
+[Wagtail](https://wagtail.org/)
+- 2020-21: 
+[book project](https://github.com/Project-Books/book-project),
+[OpenMRS](https://openmrs.org/),
+[Numpy](https://numpy.org/) 
+- 2019-20: 
+[FreeCodeCamp](https://www.freecodecamp.org/),
+[Jenkins](https://www.jenkins.io/),
+[Godot Engine](https://godotengine.org/)
+- 2018-19: 
+[FreeCodeCamp](https://www.freecodecamp.org/),
+[OpenMRS](https://openmrs.org/),
+[Audacity](https://www.audacityteam.org/)
+- 2017-18: 
+[Sahana Eden](https://sahanafoundation.org/products/eden/),
+[FreeCodeCamp](https://www.freecodecamp.org/),
+[Atom](https://github.com/atom/atom)
+- 2016-17: 
+[OpenMRS](https://openmrs.org/),
+[React Native](https://reactnative.dev/),
+[Sugar Labs](https://www.sugarlabs.org/)
+
+In addition there are a number of other projects students and instructors from courses similar to ours have reported having good success with:
+
+- [Libre Health](https://librehealth.io/)
+- [Mifos](https://mifos.org/)
+- [Ushahidi](https://www.ushahidi.com/)
+- [GNOME Accessibility](https://wiki.gnome.org/Accessibility)
+
+#### H/FOSS Projects You Already Know or Use
+
+Think about the apps, software, frameworks, libraries and websites you use on your phone and computer. Which of them are open source? Are any of them suitable as capstone projects? If so, feel free to explore them.
+
+#### Other Collections of H/FOSS Projects
+
+If nothing in any of those places catches your attention, or you want to explore further you can leap into the void and search some of the large open source project repositories. Most of the above projects are located in one of the following repositories, but these repositories also contain millions of other projects as well. Some will be great projects to get involved with, but others will be too large, too specialized, dead, or exclusive. So if you do head off into the void searching for projects, spend a few minutes informally assessing how active a project is and how open/welcoming/accessible it is to new contributors before spending the time to explore it in detail. That said, here's a list of repositories:
+
+- The Big Two:
+  - [GitHub](https://github.com/)
+  - [GitLab](https://gitlab.com/explore)
+
+- Some other possible places to find projects:
+  - [SourceForge](https://sourceforge.net/)
+  - [Launch Pad](https://launchpad.net/)
+  - [Savannah](http://savannah.gnu.org/)
+  - [GNOME](https://welcome.gnome.org/)
+
+<!-- Appears to be dead:
+  - [BLACKDUCK - Open Hub](https://www.openhub.net/explore/projects)
+  -->
+
+## Acknowledgements
+
+This assignment builds from and adapts ideas and content from the following activities created by others:
+
+- This version incorporates some nice revisions to an earlier version that were made by John MacCormick in [2023](https://dickinson-comp491-fall2023.github.io/comp491-fa2023-web/hw/HW2-project-exploration.docx).
+- https://github.com/ChrisMurphyOnline/open-source-software-development-course/blob/master/activities/foss-evaluation-activity.txt
+- http://foss2serve.org/index.php/Project_Anatomy_Activity
+- http://foss2serve.org/index.php/FOSS_Field_Trip_Activity
+- http://foss2serve.org/index.php/Project_Evaluation_Activity_V2
+- https://github.com/ChrisMurphyOnline/open-source-software-development-course/blob/master/activities/foss-get-involved.txt
+
+---
+
+![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+![GPL V3 or Later](https://www.gnu.org/graphics/gplv3-or-later-sm.png "GPL V3 or later") All executable code used in this course is licensed under the [GNU General Public License Version 3 or later](https://www.gnu.org/licenses/gpl.txt)
