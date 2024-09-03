@@ -6,7 +6,7 @@ Selecting the H/FOSS (FOSS or humanitarian FOSS) project on which you will work 
 
 ### Assignment
 
-Before beginning it is recommended that you read [Open-Source Contribution: The Ultimate Guide](https://builtin.com/software-engineering-perspectives/open-source-contribution) to get a feel for the kinds of things you'll want to be thinking about as you browse projects looking for ones that you might be interested in working on.
+Before beginning it is recommended that you read [What you actually need to know about open source to get started](https://opensource.com/article/22/11/get-started-open-source) and [Open-Source Contribution: The Ultimate Guide](https://builtin.com/software-engineering-perspectives/open-source-contribution) to get a feel for the kinds of things you'll want to be thinking about as you browse projects looking for ones that you might be interested in working on.
 
 #### Candidate Projects
 
@@ -16,14 +16,16 @@ In this part of the assignment you will build a preliminary list of *candidate p
 2. From the projects you have looked at, identify 10 candidate projects (5 for students doing an individual research or honors project).
 3. Using your clone of the course repository:
    1. Ensure that you are on the `main` branch.
-   2. Pull the upstream `main` branch to synchronize with the upstream.
-   3. Create a new feature branch from `main`.
-   4. Using the `README.md` file in your directory:
+   2. Set the upstream remote of your clone to point to the [Dickinson-COMP-491-491/AY24-25](https://github.com/Dickinson-COMP-491-492/AY24-25) repository.
+      - `git remote add upstream <URL>`
+   3. Pull the upstream `main` branch to synchronize with the upstream.
+   4. Create a new feature branch from `main`.
+   5. Using the `README.md` file in your directory:
       1. `Add a second level header for "Candidate Projects".
       2. For each candidate project add a bullet point that gives:
          - the name of the project as a link to its home page or repository.
          - your impression of the suitability of the project in 1-2 sentences. 
-    5. Commit your changes to your feature branch.
+    6. Commit your changes to your feature branch.
 
 #### Project Explorations
 

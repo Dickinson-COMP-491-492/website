@@ -22,7 +22,7 @@ T 10/01/24      | C09: Work Day                    | RD04           | PA05
 F 10/04/24      | C10: Productivity & Quality      | RD05           | RD04, PE02
 T 10/08/24      | C11: Lunch with Nate Mitchell    | TF03           | RD05
 F 10/11/24      | C12: Work Day                    | RD06           | TF03, PE03
-T 11/15/24      | C13: Reqs, Specs & Archs         | WA01, TF04     | RD06
+T 10/15/24      | C13: Reqs, Specs & Archs         | WA01, TF04     | RD06
 F 10/18/24      | C14: Work Day (Prof @ CCSC)      |                | PE04
 &nbsp;          |                                  |                | 
 T 10/22/24      | **Fall Pause**                   |                |
@@ -48,6 +48,7 @@ F 12/13/24      | C28:  Monitoring & Evolution     |                | RD11, WA03
 F 12/20/24      | **2:00pm - Final Exam Time**<br>Section 01 |      | PP02, PE12
 S 12/21/23      | **9:00am - Final Exam Time**<br>Section 02 |      | PP02, PE12
 
+Note: Unlinked assignments and due dates are tentative and subject to change.
 
 [PA01]: assignments/PA01-CourseTools.md
 [PA02]: assignments/PA02-ProjectExplorations.md
