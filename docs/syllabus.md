@@ -163,8 +163,7 @@ The success of the Senior Seminar is in a large part up to you as its primary pa
 
 Up to two absences may be excused with **reasonable advance notice** and **a valid reason**. Valid reasons *include* illness, job interviews with documentation, religious holidays, and emergencies. If you have another reason that you believe is valid please discuss it with the instructor who will make the determination if the absence is excused or not.  Note that leaving early or returning late from breaks or weekends are priority decisions and will not be excused absences. As much advance notice as is possible should be given and documentation may be required depending upon the reasons and circumstances. Absences without reasonable advance notice or appropriate documentation when requested will not be excused regardless of reason.
 
-If **advance notice is received and the absence is excused** you will be required to complete an additional assignment to makeup for the missed experience. 
-
+If **advance notice is received and the absence is excused** you will have the opportunity to complete an additional assignment to replace and receive credit for the missed experience. 
 - For discussion days you can receive credit for discussion questions, preparation and engagement by:
   - Posting a discussion question and voting others by 8:00am on the due date as normal.
   - Adding a new file in your course repo folder containing a 400-500 word essay on a topic related to the readings, linking to it from your `README.md` file and making a Pull Request for the changes within 1 week of the class meeting in which the discussion occurred. To receive credit, this essay must express careful thought about the topic based on the assigned reading as well as at least one additional source that must be cited.
