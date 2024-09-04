@@ -13,6 +13,7 @@ Before beginning it is recommended that you read [What you actually need to know
 In this part of the assignment you will build a preliminary list of *candidate projects* on which you might be interested in working.
 
 1. Browse the resources in the [Finding H/FOSS Projects](#finding-hfoss-projects) section looking for projects that interest you and that seem to be active.
+   - It is recommended that you consider projects from across range of your different interests.  Eventually we will be forming teams around areas of common interest.  So having considered projects across a range of interests increases the likelihood that you will find a team with some shared interests.
 2. From the projects you have looked at, identify 10 candidate projects (5 for students doing an individual research or honors project).
 3. Using your clone of the course repository:
    1. Ensure that you are on the `main` branch.
@@ -39,12 +40,12 @@ In this part of the assignment you will perform more detailed Project Exploratio
       - **Project Repository:** The URL of the repository where the latest version of the source code is located. This is where a developer would go to get the code for the project (e.g. GitHub, BitBucket, SourceForge, etc.).
       - **Project Homepage:** The public-facing homepage for the project. For many projects this will be different from the repository. Some smaller projects may keep everything in the repository.
       - **Product:** Summarize in a paragraph what the software product does.
-      - **Activity:** Give some things that you noticed that indicate that the project is ongoing and has some developer community around it.  You should at least consider things like the issue tracker and pull requests.
+      - **Activity:** Give some things that you noticed that indicate that the project is ongoing and has some developer community around it.  You should at least consider things like activity on the issue tracker or message forums, and the creation and merging of pull requests.
       - **Target User Community:** Summarize in a paragraph: (i) Who is the user community for the software product? (ii) What need(s) of this user community does the software address? Briefly explain how the software addresses those needs.
       - **Getting Started:** Imagine that you have been assigned to start working on this project as a developer. From that perspective, explore the project repository and homepage and document what you find.  In particular, be sure to address:
         - What did you find that would make it easy to get started as a developer on this project? (Give links to resources as appropriate).
         - What did you find (or not find that you would expect to find) that would make it difficult to get started as a developer with this project?
-      - **Personal Interest:** Briefly describe the reasons that led you to chose to explore this project.  Then discuss things that you learned during the exploration that either increased or decreased your interest in engaging with this project.  If there are particular aspects of the project that you are interested in working on, indicate those as well.
+      - **Personal Interest:** Briefly describe the reasons that led you to chose to explore this project.  Then discuss things that you learned during the exploration that either increased or decreased your interest in engaging with this project.  If there are particular aspects of the project that you are interested in working on indicate those as well.
       - **Other:** Add any additional thoughts that you would like to record about the project.  Include things that you think may be helpful later when deciding which project to engage with.
    3. Commit your changes to your feature branch.
 3. Turn in your work by creating a pull request for your changes.
@@ -130,6 +131,7 @@ Below is the list of all H/FOSS projects selected as capstone projects by previo
 
 In addition there are a number of other projects students and instructors from courses similar to ours have reported having good success with:
 
+- [Runestone Academy](https://landing.runestone.academy/)
 - [Libre Health](https://librehealth.io/)
 - [Mifos](https://mifos.org/)
 - [Ushahidi](https://www.ushahidi.com/)
