@@ -14,6 +14,7 @@ In this part of the assignment you will build a preliminary list of *candidate p
 
 1. Browse the resources in the [Finding H/FOSS Projects](#finding-hfoss-projects) section looking for projects that interest you and that seem to be active.
    - It is recommended that you consider projects from across range of your different interests.  Eventually we will be forming teams around areas of common interest.  So having considered projects across a range of interests increases the likelihood that you will find a team with some shared interests.
+   - You should plan to spend approximately 1 hour browsing the resources to identify your candidate projects.
 2. From the projects you have looked at, identify 10 candidate projects (5 for students doing an individual research or honors project).
 3. Using your clone of the course repository:
    1. Ensure that you are on the `main` branch.
@@ -22,7 +23,7 @@ In this part of the assignment you will build a preliminary list of *candidate p
    3. Pull the upstream `main` branch to synchronize with the upstream.
    4. Create a new feature branch from `main`.
    5. Using the `README.md` file in your directory:
-      1. `Add a second level header for "Candidate Projects".
+      1. Add a section header for "Candidate Projects".
       2. For each candidate project add a bullet point that gives:
          - the name of the project as a link to its home page or repository.
          - your impression of the suitability of the project in 1-2 sentences. 
@@ -33,21 +34,23 @@ In this part of the assignment you will build a preliminary list of *candidate p
 In this part of the assignment you will perform more detailed Project Explorations on a subset of the candidate projects that you have identified.
 
 1. Select 4 candidate projects (2 for students doing an individual research or honors project) that seem promising to you.
-2. For each candidate project that you selected:
+2. For each candidate project that you selected you should spend approximately 1 hour exploring it and documenting what you find as follows:
    1. Create a new `.md` file for the candidate project in your directory in the course repository.
    2. Add the following sections and content to the `.md` for the candidate project:
+      - **Project Exploration:** A top level section heading with the text "Project Exploration".
       - **Project Title:** The title of the project.
-      - **Project Repository:** The URL of the repository where the latest version of the source code is located. This is where a developer would go to get the code for the project (e.g. GitHub, BitBucket, SourceForge, etc.).
+      - **Project Repository:** The URL of the repository ( or repositories, or organization) where the latest version of the source code is located. This is where a developer would go to get the code for the project (e.g. GitHub, BitBucket, SourceForge, etc.).
       - **Project Homepage:** The public-facing homepage for the project. For many projects this will be different from the repository. Some smaller projects may keep everything in the repository.
       - **Product:** Summarize in a paragraph what the software product does.
-      - **Activity:** Give some things that you noticed that indicate that the project is ongoing and has some developer community around it.  You should at least consider things like activity on the issue tracker or message forums, and the creation and merging of pull requests.
+      - **Activity:** Give some things that you noticed that indicate that the project is ongoing and has some developer community around it.  The more evidence you can find that the project is alive and thriving the better.  You should at least consider things like dates of the most recent activity on the issue tracker or message forums, and the creation and merging of pull requests.
       - **Target User Community:** Summarize in a paragraph: (i) Who is the user community for the software product? (ii) What need(s) of this user community does the software address? Briefly explain how the software addresses those needs.
       - **Getting Started:** Imagine that you have been assigned to start working on this project as a developer. From that perspective, explore the project repository and homepage and document what you find.  In particular, be sure to address:
         - What did you find that would make it easy to get started as a developer on this project? (Give links to resources as appropriate).
         - What did you find (or not find that you would expect to find) that would make it difficult to get started as a developer with this project?
       - **Personal Interest:** Briefly describe the reasons that led you to chose to explore this project.  Then discuss things that you learned during the exploration that either increased or decreased your interest in engaging with this project.  If there are particular aspects of the project that you are interested in working on indicate those as well.
+      - **Skills Match:** Briefly describe how well the languages / frameworks / tools that the project uses match or do not match your current knowledge and skill set.
       - **Other:** Add any additional thoughts that you would like to record about the project.  Include things that you think may be helpful later when deciding which project to engage with.
-   3. Commit your changes to your feature branch.
+   3. Commit your changes to your feature branch. Note that each project exploration should be in a separate commit.
 3. Turn in your work by creating a pull request for your changes.
 
 ### Finding H/FOSS Projects

@@ -135,12 +135,11 @@ Weight | Course Component
 -------|--------------------------------------------
 20%    | [RD](assignments/RD-ReadingsAndDiscussion.md): Readings and Discussions
 &nbsp; | **PA: Project Assignments**
-1%     | [PA01](assignments/PA01-CourseTools.md): Course Tools
-3%     | [PA02](assignments/PA02-ProjectExplorations.md): Project Exploration
-3%     | PA03: Project Reviews
-5%     | PA04: Project Selection
-3%     | PA05: Technology Spike Prep
-5%     | PA06: Bug Gardening
+2%     | [PA01](assignments/PA01-CourseTools.md): Course Tools
+4%     | [PA02](assignments/PA02-ProjectExplorations.md): Project Exploration
+4%     | [PA03](assignments/PA03-ProjectReviews.md): Project Reviews
+6%     | PA04: Project Selection
+5%     | PA05: Technology Spike Prep
 15%    | PE: Project Effectiveness
 &nbsp; | **PP: Project Presentations**
 10%    | PP01: Tech Spike Presentation
@@ -149,7 +148,6 @@ Weight | Course Component
 4%     | WA01: Blog Post Draft
 3%     | WA02: Blog Post Peer Reviews
 8%     | WA04: Blog Post Final Draft
-
 
 #### COMP492 Course Components (Spring)
 
