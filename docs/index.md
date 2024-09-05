@@ -52,6 +52,7 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 
 [PA01]: assignments/PA01-CourseTools.md
 [PA02]: assignments/PA02-ProjectExplorations.md
+[PA03]: assignments/PA03-ProjectReviews.md
 
 [RD01]: assignments/RD-ReadingsAndDiscussion.md#preparation
 [RD02]: assignments/RD-ReadingsAndDiscussion.md#preparation
