@@ -135,11 +135,12 @@ Weight | Course Component
 -------|--------------------------------------------
 20%    | [RD](assignments/RD-ReadingsAndDiscussion.md): Readings and Discussions
 &nbsp; | **PA: Project Assignments**
-2%     | [PA01](assignments/PA01-CourseTools.md): Course Tools
-4%     | [PA02](assignments/PA02-ProjectExplorations.md): Project Exploration
-4%     | [PA03](assignments/PA03-ProjectReviews.md): Project Reviews
-6%     | PA04: Project Selection
-5%     | PA05: Technology Spike Prep
+1%     | [PA01](assignments/PA01-CourseTools.md): Course Tools
+3%     | [PA02](assignments/PA02-ProjectExplorations.md): Project Exploration
+3%     | [PA03](assignments/PA03-ProjectReviews.md): Project Reviews
+4%     | PA04: Project Selection
+4%     | PA05: Technology Spike Prep
+5%     | PA06: Lightening Bug Demo
 15%    | PE: Project Effectiveness
 &nbsp; | **PP: Project Presentations**
 10%    | PP01: Tech Spike Presentation
