@@ -89,6 +89,7 @@ There are also a few sites that are specifically designed to help new people get
 
 - [Up For Grabs](https://up-for-grabs.net/#/)
 - [Good First Issue](https://goodfirstissue.dev/)
+- [Awesome For Beginners](https://github.com/MunGell/awesome-for-beginners)
 - [OVIO](https://ovio.org/) - requires a free signup.
 
 #### H/FOSS Projects Selected by Past Senior Seminar Teams
