@@ -15,9 +15,9 @@ F 09/06/24      | C02: Project Explorations        | [PA02], [RD01] | [PA01]
 T 09/10/24      | C03: SWE/FOSS History            |                | [RD01]
 F 09/13/24      | C04: Project Reviews             | [PA03], [RD02] | [PA02]
 T 09/17/24      | C05: Organizations & Communities |                | [RD02]
-F 09/20/24      | C06: Project Selection           | PA04, [RD03]   | [PA03]
+F 09/20/24      | C06: Project Selection           | [PA04], [RD03] | [PA03]
 T 09/24/24      | C07: Culture & Communication     |                | [RD03]
-F 09/27/24      | C08: Tech Spikes                 | PA05           | PA04, PE01
+F 09/27/24      | C08: Tech Spikes                 | PA05           | [PA04], PE01
 T 10/01/24      | C09: Work Day                    | RD04           | PA05
 F 10/04/24      | C10: Productivity & Quality      | RD05           | RD04, PE02
 T 10/08/24      | C11: Lunch with Nate Mitchell    | TF03           | RD05
@@ -53,6 +53,7 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [PA01]: assignments/PA01-CourseTools.md
 [PA02]: assignments/PA02-ProjectExplorations.md
 [PA03]: assignments/PA03-ProjectReviews.md
+[PA04]: assignments/PA04-ProjectSelection.md
 
 [RD01]: assignments/RD-ReadingsAndDiscussion.md#preparation
 [RD02]: assignments/RD-ReadingsAndDiscussion.md#preparation
