@@ -14,24 +14,25 @@ Once the teams have been formed, each team will complete the Ranking and Selecti
 
 To complete this assignment:
 
-1. Choose a name for the team.
-2. Determine at least two times during the week when all members of the team can meet to hold out-of-class meetings.
-3. Using one team member's fork/clone of the course repo:
+1. Determine at least two times during the week when all members of the team can meet to hold out-of-class meetings.
+2. Using one team member's fork/clone of the course repo:
    1. Create a feature branch for the team's work 
    2. Create a directory for the team in the `teams` directory.
    3. Create a `README.md` file in the team's directory.
    4. Compete the following tasks to add content to the team's `README.md`
-      1. Add a top level heading to the `README.md` containing the team's name.
+      1. Add a top level heading to the `README.md` containing the the text "Our Team".
       2. Add a "Team Members" subheading followed by a list with the names of all team members that link to their individual `README.md` files.
-      3. Add a "Meeting Times" subheading followed by the times that all members of the team are available to meet.
+      3. Add a "Meeting Times" subheading followed by at least two times that all members of the team are available to meet.
       3. Add a "Project Documents" subheading.
       4. Make a copy of the `ProjectSelection.md` file in the `teams` directory into the team's folder.
-      5. Add a bullet to the "Projects Documents" section that links to the team's `ProjectSelection.md` file.
+      5. Add a bullet to the "Project Documents" section that links to the team's `ProjectSelection.md` file.
    5. Complete the following tasks to add content to the team's `ProjectSelection.md` document for this assignment.
       1. Complete the [Projects Considered](#projects-considered) section below.
       2. Complete the [Install Spikes](#install-spikes) section below.
       3. Complete the [Project Ranking](#project-ranking) section below.
       4. Complete the [Project Selection](#project-selection) section below.
+      5. Choose a name for the team and update the "Our Team" top level heading in the `README.md` file to be the team's name.
+
    6. Create a PR to the upstream course repo containing the team's work for this assignment.
 
 #### Projects Considered
