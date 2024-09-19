@@ -15,13 +15,15 @@ Once the teams have been formed, each team will complete the Ranking and Selecti
 To complete this assignment:
 
 1. Choose a name for the team.
-2. Using one team member's fork of the course repo:
+2. Determine at least two times during the week when all members of the team can meet to hold out-of-class meetings.
+3. Using one team member's fork/clone of the course repo:
    1. Create a feature branch for the team's work 
    2. Create a directory for the team in the `teams` directory.
    3. Create a `README.md` file in the team's directory.
    4. Compete the following tasks to add content to the team's `README.md`
       1. Add a top level heading to the `README.md` containing the team's name.
       2. Add a "Team Members" subheading followed by a list with the names of all team members that link to their individual `README.md` files.
+      3. Add a "Meeting Times" subheading followed by the times that all members of the team are available to meet.
       3. Add a "Project Documents" subheading.
       4. Make a copy of the `ProjectSelection.md` file in the `teams` directory into the team's folder.
       5. Add a bullet to the "Projects Documents" section that links to the team's `ProjectSelection.md` file.
@@ -34,13 +36,13 @@ To complete this assignment:
 
 #### Projects Considered
 
-Have a discussion within the team about all of the projects that the team members have reviewed. This discussion should last no more than 1 hours, but must ensure that every team member has an equal opportunity to discuss the projects that they have reviewed.
+Have a discussion within the team about all of the projects that the team members have reviewed. This discussion should last no more than 1 hour, but must ensure that every team member has an equal opportunity to discuss the projects in which they are interested.
 
 Based on this discussion decide on at least 3 projects that the team will consider for selection as their project for the year. Note that all projects being considered must have been reviewed by at least one of the team's members.
 
 For each project that the team is considering for selection:
 1. Edit one of the bullets in the "Projects Considered" section of the `ProjectSelection.md` file to give information about the project.
-3. Add links to of all of the Project Explorations and Project Reviews that were completed (including those not done by the team's members). You can find these links on the Course Repository's `README.md` page.
+3. Add links to of all of the Project Explorations and Project Reviews that were completed (including those not done by the team's members). You can find these links on the Course Repository.
 
 Note, the team may find that as its discussion progress it makes sense to come back and consider different or additional projects. That is perfectly acceptable, just adjust the list accordingly.
 

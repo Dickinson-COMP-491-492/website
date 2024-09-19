@@ -141,7 +141,7 @@ Weight | Course Component
 5%     | [PA04](assignments/PA04-ProjectSelection.md): Project Selection
 3%     | PA05: Technology Spike Prep
 5%     | PA06: Lightening Bug Demo
-15%    | PE: Project Effectiveness
+15%    | [PE](assignments/PE-ProjectEffectiveness.md): Project Effectiveness
 &nbsp; | **PP: Project Presentations**
 10%    | PP01: Tech Spike Presentation
 20%    | PP02: Final Project Presentation
