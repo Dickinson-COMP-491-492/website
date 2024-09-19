@@ -31,7 +31,7 @@ Discussion Date | Reading / Discussion Topic          | Assigned Readings
 T 09/10/24      | RD01: SWE/FOSS History              | 1. [SWE History]<br>2. [Mysteries of OSS]
 T 09/17/24      | RD02: Organizations & Communities   | 1. [SWE Organizations]<br>2. [OSS Communities]<br>3. [DEI in OSS]
 T 09/24/24      | RD03: Culture & Communication       | 1. [SWE Communication]<br>2. [OSS Communications]<br>(Stop before "Handling Growth")
-F 10/04/24      | RD04: Productivity & Quality        |
+F 10/04/24      | RD04: Productivity & Quality        | 1. [SWE Productivity]<br>2. [SWE Quality]<br>3. [OSS Quality]
 T 10/08/24      | RD05: Lunch with Nate Mitchell      |
 T 11/15/24      | RD06: Reqs, Specs & Archs           |
 F 11/08/24      | RD07: Software Processes            |
@@ -50,6 +50,12 @@ F 12/13/24      | RD11: Monitoring & Evolution        |
 [SWE Communication]: https://faculty.washington.edu/ajko/books/cooperative-software-development/communication
 [OSS Communications]: https://producingoss.com/en/producingoss.html#communications
 
+[SWE Productivity]: https://faculty.washington.edu/ajko/books/cooperative-software-development/productivity
+[SWE Quality]: https://faculty.washington.edu/ajko/books/cooperative-software-development/quality
+[OSS Quality]: https://blogs.worldbank.org/en/opendata/quality-open-source-software-how-many-eyes-are-enough
+
+
+
 ### Grading
 
 A grade for Readings and Discussion will be recorded three times throughout the semester.  Each grade will take into account all Reading and Discussion assignments since the prior grade was recorded.
@@ -62,8 +68,7 @@ The grade will be determined by averaging scores assigned to three factors <b>Di
 <!--
 
 T 09/20/22	    | C07 - Licensing                                   | 1. [How to Use Popular Open Source Licenses, Explained](https://www.capitalone.com/tech/open-source/open-source-licenses-explained-2021/)<br>2. [If Software is My Copilot, Who Programmed My Software?](https://sfconservancy.org/blog/2022/feb/03/github-copilot-copyleft-gpl/)<br>3. [Dual Licensing in Open Source Software Industry](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1354&context=sim)
-T 10/11/22      | C13 - Culture & Communication                     | 1. SWE [Communication](https://faculty.washington.edu/ajko/books/cooperative-software-development/communication)<br>2. Producing OSS [Chapter #6 - Communications](https://producingoss.com/en/producingoss.html#communications) (Stop at Publicity)<br>3. [Why Companies Should Model Their Culture After Open Source](https://www.forbes.com/sites/forbestechcouncil/2021/06/29/why-companies-should-model-their-culture-after-open-source)
-F 10/14/22      | C14 - Productivity & Quality                      | 1. SWE [Productivity](https://faculty.washington.edu/ajko/books/cooperative-software-development/productivity)<br>2. SWE [Quality](https://faculty.washington.edu/ajko/books/cooperative-software-development/quality)<br>3. [The Cathedral and the Bazaar](https://lms.dickinson.edu/mod/resource/view.php?id=1136133)
+
 F 10/28/22      | C17 - Requirements, Architecture & Specifications | 1. SWE [Requirements](https://faculty.washington.edu/ajko/books/cooperative-software-development/requirements)<br>2. SWE [Architecture](https://faculty.washington.edu/ajko/books/cooperative-software-development/architecture)<br>3. SWE [Specifications](https://faculty.washington.edu/ajko/books/cooperative-software-development/specifications)<br>4. [Architectural Patterns and Styles](https://learn.microsoft.com/en-us/previous-versions/msp-n-p/ee658117(v=pandp.10)) (Pick ~3 styles and read about them.)
 F 11/04/22      | C19 - Processes                                   | 1. Watch [The Software Crisis](https://www.youtube.com/watch?v=0b5vp4Z2PKE&list=PLAwxTw4SYaPkNAtqsKcFkUGpf4j67NBaz) [3 min] and [Evidence of it](https://www.youtube.com/watch?v=Cd3TrUK8axU) [2 min]<br>2. SWE [Process](https://faculty.washington.edu/ajko/books/cooperative-software-development/process)<br>3. [Software Process Models](https://www.thomasalspaugh.org/pub/fnd/softwareProcess.html)<br>4. [Agile Manifesto](http://agilemanifesto.org/) and [Principles](http://agilemanifesto.org/principles.html)<br>5. [Agile 101](https://www.agilealliance.org/agile101/).
 F 11/18/22      | C23 - Agile Processes & Games                     | 1. [What is Extreme Programming?](https://ronjeffries.com/xprog/what-is-extreme-programming/)<br>2. [Introduction to Scrum](https://www.codemag.com/article/0805051/Introduction-to-Scrum)<br>3. [The Kanban Method](https://getnave.com/blog/what-is-the-kanban-method/)

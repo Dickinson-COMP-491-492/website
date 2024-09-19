@@ -18,8 +18,8 @@ T 09/17/24      | C05: Organizations & Communities |                | [RD02]
 F 09/20/24      | C06: Project Selection           | [PA04], [RD03] | [PA03]
 T 09/24/24      | C07: Culture & Communication     |                | [RD03]
 F 09/27/24      | C08: Tech Spikes                 | PA05           | [PA04], [PE]
-T 10/01/24      | C09: Work Day                    | RD04           | PA05
-F 10/04/24      | C10: Productivity & Quality      | RD05           | RD04, [PE]
+T 10/01/24      | C09: Work Day                    | [RD04]         | PA05
+F 10/04/24      | C10: Productivity & Quality      | RD05           | [RD04], [PE]
 T 10/08/24      | C11: Lunch with Nate Mitchell    |                | RD05
 F 10/11/24      | C12: Work Day                    | RD06           | [PE]
 T 10/15/24      | C13: Reqs, Specs & Archs         | WA01           | RD06

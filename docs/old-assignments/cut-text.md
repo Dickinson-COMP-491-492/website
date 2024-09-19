@@ -1,3 +1,45 @@
+##### Live-Logs
+
+You will use *Slack Live-Logs* to document the time and effort that you invest in learning and to keep a record of what you have learned.  
+
+A Slack Live-Log is a thread in your team's Slack channel that is associated with a task. When you, or a partner or a sub-set of your team begin a new task, a new thread should be created to Live-Log the work on that task. As work happen on a task, whomever is working on it will post messages to the thread associated with the task (i.e. they will *Live-Log* their work on the task.)
+
+Live-Log messages should occur frequently and should document all significant events during your work:
+- What resource you are using, with a link.
+- When you start a new section of a resource.
+- Useful facts or examples from the resource.
+- Anything you might not remember but think will be useful to know later.
+- Anything that you find confusing or challenges that you face.
+- An explanation of something that you didn't understanding the first time.
+- A description of how of you got something to work that was giving you issues.
+- Finishing a section of a resource.
+- Links to any additional sources you found useful while working, with links.
+
+Your Live-Logs will serve several purposes:
+- They will become a set of notes and resources that you can refer back to more quickly and easily than the original resources.  (Oh... What was that thing I did? Or that site I used? - Easy! Search Slack and check the Live-Log.)
+- They will document the time and effort that you have invested in this assignment. The Live-Logs are your mechanism for demonstrating that you have invested sufficient, regular and sustained time and effort on this activity.  Deficient, infrequent or absent Live-Logs will be interpreted as reflecting a failure to invest appropriate time and effort on this activity.
+
+### Presentation
+
+Each team will give a presentation that:
+ - Briefly summarizes the Gap Analysis focusing on who set out to learn what and why they were learning it.
+ - For each gap:
+   - Identifies key learning resources that were used.
+   - Explains what was learned.
+   - Gives a demonstration of what was learned/built.
+   - Articulates what remains to be learned.
+
+Prepare this presentation for an audience of your peers (advanced undergraduate computer science majors). You may assume that they know a good bit about computer science and free and open source software. However, you should not assume that they know anything about the specific project your team is working on or the technologies you have learned about in this activity. When discussing topics that are outside of the audience's assumed knowledge, context and background sufficient for the audience to follow the presentation should be provided.
+
+## Grading
+
+The Tech Spikes assignment will be assessed using the rubric below.
+
+_Click rubric to enlarge image._<br>
+[![Tech Spikes Rubric. Gap Analysis and Learning Resources. 3 pts - On time; Gap analysis is detailed and thoughtful about the project demands and the team members' knowledge and skills; Learning resources are well selected and detailed annotations are given; Wiki contains all required information, is correctly linked, neatly formatted and easy to read;  Writing is clear, concise, well organized, uses complete sentences and proper grammar; Individual's contributions to Live-Logs are detailed and clearly demonstrate sufficient, regular and sustained time and effort. 2 pts - On time; Gap analysis is complete; Learning resources seem appropriate and are annotated; Wiki contains all required information, is correctly linked but formatting may distract from readability; Writing has minor organizational or grammatical issues that do not distract significantly from meaning or understanding; Individual's contributions to Live-Logs demonstrate some investment of time and effort. 1 pt - On time; Gap analysis is cursory or missing information; Learning resources are not well suited to learning goals, team members or timeframe, and/or lack meaningful annotations; Wiki is missing required information, incorrectly linked, poorly formatted and/or difficult to read; Writing, organization or grammar interferes with understanding; Individual's contributions (or lack there of) to Live-Logs demonstrate insufficient investment of time and effort. 0 pts - Late, missing or substantially incomplete; Clearly demonstrates little to no investment in the assignment. Individual's lack of contributions to Live-Logs  demonstrate no investment of time and effort. Presentation. 3 pts - Presentation was interesting, engaging and told a cohesive story;  All required information was clearly presented in a well organized and easy to follow manner; Language, terminology and explanations were appropriate to the target audience; Use of media (slides, etc.) was visually appealing and enhanced the presentation; Demonstration provided clear and compelling evidence of substantial learning; Participation was well balanced across team members;  Presentation was at the target length. 2 pts - Presentation was generally well organized and included all required information; Language, terminology and explanations were generally appropriate to the target audience; Use of media effectively supported the presentation; Demonstration provided evidence of learning; Participation by individual team member was mildly unbalanced (more or less) as compared to others;  Presentation was  moderately shorter or longer than the target length. 1 pt - Presentation was difficult to follow and/or was missing some required information; Language, terminology and explanations missed the target audience at numerous points; Use of media was ineffective or distracting; Demonstration did not provide evidence of sufficient learning;  Participation by individual team member was moderately to heavily unbalanced (more or less) as compared to others;  Presentation was  significantly shorter or longer than the target length. 0 pts - Presentation was substantially incomplete; Clearly demonstrates little to no investment in the assignment; No demonstration was given; Individual team member did not participate.](images/TechSpikes-Rubric.jpg)](images/TechSpikes-Rubric.jpg)
+
+
+
 ## Presentation
 
 This assignment concludes with a presentation to the class. The presentation should aim to communicate the following to the audience:
