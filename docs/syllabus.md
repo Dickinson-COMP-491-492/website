@@ -139,11 +139,11 @@ Weight | Course Component
 3%     | [PA02](assignments/PA02-ProjectExplorations.md): Project Exploration
 3%     | [PA03](assignments/PA03-ProjectReviews.md): Project Reviews
 5%     | [PA04](assignments/PA04-ProjectSelection.md): Project Selection
-3%     | PA05: Technology Spike Prep
+3%     | [PA05](assignments/PA05-TechSpikePrep.md): Technology Spike Preparation
 5%     | PA06: Lightening Bug Demo
 15%    | [PE](assignments/PE-ProjectEffectiveness.md): Project Effectiveness
 &nbsp; | **PP: Project Presentations**
-10%    | PP01: Tech Spike Presentation
+10%    | [PP01](assignments/PP01-TechSpikePresentation.md): Technology Spike Presentations
 20%    | PP02: Final Project Presentation
 &nbsp; | **WA: Writing Assignments**
 4%     | WA01: Blog Post Draft
