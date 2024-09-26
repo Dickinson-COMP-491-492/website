@@ -64,7 +64,7 @@ Consider the learning resources that have been identified:
 
 ### Completing the Tech Spike 
 
-Once a team has completed the Gap Analysis, identified Learning Resources, and Planned Artifacts, it will use the time until [PP01 - Tech Spike Presentation](PP01-TechSpikePresentation.md) to learn, build artifacts and, prepare the presentation.
+Once a team has completed the Gap Analysis, identified Learning Resources, and Planned Artifacts, it will use the time until [PP01 - Tech Spike Presentation](PP01-TechSpikePresentation.md) to learn, build artifacts, and prepare the presentation.
 
 During this time the team members are expected invest the expected amount of time per week (See [the Syllabus](../syllabus.md)) working on the following tasks:
   - engaging in learning activities (readings, videos, tutorials, courses, etc...) to develop knowledge and skills.
