@@ -28,8 +28,8 @@ F 10/18/24      | C14: Work Day (Prof @ [CCSC-EA]) |                | [PE]
 T 10/22/24      | **Fall Pause**                   |                |
 &nbsp;          |                                  |                |
 F 10/25/24      | C15: Work Day                    |                | [PE]
-T 10/29/24      | C16: Tech Spike Presentations A  |                | [PP01](A), WA01(B)
-F 11/01/24      | C17: Tech Spike Presentations B  |                | [PP01](B), WA01(A), [PE]
+T 10/29/24      | C16: Tech Spike Presentations A  |                | [PP01]-A, WA01-B
+F 11/01/24      | C17: Tech Spike Presentations B  |                | [PP01]-B, WA01-A, [PE]
 T 11/05/24      | C18: Project Milestones          | PA06, RD07     |
 F 11/08/24      | C19: Software Processes          |                | RD07, [PE]
 T 11/12/24      | C20: Work Day                    | RD08           | 
