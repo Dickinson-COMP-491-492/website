@@ -32,7 +32,7 @@ T 09/10/24      | RD01: SWE/FOSS History              | 1. [SWE History]<br>2. [
 T 09/17/24      | RD02: Organizations & Communities   | 1. [SWE Organizations]<br>2. [OSS Communities]<br>3. [DEI in OSS]
 T 09/24/24      | RD03: Culture & Communication       | 1. [SWE Communication]<br>2. [OSS Communications]<br>(Stop before "Handling Growth")
 F 10/04/24      | RD04: Productivity & Quality        | 1. [SWE Productivity]<br>2. [SWE Quality]<br>3. [OSS Quality]
-T 10/08/24      | RD05: Lunch with Nate Mitchell      |
+T 10/08/24      | RD05: Lunch with Nate Mitchell      | 
 T 11/15/24      | RD06: Reqs, Specs & Archs           |
 F 11/08/24      | RD07: Software Processes            |
 F 11/15/24      | RD08: Comprehension, V-and-V        |
