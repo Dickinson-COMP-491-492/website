@@ -32,7 +32,7 @@ T 09/10/24      | RD01: SWE/FOSS History              | 1. [SWE History]<br>2. [
 T 09/17/24      | RD02: Organizations & Communities   | 1. [SWE Organizations]<br>2. [OSS Communities]<br>3. [DEI in OSS]
 T 09/24/24      | RD03: Culture & Communication       | 1. [SWE Communication]<br>2. [OSS Communications]<br>(Stop before "Handling Growth")
 F 10/04/24      | RD04: Productivity & Quality        | 1. [SWE Productivity]<br>2. [SWE Quality]<br>3. [OSS Quality]
-T 10/08/24      | RD05: Lunch with Nate Mitchell      | 1. [The State of VR]<br>2. [Leaving Oculus]<br>3. [Mountaintop culture]<br>4. [Mountaintop Raises $30M]<br>5. [Spectre Divide]
+T 10/08/24      | RD05: Lunch with Nate Mitchell      | 1. [Nate's Bio]<br> 2. [The State of VR]<br>3. [Leaving Oculus]<br>4. [Mountaintop culture]<br>5. [Mountaintop Raises $30M]<br>6. [Spectre Divide]
 T 11/15/24      | RD06: Reqs, Specs & Archs           |
 F 11/08/24      | RD07: Software Processes            |
 F 11/15/24      | RD08: Comprehension, V-and-V        |
@@ -54,6 +54,7 @@ F 12/13/24      | RD11: Monitoring & Evolution        |
 [SWE Quality]: https://faculty.washington.edu/ajko/books/cooperative-software-development/quality
 [OSS Quality]: https://blogs.worldbank.org/en/opendata/quality-open-source-software-how-many-eyes-are-enough
 
+[Nate's Bio]: materials/NateBio.md
 [The State of VR]: https://techcrunch.com/2016/06/20/oculus-interview/
 [Leaving Oculus]: https://www.theverge.com/2019/8/13/20804074/oculus-vr-nate-mitchell-leaving-co-founder-virtual-reality-pioneer-facebook
 [Mountaintop Culture]: https://www.gamesindustry.biz/oculus-vets-size-up-challenge-facing-their-new-studio-mountaintop
