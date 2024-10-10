@@ -21,8 +21,8 @@ F 09/27/24      | C08: Tech Spikes                 | [PA05]         | [PA04], [P
 T 10/01/24      | C09: Work Day                    | [RD]04         | [PA05]
 F 10/04/24      | C10: Productivity & Quality      | [RD]05         | [RD]04, [PE]02
 T 10/08/24      | C11: Lunch with Nate Mitchell<br>(12:00-1:00 Tome 115) | | [RD]05
-F 10/11/24      | C12: Work Day                    | RD06           | [PE]03
-T 10/15/24      | C13: Reqs, Specs & Archs         | WA01           | RD06
+F 10/11/24      | C12: Work Day                    | [RD]06         | [PE]03
+T 10/15/24      | C13: Reqs, Specs & Archs         | WA01           | [RD]06
 F 10/18/24      | C14: Work Day (Prof @ [CCSC-EA]) |                | [PE]04
 &nbsp;          |                                  |                | 
 T 10/22/24      | **Fall Pause**                   |                |
