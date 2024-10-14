@@ -22,14 +22,14 @@ T 10/01/24      | C09: Work Day                    | [RD]04         | [PA05]
 F 10/04/24      | C10: Productivity & Quality      | [RD]05         | [RD]04, [PE]02
 T 10/08/24      | C11: Lunch with Nate Mitchell<br>(12:00-1:00 Tome 115) | | [RD]05
 F 10/11/24      | C12: Work Day                    | [RD]06         | [PE]03
-T 10/15/24      | C13: Reqs, Specs & Archs         | WA01           | [RD]06
+T 10/15/24      | C13: Reqs, Specs & Archs         | [WA01]           | [RD]06
 F 10/18/24      | C14: Work Day (Prof @ [CCSC-EA]) |                | [PE]04
 &nbsp;          |                                  |                | 
 T 10/22/24      | **Fall Pause**                   |                |
 &nbsp;          |                                  |                |
 F 10/25/24      | C15: Work Day                    |                | [PE]05
-T 10/29/24      | C16: Tech Spike Presentations A  |                | [PP01]-A, WA01-B
-F 11/01/24      | C17: Tech Spike Presentations B  |                | [PP01]-B, WA01-A, [PE]06
+T 10/29/24      | C16: Tech Spike Presentations A  |                | [PP01]-A, [WA01]-B
+F 11/01/24      | C17: Tech Spike Presentations B  |                | [PP01]-B, [WA01]-A, [PE]06
 T 11/05/24      | C18: Project Milestones          | PA06, RD07     |
 F 11/08/24      | C19: Software Processes          |                | RD07, [PE]07
 T 11/12/24      | C20: Work Day                    | RD08           | 
@@ -40,8 +40,8 @@ T 11/26/24      | C24: Agile Game Round 2          |                | WA02
 &nbsp;          |
 F 11/29/24      | **Thanksgiving Break**
 &nbsp;          |
-T 12/03/24      | C25:  Work Day                   | RD10, WA03     |
-F 12/06/24      | C26:  Test Driven Development    |                | RD10, [PE]10
+T 12/03/24      | C25:  Work Day                   | RD10           |
+F 12/06/24      | C26:  Test Driven Development    | WA03           | RD10, [PE]10
 T 12/10/24      | C27:  Work Day                   | RD11           | 
 F 12/13/24      | C28:  Monitoring & Evolution     |                | RD11, [PE]11
 &nbsp;          |
@@ -61,6 +61,8 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [PP01]: assignments/PP01-TechSpikePresentation.md
 
 [RD]: assignments/RD-ReadingsAndDiscussion.md#preparation
+
+[WA01]: assignments/WA01-BlogPostDraft.md
 
 [CCSC-EA]: https://sites.google.com/site/ccsceastern/conference-info
 
