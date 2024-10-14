@@ -26,16 +26,19 @@ You are given wide latitude to choose a topic for your blog post and you are enc
 
 The expected writing style for your blog post is exemplified by the blog posts in the [Science + Tech section of The Conversation](https://theconversation.com/us/technology). You should familiarize yourself with the expected style of writing by reading a few of these posts and then try to emulate their style in your writing.
 
+#### Blog Posts on Blog Posts
+
 You can also go meta and read some blog posts about writing blog posts.  Here are a few that are pretty good:
 - [Tips on How to Write Your First Successful Technical Blog](https://medium.com/quark-works/tips-on-how-to-write-your-first-successful-technical-blog-4cb65e5b4ce4) by Hannah Prate contains some good advice.
 - [The Ultimate Guide to Writing Technical Blog Posts](https://dev.to/blackgirlbytes/the-ultimate-guide-to-writing-technical-blog-posts-5464) by Rizèl Scarlett is much more detailed. She provides a number of "Outlines" for blogs with different purposes and gives some advice on using AIs such as ChatGPT.  The "Outline for thought leadership/opinion blog posts" is probably most appropriate for this assignment.
 
 If those don't work for you there is no shortage of other advice, just google "How to write a blog post" or "How to write a technical blog post" and find something that resonates with you and matches the goals of this assignment.
 
-In addition, recall that the [AI Use](../syllabus.md#ai-use) policy in the course Syllabus allows you to use AI to **revise** writing you have already completed as long as you retain a copy of your original work. The following sites have some useful suggestions on how to do this that are compatible with the course policy:
+#### Using AI for Revision
+
+Recall that the [AI Use](../syllabus.md#ai-use) policy in the course Syllabus allows you to use AI to **revise** writing you have already completed as long as you retain a copy of your original work. The following sites have some useful suggestions on how to use AI for **revision** that are compatible with the course policy:
 - [How AI can help proofread and edit your essays](https://www.microsoft.com/en-us/microsoft-365-life-hacks/writing/how-ai-can-help-you-proofread-and-edit-essays)
 - [Five Ways AI Can Help You Edit Your Work](https://www.oxbridgeediting.co.uk/blog/five-ways-ai-can-help-you-edit-your-work/)
-
 
 ### Writing the Blog Post
 
