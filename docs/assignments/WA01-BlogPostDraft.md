@@ -28,9 +28,14 @@ The expected writing style for your blog post is exemplified by the blog posts i
 
 You can also go meta and read some blog posts about writing blog posts.  Here are a few that are pretty good:
 - [Tips on How to Write Your First Successful Technical Blog](https://medium.com/quark-works/tips-on-how-to-write-your-first-successful-technical-blog-4cb65e5b4ce4) by Hannah Prate contains some good advice.
-- [The Ultimate Guide to Writing Technical Blog Posts](https://dev.to/blackgirlbytes/the-ultimate-guide-to-writing-technical-blog-posts-5464#use-a-digital-writing-assistant) by Rizèl Scarlett is much more detailed. She provides a number of "Outlines" for blogs with different purposes.  The "Outline for thought leadership/opinion blog posts" is probably most appropriate for this assignment.
+- [The Ultimate Guide to Writing Technical Blog Posts](https://dev.to/blackgirlbytes/the-ultimate-guide-to-writing-technical-blog-posts-5464) by Rizèl Scarlett is much more detailed. She provides a number of "Outlines" for blogs with different purposes and gives some advice on using AIs such as ChatGPT.  The "Outline for thought leadership/opinion blog posts" is probably most appropriate for this assignment.
 
 If those don't work for you there is no shortage of other advice, just google "How to write a blog post" or "How to write a technical blog post" and find something that resonates with you and matches the goals of this assignment.
+
+In addition, recall that the [AI Use](../syllabus.md#ai-use) policy in the course Syllabus allows you to use AI to **revise** writing you have already completed as long as you retain a copy of your original work. The following sites have some useful suggestions on how to do this that are compatible with the course policy:
+- [How AI can help proofread and edit your essays](https://www.microsoft.com/en-us/microsoft-365-life-hacks/writing/how-ai-can-help-you-proofread-and-edit-essays)
+- [Five Ways AI Can Help You Edit Your Work](https://www.oxbridgeediting.co.uk/blog/five-ways-ai-can-help-you-edit-your-work/)
+
 
 ### Writing the Blog Post
 
@@ -62,9 +67,10 @@ Submit your assignment as follows:
    - There should be one folder for each course (e.g. COMP132, COMP256, etc...)
    - All content should be stored in the folder for the appropriate course.
 2. Create a `COMP491` folder in your Dickinson WiD Repository.
-3. Ensure that your draft blog post does not contain your name.  This is important for the peer review process in ([WA02](WA02-BlogPostPeerReview.md)).
-4. Create a PDF of your draft blog post with a filename that ends with `-draft.pdf`.
-5. Place the PDF that you created in your new `COMP491` folder.
+3. If you used an AI to help with editing and revision of your blog post, you must upload a PDF of the original (pre-AI revision) version to your Dickinson WiD Repository.  Name this file using a filename that ends with `-preAIHelp.pdf`.
+4. Ensure that your draft blog post does not contain your name.  This is important for the peer review process in ([WA02](WA02-BlogPostPeerReview.md)).
+5. Create a PDF of your draft blog post with a filename that ends with `-draft.pdf`.
+6. Place the PDF that you created in your new `COMP491` folder.
 
 ## Acknowledgements
 
