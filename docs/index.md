@@ -22,7 +22,7 @@ T 10/01/24      | C09: Work Day                    | [RD]04         | [PA05]
 F 10/04/24      | C10: Productivity & Quality      | [RD]05         | [RD]04, [PE]02
 T 10/08/24      | C11: Lunch with Nate Mitchell<br>(12:00-1:00 Tome 115) | | [RD]05
 F 10/11/24      | C12: Work Day                    | [RD]06         | [PE]03
-T 10/15/24      | C13: Reqs, Specs & Archs         | [WA01]           | [RD]06
+T 10/15/24      | C13: Reqs, Specs & Archs         | [WA01]         | [RD]06
 F 10/18/24      | C14: Work Day (Prof @ [CCSC-EA]) |                | [PE]04
 &nbsp;          |                                  |                | 
 T 10/22/24      | **Fall Pause**                   |                |
@@ -30,11 +30,11 @@ T 10/22/24      | **Fall Pause**                   |                |
 F 10/25/24      | C15: Work Day                    |                | [PE]05
 T 10/29/24      | C16: Tech Spike Presentations A  |                | [PP01]-A, [WA01]-B
 F 11/01/24      | C17: Tech Spike Presentations B  |                | [PP01]-B, [WA01]-A, [PE]06
-T 11/05/24      | C18: Project Milestones          | PA06, RD07     |
+T 11/05/24      | C18: Project Contributions       | [PA06], RD07   |
 F 11/08/24      | C19: Software Processes          |                | RD07, [PE]07
-T 11/12/24      | C20: Work Day                    | RD08           | 
-F 11/15/24      | C21: Comprehension, V-and-V      |                | PA06, RD08, [PE]08
-T 11/19/24      | C22: Work Day                    | RD09, WA02     | 
+T 11/12/24      | C20: Work Day                    | RD08, WA02     | 
+F 11/15/24      | C21: Comprehension, V-and-V      |                | RD08, [PE]08
+T 11/19/24      | C22: Work Day                    | RD09           | [PA06]
 F 11/22/24      | C23: Agile Game Round 1          |                | RD09, [PE]09
 T 11/26/24      | C24: Agile Game Round 2          |                | WA02
 &nbsp;          |
@@ -55,6 +55,7 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [PA03]: assignments/PA03-ProjectReviews.md
 [PA04]: assignments/PA04-ProjectSelection.md
 [PA05]: assignments/PA05-TechSpikePrep.md
+[PA06]: assignments/PA06-Contributions.md
 
 [PE]: assignments/PE-ProjectEffectiveness.md#assignment
 
