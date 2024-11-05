@@ -34,7 +34,7 @@ T 09/24/24      | RD03: Culture & Communication       | 1. [SWE Communication]<b
 F 10/04/24      | RD04: Productivity & Quality        | 1. [SWE Productivity]<br>2. [SWE Quality]<br>3. [OSS Quality]
 T 10/08/24      | RD05: Lunch with Nate Mitchell      | 1. [Nate's Bio]<br>2. [The State of VR]<br>3. [Leaving Oculus]<br>4. [Mountaintop culture]<br>5. [Mountaintop Raises $30M]<br>6. [Spectre Divide]
 T 11/15/24      | RD06: Reqs, Specs & Archs           | 1. [SWE Requirements]<br>2. [SWE Architecture]<br>3. [SWE Specifications]
-F 11/08/24      | RD07: Software Processes            | 1. [The SW Crisis]<br> 2. [SWE Process]<br>2. [What is Agile]<br>3. [Agile Manifesto]<br>4. [Agile Principles]
+F 11/08/24      | RD07: Software Processes            | 1. [The SW Crisis]<br>2. [SW Crisis Evidence]<br>3. [SWE Process]<br>4. [What is Agile]<br>5. [Agile Manifesto]<br>6. [Agile Principles]
 F 11/15/24      | RD08: Comprehension, V-and-V        |
 F 11/19/24      | RD09: Agile Game Round 1            |
 F 12/06/24      | RD10: Test Driven Development       |
@@ -66,6 +66,7 @@ F 12/13/24      | RD11: Monitoring & Evolution        |
 [SWE Specifications]: https://faculty.washington.edu/ajko/books/cooperative-software-development/specifications
 
 [The SW Crisis]: https://www.youtube.com/watch?v=0b5vp4Z2PKE
+[SW Crisis Evidence]: https://www.youtube.com/watch?v=Cd3TrUK8axU
 [SWE Process]: https://faculty.washington.edu/ajko/books/cooperative-software-development/process
 [What is Agile]: https://www.agilealliance.org/agile101/
 [Agile Manifesto]: https://agilemanifesto.org/
