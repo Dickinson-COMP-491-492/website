@@ -19,11 +19,11 @@ The team should identify a number of potential contributions that the members of
 
 There are a number of good ways to identify potential contributions and all should be pursued:
 - Review the project's contributing documentation and follow any suggestions that are given.
-- Review the project's communication channels for any messages from others who are/were getting started and read the relevant responses.
+- Review the project's communication channels for any messages from others who are/were getting started and read the relevant responses.  This can also help to inform you about which project maintainers that are most involved in onboarding new contributors or interacting with student teams. It may be helpful to then search for more messages from those maintainers.
 - Use an appropriate communication channel to introduce your team to the community and ask for guidance.
   - When reaching out to the community, be sure that you explain that you are a team of senior undergraduate computer science students in a year-long capstone course that focuses on open source contribution. You might mention that the course continues through May and that you will be spending approximately 6-8 hours per week on the project work. Then ask directly for suggestions, tips or pointers to good places to start. 
-- Browse the issue tracker for issues that seem interesting and approachable to your team.
-- If you are having difficulty identifying potential contributions talk with your instructor.
+- Browse the issue tracker for issues that seem interesting and approachable to your team. If you settle on an issue you intend to work on follow the project's conventions for letting them know.  Some projects will ask you to comment on the issue. Others would like to to create a draft pull request. Others simply prefer that you start working on it and get in touch if you have questions.  In any case, you should feel free to reach out to the community about the issue you are working on if you have any questions about the issue or how to get started on it.
+- If you are having difficulty identifying potential contributions or figuring out how to connect with your project community you should talk with your instructor.
 
 As you identify potential contributions, document them as described in the [Documenting Project Contributions](#documenting-project-contributions) section below. 
 
