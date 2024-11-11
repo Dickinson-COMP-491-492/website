@@ -35,7 +35,7 @@ F 10/04/24      | RD04: Productivity & Quality        | 1. [SWE Productivity]<br
 T 10/08/24      | RD05: Lunch with Nate Mitchell      | 1. [Nate's Bio]<br>2. [The State of VR]<br>3. [Leaving Oculus]<br>4. [Mountaintop culture]<br>5. [Mountaintop Raises $30M]<br>6. [Spectre Divide]
 T 11/15/24      | RD06: Reqs, Specs & Archs           | 1. [SWE Requirements]<br>2. [SWE Architecture]<br>3. [SWE Specifications]
 F 11/08/24      | RD07: Software Processes            | 1. [The SW Crisis]<br>2. [SW Crisis Evidence]<br>3. [SWE Process]<br>4. [What is Agile]<br>5. [Agile Manifesto]<br>6. [Agile Principles]
-F 11/15/24      | RD08: Comprehension, V-and-V        |
+F 11/15/24      | RD08: Comprehension, V-and-V        | 1. [SWE Comprehension]<br>2. [SWE Verification]<br>3. [CI/CD]
 F 11/19/24      | RD09: Agile Game Round 1            |
 F 12/06/24      | RD10: Test Driven Development       |
 F 12/13/24      | RD11: Monitoring & Evolution        |
@@ -72,6 +72,10 @@ F 12/13/24      | RD11: Monitoring & Evolution        |
 [Agile Manifesto]: https://agilemanifesto.org/
 [Agile Principles]: https://agilemanifesto.org/principles.html
 
+[SWE Comprehension]: https://faculty.washington.edu/ajko/books/cooperative-software-development/comprehension
+[SWE Verification]: https://faculty.washington.edu/ajko/books/cooperative-software-development/verification
+[CI/CD]: https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment
+
 ### Grading
 
 A grade for Readings and Discussion will be recorded three times throughout the semester.  Each grade will take into account all Reading and Discussion assignments since the prior grade was recorded.
@@ -81,18 +85,13 @@ The grade will be determined by averaging scores assigned to three factors <b>Di
 - **Preparation**: Preparation can be demonstrated in multiple ways. Posting exceptional discussion questions with thoughtful explanations can help to demonstrate preparation, but will not be sufficient on its own. Demonstrating a strong familiarity with the readings by making thoughtful, insightful, and timely contributions to the discussion will can demonstrate preparation. In an instance where you feel your discussion questions, and/or contributions to the discussion do not adequately demonstrate your preparation, you may also submit your sheet of handwritten notes to the instructor following class as evidence of preparation.
 - **Engagement**: Engagement is measured using the in-class discussion.  You are expected to be preset, attentive and to regularly contribute to the discussion in constructive ways.  Contributions should be on-topic, connected to the current thread of discussion.  You should be conscious of your level of contribution and regulate accordingly to ensure that you participate, and that everyone else has an opportunity to contribute.
 
-
-
 <!--
-
 T 09/20/22	    | C07 - Licensing                                   | 1. [How to Use Popular Open Source Licenses, Explained](https://www.capitalone.com/tech/open-source/open-source-licenses-explained-2021/)<br>2. [If Software is My Copilot, Who Programmed My Software?](https://sfconservancy.org/blog/2022/feb/03/github-copilot-copyleft-gpl/)<br>3. [Dual Licensing in Open Source Software Industry](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1354&context=sim)
 
-F 11/04/22      | C19 - Processes                                   | 1. Watch [The Software Crisis](https://www.youtube.com/watch?v=0b5vp4Z2PKE&list=PLAwxTw4SYaPkNAtqsKcFkUGpf4j67NBaz) [3 min] and [Evidence of it](https://www.youtube.com/watch?v=Cd3TrUK8axU) [2 min]<br>2. SWE [Process](https://faculty.washington.edu/ajko/books/cooperative-software-development/process)<br>3. [Software Process Models](https://www.thomasalspaugh.org/pub/fnd/softwareProcess.html)<br>4. [Agile Manifesto](http://agilemanifesto.org/) and [Principles](http://agilemanifesto.org/principles.html)<br>5. [Agile 101](https://www.agilealliance.org/agile101/).
 F 11/18/22      | C23 - Agile Processes & Games                     | 1. [What is Extreme Programming?](https://ronjeffries.com/xprog/what-is-extreme-programming/)<br>2. [Introduction to Scrum](https://www.codemag.com/article/0805051/Introduction-to-Scrum)<br>3. [The Kanban Method](https://getnave.com/blog/what-is-the-kanban-method/)
 T 11/29/22      | C25 - Comprehension, Verification & CI/CD         | 1. SWE [Comprehension](https://faculty.washington.edu/ajko/books/cooperative-software-development/comprehension)<br>2. SWE [Verification](https://faculty.washington.edu/ajko/books/cooperative-software-development/verification)<br>3. [Continuous Integration, Delivery, and Deployment](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment)
 T 12/06/22      | C27 - Monitoring and Evolution                    | 1. SWE [Monitoring](https://faculty.washington.edu/ajko/books/cooperative-software-development/monitoring)<br>2. SWE [Evolution](https://faculty.washington.edu/ajko/books/cooperative-software-development/evolution)<br>3. [The Era of "Move Fast and Break Things" is Over](https://lms.dickinson.edu/mod/resource/view.php?id=1146854)<br>4. [XKCD](https://www.explainxkcd.com/wiki/index.php/1428:_Move_Fast_and_Break_Things)<br>5. [Larry Fink's 2019 Letter to CEOs](https://www.blackrock.com/americas-offshore/en/2019-larry-fink-ceo-letter)
 -->
-
 
 ---
 

@@ -50,14 +50,14 @@ Well written blog posts that receive high scores will:
 - be accessible, interesting and engaging to a generally tech literate audience.
   - Imagining that your writing will be read by your friends, classmates, similar students at other institutions, potential employers, classmates and other professors may be helpful.
   - Use the topic to motivate your post in a way that is independent of this course. The reader should not know from reading the post that is was written as a course assignment.
-- demonstrate thoughtfulness and insight by providing an original synthesis of ideas built from multiple sources. 
+- demonstrate thoughtfulness and insight by providing a well organized, original synthesis of ideas built from multiple sources. 
   - Your post must do more than summarize the content of the sources.
 - include numerous specific details drawn from multiple sources including some not assigned for this course. 
   - These sources must be reputable and may include news articles, opinion pieces, other blogs, videos, formal academic sources, etc. They may include sources assigned in other courses.
   - When details are drawn from a source, a contextual link should be included within the text. See the posts in the [Science + Tech section of The Conversation](https://theconversation.com/us/technology) for examples.
 - be of an appropriate length. You should target 800-1200 words (1.5-2.5 single spaced pages).
-  - There will be some leeway for *slightly* longer posts if the writing is focused and compelling.
-- be logically organized, concise and grammatically correct.
+  - There will be some leeway for *slightly* longer posts if the writing is concise and compelling.
+- be grammatically correct.
 - include embedded multimedia (e.g. images, audio, video, etc.) only as it is directly related to the topic and enhances the reader's experience.
   - Any embedded content must be used in a way that is compliant with its copyright and/or license.
 - be compliant with the [AI Use](../syllabus.md#ai-use) policy in the Syllabus.
