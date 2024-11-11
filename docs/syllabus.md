@@ -140,15 +140,15 @@ Weight | Course Component
 3%     | [PA03](assignments/PA03-ProjectReviews.md): Project Reviews
 5%     | [PA04](assignments/PA04-ProjectSelection.md): Project Selection
 3%     | [PA05](assignments/PA05-TechSpikePrep.md): Technology Spike Preparation
-5%     | PA06: Lightening Bug Demo
+5%     | [PA06](assignments/PA06-Contributions.md): Project Contributions
 15%    | [PE](assignments/PE-ProjectEffectiveness.md): Project Effectiveness
 &nbsp; | **PP: Project Presentations**
 10%    | [PP01](assignments/PP01-TechSpikePresentation.md): Technology Spike Presentations
 20%    | PP02: Final Project Presentation
 &nbsp; | **WA: Writing Assignments**
-4%     | WA01: Blog Post Draft
-3%     | WA02: Blog Post Peer Reviews
-8%     | WA04: Blog Post Final Draft
+4%     | [WA01](assignments/WA01-BlogPostDraft.md): Blog Post Draft
+3%     | [WA02](assignments/WA02-BlogPostPeerReview.md): Blog Post Peer Reviews
+8%     | [WA03](assignments/WA03-BlogPostRevision.md): Blog Post Final Draft
 
 #### COMP492 Course Components (Spring)
 

@@ -44,9 +44,10 @@ Recall that the [AI Use](../syllabus.md#ai-use) policy in the course Syllabus al
 
 Well written blog posts that receive high scores will:
 - have a clear connection to one or more of the readings and discussions from the course.
+- have an engaging, descriptive and accurate title.
 - incorporate a discussion of both technical information and its relationship to at least one social, legal and/or ethical issue.
   - The chapters that we have been reading from Ko's SWE text are good examples of how to combine these elements.
-- be accessible, interesting and engaging to an generally tech literate audience.
+- be accessible, interesting and engaging to a generally tech literate audience.
   - Imagining that your writing will be read by your friends, classmates, similar students at other institutions, potential employers, classmates and other professors may be helpful.
   - Use the topic to motivate your post in a way that is independent of this course. The reader should not know from reading the post that is was written as a course assignment.
 - demonstrate thoughtfulness and insight by providing an original synthesis of ideas built from multiple sources. 
