@@ -64,6 +64,7 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [RD]: assignments/RD-ReadingsAndDiscussion.md#preparation
 
 [WA01]: assignments/WA01-BlogPostDraft.md
+[WA02]: assignments/WA02-BlogPostPeerReview.md
 
 [CCSC-EA]: https://sites.google.com/site/ccsceastern/conference-info
 
