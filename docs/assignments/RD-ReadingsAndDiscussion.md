@@ -36,7 +36,7 @@ T 10/08/24      | RD05: Lunch with Nate Mitchell      | 1. [Nate's Bio]<br>2. [T
 T 11/15/24      | RD06: Reqs, Specs & Archs           | 1. [SWE Requirements]<br>2. [SWE Architecture]<br>3. [SWE Specifications]
 F 11/08/24      | RD07: Software Processes            | 1. [The SW Crisis]<br>2. [SW Crisis Evidence]<br>3. [SWE Process]<br>4. [What is Agile]<br>5. [Agile Manifesto]<br>6. [Agile Principles]
 F 11/15/24      | RD08: Comprehension, V-and-V        | 1. [SWE Comprehension]<br>2. [SWE Verification]<br>3. [CI/CD]
-F 11/19/24      | RD09: Agile Game Round 1            | 1. [Extreme Programming]<br>2. [Scrum]<br>3. [Kanban]
+F 11/19/24      | RD09: Agile Processes               | 1. [Extreme Programming]<br>2. [Scrum]<br>3. [Kanban]
 F 12/06/24      | RD10: Test Driven Development       |
 F 12/13/24      | RD11: Monitoring & Evolution        |
 
