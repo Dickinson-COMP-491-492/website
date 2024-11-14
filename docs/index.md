@@ -34,8 +34,8 @@ T 11/05/24      | C18: Project Contributions       | [PA06], [RD]07 |
 F 11/08/24      | C19: Software Processes          |                | [RD]07, [PE]07
 T 11/12/24      | C20: Work Day                    | [RD]08, [WA02] | 
 F 11/15/24      | C21: Comprehension, V-and-V      |                | [RD]08, [PE]08
-T 11/19/24      | C22: Work Day                    | RD09           | [PA06]
-F 11/22/24      | C23: Agile Game Round 1          |                | RD09, [PE]09
+T 11/19/24      | C22: Work Day                    | [RD]09         | [PA06]
+F 11/22/24      | C23: Agile Game Round 1          |                | [RD]09, [PE]09
 T 11/26/24      | C24: Agile Game Round 2          |                | [WA02]
 &nbsp;          |
 F 11/29/24      | **Thanksgiving Break**
