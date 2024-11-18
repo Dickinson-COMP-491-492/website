@@ -45,9 +45,10 @@ This document must continue to be updated and maintained throughout the remainde
 Having a working developer install that allows code changes to be made and tested locally is a prerequisite to working on technical contributions. Each team member is required to individually demonstrate that their development environment is working. This demonstration is to be submitted by sharing a narrated screen recording of the steps outlined below.
 
 See the following resources for information on how to create screen recordings:
-- [Using Zoom to Create Quick and Easy Screen Recordings](https://blog.smu.edu/itconnect/2017/08/23/using-zoom-create-quick-easy-screen-recordings-free/).
-- [How to record the screen on your Mac](https://support.apple.com/en-us/102618).
+- [How to record the screen on your Mac](https://support.apple.com/en-us/102618) - Use the QuickTime Player section to record audio.
 - [Record Screen with Snipping Tool app in Windows 11](https://www.elevenforum.com/t/record-screen-with-snipping-tool-app-in-windows-11.11190/).
+- [Using Zoom to Create Quick and Easy Screen Recordings](https://blog.smu.edu/itconnect/2017/08/23/using-zoom-create-quick-easy-screen-recordings-free/).
+- [How to use OBS Screen Capture](https://restream.io/learn/obs-studio/how-to-use-obs-screen-capture/).
 
 Here are a few examples of screen recordings of demonstrations that illustrate the style that is expected.  Notice in particular that the author gives a detailed narration of the actions and discusses what is happening at each point. Also note how the mouse pointer and highlighting are used to make it clear which part of the screen is being discussed at relevant times.
 - [VS Code Tips - Quick search](https://www.youtube.com/watch?v=pL7JKHcHcjs) (1:31)
