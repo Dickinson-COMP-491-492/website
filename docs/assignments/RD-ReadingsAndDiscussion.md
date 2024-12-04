@@ -37,7 +37,7 @@ T 11/15/24      | RD06: Reqs, Specs & Archs           | 1. [SWE Requirements]<br
 F 11/08/24      | RD07: Software Processes            | 1. [The SW Crisis]<br>2. [SW Crisis Evidence]<br>3. [SWE Process]<br>4. [What is Agile]<br>5. [Agile Manifesto]<br>6. [Agile Principles]
 F 11/15/24      | RD08: Comprehension, V-and-V        | 1. [SWE Comprehension]<br>2. [SWE Verification]<br>3. [CI/CD]
 F 11/19/24      | RD09: Agile Processes               | 1. [Extreme Programming]<br>2. [Scrum]<br>3. [Kanban]
-F 12/06/24      | RD10: Test Driven Development       |
+F 12/06/24      | RD10: Test Driven Development       | 1. [Test Driven Development]<br>2. [Cannon TDD]<br>3. [TDD in Java Demo]
 F 12/13/24      | RD11: Monitoring & Evolution        |
 
 [SWE History]: https://faculty.washington.edu/ajko/books/cooperative-software-development/history
@@ -79,6 +79,10 @@ F 12/13/24      | RD11: Monitoring & Evolution        |
 [Extreme Programming]: https://ronjeffries.com/xprog/what-is-extreme-programming/
 [Scrum]: https://www.codemag.com/article/0805051/Introduction-to-Scrum
 [Kanban]: https://getnave.com/blog/what-is-the-kanban-method/
+
+[Test Driven Development]: https://martinfowler.com/bliki/TestDrivenDevelopment.html
+[Cannon TDD]: https://tidyfirst.substack.com/p/canon-tdd
+[TDD in Java Demo]: https://www.youtube.com/watch?v=eMU_hninZAs
 
 ### Grading
 
