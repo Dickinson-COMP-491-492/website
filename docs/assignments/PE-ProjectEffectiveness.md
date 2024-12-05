@@ -22,3 +22,9 @@ Each Project Effectiveness score will be based on one or more of the following c
 - Class Work Day and Other Meetings: Your presence and participation in team meetings with the instructor during class work days and in other meetings you may have with the instructor (e.g. office hours) will factor into your Project Effectiveness score.  The instructor will use these meetings to form a perception of your time commitment, effort and effectiveness in the team's project work.
 
 If you have concerns regarding the fairness of the TEAMMATES feedback from your team or the accuracy of the instructor's perception of your work please discuss your concerns with the instructor. In either case, please be prepared to provide evidence of the time investment, effort and/or effectiveness that you feel may have been undervalued.
+
+---
+
+![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+![GPL V3 or Later](https://www.gnu.org/graphics/gplv3-or-later-sm.png "GPL V3 or later") All executable code used in this course is licensed under the [GNU General Public License Version 3 or later](https://www.gnu.org/licenses/gpl.txt)
