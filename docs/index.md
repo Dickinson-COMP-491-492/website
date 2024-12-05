@@ -41,7 +41,7 @@ T 11/26/24      | C24: Agile Game Round 2          |                | [WA02]
 F 11/29/24      | **Thanksgiving Break**
 &nbsp;          |
 T 12/03/24      | C25:  Work Day                   | [RD]10         |
-F 12/06/24      | C26:  Test Driven Development    | [WA03][TDD]    | [RD]10, [PE]10
+F 12/06/24      | C26:  Test Driven Development    | [WA03], [TDD]  | [RD]10, [PE]10
 T 12/10/24      | C27:  Work Day                   | RD11           | 
 F 12/13/24      | C28:  Monitoring & Evolution     | PP02           | RD11, [PE]11
 &nbsp;          |
