@@ -42,8 +42,8 @@ F 11/29/24      | **Thanksgiving Break**
 &nbsp;          |
 T 12/03/24      | C25:  Work Day                   | [RD]10         |
 F 12/06/24      | C26:  Test Driven Development    | [WA03], [TDD]  | [RD]10, [PE]10
-T 12/10/24      | C27:  Work Day                   | RD11           | 
-F 12/13/24      | C28:  Monitoring & Evolution     | PP02           | RD11, [PE]11
+T 12/10/24      | C27:  Work Day                   | [RD]11         | 
+F 12/13/24      | C28:  Monitoring & Evolution     | PP02           | [RD]11, [PE]11
 &nbsp;          |
 F 12/20/24      | **2:00pm - Final Exam Time**<br>Section 01 |      | PP02, [WA03], [PE]12
 S 12/21/23      | **9:00am - Final Exam Time**<br>Section 02 |      | PP02, [WA03], [PE]12

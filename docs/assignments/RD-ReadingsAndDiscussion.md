@@ -38,7 +38,7 @@ F 11/08/24      | RD07: Software Processes            | 1. [The SW Crisis]<br>2.
 F 11/15/24      | RD08: Comprehension, V-and-V        | 1. [SWE Comprehension]<br>2. [SWE Verification]<br>3. [CI/CD]
 F 11/19/24      | RD09: Agile Processes               | 1. [Extreme Programming]<br>2. [Scrum]<br>3. [Kanban]
 F 12/06/24      | RD10: Test Driven Development       | 1. [Test Driven Development]<br>2. [Cannon TDD]<br>3. [TDD in Java Demo]
-F 12/13/24      | RD11: Monitoring & Evolution        |
+F 12/13/24      | RD11: Monitoring & Evolution        | 1. [SWE Monitoring]<br>2. [SWE Evolution]<br>3. [MFBT is Over]<br>4. [MFBT XKCD]
 
 [SWE History]: https://faculty.washington.edu/ajko/books/cooperative-software-development/history
 [Mysteries of OSS]: https://doi.ieeecomputersociety.org/10.1109/HICSS.2005.609
@@ -84,6 +84,11 @@ F 12/13/24      | RD11: Monitoring & Evolution        |
 [Cannon TDD]: https://tidyfirst.substack.com/p/canon-tdd
 [TDD in Java Demo]: https://www.youtube.com/watch?v=eMU_hninZAs
 
+[SWE Monitoring]: https://faculty.washington.edu/ajko/books/cooperative-software-development/monitoring
+[SWE Evolution]: https://faculty.washington.edu/ajko/books/cooperative-software-development/evolution
+[MFBT is Over]: https://lms.dickinson.edu/mod/resource/view.php?id=1146854
+[MFBT XKCD]: https://www.explainxkcd.com/wiki/index.php/1428:_Move_Fast_and_Break_Things
+
 ### Grading
 
 A grade for Readings and Discussion will be recorded three times throughout the semester.  Each grade will take into account all Reading and Discussion assignments since the prior grade was recorded.
@@ -92,11 +97,6 @@ The grade will be determined by averaging scores assigned to three factors <b>Di
 - **Discussion Questions**: These are the discussion question(s) and explanation(s) that you post to the Teams channel for the assignment.
 - **Preparation**: Preparation can be demonstrated in multiple ways. Posting exceptional discussion questions with thoughtful explanations can help to demonstrate preparation, but will not be sufficient on its own. Demonstrating a strong familiarity with the readings by making thoughtful, insightful, and timely contributions to the discussion will can demonstrate preparation. In an instance where you feel your discussion questions, and/or contributions to the discussion do not adequately demonstrate your preparation, you may also submit your sheet of handwritten notes to the instructor following class as evidence of preparation.
 - **Engagement**: Engagement is measured using the in-class discussion.  You are expected to be preset, attentive and to regularly contribute to the discussion in constructive ways.  Contributions should be on-topic, connected to the current thread of discussion.  You should be conscious of your level of contribution and regulate accordingly to ensure that you participate, and that everyone else has an opportunity to contribute.
-
-<!--
-T 09/20/22	    | C07 - Licensing                                   | 1. [How to Use Popular Open Source Licenses, Explained](https://www.capitalone.com/tech/open-source/open-source-licenses-explained-2021/)<br>2. [If Software is My Copilot, Who Programmed My Software?](https://sfconservancy.org/blog/2022/feb/03/github-copilot-copyleft-gpl/)<br>3. [Dual Licensing in Open Source Software Industry](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1354&context=sim)
-T 12/06/22      | C27 - Monitoring and Evolution                    | 1. SWE [Monitoring](https://faculty.washington.edu/ajko/books/cooperative-software-development/monitoring)<br>2. SWE [Evolution](https://faculty.washington.edu/ajko/books/cooperative-software-development/evolution)<br>3. [The Era of "Move Fast and Break Things" is Over](https://lms.dickinson.edu/mod/resource/view.php?id=1146854)<br>4. [XKCD](https://www.explainxkcd.com/wiki/index.php/1428:_Move_Fast_and_Break_Things)<br>5. [Larry Fink's 2019 Letter to CEOs](https://www.blackrock.com/americas-offshore/en/2019-larry-fink-ceo-letter)
--->
 
 ---
 
