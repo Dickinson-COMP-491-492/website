@@ -77,9 +77,9 @@ Practice TDD to implement the `Password` class by using the following steps:
    - The old test(s) should still pass.
    - The new one should fail.
 5. Write the code to implement the functionality being tested.
-   - Remember, do the minimum amount of work you can to do get the test to pass.
-   - If you think you need to do more, define a new test and add it to your list.
-   - Then still do the minimum amount of work for the test you are working on.
+   - Remember, do the __minimum amount of work__ you can to do get the test to pass.
+     - If you think you need to do more, define a new test and add it to your list.
+     - Then still do the minimum amount of work for the test you are working on.
 6. Run the test and debug until the test passes.
 7. Do any refactoring to clean up and/or simplify the code.
    - Run the tests frequently during refactoring to ensure you have not broken anything.
