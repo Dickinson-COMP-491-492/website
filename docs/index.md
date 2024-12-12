@@ -45,8 +45,8 @@ F 12/06/24      | C26:  Test Driven Development    | [WA03], [TDD]  | [RD]10, [P
 T 12/10/24      | C27:  Work Day                   | [RD]11         | 
 F 12/13/24      | C28:  Monitoring & Evolution     | [PP02]         | [RD]11, [PE]11
 &nbsp;          |
-F 12/20/24      | **2:00pm - Final Exam Time**<br>Section 01 |      | [PP02], [WA03], [PE]12
-S 12/21/23      | **9:00am - Final Exam Time**<br>Section 02 |      | [PP02], [WA03], [PE]12
+F 12/20/24      | **2:00pm - Section 01 Presentations** |           | [PP02], [WA03], [PE]12
+S 12/21/23      | **9:00am - Section 02 Presentations** |           | [PP02], [WA03], [PE]12
 
 <!--
 Note: Unlinked assignments and due dates are tentative and subject to change.
