@@ -70,7 +70,7 @@ Consider the following requirements for the `Password` class:
 
 Practice TDD to implement the `Password` class by following the six steps illustrated in the flowchart below, which was adapted from Martin Fowler's short description of [Test Driven Development](https://martinfowler.com/bliki/TestDrivenDevelopment.html):
 
-[<center><img src="images/tdd/tdd-flowchart.png" alt="Flowchart adapted from Martin Fowler's blog that illustrates the TDD process and the six steps described below." width="50%"/></center>](images/tdd/tdd-flowchart.png "TDD Flowchart")
+[<center><img src="images/tdd/tdd-flowchart.jpg" alt="Flowchart adapted from Martin Fowler's blog that illustrates the TDD process and the six steps described below." width="50%"/></center>](images/tdd/tdd-flowchart.png "TDD Flowchart")
 
 1. Create a list of tests that you will use.
 2. Pick a test to write.
