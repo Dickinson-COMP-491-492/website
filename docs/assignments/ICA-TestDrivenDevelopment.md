@@ -68,22 +68,25 @@ Consider the following requirements for the `Password` class:
   - accept the desired password as an argument to the constructor.
   - set the password to `null` if it does not meet the criterion.
 
-Practice TDD to implement the `Password` class by using the following steps:
+Practice TDD to implement the `Password` class by following the six steps illustrated in the flowchart below, which was adapted from Martin Fowler's short description of [Test Driven Development](https://martinfowler.com/bliki/TestDrivenDevelopment.html):
+
+[<center><img src="images/tdd/tdd-flowchart.png" alt="Flowchart adapted from Martin Fowler's blog that illustrates the TDD process and the six steps described below." width="50%"/></center>](images/tdd/tdd-flowchart.png "TDD Flowchart")
+
 1. Create a list of tests that you will use.
 2. Pick a test to write.
-3. Write a JUnit test for that test.
+3. Write and run a JUnit test for that test.
    - You may find this [list of JUnit Assertions with Examples](https://github.com/junit-team/junit4/wiki/Assertions) helpful.
-4. Run the tests.
-   - The old test(s) should still pass.
-   - The new one should fail.
-5. Write the code to implement the functionality being tested.
+   - Run the tests.
+     - The old test(s) should still pass.
+     - The new one should fail.
+4. Write the code to implement the functionality being tested.
    - Remember, do the __minimum amount of work__ you can to do get the test to pass.
      - If you think you need to do more, define a new test and add it to your list.
      - Then still do the minimum amount of work for the test you are working on.
-6. Run the test and debug until the test passes.
-7. Do any refactoring to clean up and/or simplify the code.
+   - Run the tests and debug until all tests including the new test pass.
+5. Do any refactoring to clean up and/or simplify the code.
    - Run the tests frequently during refactoring to ensure you have not broken anything.
-8. If your list of tests is not empty, goto 2.
+6. If your list of tests is not empty, goto 2.
 
 ## Changing Requirements
 
