@@ -43,12 +43,14 @@ F 11/29/24      | **Thanksgiving Break**
 T 12/03/24      | C25:  Work Day                   | [RD]10         |
 F 12/06/24      | C26:  Test Driven Development    | [WA03], [TDD]  | [RD]10, [PE]10
 T 12/10/24      | C27:  Work Day                   | [RD]11         | 
-F 12/13/24      | C28:  Monitoring & Evolution     | PP02           | [RD]11, [PE]11
+F 12/13/24      | C28:  Monitoring & Evolution     | [PP02]         | [RD]11, [PE]11
 &nbsp;          |
-F 12/20/24      | **2:00pm - Final Exam Time**<br>Section 01 |      | PP02, [WA03], [PE]12
-S 12/21/23      | **9:00am - Final Exam Time**<br>Section 02 |      | PP02, [WA03], [PE]12
+F 12/20/24      | **2:00pm - Final Exam Time**<br>Section 01 |      | [PP02], [WA03], [PE]12
+S 12/21/23      | **9:00am - Final Exam Time**<br>Section 02 |      | [PP02], [WA03], [PE]12
 
+<!--
 Note: Unlinked assignments and due dates are tentative and subject to change.
+-->
 
 [PA01]: assignments/PA01-CourseTools.md
 [PA02]: assignments/PA02-ProjectExplorations.md
@@ -60,6 +62,7 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [PE]: assignments/PE-ProjectEffectiveness.md#assignment
 
 [PP01]: assignments/PP01-TechSpikePresentation.md
+[PP02]: assignments/PP02-StatusReportPresentation.md
 
 [RD]: assignments/RD-ReadingsAndDiscussion.md#preparation
 

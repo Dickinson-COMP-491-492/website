@@ -25,16 +25,18 @@ The presentation should aim to meet the following criteria:
     - 8 minutes for project introduction and conclusions.
     - 6 minutes for each demonstration, where teams will use the minimum number of demonstrations necessary to ensure that all members are involved in the demonstration of at least one artifact that they built or helped to build.
     - For example: A team of 4 may need two demonstrations, so the target time for their presentation would be 8 + 6*2 or 20 minutes.
+    - There will be an additional 5-10 minutes of question and answer time following the presentation.
 - **Balance:** All team members should present for approximately equal amounts of time.
 - **Audience:** Prepare this presentation for an audience of your peers (advanced undergraduate computer science majors). 
   - You may assume that the audience knows a good bit about computer science and free and open source software. However, you should not assume that they know anything about the specific project your team is working on or the technologies you have learned about in this activity. 
   - When discussing topics that are outside of the audience's assumed knowledge, context and background sufficient for the audience to follow the presentation must be provided.
 - **Presentation Materials:** The presentation materials should:
   - Use clear and engaging visual materials (slides and/or whiteboard).
-  - Employ large fonts, images and diagrams that are very easy for the audience to read.
+  - Employ large fonts, images and diagrams that are very easy for the audience to read, even from the back of the room.
   - Limit the amount of content on each slide so that the audience can absorb it and listen to what is being said.
-- **Presenters:** Each presenter should:
-  - Provide visual cues (e.g. a pointer or highlighting) to indicate which parts of a slide/visual are being discussed so that the audience can follow along.
+- **Presenters:** Individual presenters should:
+  - Provide visual cues (e.g. a pointer or highlighting) to clearly indicate which parts of the slide/visual/code are being discussed at each point to assist the audience in following along.
+  - Present material in an order and at a pace that allows the audience to follow along.
   - Speak using a clear, audible, engaging, and fluent voice.
   - Deliver content without reading verbatim from notes or slides (it is a good idea to use notes and slides — just don’t read from them word for word).
   - Demonstrate understanding of technical details from the tech spike and the ability to explain these details to the audience.
