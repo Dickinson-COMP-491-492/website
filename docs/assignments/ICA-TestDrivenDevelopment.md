@@ -18,9 +18,9 @@ This will open VSCode in your browser, but it will take a few minutes to complet
 
 4. When the files appear in the "EXPLORER" pane, click the `PasswordTest.java` file to open it.
 
-5. Close or "Deny" the dialog that opens in the lower right of the window.
+5. Wait for the dialog about sharing data with Redhat to appear in the lower right corner.  Click Close or "Deny" this dialog dialog.  This may take a few moments.
 
-6. The status bar at the bottom of the browser window will contain:
+6. Wait for the status bar at the bottom of the browser window to display:
 
    ![Java: Lightweight Mode](images/tdd/JavaLightweightMode.png)
 
@@ -30,7 +30,7 @@ This will open VSCode in your browser, but it will take a few minutes to complet
 
    ![Java: Ready](images/tdd/JavaReady.png)
 
-Once that is done you are ready to go!
+Once you see "Java: Ready" you are ready to go!
 
 ## Running the Test
 
