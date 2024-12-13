@@ -14,17 +14,19 @@ Follow the steps below to get setup for this activity:
 
     ![Create new Codesapce](images/tdd/CreateCodespace.png)
 
-3. Click the `PasswordTest.java` file in the EXPLORER pane to open it.
+This will open VSCode in your browser, but it will take a few minutes to complete.
 
-4. Close or "Deny" the dialog that opens in the lower right of the window.
+4. When the files appear in the "EXPLORER" pane, click the `PasswordTest.java` file to open it.
 
-5. The status bar at the bottom of the browser window will contain:
+5. Close or "Deny" the dialog that opens in the lower right of the window.
+
+6. The status bar at the bottom of the browser window will contain:
 
    ![Java: Lightweight Mode](images/tdd/JavaLightweightMode.png)
 
-6. Click the "Java: Lightweight Mode" area of the status bar.
+7. Click the "Java: Lightweight Mode" area of the status bar.
 
-7. That area of the status bar will change a few times and then eventually it will display:
+8. That area of the status bar will change a few times and then eventually it will display:
 
    ![Java: Ready](images/tdd/JavaReady.png)
 
