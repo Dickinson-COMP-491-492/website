@@ -8,7 +8,7 @@ Follow the steps below to get setup for this activity:
 
 1. Open a browser and log into your GitHub account.
 2. Click the link below:
-   - https://github.com/codespaces/new/Dickinson-COMP-491-492/PasswordTDDExercise
+   - [https://github.com/codespaces/new/Dickinson-COMP-491-492/PasswordTDDExercise](https://github.com/codespaces/new/Dickinson-COMP-491-492/PasswordTDDExercise)
 
 3. Click the Green "Create new codespace" button to create a Codespace using the starter project for the activity:
 
