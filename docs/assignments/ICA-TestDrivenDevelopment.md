@@ -37,7 +37,7 @@ Once you see "Java: Ready" you are ready to go!
 The provided `PasswordTest.java` file contains a single JUnit test that checks if an instance of the `Password` class can be created. This is a reasonable first test for a TTD approach to our problem of creating a Java class to represent a password.
 
 Run this test by:
-1. Right click on the `PasswordTest.java` file.
+1. Right click on the `PasswordTest.java` file in the "EXPLORER PANE"
 2. Choose "Run Tests" from the pop-up menu.
 3. When the tests run the "Test Runner for Java" panel should open in the lower right corner of the window.
    - If the "Test Runner for Java" panel doesn't open, click the "Tests Results" tab that appears at the top of the Terminal panel.
@@ -56,7 +56,7 @@ Create the `Password` class by:
 
 Notice that a new `Password.java` file has been created and it contains the skeleton for the `Password` class.  This should be sufficient for the test that was failing to now pass.
 
-Run the test again and observe that it now passes.
+Run the test in `PasswordTest.java` again and observe that it now passes.
 
 ## Next Steps
 
