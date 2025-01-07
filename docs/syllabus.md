@@ -126,7 +126,7 @@ Course<br>Percentage | Course<br>Grade
 &gt;= 90   | A-
 &gt;= 88   | B+
 &gt;= 83   | B
-&gt;= 80   | B
+&gt;= 80   | B-
 etc...     |
 
 #### COMP491 Course Components (Fall)
@@ -144,7 +144,7 @@ Weight | Course Component
 15%    | [PE](assignments/PE-ProjectEffectiveness.md): Project Effectiveness
 &nbsp; | **PP: Project Presentations**
 10%    | [PP01](assignments/PP01-TechSpikePresentation.md): Technology Spike Presentations
-20%    | PP02: Final Project Presentation
+20%    | [PP02](assignments/PP02-StatusReportPresentation.md): Final Project Presentation
 &nbsp; | **WA: Writing Assignments**
 4%     | [WA01](assignments/WA01-BlogPostDraft.md): Blog Post Draft
 3%     | [WA02](assignments/WA02-BlogPostPeerReview.md): Blog Post Peer Reviews
