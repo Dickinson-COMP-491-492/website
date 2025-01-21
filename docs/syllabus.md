@@ -152,13 +152,21 @@ Weight | Course Component
 
 #### COMP492 Course Components (Spring)
 
-Course Component                                    | Weight
-----------------------------------------------------|---------
-Will be announced in spring 2025                    |
+Weight | Course Component                              
+-------|--------------------------------------------
+20%    | [RD](assignments/RD-ReadingsAndDiscussion.md): Readings and Discussions
+30%    | [PE](assignments/PE-ProjectEffectiveness.md): Project Effectiveness
+&nbsp; | **PP: Project Presentations**
+10%    | PP03: Demo Day
+10%    | PP04: Poster Presentation
+15%    | PP05: Final Project Presentation
+&nbsp; | **WA: Writing Assignments**
+5%     | WA04: (assignments/WA04-BlogPost2.md): Blog Post 2
+10%    | WA05: (assignments/WA05-BlogPost3.md): Blog Post 3
 
 #### Attendance
 
-The success of the Senior Seminar is in a large part up to you as its primary participants. Thus, attendance is required for every class period. Each *unexcused* absence will result in a 5% reduction of your final grade. Leaving the classroom with excessive frequency or for prolonged periods of time may also result in a grade reduction, following a discussion of the issue.
+The success of the Senior Seminar is in a large part up to you as its primary participants. Thus, attendance is required for every class period. Each *unexcused* absence will result in a 2.5% reduction of your final grade. Inattentiveness, and/or leaving the classroom with excessive frequency or for prolonged periods of time may also result in a grade reduction, if improvement is not seen following a discussion of the issue.
 
 Up to two absences may be excused with **reasonable advance notice** and **a valid reason**. Valid reasons *include* illness, job interviews with documentation, religious holidays, and emergencies. If you have another reason that you believe is valid please discuss it with the instructor who will make the determination if the absence is excused or not.  Note that leaving early or returning late from breaks or weekends are priority decisions and will not be excused absences. As much advance notice as is possible should be given and documentation may be required depending upon the reasons and circumstances. Absences without reasonable advance notice or appropriate documentation when requested will not be excused regardless of reason.
 

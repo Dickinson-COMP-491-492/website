@@ -6,6 +6,51 @@
 - [Teams Channel](https://teams.microsoft.com/l/channel/19%3A-1uR4ivDg6_k9S4WyrEMTUIqtD354ITbOwemrp2StH41%40thread.tacv2/?groupId=77db645e-4c62-4b92-9856-48c18355f96d&tenantId=)
 - [Course GitHub Repo](https://github.com/Dickinson-COMP-491-492/AY24-25)
 
+## COMP 492 Outline
+
+Date            | Class Topic                      | Assigned       | Due (8:00am)
+----------------|----------------------------------|----------------|-------------------
+T 01/21/25      | C01: Work Day                    | [RD]01         |
+F 01/24/24      | C02: Work Day                    |                | [PE]01
+T 01/28/25      | C03: SWE Code of Ethics          | [RD]02         | [RD]01
+F 01/31/25      | C04: Work Day                    |                | [PE]02
+T 02/04/25      | C05: Ethics Case Studies         | [RD]03         | [RD]02
+F 02/07/25      | C06: Work Day                    |                | [PE]03
+T 02/11/25      | C07: Positive Responsibility     | WA04, PP03     | [RD]03
+F 02/14/25      | C08: Work Day                    |                | [PE]04
+T 02/18/25      | C09: Work Day                    | RD04           | 
+F 02/21/25      | C10: Work Day                    |                | [PE]05
+T 02/25/25      | C11: Susan Miller<br>(12:00-1:00 Tome 115) |      | RD04
+F 02/28/25      | C12: Work Day (Prof @ [SIGCSE])  |                | [PE]06
+T 03/04/25      | C13: Demo Day 1                  |                | PP03 WA04
+F 03/07/25      | C14: Demo Day 2                  | RD05           | PP03 WA04
+&nbsp;          |                                  |                | 
+T 03/11/25      | **Spring Break**                 |                |
+F 03/14/25      | **Spring Break**                 |                |
+&nbsp;          |                                  |                |
+T 03/18/25      | C15:                             | RD06           | RD05
+F 03/21/25      | C16: Work Day                    |                | [PE]07
+T 03/25/25      | C17:                             | RD07           | RD06
+F 03/28/25      | C18: Work Day                    |                | [PE]08
+T 04/01/25      | C19:                             | RD08           | RD07
+F 04/04/25      | C20: Work Day (Prof @ [CCSC-NE]) |                | [PE]09
+T 04/08/25      | C21:                             | PP04, WA05     | RD08
+F 04/11/25      | C22: Work Day                    |                | [PE]10
+T 04/15 25      | C23:                             |                | PP04-a
+F 04/18/25      | C24: Work Day (Prof in Seattle)  |                | [PE]11
+T 04/22/25      | C25:                             |                | PP04-b
+F 04/25/25      | C26: Work Day                    |                | [PE]12
+T 04/29/25      | C27: Poster Session<br>(12:00-1:15 TBA) |         | PP04-c
+F 05/02/25      | C28: Wrap Up                     | PP05           | [PE]13 WA05
+&nbsp;          |                                  |                |
+M 05/12/25      | **9:00am - Section 01 Presentations** |           | PP05
+T 05/13/25      | **9:00am - Section 02 Presentations** |           | PP05
+
+Note: Blank rows, unlinked assignments and due dates are tentative and subject to change.
+
+[SIGCSE]: https://sigcse2025.sigcse.org/
+[CCSC-NE]: https://www.ccscne.org/
+
 ## COMP 491 Outline
 
 Date            | Class Topic                      | Assigned       | Due (8:00am)
@@ -46,7 +91,7 @@ T 12/10/24      | C27:  Work Day                   | [RD]11         |
 F 12/13/24      | C28:  Monitoring & Evolution     | [PP02]         | [RD]11, [PE]11
 &nbsp;          |
 F 12/20/24      | **2:00pm - Section 01 Presentations** |           | [PP02], [WA03], [PE]12
-S 12/21/23      | **9:00am - Section 02 Presentations** |           | [PP02], [WA03], [PE]12
+S 12/21/24      | **9:00am - Section 02 Presentations** |           | [PP02], [WA03], [PE]12
 
 <!--
 Note: Unlinked assignments and due dates are tentative and subject to change.

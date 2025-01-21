@@ -20,11 +20,33 @@ Discussions provide an opportunity for you to refine your understanding of the t
      - [Ways to Improve Your Class Participation Experience](https://studylib.net/doc/18188459/ways-to-improve-your-class-participation-experience--sugg...): A short list of suggestions from Students from the Bureau of Study Counsel in the Center for Academic and Personal Development at Harvard University.- [Class Participation: More Than Just Raising Your Hand](https://www.millersville.edu/gened/files/pdfs-faculty-handbook/class-participation-tutorial.pdf): A longer tutorial that may help you assess strengths and weaknesses and formulate a plan for improving your class participation.
      - Talk with your instructor about strategies that can be used specifically in this course.
 3. Visit the Teams channel for the topic and:
-   1. Formulate and post at least one question about the readings that you would like us to discuss in class. Include in your post a few sentences of explanation about why you would like for the class to discuss that question.
+   1. (491) Formulate and post at least one question about the readings that you would like us to discuss in class. Include in your post a few sentences of explanation about why you would like for the class to discuss that question.
       - [How to Write Discussion Questions That Actually Spark Discussions](https://www.eduflow.com/blog/how-to-write-discussion-questions-that-actually-spark-discussions) has some good tips for formulating  questions that will generate good discussion.
-   2. Use positive reaction emojis (e.g. 👍, ❤️ ) to "Vote" for questions posted by your classmates that you think would generate good and useful discussion in class.  Up votes only please. I will use your input in this way to select questions that we will focus on during the discussion.
+   2. (492) Read the posted discussion question(s) and post a short paragraph expressing your thoughts in response to at least one question and a short paragraph responding to at least one classmate's post. Your posts should both express your opinions and demonstrate a familiarity with the topic and the assigned readings.
+   3. Use positive reaction emojis (e.g. 👍, ❤️ ) to "Vote" for questions (491) or positions (492) posted by your classmates that you think would generate good and useful discussion in class.  Up votes only please. I will use your input in this way to select questions or positions that we will focus on during the discussion.
 
-### Reading Assignments
+### 492 Reading Assignments
+
+Discussion Date | Reading / Discussion Topic          | Assigned Readings
+----------------|-------------------------------------|--------------------
+T 01/28/25      | RD01: SWE Code of Ethics            | 1. [Introduction]<br>2. [Full Code]
+T 02/04/25      | RD02: Ethics Case Studies           |
+T 02/11/25      | RD03: Positive Responsibility       |
+T 02/25/25      | RD04: Prep for Susan Miller Visit   |
+T 03/18/25      | RD05: TBA                           |
+T 03/25/25      | RD06: TBA                           |
+T 04/01/25      | RD07: TBA                           |
+T 04/08/25      | RD08: TBA                           |
+TBA             | TBA                                 |
+
+[Introduction]: materials/SWECodeOfEthicsIntro.pdf
+[Full Code]: materials/SWECodeOfEthicsFull.pdf
+
+[Critique]: 
+[Response]: 
+
+
+### 491 Reading Assignments
 
 Discussion Date | Reading / Discussion Topic          | Assigned Readings
 ----------------|-------------------------------------|--------------------
@@ -95,7 +117,7 @@ A grade for Readings and Discussion will be recorded three times throughout the 
 
 The grade will be determined by averaging scores assigned to three factors <b>Discussion Questions</b>, <b>Preparation</b>, and <b>Engagement</b>.  The scores for these factors will be assigned using the general [Assignment Score](../syllabus.md#assignment-scores) criteria.
 - **Discussion Questions**: These are the discussion question(s) and explanation(s) that you post to the Teams channel for the assignment.
-- **Preparation**: Preparation can be demonstrated in multiple ways. Posting exceptional discussion questions with thoughtful explanations can help to demonstrate preparation, but will not be sufficient on its own. Demonstrating a strong familiarity with the readings by making thoughtful, insightful, and timely contributions to the discussion will can demonstrate preparation. In an instance where you feel your discussion questions, and/or contributions to the discussion do not adequately demonstrate your preparation, you may also submit your sheet of handwritten notes to the instructor following class as evidence of preparation.
+- **Preparation**: Preparation can be demonstrated in multiple ways. Posting exceptional discussion questions with thoughtful explanations can help to demonstrate preparation, but will not be sufficient on its own. Demonstrating a strong familiarity with the readings by making thoughtful, insightful, and timely contributions to the discussion can demonstrate preparation. In an instance where you feel your discussion questions, and/or contributions to the discussion do not adequately demonstrate your preparation, you may also submit your sheet of handwritten notes to the instructor following class as evidence of preparation.
 - **Engagement**: Engagement is measured using the in-class discussion.  You are expected to be preset, attentive and to regularly contribute to the discussion in constructive ways.  Contributions should be on-topic, connected to the current thread of discussion.  You should be conscious of your level of contribution and regulate accordingly to ensure that you participate, and that everyone else has an opportunity to contribute.
 
 ---
