@@ -161,8 +161,8 @@ Weight | Course Component
 10%    | PP04: Poster Presentation
 15%    | PP05: Final Project Presentation
 &nbsp; | **WA: Writing Assignments**
-5%     | WA04: (assignments/WA04-BlogPost2.md): Blog Post 2
-10%    | WA05: (assignments/WA05-BlogPost3.md): Blog Post 3
+5%     | WA04: Blog Post 2
+10%    | WA05: Blog Post 3
 
 #### Attendance
 
