@@ -40,7 +40,7 @@ T 04/08/25      | RD08: TBA                           |
 TBA             | TBA                                 |
 
 [Introduction]: materials/SWECodeOfEthicsIntro.pdf
-[Full Code]: materials/SWECodeOfEthicsFull.pdf
+[Full Code]: https://ethics.acm.org/code-of-ethics/software-engineering-code/
 
 [Critique]: 
 [Response]: 
