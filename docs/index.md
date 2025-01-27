@@ -18,9 +18,9 @@ T 02/04/25      | C05: Ethics Case Studies         | [RD]03         | [RD]02
 F 02/07/25      | C06: Work Day                    |                | [PE]03
 T 02/11/25      | C07: Positive Responsibility     | WA04, PP03     | [RD]03
 F 02/14/25      | C08: Work Day                    |                | [PE]04
-T 02/18/25      | C09: Work Day                    | RD04           | 
+T 02/18/25      | C09: Work Day                    | [RD]04         | 
 F 02/21/25      | C10: Work Day                    |                | [PE]05
-T 02/25/25      | C11: Susan Miller<br>(12:00-1:00 Tome 115) |      | RD04
+T 02/25/25      | C11: Susan Miller<br>(12:00-1:00 Tome 115) |      | [RD]04
 F 02/28/25      | C12: Work Day (Prof @ [SIGCSE])  |                | [PE]06
 T 03/04/25      | C13: Demo Day 1                  |                | PP03 WA04
 F 03/07/25      | C14: Demo Day 2                  | RD05           | PP03 WA04
