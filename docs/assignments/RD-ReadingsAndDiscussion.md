@@ -30,7 +30,7 @@ Discussions provide an opportunity for you to refine your understanding of the t
 Discussion Date | Reading / Discussion Topic          | Assigned Readings
 ----------------|-------------------------------------|--------------------
 T 01/28/25      | RD01: SWE Code of Ethics            | 1. [Introduction]<br>2. [Full Code]
-T 02/04/25      | RD02: Ethics Case Studies           | 1. [Case Studies] (Section 2-4)
+T 02/04/25      | RD02: Ethics Case Studies           | 1. [Case Studies]
 T 02/11/25      | RD03: Positive Responsibility       |
 T 02/25/25      | RD04: Prep for Susan Miller Visit   |
 T 03/18/25      | RD05: TBA                           |
