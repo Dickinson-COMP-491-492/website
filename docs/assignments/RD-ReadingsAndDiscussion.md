@@ -30,7 +30,7 @@ Discussions provide an opportunity for you to refine your understanding of the t
 Discussion Date | Reading / Discussion Topic          | Assigned Readings
 ----------------|-------------------------------------|--------------------
 T 01/28/25      | RD01: SWE Code of Ethics            | 1. [Introduction]<br>2. [Full Code]
-T 02/04/25      | RD02: Ethics Case Studies           | 1. [Case Studies]
+T 02/04/25      | RD02: Ethics Case Studies           | 1. [Case Studies] (Section 2-4)
 T 02/11/25      | RD03: Positive Responsibility       |
 T 02/25/25      | RD04: Prep for Susan Miller Visit   |
 T 03/18/25      | RD05: TBA                           |
@@ -43,9 +43,6 @@ TBA             | TBA                                 |
 [Full Code]: https://ethics.acm.org/code-of-ethics/software-engineering-code/
 
 [Case Studies]: https://www.researchgate.net/profile/Donald-Gotterbarn/publication/234825637_Computer_ethics_in_the_undergraduate_curriculum_case_studies_and_the_joint_software_engineer's_code/links/57093f9b08aea66081358792/Computer-ethics-in-the-undergraduate-curriculum-case-studies-and-the-joint-software-engineers-code.pdf
-
-[Critique]: 
-[Response]: 
 
 
 ### 491 Reading Assignments
