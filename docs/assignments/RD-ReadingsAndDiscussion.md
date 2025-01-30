@@ -22,7 +22,7 @@ Discussions provide an opportunity for you to refine your understanding of the t
 3. Visit the Teams channel for the topic and:
    1. (491) Formulate and post at least one question about the readings that you would like us to discuss in class. Include in your post a few sentences of explanation about why you would like for the class to discuss that question.
       - [How to Write Discussion Questions That Actually Spark Discussions](https://www.eduflow.com/blog/how-to-write-discussion-questions-that-actually-spark-discussions) has some good tips for formulating  questions that will generate good discussion.
-   2. (492) Read the posted discussion question(s) and post a short paragraph expressing your thoughts in response to at least one question and a short paragraph responding to at least one classmate's post. Your posts should both express your opinions and demonstrate a familiarity with the topic and the assigned readings.
+   2. (492) Read the posted discussion question prompts and post a response expressing your thoughts as directed. In addition, post a short paragraph responding to at least one classmate's post. Your posts should both express your opinions and demonstrate a familiarity with the topic and the assigned readings.
    3. Use positive reaction emojis (e.g. 👍, ❤️ ) to "Vote" for questions (491) or positions (492) posted by your classmates that you think would generate good and useful discussion in class.  Up votes only please. I will use your input in this way to select questions or positions that we will focus on during the discussion.
 
 ### 492 Reading Assignments
