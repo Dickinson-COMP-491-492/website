@@ -42,7 +42,7 @@ TBA             | TBA                                 |
 [Introduction]: https://www.researchgate.net/profile/Donald-Gotterbarn/publication/3247475_How_the_new_Software_Engineering_Code_of_Ethics_affects_you/links/5702d21608aeade57a2469f1/How-the-new-Software-Engineering-Code-of-Ethics-affects-you.pdf
 [Full Code]: https://ethics.acm.org/code-of-ethics/software-engineering-code/
 
-[Case Studies]: https://www.researchgate.net/profile/Donald-Gotterbarn/publication/234825637_Computer_ethics_in_the_undergraduate_curriculum_case_studies_and_the_joint_software_engineer's_code/links/57093f9b08aea66081358792/Computer-ethics-in-the-undergraduate-curriculum-case-studies-and-the-joint-software-engineers-code.pdf
+[Case Studies]: https://courses.cs.vt.edu/cs4944/S14/GotterbarnMiller.pdf
 
 
 ### 491 Reading Assignments
