@@ -33,11 +33,9 @@ T 01/28/25      | RD01: SWE Code of Ethics            | 1. [Introduction]<br>2. 
 T 02/04/25      | RD02: Ethics Case Studies           | 1. [Case Studies]
 T 02/11/25      | RD03: Fair Information Practices    | 1. [Fair Information Practices]<br>2. [Activity Scenario]
 T 02/25/25      | RD04: Prep for Susan Miller Visit   |
-T 03/18/25      | RD05: TBA                           |
-T 03/25/25      | RD06: TBA                           |
-T 04/01/25      | RD07: TBA                           |
-T 04/08/25      | RD08: TBA                           |
-TBA             | TBA                                 |
+T 03/25/25      | RD05: TBA                           |
+T 04/01/25      | RD06: TBA                           |
+T 04/08/25      | RD07: TBA                           |
 
 [Introduction]: https://www.researchgate.net/profile/Donald-Gotterbarn/publication/3247475_How_the_new_Software_Engineering_Code_of_Ethics_affects_you/links/5702d21608aeade57a2469f1/How-the-new-Software-Engineering-Code-of-Ethics-affects-you.pdf
 [Full Code]: https://ethics.acm.org/code-of-ethics/software-engineering-code/

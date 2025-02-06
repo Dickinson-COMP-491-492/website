@@ -23,18 +23,18 @@ F 02/21/25      | C10: Work Day                    |                | [PE]05
 T 02/25/25      | C11: Susan Miller<br>(12:00-1:00 Tome 115) |      | [RD]04
 F 02/28/25      | C12: Work Day (Prof @ [SIGCSE])  |                | [PE]06
 T 03/04/25      | C13: Demo Day 1                  |                | PP03 WA04
-F 03/07/25      | C14: Demo Day 2                  | RD05           | PP03 WA04
+F 03/07/25      | C14: Demo Day 2                  |                | PP03 WA04
 &nbsp;          |                                  |                | 
 T 03/11/25      | **Spring Break**                 |                |
 F 03/14/25      | **Spring Break**                 |                |
 &nbsp;          |                                  |                |
-T 03/18/25      | C15:                             | RD06           | RD05
+T 03/18/25      | C15: Work Day                    | RD05           | 
 F 03/21/25      | C16: Work Day                    |                | [PE]07
-T 03/25/25      | C17:                             | RD07           | RD06
+T 03/25/25      | C17:                             | RD06           | RD05
 F 03/28/25      | C18: Work Day                    |                | [PE]08
-T 04/01/25      | C19:                             | RD08           | RD07
+T 04/01/25      | C19:                             | RD07           | RD06
 F 04/04/25      | C20: Work Day (Prof @ [CCSC-NE]) |                | [PE]09
-T 04/08/25      | C21:                             | PP04, WA05     | RD08
+T 04/08/25      | C21:                             | PP04, WA05     | RD07
 F 04/11/25      | C22: Work Day                    |                | [PE]10
 T 04/15 25      | C23:                             |                | PP04-a
 F 04/18/25      | C24: Work Day (Prof in Seattle)  |                | [PE]11
