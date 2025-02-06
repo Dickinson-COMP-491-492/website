@@ -31,7 +31,7 @@ Discussion Date | Reading / Discussion Topic          | Assigned Readings
 ----------------|-------------------------------------|--------------------
 T 01/28/25      | RD01: SWE Code of Ethics            | 1. [Introduction]<br>2. [Full Code]
 T 02/04/25      | RD02: Ethics Case Studies           | 1. [Case Studies]
-T 02/11/25      | RD03: Positive Responsibility       |
+T 02/11/25      | RD03: Fair Information Practices    | 1. [Fair Information Practices]<br>2. [Activity Scenario]
 T 02/25/25      | RD04: Prep for Susan Miller Visit   |
 T 03/18/25      | RD05: TBA                           |
 T 03/25/25      | RD06: TBA                           |
@@ -43,6 +43,11 @@ TBA             | TBA                                 |
 [Full Code]: https://ethics.acm.org/code-of-ethics/software-engineering-code/
 
 [Case Studies]: https://courses.cs.vt.edu/cs4944/S14/GotterbarnMiller.pdf
+[Podcast (10:00)]: https://freecodecamp.libsyn.com/ep-7-the-code-im-still-ashamed-of
+
+[Fair Information Practices]: https://www.worldprivacyforum.org/2008/01/report-a-brief-introduction-to-fair-information-practices/
+[Activity Scenario]: materials/glucomon.md
+
 
 
 ### 491 Reading Assignments
