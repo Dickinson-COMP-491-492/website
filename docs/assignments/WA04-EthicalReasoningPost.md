@@ -40,14 +40,10 @@ Refer to [WA01](./WA01-BlogPostDraft.md) for:
 
 1. Add your post to your public facing blog.
 2. Create a `COMP492` folder in your [Dickinson WiD Repository](https://github.com/Dickinson-COMP-WiD) on GitHub.
-
-
-  - Name your file `Post-Title.pdf`  
-  - Add a `README.md` file to your `COMP492` folder.
-4. Place a clickable link to your public-facing blog in the `README.md` file.
-
-- Put a PDF of your post in your WiD Repository as described in [WA03](./WA03-BlogPostRevision.md#add-final-draft-and-reflections-to-your-wid-repository)
-
+3. Place a PDF of your post named `WA04-BlogPost.pdf` in your `COMP492` folder.
+4. If you used AI for revision, place a PDF of your "pre-AI" version named `WA04-BlogPost-PreAI.pdf` in your `COMP492` folder.
+5. Add a `README.md` file to your `COMP492` folder.
+6. Place a clickable link to your public-facing blog in the `README.md` file.
 
 ---
 
