@@ -157,7 +157,7 @@ Weight | Course Component
 20%    | [RD](assignments/RD-ReadingsAndDiscussion.md): Readings and Discussions
 30%    | [PE](assignments/PE-ProjectEffectiveness.md): Project Effectiveness
 &nbsp; | **PP: Project Presentations**
-10%    | PP03: Demo Day
+10%    | [PP03](assignments/PP03-DemoDayPresentation.md): Demo Day
 10%    | PP04: Poster Presentation
 15%    | PP05: Final Project Presentation
 &nbsp; | **WA: Writing Assignments**

@@ -16,14 +16,14 @@ T 01/28/25      | C03: SWE Code of Ethics          | [RD]02         | [RD]01
 F 01/31/25      | C04: Work Day                    |                | [PE]02
 T 02/04/25      | C05: Ethics Case Studies         | [RD]03         | [RD]02
 F 02/07/25      | C06: Work Day                    |                | [PE]03
-T 02/11/25      | C07: Fair Information Practices  | [WA04], PP03     | [RD]03
+T 02/11/25      | C07: Fair Information Practices  | [WA04], [PP03] | [RD]03
 F 02/14/25      | C08: Work Day                    |                | [PE]04
 T 02/18/25      | C09: Work Day                    | [RD]04         | 
 F 02/21/25      | C10: Work Day                    |                | [PE]05
 T 02/25/25      | C11: Susan Miller<br>(12:00-1:00 Tome 115) |      | [RD]04
 F 02/28/25      | C12: Work Day (Prof @ [SIGCSE])  |                | [PE]06
-T 03/04/25      | C13: Demo Day 1                  |                | PP03 WA04
-F 03/07/25      | C14: Demo Day 2                  |                | PP03 WA04
+T 03/04/25      | C13: Demo Day 1                  |                | [PP03]-A [WA04]-B
+F 03/07/25      | C14: Demo Day 2                  |                | [PP03]-B [WA04]-B
 &nbsp;          |                                  |                | 
 T 03/11/25      | **Spring Break**                 |                |
 F 03/14/25      | **Spring Break**                 |                |
@@ -51,6 +51,7 @@ Note: Blank rows, unlinked assignments and due dates are tentative and subject t
 [SIGCSE]: https://sigcse2025.sigcse.org/
 [CCSC-NE]: https://www.ccscne.org/
 [WA04]: assignments/WA04-EthicalReasoningPost.md
+[PP03]: assignments/PP03-DemoDayPresentation.md
 
 ## COMP 491 Outline
 
