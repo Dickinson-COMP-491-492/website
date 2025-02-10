@@ -5,22 +5,22 @@ This semester your teams have been working on contributions to your chosen proje
 ### Assignment
 
 1. As a team, identify contributions that the team has worked on and that have had enough work done on them to make an interesting demonstration.
-2. Determine who will be demonstrating which contributions. Ideally demonstrations will occur in pairs. 
-   - Note: This assignment is about presentation not technical accomplishments, so it is not required that the demonstration in which you participate be of work that you have done personally. You can partner with another member of your team.
+2. Determine who will be demonstrating which contributions. Ideally demonstrations will occur in pairs, exceptions for individuals or trios may be granted by the instructor.
+   - Note: This assignment is about presentation not technical accomplishments, so it is not required that the demonstration in which you participate be of work that you have done personally. You may partner with another member of your team.
 3. Prepare and deliver a demonstration of a contribution that includes the [Content](#content), and meets the [Requirements](#requirements) and [Criteria](#criteria) as described below.
 
 #### Content
 
 The demonstration should strive to tell a cohesive, interesting and engaging story. In doing so it should include the following content:
-- a demonstration of the bug/feature/etc that the contribution is aiming to address.
-- a demonstration of the effect(s) of the contribution.
+- an explanation and demonstration of the bug/feature/etc that the contribution is aiming to address.
+- an explanation and demonstration of the effect(s) of the contribution.
 - a presentation of the contribution's code explaining how it implements the effect(s) that were shown.
 
 #### Requirements
 
 The following requirements must be met, but are not sufficient to ensure a high quality presentation (see [Criteria](#criteria) below).  The presentation must:
-- be 9-10 minutes long
-- include an additional 3-5 minutes for question and answer.
+- be 9-10 minutes long.
+- include an additional 3-4 minutes for question and answer.
 - approximately balance the presentation time between speakers.
 
 #### Criteria
@@ -28,7 +28,7 @@ The following requirements must be met, but are not sufficient to ensure a high 
 Affirmative answers to the following questions will be indicative of high quality demonstrations.
 
 - **Content:**
-  - Will the audience understand the what the contribution is trying to fix/improve in the project?
+  - Will the audience understand what the contribution is trying to fix/improve in the project?
   - Will the audience understand the effect that the contribution has had, including the degree to which it has or has not addressed the issue?
   - Will the audience clearly understand how the code implements the contribution being demonstrated?
 
