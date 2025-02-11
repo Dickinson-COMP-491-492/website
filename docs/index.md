@@ -23,7 +23,7 @@ F 02/21/25      | C10: Work Day                    |                | [PE]05
 T 02/25/25      | C11: Susan Miller<br>(12:00-1:00 Tome 115) |      | [RD]04
 F 02/28/25      | C12: Work Day (Prof @ [SIGCSE])  |                | [PE]06
 T 03/04/25      | C13: Demo Day 1                  |                | [PP03]-A [WA04]-B
-F 03/07/25      | C14: Demo Day 2                  |                | [PP03]-B [WA04]-B
+F 03/07/25      | C14: Demo Day 2                  |                | [PP03]-B [WA04]-A
 &nbsp;          |                                  |                | 
 T 03/11/25      | **Spring Break**                 |                |
 F 03/14/25      | **Spring Break**                 |                |
