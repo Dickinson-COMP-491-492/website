@@ -47,6 +47,7 @@ T 04/08/25      | RD07: TBA                           |
 [Activity Scenario]: materials/glucomon.md
 
 [Susan Miller]: https://atis.org/staff/susan-miller-president-ceo/
+[atis web site]: https://atis.org/
 [atis 2024 overview]: https://atis.org/?sdm_process_download=1&download_id=1960198
 
 ### 491 Reading Assignments
