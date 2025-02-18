@@ -32,7 +32,7 @@ Discussion Date | Reading / Discussion Topic          | Assigned Readings
 T 01/28/25      | RD01: SWE Code of Ethics            | 1. [Introduction]<br>2. [Full Code]
 T 02/04/25      | RD02: Ethics Case Studies           | 1. [Case Studies]
 T 02/11/25      | RD03: Fair Information Practices    | 1. [Fair Information Practices]<br>2. [Activity Scenario]
-T 02/25/25      | RD04: Prep for Susan Miller Visit   | 1. [Susan Miller]<br>2. [aits web site]<br>2. [atis 2024 overview]
+T 02/25/25      | RD04: Prep for Susan Miller Visit   | 1. [Susan Miller]<br>2. [atis web site]<br>3. [atis 2024 overview]
 T 03/25/25      | RD05: TBA                           |
 T 04/01/25      | RD06: TBA                           |
 T 04/08/25      | RD07: TBA                           |
@@ -47,7 +47,7 @@ T 04/08/25      | RD07: TBA                           |
 [Activity Scenario]: materials/glucomon.md
 
 [Susan Miller]: https://atis.org/staff/susan-miller-president-ceo/
-[atis web site]: https://atis.org/
+[atis web site]: https://atis.org
 [atis 2024 overview]: https://atis.org/?sdm_process_download=1&download_id=1960198
 
 ### 491 Reading Assignments
