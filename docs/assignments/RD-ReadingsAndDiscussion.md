@@ -33,7 +33,7 @@ T 01/28/25      | RD01: SWE Code of Ethics            | 1. [Introduction]<br>2. 
 T 02/04/25      | RD02: Ethics Case Studies           | 1. [Case Studies]
 T 02/11/25      | RD03: Fair Information Practices    | 1. [Fair Information Practices]<br>2. [Activity Scenario]
 T 02/25/25      | RD04: Prep for Susan Miller Visit   | 1. [Susan Miller]<br>2. [atis web site]<br>3. [atis 2024 overview]
-T 03/25/25      | RD05: TBA                           |
+T 03/25/25      | RD05: Big Tech Antitrust Cases      | 1. [US v. Google]<br>2. [US Argument]<br>3. [Google Argument]<br>4. [Decision]
 T 04/01/25      | RD06: TBA                           |
 T 04/08/25      | RD07: TBA                           |
 
@@ -49,6 +49,11 @@ T 04/08/25      | RD07: TBA                           |
 [Susan Miller]: https://atis.org/staff/susan-miller-president-ceo/
 [atis web site]: https://atis.org
 [atis 2024 overview]: https://atis.org/?sdm_process_download=1&download_id=1960198
+
+[US v. Google]: https://go.gale.com/ps/retrieve.do?tabID=T004&resultListType=RESULT_LIST&searchResultsType=SingleTab&retrievalId=ee6ff164-c28f-4e8e-be71-9e4d010d3499&hitCount=2&searchType=BasicSearchForm&currentPosition=1&docId=GALE%7CA763660614&docType=Article&sort=Relevance&contentSegment=ZNEW-FullText&prodId=STND&pageNum=1&contentSet=GALE%7CA763660614&searchId=R1&userGroupName=carl22017&inPS=true
+[US Argument]: https://go.gale.com/ps/retrieve.do?tabID=T004&resultListType=RESULT_LIST&searchResultsType=SingleTab&retrievalId=ab9cba7e-39e5-41f4-90ac-fd17482602ad&hitCount=3&searchType=BasicSearchForm&currentPosition=2&docId=GALE%7CA770275785&docType=Article&sort=Relevance&contentSegment=ZONE-MOD1&prodId=AONE&pageNum=1&contentSet=GALE%7CA770275785&searchId=R3&userGroupName=carl22017&inPS=true
+[Google Argument]: https://go.gale.com/ps/retrieve.do?tabID=T004&resultListType=RESULT_LIST&searchResultsType=SingleTab&retrievalId=276d50ca-296b-4857-85ab-0d2880301188&hitCount=1&searchType=BasicSearchForm&currentPosition=1&docId=GALE%7CA772840721&docType=Article&sort=Relevance&contentSegment=ZONE-MOD1&prodId=AONE&pageNum=1&contentSet=GALE%7CA772840721&searchId=R4&userGroupName=carl22017&inPS=true
+[Decision]: https://go.gale.com/ps/retrieve.do?tabID=T004&resultListType=RESULT_LIST&searchResultsType=SingleTab&retrievalId=7f51b841-4540-4356-95b8-ac8e10346686&hitCount=3&searchType=BasicSearchForm&currentPosition=1&docId=GALE%7CA803969901&docType=Article&sort=Relevance&contentSegment=ZONE-MOD1&prodId=AONE&pageNum=1&contentSet=GALE%7CA803969901&searchId=R5&userGroupName=carl22017&inPS=true
 
 ### 491 Reading Assignments
 

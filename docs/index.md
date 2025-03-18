@@ -28,9 +28,9 @@ F 03/07/25      | C14: Demo Day 2                  |                | [PP03]-B [
 T 03/11/25      | **Spring Break**                 |                |
 F 03/14/25      | **Spring Break**                 |                |
 &nbsp;          |                                  |                |
-T 03/18/25      | C15: Work Day                    | RD05           | 
+T 03/18/25      | C15: Work Day                    | [RD]05         | 
 F 03/21/25      | C16: Work Day                    |                | [PE]07
-T 03/25/25      | C17:                             | RD06           | RD05
+T 03/25/25      | C17: Big Tech Antitrust Cases    | RD06           | [RD]05
 F 03/28/25      | C18: Work Day                    |                | [PE]08
 T 04/01/25      | C19:                             | RD07           | RD06
 F 04/04/25      | C20: Work Day (Prof @ [CCSC-NE]) |                | [PE]09
