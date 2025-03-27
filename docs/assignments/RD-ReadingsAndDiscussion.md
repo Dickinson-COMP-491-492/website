@@ -27,15 +27,15 @@ Discussions provide an opportunity for you to refine your understanding of the t
 
 ### 492 Reading Assignments
 
-Discussion Date | Reading / Discussion Topic          | Assigned Readings
-----------------|-------------------------------------|--------------------
-T 01/28/25      | RD01: SWE Code of Ethics            | 1. [Introduction]<br>2. [Full Code]
-T 02/04/25      | RD02: Ethics Case Studies           | 1. [Case Studies]
-T 02/11/25      | RD03: Fair Information Practices    | 1. [Fair Information Practices]<br>2. [Activity Scenario]
-T 02/25/25      | RD04: Prep for Susan Miller Visit   | 1. [Susan Miller]<br>2. [atis web site]<br>3. [atis 2024 overview]
-T 03/25/25      | RD05: Big Tech Antitrust Cases      | 1. [US v. Google]<br>2. [US Argument]<br>3. [Google Argument]<br>4. [Decision]
-T 04/01/25      | RD06: TBA                           |
-T 04/08/25      | RD07: TBA                           |
+Discussion Date | Reading / Discussion Topic           | Assigned Readings
+----------------|--------------------------------------|--------------------
+T 01/28/25      | RD01: SWE Code of Ethics             | 1. [Introduction]<br>2. [Full Code]
+T 02/04/25      | RD02: Ethics Case Studies            | 1. [Case Studies]
+T 02/11/25      | RD03: Fair Information Practices     | 1. [Fair Information Practices]<br>2. [Activity Scenario]
+T 02/25/25      | RD04: Prep for Susan Miller Visit    | 1. [Susan Miller]<br>2. [atis web site]<br>3. [atis 2024 overview]
+T 03/25/25      | RD05: Big Tech Antitrust Cases       | 1. [US v. Google]<br>2. [US Argument]<br>3. [Google Argument]<br>4. [Decision]
+T 04/01/25      | RD06: Social Media Content Liability | 1. [Section 230]<br>2. [First Amendment]<br>3. [Executive Liability]<br>4. [AI Content]
+T 04/08/25      | RD07: TBA                            |
 
 [Introduction]: https://www.researchgate.net/profile/Donald-Gotterbarn/publication/3247475_How_the_new_Software_Engineering_Code_of_Ethics_affects_you/links/5702d21608aeade57a2469f1/How-the-new-Software-Engineering-Code-of-Ethics-affects-you.pdf
 [Full Code]: https://ethics.acm.org/code-of-ethics/software-engineering-code/
@@ -54,6 +54,11 @@ T 04/08/25      | RD07: TBA                           |
 [US Argument]: https://go.gale.com/ps/retrieve.do?tabID=T004&resultListType=RESULT_LIST&searchResultsType=SingleTab&retrievalId=ab9cba7e-39e5-41f4-90ac-fd17482602ad&hitCount=3&searchType=BasicSearchForm&currentPosition=2&docId=GALE%7CA770275785&docType=Article&sort=Relevance&contentSegment=ZONE-MOD1&prodId=AONE&pageNum=1&contentSet=GALE%7CA770275785&searchId=R3&userGroupName=carl22017&inPS=true
 [Google Argument]: https://go.gale.com/ps/retrieve.do?tabID=T004&resultListType=RESULT_LIST&searchResultsType=SingleTab&retrievalId=276d50ca-296b-4857-85ab-0d2880301188&hitCount=1&searchType=BasicSearchForm&currentPosition=1&docId=GALE%7CA772840721&docType=Article&sort=Relevance&contentSegment=ZONE-MOD1&prodId=AONE&pageNum=1&contentSet=GALE%7CA772840721&searchId=R4&userGroupName=carl22017&inPS=true
 [Decision]: https://go.gale.com/ps/retrieve.do?tabID=T004&resultListType=RESULT_LIST&searchResultsType=SingleTab&retrievalId=7f51b841-4540-4356-95b8-ac8e10346686&hitCount=3&searchType=BasicSearchForm&currentPosition=1&docId=GALE%7CA803969901&docType=Article&sort=Relevance&contentSegment=ZONE-MOD1&prodId=AONE&pageNum=1&contentSet=GALE%7CA803969901&searchId=R5&userGroupName=carl22017&inPS=true
+
+[Section 230]: https://advance.lexis.com/document/?pdmfid=1519360&crid=78989e10-8961-460a-b498-b67c92723f7e&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A600W-7V51-JBG3-60YD-00000-00&pdcontentcomponentid=6742&pdteaserkey=sr0&pditab=allpods&ecomp=hc-yk&earg=sr0&prid=ab077065-19a8-4acf-9b20-7f353b577cb0
+[First Amendment]: https://advance.lexis.com/document/?pdmfid=1519360&crid=3d5a3db6-2d4c-4e10-934e-7a9eb41e7126&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A6BDJ-J3F1-JBG3-603H-00000-00&pdcontentcomponentid=6742&pdteaserkey=sr0&pditab=allpods&ecomp=hc-yk&earg=sr0&prid=f93efefe-0ecf-40cc-bfca-50d7c0ffc9b4
+[Executive Liability]: https://advance.lexis.com/document/?pdmfid=1519360&crid=472e5585-8a80-4e5c-8bd6-fc40effb5ffd&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A6CV0-5MG1-JBG3-601R-00000-00&pdcontentcomponentid=6742&pdteaserkey=sr0&pditab=allpods&ecomp=hc-yk&earg=sr0&prid=d71d5ba4-c571-43a8-a028-93cc8a553043
+[AI Content]: https://advance.lexis.com/document/?pdmfid=1519360&crid=868bdd40-7c70-4c44-9d07-f6f5fe895b5e&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A6D7Y-BY11-DXY4-X46K-00000-00&pdcontentcomponentid=6742&pdteaserkey=sr1&pditab=allpods&ecomp=hc-yk&earg=sr1&prid=1c83cc52-da85-4218-840f-b77127ec4e96
 
 ### 491 Reading Assignments
 
