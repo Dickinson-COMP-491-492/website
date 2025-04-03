@@ -35,7 +35,7 @@ T 02/11/25      | RD03: Fair Information Practices     | 1. [Fair Information Pr
 T 02/25/25      | RD04: Prep for Susan Miller Visit    | 1. [Susan Miller]<br>2. [atis web site]<br>3. [atis 2024 overview]
 T 03/25/25      | RD05: Big Tech Antitrust Cases       | 1. [US v. Google]<br>2. [US Argument]<br>3. [Google Argument]<br>4. [Decision]
 T 04/01/25      | RD06: Social Media Content Liability | 1. [Section 230]<br>2. [First Amendment]<br>3. [Executive Liability]<br>4. [AI Content]
-T 04/08/25      | RD07: TBA                            |
+T 04/08/25      | RD07: Geopolitics and Software       | 1. [Linux xz]<br>2. [Not Local Source]<br>3. [TikTok Bans]<br>4. [Current Status]<br>5. [Global Impact]
 
 [Introduction]: https://www.researchgate.net/profile/Donald-Gotterbarn/publication/3247475_How_the_new_Software_Engineering_Code_of_Ethics_affects_you/links/5702d21608aeade57a2469f1/How-the-new-Software-Engineering-Code-of-Ethics-affects-you.pdf
 [Full Code]: https://ethics.acm.org/code-of-ethics/software-engineering-code/
@@ -59,6 +59,13 @@ T 04/08/25      | RD07: TBA                            |
 [First Amendment]: https://advance.lexis.com/document/?pdmfid=1519360&crid=3d5a3db6-2d4c-4e10-934e-7a9eb41e7126&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A6BDJ-J3F1-JBG3-603H-00000-00&pdcontentcomponentid=6742&pdteaserkey=sr0&pditab=allpods&ecomp=hc-yk&earg=sr0&prid=f93efefe-0ecf-40cc-bfca-50d7c0ffc9b4
 [Executive Liability]: https://advance.lexis.com/document/?pdmfid=1519360&crid=472e5585-8a80-4e5c-8bd6-fc40effb5ffd&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A6CV0-5MG1-JBG3-601R-00000-00&pdcontentcomponentid=6742&pdteaserkey=sr0&pditab=allpods&ecomp=hc-yk&earg=sr0&prid=d71d5ba4-c571-43a8-a028-93cc8a553043
 [AI Content]: https://advance.lexis.com/document/?pdmfid=1519360&crid=868bdd40-7c70-4c44-9d07-f6f5fe895b5e&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A6D7Y-BY11-DXY4-X46K-00000-00&pdcontentcomponentid=6742&pdteaserkey=sr1&pditab=allpods&ecomp=hc-yk&earg=sr1&prid=1c83cc52-da85-4218-840f-b77127ec4e96
+
+[Linux xz]: https://thenewstack.io/linux-xz-and-the-great-flaws-in-open-source/
+[Not Local Source]: https://thenewstack.io/open-source-is-not-local-source-and-the-case-for-global-cooperation/
+[TikTok Bans]: https://www.techtarget.com/whatis/feature/TikTok-bans-explained-Everything-you-need-to-know
+[Current Status]: https://www.pbs.org/newshour/economy/where-things-stand-with-tiktok-less-than-a-month-before-its-next-sale-deadline
+[Global Impact]: https://www.internetsociety.org/blog/2025/01/the-global-impact-of-a-us-tiktok-ban/
+
 
 ### 491 Reading Assignments
 

@@ -32,15 +32,15 @@ T 03/18/25      | C15: Work Day                    | [RD]05         |
 F 03/21/25      | C16: Work Day                    |                | [PE]07
 T 03/25/25      | C17: Big Tech Antitrust Cases    | [RD]06         | [RD]05
 F 03/28/25      | C18: Work Day                    |                | [PE]08
-T 04/01/25      | C19: Social Media Content Liability  | RD07           | [RD]06
+T 04/01/25      | C19: Social Media Content Liability  | [RD]07     | [RD]06
 F 04/04/25      | C20: Work Day (Prof @ [CCSC-NE]) |                | [PE]09
-T 04/08/25      | C21:                             | PP04, WA05     | RD07
+T 04/08/25      | C21: Geopolitics and Software    | PP04, WA05     | [RD]07
 F 04/11/25      | C22: Work Day                    |                | [PE]10
-T 04/15 25      | C23:                             |                | PP04-a
+T 04/15 25      | C23: Poster Peer Reviews         |                | PP04-a
 F 04/18/25      | C24: Work Day (Prof in Seattle)  |                | [PE]11
-T 04/22/25      | C25:                             |                | PP04-b
+T 04/22/25      | C25: Work Day (Poster due)       |                | PP04-b
 F 04/25/25      | C26: Work Day                    |                | [PE]12
-T 04/29/25      | C27: Poster Session<br>(12:00-1:15 TBA) |         | PP04-c
+T 04/29/25      | C27: Poster Session<br>(12:00-1:15 Tome Library) |         | PP04-c
 F 05/02/25      | C28: Wrap Up                     | PP05           | [PE]13 WA05
 &nbsp;          |                                  |                |
 M 05/12/25      | **9:00am - Section 01 Presentations** |           | PP05
