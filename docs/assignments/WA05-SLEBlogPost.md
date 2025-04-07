@@ -1,12 +1,12 @@
-# WA04 - Ethical Reasoning Blog Post
+# WA05 - Social/Legal/Ethical Issue Blog Post
 
-The reading assignments thus far this semester have focused on ethical reasoning. In this assignment you will write a blog post analyzing a case study using a code of ethics or other framework for ethical reasoning. 
+In this assignment you will write a blog post analyzing and reasoning about a contemporary social/legal/ethical issue in computing or technology more broadly. 
 
 ## Assignment
 
-1. Find an ethical case study that is technology related, of interest to you, and distinct from the ones we have read about or discussed in class. Please contact the instructor if you have a question about whether a case study is appropriate.
-2. Identify a framework that you will use to reason about the case study. You may use the SWE Code of Ethics or the Fair Information Practices we used in class. Alternatively, you may choose to use another reputable framework that is applicable to your chosen case. Please contact the instructor if you have a question about whether a framework is appropriate.
-3. Write a blog post for a tech literate audience that reasons about the case study using the framework you have chosen, additional external resources, and your own _well-founded_ opinions.
+1. Identify a contemporary topic in computing or technology more broadly that is of interest to you and that has significant social, legal and/or ethical issues associated with it. Please contact the instructor if you have a question about whether a particular issue is appropriate.
+2. Do enough background reading about your topic to form a _well-founded_ opinion about it and its associated social, legal, and/or ethical issues.
+3. Write a blog post for a tech literate audience that describes the issue and argues for your opinion.
 
 ### Requirements
 
@@ -40,8 +40,8 @@ Refer to [WA01](./WA01-BlogPostDraft.md) for:
 
 1. Add your post to your public facing blog.
 2. Create a `COMP492` folder in your [Dickinson WiD Repository](https://github.com/Dickinson-COMP-WiD) on GitHub.
-3. Place a PDF of your post named `WA04-BlogPost.pdf` in your `COMP492` folder.
-4. If you used AI for revision, place a PDF of your "pre-AI" version named `WA04-BlogPost-PreAI.pdf` in your `COMP492` folder.
+3. Place a PDF of your post named `WA05-BlogPost.pdf` in your `COMP492` folder.
+4. If you used AI for revision, place a PDF of your "pre-AI" version named `WA05-BlogPost-PreAI.pdf` in your `COMP492` folder.
 5. Add a `README.md` file to your `COMP492` folder.
 6. Place a clickable link to your public-facing blog in the `README.md` file.
 
