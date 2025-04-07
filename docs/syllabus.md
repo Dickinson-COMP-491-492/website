@@ -158,7 +158,7 @@ Weight | Course Component
 30%    | [PE](assignments/PE-ProjectEffectiveness.md): Project Effectiveness
 &nbsp; | **PP: Project Presentations**
 10%    | [PP03](assignments/PP03-DemoDayPresentation.md): Demo Day
-10%    | PP04: Poster Presentation
+10%    | [PP04](assignments/PP04-Poster.md): Poster Presentation
 15%    | PP05: Final Project Presentation
 &nbsp; | **WA: Writing Assignments**
 5%     | [WA04](assignments/WA04-EthicalReasoningPost.md): Blog Post 2
