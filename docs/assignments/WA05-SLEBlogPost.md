@@ -29,6 +29,7 @@ Affirmative answers to the following questions will be indicative of high qualit
 - Will the post's title and opening capture the reader's attention and make them want to read more (without being [clickbaity](https://dictionary.cambridge.org/us/dictionary/english/clickbaity))?
 - Will your computer science peers, potential employers, future co-workers and reasonably tech literate internet strangers find post accessible, interesting and engaging?
 - Will an engaged reader be able to follow your reasoning with an appropriate amount of effort?
+- Will an engaged reader agree that your position is _well-founded_ even if they happen to disagree with it?
 
 ### Resources
 
