@@ -1,6 +1,6 @@
 # WA05 - Social/Legal/Ethical Issue Blog Post
 
-In this assignment you will write a blog post analyzing and reasoning about a contemporary social/legal/ethical issue in computing or technology more broadly. 
+In this assignment you will write a blog post analyzing, reasoning about and taking a position on a contemporary social/legal/ethical issue in computing or technology more broadly.
 
 ## Assignment
 
