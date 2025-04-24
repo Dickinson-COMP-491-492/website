@@ -31,10 +31,10 @@ The poster should aim to introduce a broad audience to the team's work over the 
 Teams should ask the questions below about their poster. Affirmative answers will be indicative of high quality posters.
 
 - Is the poster content visually appealing and legible from the appropriate distance?
-- Will the audience understand the purpose of the H/FOSS project to which the team is contributing and the community it is aiming to serve?
+- Will the audience understand the purpose of the H/FOSS project to which the team is contributing, the community it is aiming to serve, and the impact it is having?
 - Will the audience understand the effect of (some of) the contributions that the team has worked on in the project?
   - If your team has worked on multiple contributions, it is not necessary to include the details of all of them. Your poster should focus on a few of the more interesting contributions that you will be able explain quickly and clearly.
-- Are the details of the contribution(s) contained on the poster sufficient to support an in depth conversation with the audience without being overwhelming?
+- Are the details of the contribution(s) contained on the poster sufficient to support an in depth conversation about the details of at least one contribution with a technical audience without being overwhelming?
 - Will the audience gain insight into what the team's experience in contributing to their project has been like and what they have learned from the experience?
 
 ## PP04-a - Poster Draft & Peer Review

@@ -39,9 +39,9 @@ F 04/11/25      | C22: Work Day                    |                | [PE]10
 T 04/15 25      | C23: Poster Peer Reviews         |                | [PP04]-a
 F 04/18/25      | C24: Work Day (Prof in Seattle)  |                | [PE]11
 T 04/22/25      | C25: Work Day (Poster due)       |                | [PP04]-b
-F 04/25/25      | C26: Work Day                    |                | [PE]12
+F 04/25/25      | C26: Work Day                    | [PP05]         | [PE]12
 T 04/29/25      | C27: Poster Session<br>(12:00-1:15 Tome Library) |         | [PP04]-c
-F 05/02/25      | C28: Wrap Up                     | PP05           | [PE]13 [WA05]
+F 05/02/25      | C28: Wrap Up                     |                | [PE]13 [WA05]
 &nbsp;          |                                  |                |
 M 05/12/25      | **9:00am - Section 01 Presentations** |           | PP05
 T 05/13/25      | **9:00am - Section 02 Presentations** |           | PP05
@@ -54,6 +54,7 @@ Note: Blank rows, unlinked assignments and due dates are tentative and subject t
 [WA05]: assignments/WA05-SLEBlogPost.md
 [PP03]: assignments/PP03-DemoDayPresentation.md
 [PP04]: assignments/PP04-Poster.md
+[PP05]: assignments/PP05-FinalPresentation.md
 
 ## COMP 491 Outline
 
