@@ -62,8 +62,8 @@ Weight | Course Component
 5%     | [PA06]: Project Contributions
 20%    | [PE]: Project Effectiveness
 &nbsp; | **PP: Project Presentations**
-8%     | [PP01]: Technology Spike Presentations
-12%    | [PP02]: Final Project Presentation
+10%    | [PP01]: Technology Spike Presentations
+15%    | [PP02]: Final Project Presentation
 &nbsp; | **WA: Writing Assignments**
 4%     | [WA01]: Blog Post Draft
 3%     | [WA02]: Blog Post Peer Reviews
