@@ -31,9 +31,9 @@ Complete the following tasks on Teams to find our course and to (re)familiarize 
 We will be using git/GitHub pull requests to build a repository of completed assignments for this course. You will fork and clone this repository and add to it by making pull requests as you and your team work on assignments. You will also be using git and GitHub (or another repository hosting service) extensively in your work on your project.
 
 Complete the following tasks using git/GitHub to find our course repository and to refresh your git/GitHub skills.
-1. If you have not already, accept the invitation to join the `Dickinson-COMP-491-491/AY24-25` repository as a contributor.
-2. Fork the [Dickinson-COMP-491-491/AY24-25](https://github.com/Dickinson-COMP-491-492/AY24-25) repository into your GitHub account. 
-   - By default your fork will be named just `AY-24-25` you can give this a more meaningful name when you create your fork, or via the settings on your fork after you create it. 
+1. If you have not already, accept the invitation to join the `Dickinson-COMP-491-491/AY25-26` repository as a contributor.
+2. Fork the [Dickinson-COMP-491-491/AY25-26](https://github.com/Dickinson-COMP-491-492/AY25-26) repository into your GitHub account. 
+   - By default your fork will be named just `AY25-26` you can give this a more meaningful name when you create your fork, or via the settings on your fork after you create it. 
    - Note that both the upstream repository and your fork are private. Thus, no one except students in our course and the Dickinson CS faculty will be able to see the repository or its contents.
 3. Clone your fork to your machine.
 4. Open your clone using an editor of your choice.
