@@ -19,7 +19,7 @@ This assignment will prepare you to use the tools that we will employ in this co
 We will be using teams as our primary form of communication in this course.  All course related communication with the instructor and within your teams will take place on Teams. 
 
 Complete the following tasks on Teams to find our course and to (re)familiarize yourself with it.
-1. Find the COMP491/492-AY24-25 Team in your browser or the Teams app.
+1. Find the COMP491/492-AY25-26 Team in your browser or the Teams app.
 2. Open the PA01 - Course Tools Channel
    1. Find "Introduce Yourself" post, read it, and post a response.
    2. Find the "Tag Someone" post, read it, and post a response.
