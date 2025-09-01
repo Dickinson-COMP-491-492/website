@@ -10,15 +10,15 @@
 Date            | Class Topic                                | Assigned       | Due
 ----------------|--------------------------------------------|----------------|-------------------
 T 09/02/25      | C01: Introduction                          | [PA01]         |
-R 09/04/25      | C02: Project Explorations                  | [PA02] [RD01]  | [PA01] 
+R 09/04/25      | C02: Project Explorations                  | [PA02], [RD01] | [PA01] 
 T 09/09/25      | C03: SWE/FOSS History                      |                | [RD01]
-R 09/11/25      | C04: Project Reviews                       | [PA03] [RD02]  | [PA02]
+R 09/11/25      | C04: Project Reviews                       | [PA03], [RD02] | [PA02]
 T 09/16/25      | C05: Organizations & Communities           | [RD03]         | [RD02]
 R 09/18/25      | C06: Visit with Max Rios ('21)             |                | [RD03] 
-T 09/23/25      | C07: Project Selection                     | [PA04] [RD04]  | [PA03]
+T 09/23/25      | C07: Project Selection                     | [PA04], [RD04] | [PA03]
 R 09/25/25      | C08: Culture & Communication               |                | [RD04]
-T 09/30/25      | C09: Tech Spikes                           | [PA05] [RD05]  | [PA04]
-R 10/02/25      | C10: Productivity & Quality                |                | [PA05] [RD05]
+T 09/30/25      | C09: Tech Spikes                           | [PA05], [RD05] | [PA04]
+R 10/02/25      | C10: Productivity & Quality                |                | [PA05], [RD05]
 T 10/07/25      | C11: Work Day                              | [RD06]         | [PE]01
 R 10/09/25      | C12: Reqs, Specs & Archs                   | [WA01]         | [RD06]
 T 10/14/25      | C13: Work Day                              |                | [PE]02
@@ -27,11 +27,11 @@ R 10/16/25      | C14: Work Day (Prof @ [CompEd25])          |                |
 T 10/21/25      | **Fall Pause**                             |                |
 &nbsp;          |                                            |                |
 R 10/23/25      | C15: Work Day (Prof @ [CompEd25])          | [RD07]         |
-T 10/28/25      | C16: Software Processes                    | [RD08] [PP01]  | [RD07] [PE]03
-R 10/30/25      | C17: Visit with Environmental Defense Fund |                | [RD08] [WA01]
+T 10/28/25      | C16: Software Processes                    | [RD08], [PP01] | [RD07], [PE]03
+R 10/30/25      | C17: Visit with Environmental Defense Fund |                | [RD08], [WA01]
 T 11/04/25      | C18: Tech Spike Presentations              |                | [PP01]
-R 11/06/25      | C19: Project Contributions                 | [PA06] [WA02]  | 
-T 11/11/25      | C20: Work Day                              | [RD09]         | [PA06] [PE]04
+R 11/06/25      | C19: Project Contributions                 | [PA06], [WA02] | 
+T 11/11/25      | C20: Work Day                              | [RD09]         | [PA06], [PE]04
 R 11/13/25      | C21: Visit with Julia Filiberti ('12)      |                | [RD09]
 T 11/18/25      | C21: Work Day                              | [RD10]         | [PE]05
 R 11/20/25      | C23: Agile Game Round 1                    |                | [RD10]
@@ -39,12 +39,12 @@ T 11/25/25      | C24: Agile Game Round 2                    |                | 
 &nbsp;          |
 R 11/27/25      | **Thanksgiving Break**
 &nbsp;          |
-T 12/02/25      | C25: Work Day                              | [RD11] [WA03]  | [PE]06
-R 12/04/25      | C26: Comprehension, V-and-V                | [WA03] [PP02]  | [RD11]
+T 12/02/25      | C25: Work Day                              | [RD11], [WA03] | [PE]06
+R 12/04/25      | C26: Comprehension, V-and-V                | [WA03], [PP02] | [RD11]
 T 12/09/25      | C27: Work Day                              | [RD12]         | [PE]07
 R 12/11/25      | C28: Monitoring & Evolution                |                | [RD12]
 &nbsp;          |
-M 12/15/25      | **2:00pm - Section 01 Presentations**      |                | [PP02] [WA03]
+M 12/15/25      | **2:00pm - Section 01 Presentations**      |                | [PP02], [WA03]
 
 Note: Unlinked assignments and due dates are tentative and subject to change.
 
