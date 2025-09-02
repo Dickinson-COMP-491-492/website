@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Professional and open source software developers make use of many different tools each with its own purpose, strengths and weaknesses. We will be making use of a variety of such tools (Teams, git/GitHub, Markdown,Teammates) in this class.  In addition, you will find yourselves needing to use a number of other tools to engage with the Free and Open Source Software (FOSS) community you select for your project.
+Professional and open source software developers make use of many different tools each with its own purpose, strengths and weaknesses. We will be making use of a variety of such tools (Teams, git/GitHub, Markdown, Teammates) in this class. In addition, you will find yourselves needing to use a number of other tools to engage with the Free and Open Source Software (FOSS) community you select for your project.
 
 The tools that we will use can be broadly divided into four categories:
 - Messaging: Used for one-to-one and group communications. This includes platforms such as Teams, Slack, Discord, Gitter, IRC and Teams.  We will be using Teams.
@@ -19,7 +19,7 @@ This assignment will prepare you to use the tools that we will employ in this co
 We will be using teams as our primary form of communication in this course.  All course related communication with the instructor and within your teams will take place on Teams. 
 
 Complete the following tasks on Teams to find our course and to (re)familiarize yourself with it.
-1. Find the COMP491/492-AY25-26 Team in your browser or the Teams app.
+1. Find the COMP-491-492 Team in your browser or the Teams app.
 2. Open the PA01 - Course Tools Channel
    1. Find "Introduce Yourself" post, read it, and post a response.
    2. Find the "Tag Someone" post, read it, and post a response.
@@ -30,7 +30,8 @@ Complete the following tasks on Teams to find our course and to (re)familiarize 
 
 We will be using git/GitHub pull requests to build a repository of completed assignments for this course. You will fork and clone this repository and add to it by making pull requests as you and your team work on assignments. You will also be using git and GitHub (or another repository hosting service) extensively in your work on your project.
 
-Complete the following tasks using git/GitHub to find our course repository and to refresh your git/GitHub skills.
+Complete the following tasks using git/GitHub to find our course repository and to refresh your git/GitHub skills.  You may find this [Git/GitHub Command Reference]([Git/GitHub Command Reference](https://github.com/FarmData2/FD2-School-Materials/blob/main/GitReference/GitReference.md) helpful in remembering what commands to use.
+
 1. If you have not already, accept the invitation to join the `Dickinson-COMP-491-491/AY25-26` repository as a contributor.
 2. Fork the [Dickinson-COMP-491-491/AY25-26](https://github.com/Dickinson-COMP-491-492/AY25-26) repository into your GitHub account. 
    - By default your fork will be named just `AY25-26` you can give this a more meaningful name when you create your fork, or via the settings on your fork after you create it. 
@@ -48,11 +49,11 @@ Complete the following tasks using git/GitHub to find our course repository and 
       - Be sure to use a meaningful commit message that describes the change that you made.
    7. Push your feature branch to your origin on GitHub.
    8. Turn in your work by creating a pull request to the upstream for your changes.
-      - Be sure to give your PR a descriptive title.
+      - Be sure to give your PR a descriptive title and comment.
     
 #### Markdown
 
-GitHub and many other platforms use Markdown as their content authoring language.  Markdown uses basic syntax to allow you to style and format documents. On GitHub, this allows you to style (e.g. boldface, underline, links, etc) and structure (e.g. section headings, tables, images, etc) content in issues, pull requests and in any file with a `.md` extension.
+GitHub and many other platforms use Markdown as their content authoring language. Markdown uses basic syntax to allow you to style and format documents. On GitHub, this allows you to style (e.g. boldface, underline, links, etc) and structure (e.g. section headings, tables, images, etc) content in issues, pull requests and in any file with a `.md` extension.
 
 For example, the following is a small markdown document that illustrates just a few of its capabilities:
 
@@ -72,7 +73,7 @@ When rendered in GitHub this markdown will appear like this:
 
 Use the documentation on the [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) page and the [Organizing information with tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) page to complete the following tasks and (re)familiarize yourself with Markdown.
 
-1. Create a new feature branch from `main`
+1. Create a new feature branch from the feature branch you created in the prior section.
 2. Add the following to your `README.md` file:
    1. A top level section header with your name.
    2. Second level section headers for "About Me" and "My Schedule"
@@ -98,17 +99,17 @@ We will be using [Teammates](https://teammatesv4.appspot.com/web/front/home) to 
 Complete the following tasks to become familiar with how Teammates works.
 
 1. If you have not already, use the link in the e-mail that you received from Teammates to register for our course.
-2. Find the "PA-01" session in teammates:
-   1. Click the "Start Submission" button for "PA-01"
+2. Find the "PA-00" session in teammates:
+   1. Click the "Start Submission" button for "PA-00"
    2. Complete the survey
       - This is just for practice so:
         - you have been assigned to made up teams for this exercise.
-        - you won't have a basis for providing feedback so make things up.
-        - be sure to respond to every question in some way.
+        - you won't have a basis for providing feedback so make things up, but be kind as jokes do not always land as expected over text based media.
+        - be sure to respond to every question in some way just for practice.
    3. Submit the survey either question by question as you go or all at once at the end.
 3. Check the responses that you receive. 
-   - In this instance, you will see feedback as it is submitted.
-   - For later uses, you will receive feedback only after the instructor reviews and releases it.
+   - In this instance, you will see feedback immediately after it is submitted.
+   - When we use TEAMMATES later you will receive feedback only after the instructor reviews and releases it.
 
 ---
 
