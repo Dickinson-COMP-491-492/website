@@ -9,7 +9,7 @@ The tools that we will use can be broadly divided into five categories:
 - Version Control: Used for managing and collaborating on documents and source code. This includes tools such as git, Subversion, CVS and Mercurial, and platforms such as GitHub, GitLab, SourceForge and Bitbucket.  We will be using git and GitHub.
 - Content Authoring Language: Used for writing and formatting text-based documents.  This includes things such as HTML, Markdown, LaTeX, and AsciiDoc.  We will be using Markdown.
 - Performance Reviews: Used for conducting personnel reviews and providing feedback to teams. Many companies use proprietary tools and processes for annual reviews (e.g. [360 Reviews](https://www.thebalancemoney.com/what-is-a-360-review-1917541)).  We will be using Teammates.
-- Communications: Used to self-publish information about your, your project or other topics. Many project communities will run a blog that keeps community members up to date on what is happening in the project. We will use [Blogger](https://www.blogger.com).
+- Communications: Used to self-publish information about you, your project or other topics. Many project communities will run a blog that keeps community members up to date on what is happening in the project. We will use [Blogger](https://www.blogger.com).
 
 ### Assignment
 
