@@ -2,13 +2,14 @@
 
 ### Introduction
 
-Professional and open source software developers make use of many different tools each with its own purpose, strengths and weaknesses. We will be making use of a variety of such tools (Teams, git/GitHub, Markdown, Teammates) in this class. In addition, you will find yourselves needing to use a number of other tools to engage with the Free and Open Source Software (FOSS) community you select for your project.
+Professional and open source software developers make use of many different tools each with its own purpose, strengths and weaknesses. We will be making use of a variety of such tools (Teams, git/GitHub, Markdown, Teammates, Blog) in this class. In addition, you will find yourselves needing to use a number of other tools to engage with the Free and Open Source Software (FOSS) community you select for your project.
 
-The tools that we will use can be broadly divided into four categories:
+The tools that we will use can be broadly divided into five categories:
 - Messaging: Used for one-to-one and group communications. This includes platforms such as Teams, Slack, Discord, Gitter, IRC and Teams.  We will be using Teams.
 - Version Control: Used for managing and collaborating on documents and source code. This includes tools such as git, Subversion, CVS and Mercurial, and platforms such as GitHub, GitLab, SourceForge and Bitbucket.  We will be using git and GitHub.
 - Content Authoring Language: Used for writing and formatting text-based documents.  This includes things such as HTML, Markdown, LaTeX, and AsciiDoc.  We will be using Markdown.
 - Performance Reviews: Used for conducting personnel reviews and providing feedback to teams. Many companies use proprietary tools and processes for annual reviews (e.g. [360 Reviews](https://www.thebalancemoney.com/what-is-a-360-review-1917541)).  We will be using Teammates.
+- Communications: Used to self-publish information about your, your project or other topics. Many project communities will run a blog that keeps community members up to date on what is happening in the project. We will use [Blogger](https://www.blogger.com).
 
 ### Assignment
 
@@ -51,6 +52,17 @@ Complete the following tasks using git/GitHub to find our course repository and 
    8. Turn in your work by creating a pull request to the upstream for your changes.
       - Be sure to give your PR a descriptive title and comment.
     
+#### Blog
+
+We will be using [Blogger](https://www.blogger.com) for you to express your thoughts and opinions on technical, social, legal and ethical issues in computing and technology.
+
+Complete the following tasks to setup a Blogger site.
+
+1. Visit [Blogger](https://www.blogger.com)
+2. Create a new Blog.
+3. Customize your blog as you would like it to look.
+4. Create a first post that gives a little bit of information about you and your goals.
+
 #### Markdown
 
 GitHub and many other platforms use Markdown as their content authoring language. Markdown uses basic syntax to allow you to style and format documents. On GitHub, this allows you to style (e.g. boldface, underline, links, etc) and structure (e.g. section headings, tables, images, etc) content in issues, pull requests and in any file with a `.md` extension.
@@ -76,7 +88,7 @@ Use the documentation on the [Basic writing and formatting syntax](https://docs.
 1. Create a new feature branch from the feature branch you created in the prior section.
 2. Add the following to your `README.md` file:
    1. A top level section header with your name.
-   2. Second level section headers for "About Me" and "My Schedule"
+   2. Second level section headers for "About Me", "My Schedule", "Assignments".
    3. In the "About Me" section:
       1. Move the text introducing yourself here.
       2. Add a ordered list of your favorite *somethings* (e.g. food, places, etc).
@@ -86,6 +98,9 @@ Use the documentation on the [Basic writing and formatting syntax](https://docs.
       - one column for each weekday.
       - one row for each time slot.
       - the name of each course in the appropriate cells.
+   5. In the "Assignments" section add a links to:
+      - Your GitHub profile.
+      - The Blogger blog that you created.
 3. Stage and commit your changes
 4. Push your feature branch to your origin on GitHub
 5. Turn in your work by creating a pull request to the upstream for your branch.
