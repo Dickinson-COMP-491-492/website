@@ -115,7 +115,7 @@ Complete the following tasks to become familiar with how Teammates works.
 
 1. If you have not already, use the link in the e-mail that you received from Teammates to register for our course.
 2. Find the "PA-00" session in teammates:
-   1. Click the "Start Submission" button for "PA-00"
+   1. Click the "Start Submission" button for "PE-00"
    2. Complete the survey
       - This is just for practice so:
         - you have been assigned to made up teams for this exercise.
