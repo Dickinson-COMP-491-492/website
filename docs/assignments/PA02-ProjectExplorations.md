@@ -10,10 +10,10 @@ Before beginning it is recommended that you read [What you actually need to know
 
 #### Candidate Projects
 
-In this part of the assignment you will build a preliminary list of *candidate projects* on which you might be interested in working.
+In this part of the assignment you will build a preliminary list of *candidate projects* to which you might be interested in contributing.
 
 1. Browse the resources in the [Finding H/FOSS Projects](#finding-hfoss-projects) section looking for projects that interest you and that seem to be active.
-   - It is recommended that you consider projects from across range of your different interests.  Eventually we will be forming teams around areas of common interest.  So having considered projects across a range of interests increases the likelihood that you will find a team with some shared interests.
+   - It is recommended that you consider projects from across a range of your different interests.  Eventually we will be forming teams around areas of common interest.  So having considered projects across a range of interests increases the likelihood that you will find a team with some shared interests.
    - You should plan to spend approximately 1 hour browsing the resources to identify your candidate projects.
 2. From the projects you have looked at, identify 10 candidate projects (5 for students doing an individual research or honors project).
 3. Using your clone of the course repository:
@@ -26,14 +26,15 @@ In this part of the assignment you will build a preliminary list of *candidate p
       1. Add a section header for "Candidate Projects".
       2. For each candidate project add a bullet point that gives:
          - the name of the project as a link to its home page or repository.
-         - your impression of the suitability of the project in 1-2 sentences. 
+         - a 1-2 sentence description of what the project does. 
+         - a 1-2 sentences summary of your impression of the suitability of the project for this course. 
     6. Commit your changes to your feature branch.
 
 #### Project Explorations
 
 In this part of the assignment you will perform more detailed Project Explorations on a subset of the candidate projects that you have identified.
 
-1. Select 4 candidate projects (2 for students doing an individual research or honors project) that seem promising to you.
+1. Select 4 or 5 candidate projects (2 for students doing an individual research or honors project) that seem promising to you.
 2. For each candidate project that you selected you should spend approximately 1 hour exploring it and documenting what you find as follows:
    1. Create a new `.md` file for the candidate project in your directory in the course repository.
    2. Add the following sections and content to the `.md` for the candidate project:
@@ -51,7 +52,7 @@ In this part of the assignment you will perform more detailed Project Exploratio
       - **Skills Match:** Briefly describe how well the languages / frameworks / tools that the project uses match or do not match your current knowledge and skill set.
       - **Other:** Add any additional thoughts that you would like to record about the project.  Include things that you think may be helpful later when deciding which project to engage with.
    3. Commit your changes to your feature branch. Note that each project exploration should be in a separate commit.
-3. Turn in your work by creating a pull request for your changes.
+3. Turn in your work by creating a pull request to the upstream course repo for your changes.
 
 ### Finding H/FOSS Projects
 
@@ -59,7 +60,7 @@ There are literally millions of open source projects out there. However, not all
 
 #### Humanitarian FOSS (HFOSS) Projects
 
-As you know, HFOSS is an acronym for humanitarian free open source software. We encourage you to explore at least a few *humanitarian* FOSS (HFOSS) projects because they reflect the potential for computing to benefit society and thus will align your major well with the broader mission of Dickinson College. In addition, past students and faculty from this course, and other courses similar to ours, report that HFOSS project communities tend to be friendly, supportive and open to helping new contributors come on board. That said, should explore and select projects according to all relevant factors, including your own personal interest and you are not required to pursue any humanitarian projects.
+As you know, HFOSS is an acronym for humanitarian free open source software. We encourage you to explore at least a few *humanitarian* FOSS (HFOSS) projects because they reflect the potential for computing to benefit society and thus will align your major well with the broader mission of Dickinson College. In addition, past students and faculty from this course, and other courses similar to ours, report that HFOSS project communities tend to be friendly, supportive and open to helping new contributors come on board. That said, you should explore and select projects according to all relevant factors, including your own personal interest and you are not required to pursue any humanitarian projects.
 
 The following lists are good places to find humanitarian projects that might be of interest:
 - [HFOSS Projects](https://teachingopensource.org/HFOSS_Projects) NOTE: Be sure to examine the whole page, not just the table at the top. The bullet point lists contain projects that are not in the table at the top of the page.
@@ -69,10 +70,11 @@ The following lists are good places to find humanitarian projects that might be 
 
 Having a mentor to guide your work in a project can be very useful in getting started, identifying appropriate tasks and getting help when you are stuck. Regardless of the project that you pick you will want to make an effort to find a mentor in the project. This is easier in some projects and harder in others. 
 
-A contact at the [OpenInfra Foundation](https://openinfra.dev/) has offered to connect a few teams from Dickinson with mentors in the the projects listed below. If these projects seem interesting, you are encouraged to consider them because of the mentoring opportunity.
+A contact at the [OpenInfra Foundation](https://openinfra.dev/) has offered to try to connect a few teams from Dickinson with mentors in the the projects listed below. If these projects seem interesting, you are encouraged to consider them because of the mentoring opportunity.
 
-- [Kata Containers](https://katacontainers.io/)
-- [OpenStack](https://www.openstack.org/)
+- [OpenStack: Swift](https://www.openstack.org/software/project-navigator/openstack-components#openstack-services)
+  - Students in the past have worked on the Swift component.
+
 
 #### Broader H/FOSS Project Lists
 
@@ -96,6 +98,15 @@ There are also a few sites that are specifically designed to help new people get
 
 Below is the list of all H/FOSS projects selected as capstone projects by previous Dickinson senior seminar students. Note that we do not necessarily recommend every project on this list. Every project has both advantages and disadvantages. If you are considering pursuing one of these projects, feel free to discuss it with the instructor to find out about the experience of previous Dickinson students.
 
+- 2024-25:
+[DocsGPT](https://github.com/arc53/docsgpt)
+[Internet Archive](https://archive.org/)
+[Mermaid](https://mermaid.js.org/)
+[OpenStack:Swift](https://www.openstack.org/software/releases/dalmatian/components/swift)
+[Oppia](https://www.oppia.org/)
+[TypeScript](https://www.typescriptlang.org/)
+[Zed Attack Proxy](https://github.com/zaproxy)
+[Zulip](https://zulip.com/)
 - 2023-24:
 [Apache Kafka](https://kafka.apache.org/),
 [SugarLabs](https://www.sugarlabs.org/),
@@ -140,6 +151,8 @@ In addition there are a number of other projects students and instructors from c
 - [Mifos](https://mifos.org/)
 - [Ushahidi](https://www.ushahidi.com/)
 - [GNOME Accessibility](https://wiki.gnome.org/Accessibility)
+- [Kata Containers](https://katacontainers.io/)
+- [Zuul](https://zuul-ci.org/docs/zuul/latest/)
 
 #### H/FOSS Projects You Already Know or Use
 
