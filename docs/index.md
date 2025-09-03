@@ -48,9 +48,8 @@ M 12/15/25      | **2:00pm - Section 01 Presentations**      |                | 
 
 Note: Unlinked assignments and due dates are tentative and subject to change.
 
-<!--
 [RD01]: assignments/Readings/RD01-SWE-FOSS-History.md
--->
+
 
 [PA01]: assignments/PA01-CourseTools.md
 <!--
