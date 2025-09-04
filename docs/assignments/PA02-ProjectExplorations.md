@@ -15,7 +15,7 @@ In this part of the assignment you will build a preliminary list of *candidate p
 1. Browse the resources in the [Finding H/FOSS Projects](#finding-hfoss-projects) section looking for projects that interest you and that seem to be active.
    - It is recommended that you consider projects from across a range of your different interests.  Eventually we will be forming teams around areas of common interest.  So having considered projects across a range of interests increases the likelihood that you will find a team with some shared interests.
    - You should plan to spend approximately 1 hour browsing the resources to identify your candidate projects.
-2. From the projects you have looked at, identify 10 candidate projects (5 for students doing an individual research or honors project).
+2. From the projects you have looked at, identify 10-12 candidate projects (5 for students doing an individual research or honors project).
 3. Using your clone of the course repository:
    1. Ensure that you are on the `main` branch.
    2. Set the upstream remote of your clone to point to the [Dickinson-COMP-491-491/AY24-25](https://github.com/Dickinson-COMP-491-492/AY24-25) repository.
@@ -49,6 +49,7 @@ In this part of the assignment you will perform more detailed Project Exploratio
       - **Target User Community:** Summarize in a paragraph: (i) Who is the user community for the software product? (ii) What need(s) of this user community does the software address? Briefly explain how the software addresses those needs.
       - **Activity:** Give some things that you noticed that indicate that the project is active, has some developer community around it, and is supportive of outside contributions. The more evidence you can find that the project is alive, thriving, and open the better. You should at least consider things like the volume of recent activity on the issue tracker or message forums, the frequency of creation and merging of pull requests, and the tone of communication.
       - **Getting Started:** Imagine that you have been assigned to start working on this project as a developer. Explore the project repository and homepage looking for resources that would help you get started (e.g. how to install the developer environment, how to contribute, how to communicate with the community, etc). Give your impression of the things that would make it easy or difficult to get started on the project (e.g. was documentation easy to find? does it seem complete? is it written clearly and at a level you can follow?) Support your impression with details from your research and include links to resources as appropriate.
+      - **Welcoming to Newcomers:** Briefly document what you find (or do not find) that the community is welcoming and supportive of newcomers. You should briefly scan the issue tracker and any open communication channels for the project. Look for things like message threads where newcomers or students introduce themselves, tags on issues such as "Good First Issue" or "First Timers," and comments/feedback on appropriately tagged issues.. 
       - **Personal Interest:** Briefly describe the reasons that led you to chose to explore this project and discuss anything that you learned during the exploration that either increased or decreased your interest in engaging with this project.  If there are particular aspects of the project that you are interested in working on (or not working on) indicate those as well.
       - **Skills Match:** Briefly identify the main languages / frameworks / tools that the project uses and describe how well they match or do not match your current knowledge and skill set.
       - **Other:** Add any additional thoughts that you would like to record about the project.  Include things that you think may be helpful later when deciding which project to engage with.
@@ -75,7 +76,6 @@ A contact at the [OpenInfra Foundation](https://openinfra.dev/) has offered to t
 
 - [OpenStack: Swift](https://www.openstack.org/software/project-navigator/openstack-components#openstack-services)
   - Students in the past have worked on the Swift component.
-
 
 #### Broader H/FOSS Project Lists
 
