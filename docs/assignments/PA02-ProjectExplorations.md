@@ -18,7 +18,7 @@ In this part of the assignment you will build a preliminary list of *candidate p
 2. From the projects you have looked at, identify 10-12 candidate projects (5 for students doing an individual research or honors project).
 3. Using your clone of the course repository:
    1. Ensure that you are on the `main` branch.
-   2. Set the upstream remote of your clone to point to the [Dickinson-COMP-491-491/AY24-25](https://github.com/Dickinson-COMP-491-492/AY24-25) repository.
+   2. Set the upstream remote of your clone to point to the [Dickinson-COMP-491-491/AY25-26](https://github.com/Dickinson-COMP-491-492/AY25-26) repository.
       - `git remote add upstream <URL>`
    3. Pull the upstream `main` branch to synchronize with the upstream.
    4. Create a new feature branch from `main`.
@@ -36,7 +36,7 @@ In this part of the assignment you will perform more detailed Project Exploratio
 
 1. Select 4 or 5 candidate projects (2 for students doing an individual research or honors project) that seem promising to you.
 2. For each candidate project that you selected you should spend approximately 1 hour exploring it and documenting what you find as follows:
-   1. Create a new `.md` file for the project exploration in your directory in the course repository.
+   1. Create a new `.md` file for the project exploration in your directory in the AY25-26 course repository.
    2. Using the `README.md` file in your directory:
       1. Add a section header for "Project Explorations".
       2. Add a bullet point under that heading that gives the name of the project that you are exploring as a link to the `.md` file that you created for it.
