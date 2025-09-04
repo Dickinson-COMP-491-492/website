@@ -36,20 +36,21 @@ In this part of the assignment you will perform more detailed Project Exploratio
 
 1. Select 4 or 5 candidate projects (2 for students doing an individual research or honors project) that seem promising to you.
 2. For each candidate project that you selected you should spend approximately 1 hour exploring it and documenting what you find as follows:
-   1. Create a new `.md` file for the candidate project in your directory in the course repository.
-   2. Add the following sections and content to the `.md` for the candidate project:
+   1. Create a new `.md` file for the project exploration in your directory in the course repository.
+   2. Using the `README.md` file in your directory:
+      1. Add a section header for "Project Explorations".
+      2. Add a bullet point under that heading that gives the name of the project that you are exploring as a link to the `.md` file that you created for it.
+   3. Add the following sections and content to the `.md` for the project exploration:
       - **Project Exploration:** A top level section heading with the text "Project Exploration".
       - **Project Title:** The title of the project.
-      - **Project Repository:** The URL of the repository ( or repositories, or organization) where the latest version of the source code is located. This is where a developer would go to get the code for the project (e.g. GitHub, BitBucket, SourceForge, etc.).
+      - **Project Repository:** The URL of the repository (or repositories, or organization) where the latest version of the source code is located. This is where a developer would go to get the code for the project (e.g. GitHub, BitBucket, SourceForge, etc.).
       - **Project Homepage:** The public-facing homepage for the project. For many projects this will be different from the repository. Some smaller projects may keep everything in the repository.
       - **Product:** Summarize in a paragraph what the software product does.
-      - **Activity:** Give some things that you noticed that indicate that the project is ongoing and has some developer community around it.  The more evidence you can find that the project is alive and thriving the better.  You should at least consider things like dates of the most recent activity on the issue tracker or message forums, and the creation and merging of pull requests.
       - **Target User Community:** Summarize in a paragraph: (i) Who is the user community for the software product? (ii) What need(s) of this user community does the software address? Briefly explain how the software addresses those needs.
-      - **Getting Started:** Imagine that you have been assigned to start working on this project as a developer. From that perspective, explore the project repository and homepage and document what you find.  In particular, be sure to address:
-        - What did you find that would make it easy to get started as a developer on this project? (Give links to resources as appropriate).
-        - What did you find (or not find that you would expect to find) that would make it difficult to get started as a developer with this project?
-      - **Personal Interest:** Briefly describe the reasons that led you to chose to explore this project.  Then discuss things that you learned during the exploration that either increased or decreased your interest in engaging with this project.  If there are particular aspects of the project that you are interested in working on indicate those as well.
-      - **Skills Match:** Briefly describe how well the languages / frameworks / tools that the project uses match or do not match your current knowledge and skill set.
+      - **Activity:** Give some things that you noticed that indicate that the project is active, has some developer community around it, and is supportive of outside contributions. The more evidence you can find that the project is alive, thriving, and open the better. You should at least consider things like the volume of recent activity on the issue tracker or message forums, the frequency of creation and merging of pull requests, and the tone of communication.
+      - **Getting Started:** Imagine that you have been assigned to start working on this project as a developer. Explore the project repository and homepage looking for resources that would help you get started (e.g. how to install the developer environment, how to contribute, how to communicate with the community, etc). Give your impression of the things that would make it easy or difficult to get started on the project (e.g. was documentation easy to find? does it seem complete? is it written clearly and at a level you can follow?) Support your impression with details from your research and include links to resources as appropriate.
+      - **Personal Interest:** Briefly describe the reasons that led you to chose to explore this project and discuss anything that you learned during the exploration that either increased or decreased your interest in engaging with this project.  If there are particular aspects of the project that you are interested in working on (or not working on) indicate those as well.
+      - **Skills Match:** Briefly identify the main languages / frameworks / tools that the project uses and describe how well they match or do not match your current knowledge and skill set.
       - **Other:** Add any additional thoughts that you would like to record about the project.  Include things that you think may be helpful later when deciding which project to engage with.
    3. Commit your changes to your feature branch. Note that each project exploration should be in a separate commit.
 3. Turn in your work by creating a pull request to the upstream course repo for your changes.
