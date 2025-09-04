@@ -2,7 +2,7 @@
 
 ## Preparation
 
-Review the expectations for preparation for the [Readings and Class Discussions](../RD-ReadingsAndDiscussion.md).
+Review the expectations for preparation for the [Readings and Class Discussions](./RD-ReadingsAndDiscussion.md).
 
 ## Assigned Readings
 
