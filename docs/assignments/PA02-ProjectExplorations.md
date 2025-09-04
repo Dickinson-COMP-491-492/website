@@ -97,53 +97,53 @@ There are also a few sites that are specifically designed to help new people get
 
 #### H/FOSS Projects Selected by Past Senior Seminar Teams
 
-Below is the list of all H/FOSS projects selected as capstone projects by previous Dickinson senior seminar students. Note that we do not necessarily recommend every project on this list. Every project has both advantages and disadvantages. If you are considering pursuing one of these projects, feel free to discuss it with the instructor to find out about the experience of previous Dickinson students.
+Below is the list of all H/FOSS projects selected as capstone projects by previous Dickinson senior seminar students. Note that we do not necessarily recommend every project on this list. Every project has both advantages and disadvantages. Projects where students have had particularly good experiences are marked with an 🏆. Note though that projects change over time so past experience is not necessarily predictive of current success. If you are considering pursuing one of these projects, feel free to discuss it with the instructor to find out about the experience of previous Dickinson students.
 
 - 2024-25:
-[DocsGPT](https://github.com/arc53/docsgpt)
-[Internet Archive](https://archive.org/)
-[Mermaid](https://mermaid.js.org/)
-[OpenStack:Swift](https://www.openstack.org/software/releases/dalmatian/components/swift)
-[Oppia](https://www.oppia.org/)
-[TypeScript](https://www.typescriptlang.org/)
-[Zed Attack Proxy](https://github.com/zaproxy)
-[Zulip](https://zulip.com/)
+  - [DocsGPT](https://github.com/arc53/docsgpt)
+  - [Internet Archive](https://archive.org/) 🏆
+  - [Mermaid](https://mermaid.js.org/) 🏆
+  - [OpenStack:Swift](https://www.openstack.org/software/releases/dalmatian/components/swift) 🏆
+  - [Oppia](https://www.oppia.org/) 🏆
+  - [TypeScript](https://www.typescriptlang.org/)
+  - [Zed Attack Proxy](https://github.com/zaproxy)
+  - [Zulip](https://zulip.com/) 🏆
 - 2023-24:
-[Apache Kafka](https://kafka.apache.org/),
-[SugarLabs](https://www.sugarlabs.org/),
-[OpenBSD](https://www.openbsd.org/),
-[Huggingface](https://huggingface.co/),
-[Mermaid](https://mermaid.js.org/)
+  - [Apache Kafka](https://kafka.apache.org/)
+  - [SugarLabs](https://www.sugarlabs.org/) 🏆
+  - [OpenBSD](https://www.openbsd.org/)
+  - [Huggingface](https://huggingface.co/)
+  - [Mermaid](https://mermaid.js.org/) 🏆
 - 2022-23: 
-[Hugging Face Transformers](https://github.com/huggingface/transformers),
-[Oppia](https://www.oppia.org/),
-[Wagtail](https://wagtail.org/)
+  - [Hugging Face Transformers](https://github.com/huggingface/transformers)
+  - [Oppia](https://www.oppia.org/) 🏆
+  - [Wagtail](https://wagtail.org/) 🏆
 - 2021-22: 
-[Kubernetes](https://kubernetes.io/),
-[Teammates](https://github.com/TEAMMATES), 
-[The Odin Project](https://github.com/TheOdinProject/),
-[SymPy](https://www.sympy.org/en/index.html),
-[Wagtail](https://wagtail.org/)
+  - [Kubernetes](https://kubernetes.io/)
+  - [Teammates](https://github.com/TEAMMATES) 🏆 
+  - [The Odin Project](https://github.com/TheOdinProject/) 🏆
+  - [SymPy](https://www.sympy.org/en/index.html),
+  - [Wagtail](https://wagtail.org/) 🏆
 - 2020-21: 
-[book project](https://github.com/Project-Books/book-project),
-[OpenMRS](https://openmrs.org/),
-[Numpy](https://numpy.org/) 
+  - [book project](https://github.com/Project-Books/book-project) 🏆
+  - [OpenMRS](https://openmrs.org/)
+  - [Numpy](https://numpy.org/) 
 - 2019-20: 
-[FreeCodeCamp](https://www.freecodecamp.org/),
-[Jenkins](https://www.jenkins.io/),
-[Godot Engine](https://godotengine.org/)
+  - [FreeCodeCamp](https://www.freecodecamp.org/) 🏆
+  - [Jenkins](https://www.jenkins.io/)
+  - [Godot Engine](https://godotengine.org/)
 - 2018-19: 
-[FreeCodeCamp](https://www.freecodecamp.org/),
-[OpenMRS](https://openmrs.org/),
-[Audacity](https://www.audacityteam.org/)
+  - [FreeCodeCamp](https://www.freecodecamp.org/) 🏆
+  - [OpenMRS](https://openmrs.org/)
+  - [Audacity](https://www.audacityteam.org/)
 - 2017-18: 
-[Sahana Eden](https://sahanafoundation.org/products/eden/),
-[FreeCodeCamp](https://www.freecodecamp.org/),
-[Atom](https://github.com/atom/atom)
+  - [Sahana Eden](https://sahanafoundation.org/products/eden/)
+  - [FreeCodeCamp](https://www.freecodecamp.org/) 🏆
+  - [Atom](https://github.com/atom/atom) 🏆
 - 2016-17: 
-[OpenMRS](https://openmrs.org/),
-[React Native](https://reactnative.dev/),
-[Sugar Labs](https://www.sugarlabs.org/)
+  - [OpenMRS](https://openmrs.org/)
+  - [React Native](https://reactnative.dev/)
+  - [Sugar Labs](https://www.sugarlabs.org/) 🏆
 
 In addition there are a number of other projects students and instructors from courses similar to ours have reported having good success with:
 
