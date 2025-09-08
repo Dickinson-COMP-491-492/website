@@ -68,14 +68,20 @@ The following lists are good places to find humanitarian projects that might be 
 - [HFOSS Projects](https://teachingopensource.org/HFOSS_Projects) NOTE: Be sure to examine the whole page, not just the table at the top. The bullet point lists contain projects that are not in the table at the top of the page.
 - [awesome-humanitarian-foss](https://hfoss.etica.ai/): A curated list of HFOSS projects.
 
-#### Mentored FOSS Infrastructure Projects
+#### Projects with Mentor Connections
 
 Having a mentor to guide your work in a project can be very useful in getting started, identifying appropriate tasks and getting help when you are stuck. Regardless of the project that you pick you will want to make an effort to find a mentor in the project. This is easier in some projects and harder in others. 
 
-A contact at the [OpenInfra Foundation](https://openinfra.dev/) has offered to try to connect a few teams from Dickinson with mentors in the the projects listed below. If these projects seem interesting, you are encouraged to consider them because of the mentoring opportunity.
+There are several projects where we have potential mentor connections:
 
-- [OpenStack: Swift](https://www.openstack.org/software/project-navigator/openstack-components#openstack-services)
-  - Students in the past have worked on the Swift component.
+- [OpenStack: Swift](https://www.openstack.org/software/releases/dalmatian/components/swift) - Distributed object storage.
+  - A contact at the [OpenInfra Foundation](https://openinfra.dev/) has offered to try to connect a few teams from Dickinson with mentors in OpenInfra swift.  She may also be able to help with connections in other [OpenStack projects](https://www.openstack.org/software/project-navigator/openstack-components#openstack-services).
+
+- [Rust](https://github.com/rust-lang) - The Rust programming language.
+  - [Ben Kimock](https://github.com/saethlin) is a Dickinson alum and has been a contributor to the Rust language project. He has offered to connect with interested students.
+
+- [Penrose](https://penrose.cs.cmu.edu/) - Plain text diagramming tool.
+  - [Wode "Nimo" Ni](https://github.com/wodeni) is a Dickinson alum who started the Penrose project as part of his Ph.D. studies at Carnegie Mellon. He has offered to connect with interested students.
 
 #### Broader H/FOSS Project Lists
 
