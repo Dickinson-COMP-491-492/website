@@ -21,7 +21,7 @@ Review the expectations for preparation for the [Readings and Class Discussions]
    - Why would a company want (or not want) to Open Source their project as a single vendor open source project?
    - Why would individuals or other companies/organizations want (or not want) to contribute to a single vendor open source project?
 4. In her "WTF" article Riggins emphasizes the challenges that are faced by individuals from groups who are underrepresented in many open source communities. Most of the issues she raises exist in the tech sector more broadly as well. 
-   - How should should these issues be addressed and what barriers exist to addressing them?
+   - What can/should/must be done to address these issues and what barriers exist to addressing them?
    - Who's responsibility is it to address these issues?
 5. Prepare at least one question of your own related to the readings that you would like to raise for class discussion. This may be a question:
    - seeking factual clarification of something in the readings.
