@@ -14,8 +14,8 @@ R 09/04/25      | C02: Project Explorations                  | [PA02], [RD01] | 
 T 09/09/25      | C03: SWE/FOSS History                      |                | [RD01]
 R 09/11/25      | C04: Project Reviews                       | [PA03], [RD02] | [PA02]
 T 09/16/25      | C05: Organizations & Communities           | [RD03]         | [RD02]
-R 09/18/25      | C06: Visit with Max Rios ('21)             |                | [RD03] 
-T 09/23/25      | C07: Project Selection                     | [PA04], [RD04] | [PA03]
+R 09/18/25      | C06: Visit with Max Rios ('21)             |                | [RD03], [PA03] 
+T 09/23/25      | C07: Project Selection                     | [PA04], [RD04] |
 R 09/25/25      | C08: Culture & Communication               |                | [RD04]
 T 09/30/25      | C09: Tech Spikes                           | [PA05], [RD05] | [PA04]
 R 10/02/25      | C10: Productivity & Quality                |                | [PA05], [RD05]
@@ -53,8 +53,8 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 
 [PA01]: assignments/PA01-CourseTools.md
 [PA02]: assignments/PA02-ProjectExplorations.md
-<!--
 [PA03]: assignments/PA03-ProjectReviews.md
+<!--
 [PA04]: assignments/PA04-ProjectSelection.md
 [PA05]: assignments/PA05-TechSpikePrep.md
 [PA06]: assignments/PA06-Contributions.md
