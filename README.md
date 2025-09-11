@@ -14,6 +14,20 @@ Prerequisite: 491. Offered every spring.
 
 The course web page can be found at: https://dickinson-comp-491-492.github.io/website/
 
+## Candidate Projects
+
+[FreeCodeCamp](https://www.freecodecamp.org/learn/)
+
+[Huggingface]
+
+[bpython]
+
+[EinsteinPy]
+
+[Godot Engine]
+
+[]
+
 ## Updates/Editing
 
 Content for the web page is in the docs folder.
