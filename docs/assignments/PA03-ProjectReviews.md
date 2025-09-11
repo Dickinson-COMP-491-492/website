@@ -42,7 +42,7 @@ Complete your project reviews by:
 
    ### Summary
    ...
-   
+
    ## Community Communication
    - [Channel Name](https://...)
      - **Purpose:**
@@ -172,7 +172,7 @@ Complete your project reviews by:
       - **Labels:** List any labels that the project uses to indicate issues that may be a good place to start.
       - **Currency:** Estimate the number of currently open issues tagged/labeled in this way that were created over the following time frames: the last week, the last month, and the last 6 months.
       - **Resolution:** Look at the closed issues and estimate the number of issues tagged/labeled in this way that have been closed by a pull/merge request over the following time frames: the last week, the last month, and the last 6 months.
-      - **Approachability:** Read a few of the open beginner issues, the comments and discussion associated with them, the code and commentary in any pull requests that were made for them. Give your assessment of whether you think that these issues would be something that you believe you could work on once you have a little experience with the project. Consider whether they are clearly written, include enough information to get started, have received kind and helpful comments, etc. Consider if the code in any PRs looks like something you could understand with a little effort. If you have a particularly strong impression of these issues, you might include a few quotes to support your assessment.
+      - **Approachability:** Read a few of the open beginner issues, the comments and discussion associated with them, the code and commentary in any pull requests that were made for them. Give your assessment of whether you think that these issues would be something that you believe you could work on once you have a little experience with the project. Consider whether they are clearly written, include enough information to get started, have received kind and helpful comments, etc. Review a few PRs that are linked to beginner issues and assess if the code and commentary look like something you could understand with a little effort. If you have a particularly strong impression of these issues, you might include a few quotes to support your assessment.
     - **Summary:** Based on your review, summarize your overall thoughts on what it would be like interacting with this project's issue tracker. Some things to consider include: Are there good beginner issues? Are you able to generally understand the good beginner issues? Are comments on issues receiving helpful feedback?
     
   - **Pull/Merge Requests:** In this section  you will explore how contributions that are received are handled by the project. It will give you an idea of how contributions are treated by the community and what the process of making a contribution might be like. Note: Using the sort and filter features for pull/merge requests will be helpful.
