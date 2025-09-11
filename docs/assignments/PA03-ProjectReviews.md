@@ -24,13 +24,25 @@ Complete your project reviews by:
    # Project Review
 
    ## Getting Started
+   
    ### Documents
-   ### Code of Conduct
-   ### Use Installation
-   ### Developer Installation
-   ### Organization
-   ### Summary
+   ...
 
+   ### Code of Conduct
+   ...
+   
+   ### Use Installation
+   ...
+
+   ### Developer Installation
+   ...
+
+   ### Organization
+   ...
+
+   ### Summary
+   ...
+   
    ## Community Communication
    - [Channel Name](https://...)
      - **Purpose:**
