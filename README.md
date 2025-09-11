@@ -16,17 +16,52 @@ The course web page can be found at: https://dickinson-comp-491-492.github.io/we
 
 ## Candidate Projects
 
-[FreeCodeCamp](https://www.freecodecamp.org/learn/)
+- [FreeCodeCamp](https://www.freecodecamp.org/learn/)  
+  FreeCodeCamp is an open-source platform that provides interactive tutorials and certifications in web development, data science, and programming.  
+  This project is suitable for the course because it is a large-scale community-driven educational software with clear opportunities to study web technologies and scalability.
 
-[Huggingface]
+- [Hugging Face](https://github.com/huggingface)  
+  Hugging Face develops state-of-the-art natural language processing (NLP) tools, including the popular Transformers library for machine learning models.  
+  This project is highly suitable because showcases of it's AI/ML applications and it's deep exploration into APIs, data pipelines, and applied research.
 
-[bpython]
+- [bpython](https://github.com/bpython/bpython)  
+  bpython is a lightweight, user-friendly interface for the Python interpreter that adds syntax highlighting, autocomplete, and other quality-of-life features.  
+  It seems suitable because it is compact and approachable, while still involving useful concepts in Python tooling and developer experience.
 
-[EinsteinPy]
+- [EinsteinPy](https://github.com/einsteinpy/einsteinpy)  
+  EinsteinPy is a Python library for symbolic and numerical relativity, offering tools to simulate general relativity concepts.  
+  This project is very advanced but I would love the challenge and opportunity to explore scientific computing and applied mathematics.
 
-[Godot Engine]
+- [Godot Engine](https://github.com/godotengine/godot)  
+  Godot is a fully open-source game engine for creating 2D and 3D games, featuring its own scripting language and scene system.  
+  This project is very suitable as I can focus on many different parts of Godot such as the game development, real-time graphics, or large-scale C++/GDScript open-source collaboration.
 
-[]
+- [Internet Archive](https://github.com/internetarchive)  
+  The Internet Archive develops tools and APIs to support digital preservation, archiving, and access to historical data online.  
+  This project is suitable due to its real-world impact and broad technical scope, though it may be too large unless I narrow it down to a specific sub-project.
+
+- [ImprovedTube](https://github.com/code-charity/youtube)  
+  ImprovedTube is a browser extension that enhances YouTube with customization features like better controls, layouts, and user experience options.  
+  This project is suitable because it provides hands-on experience with web extensions, UI/UX improvements, and JavaScript development.
+
+- [SymPy](https://github.com/sympy/sympy)  
+  SymPy is a Python library for symbolic mathematics, capable of solving algebra, calculus, and equation problems exactly.  
+  This project is highly suitable because it is well-documented, widely used, and offers deep insights into mathematical algorithms and Python library design.
+
+- [matplotlib](https://github.com/matplotlib/matplotlib)  
+  Matplotlib is one of the most widely used Python libraries for creating static, animated, and interactive visualizations.  
+  This project is very suitable for the course since it is stable, has a massive user base, and demonstrates practical software engineering in scientific visualization.
+
+- [Botpress](https://github.com/botpress/botpress)  
+  Botpress is an open-source conversational AI platform for building chatbots with modular components and NLP integration.  
+  This project is highly suitable because it connects directly to chatbot and AI development, providing practical experience in dialogue systems and full-stack engineering.
+
+## Project Explorations
+
+- [FreeCodeCamp](freecodecamp.md)
+- [Godot](godot.md)
+- [ImprovedTube](improvedtube.md)
+- [SymPy](sympy.md)
 
 ## Updates/Editing
 
