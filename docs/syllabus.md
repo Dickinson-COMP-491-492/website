@@ -71,10 +71,9 @@ Weight | Course Component
 
 [RD]: assignments/Readings/RD-ReadingsAndDiscussion.md
 [PA01]: assignments/PA01-CourseTools.md
-
-<!--
 [PA02]: assignments/PA02-ProjectExplorations.md
 [PA03]: assignments/PA03-ProjectReviews.md
+<!--
 [PA04]: assignments/PA04-ProjectSelection.md
 [PE]: assignments/PE-ProjectEffectiveness.md
 [PA05]: assignments/PA05-TechSpikePrep.md
@@ -194,9 +193,7 @@ Up to two absences may be excused with **reasonable advance notice** and **a val
 
 If **advance notice is received and the absence is excused** you will have the opportunity to complete an additional assignment to replace and receive credit for the missed experience. 
 - For for Reading and Discussion days you can receive credit by:
-  - Adding a new file in your course repo folder containing a 400-500 word response to the posted discussion questions
-  - Linking to it from your `README.md` file
-  - Making a Pull Request for the changes within 1 week of the class meeting in which the discussion occurred. 
+  - Adding a new post to your blog for the course containing a 400-500 word response to one or more of the posted discussion questions.
   - To receive credit, this essay must:
     - Express careful thought about the topic based on the assigned reading.
     - Incorporate and cite as at least one additional source.
