@@ -198,6 +198,7 @@ If **advance notice is received and the absence is excused** you will have the o
     - Express careful thought about the topic based on the assigned reading.
     - Incorporate and cite as at least one additional source.
     - Be clearly written by you without the use of AI
+    - Notify the instructor when you have made the blog post. Ideally you will send a Teams message with a link to the post.
 - For other types of days, the instructor will provide the exact assignment and its due date if/when an absence is excused.
 
 #### Late Work
