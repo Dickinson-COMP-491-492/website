@@ -1,4 +1,4 @@
-# RD01 - Organizations and Communities
+# RD02 - Organizations and Communities
 
 ## Preparation
 

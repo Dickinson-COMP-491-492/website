@@ -1,4 +1,4 @@
-# RD01 - Organizations and Communities
+# RD03 - Visit with Max Rios `21
 
 ## Preparation
 
