@@ -31,7 +31,7 @@ Complete your project reviews by:
    ### Code of Conduct
    ...
    
-   ### Use Installation
+   ### User Installation
    ...
 
    ### Developer Installation
@@ -75,7 +75,7 @@ Complete your project reviews by:
        - Last Week:
        - Last Month:
        - Last 6 Months:
-     - ** Beginner Issues:**
+     - **Beginner Issues:**
        - Labels: 
        - Currency:
          - Last Week:
