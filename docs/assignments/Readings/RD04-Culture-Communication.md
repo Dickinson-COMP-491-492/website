@@ -12,7 +12,9 @@ Review the expectations for preparation for the [Readings and Class Discussions]
 
 ## Discussion Questions
 
-1. What is "Conway's Law"? Can you think of other examples of how it might impact projects?
+1. Each of the following terms came up in the readings, what do they mean:
+   - From Ko: Conceptual Integrity, Conway's Law, Cultural Competence
+   - From Fogel: You are what you write, signal to noise ratio, Bike Shed Effect, Holy Wars
 2. What makes communication effective? What makes communication efficient? Which is more important? Is there a difference?
 3. Fogel opens his chapter with the claim "The ability to write clearly is one of the most important skills one can have in an open source environment. In the long run it may matter more than programming talent."
    - Do you agree or disagree with this claim? Why?
@@ -20,7 +22,7 @@ Review the expectations for preparation for the [Readings and Class Discussions]
 4. You have all been involved in discussions in the past and engaging in discussion with your team and your Open Source Community will be an important part of your project experience. 
    - What techniques have you seen that have made class/group/team discussions more open, welcoming and effective for everyone? 
    - What factors will make you personally more or less likely to engage in discussions with your team? With your Open Source Community?
-   - What be done to mitigate factors that prevent you or others from engaging with discussions within your team? With your Open Source Community?
+   - What cam be done to mitigate factors that prevent you or others from engaging with discussions within your team? With your Open Source Community?
 5. Prepare at least one question of your own related to the readings that you would like to raise for class discussion. This may be a question:
    - seeking factual clarification of something in the readings.
    - that you would like to hear your classmates thoughts and opinions on.
