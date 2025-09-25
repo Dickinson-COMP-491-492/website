@@ -47,21 +47,21 @@ In this part of the activity teams will identify learning resources (readings, v
    - Be sure to use the project community here. Search the appropriate communication channel, explain what you are trying to learn and how you think it will help your team engage with the project and ask for suggestions of good resources.
    - Do a web search to identify resources (tutorials, lessons, videos, articles, etc...) that will help fill the gap. This approach may be your first instinct... but you are very much encouraged to engage your project community!
 
-  Look at a lot of resources (20-30 seems a good number) and narrow them down to a few (2-4) that are at an appropriate level, seem engaging, and that can be completed in the time available for this assignment (i.e. before the presentation). It can also be beneficial to lean toward resources that have you actively build something (see [Planned Spike Artifacts](#planned-spike-artifacts) below).
+  Look at a lot of resources (20-30 seems a good number) and narrow them down to a few (2-4) that are at an appropriate level, seem engaging, and that can be completed in the time available for this assignment (i.e. before the presentation). It can also be beneficial to lean toward resources that are project specifict or have you actively build something (see [Planned Spike Artifacts](#planned-spike-artifacts) below).
   
   Investing time here to filter through a variety of resources and identify good ones that have you build things will pay off later!
 
 #### Planned Spike Artifacts
 
-[PP01 - Tech Spike Presentation](PP01-TechSpikePresentation.md) occurs at the end of the Tech Spike (See the [Course Schedule](../index.md#comp-491-outline)) and requires that each team give a presentation. In this presentation the team will introduce the project and demonstrate of some of the things that were built during the Tech Spike.  This section asks that teams identify artifacts that they *may* build during the Tech Spike and demonstrate in their presentation.
+[PP01 - Tech Spike Presentation](PP01-TechSpikePresentation.md) occurs at the end of the Tech Spike (See the [Course Schedule](../index.md#comp-491-outline)) and requires that each team give a presentation. In this presentation the team will introduce the project on which they are working and demonstrate of some of the things that were built during the Tech Spike.  This section asks that teams identify artifacts that they *may* build during the Tech Spike and demonstrate in their presentation.
 
 Consider the learning resources that have been identified:
 1. Add a bullet to the "Planned Spike Artifacts" section of the team's `TechSpikePreparation.md` file for each thing (i.e. artifact) an individual, pair or sub-team *may* build.  
-   - Each artifact might be something that is created by following one of the learning resources (preferable) or something that the individual, pair or sub-team aim to build based on what is learned. Note that listing the artifacts does not imply that they will all be built. The plan for which learning resources are used and what artifacts are built can evolve as the spike progresses (e.g. a learning resource turns out to be not as good as initially thought).
+   - Each artifact might be something that is created by following one of the learning resources (preferable) or something that the individual, pair or sub-team aim to build based on what is learned. The artifacts may be created within the team's project or outside of the team's project as makes sense. Note however, that the artifacts are not intended to be bug fixes or new features, they are intended to be directed at learning rather than contributing at this point.  Note that listing the artifacts does not imply that they will all be built. The plan for which learning resources are used and what artifacts are built can evolve as the spike progresses (e.g. a learning resource turns out to be not as good as initially thought).
 2. For each bullet:
    - Indicate the individual, pair or sub-team that *may* build the artifact.
    - Give a brief description of the artifact.
-   - Indicate if the artifact is a part of the learning resource or something designed by the individual, pair or sub-team.
+   - Indicate if the artifact is a part of the learning resource, internal or external to the team's project or something designed by the individual, pair or sub-team.
 
 ### Completing the Tech Spike 
 

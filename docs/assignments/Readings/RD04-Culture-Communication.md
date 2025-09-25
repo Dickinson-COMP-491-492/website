@@ -12,7 +12,7 @@ Review the expectations for preparation for the [Readings and Class Discussions]
 
 ## Discussion Questions
 
-1. Each of the following terms came up in the readings, what do they mean:
+1. Each of the following terms came up in the readings, what do they mean? What are their implications?
    - From Ko: Conceptual Integrity, Conway's Law, Cultural Competence
    - From Fogel: You are what you write, signal to noise ratio, Bike Shed Effect, Holy Wars
 2. What makes communication effective? What makes communication efficient? Which is more important? Is there a difference?
