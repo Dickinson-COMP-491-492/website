@@ -73,10 +73,11 @@ Weight | Course Component
 [PA01]: assignments/PA01-CourseTools.md
 [PA02]: assignments/PA02-ProjectExplorations.md
 [PA03]: assignments/PA03-ProjectReviews.md
-<!--
 [PA04]: assignments/PA04-ProjectSelection.md
-[PE]: assignments/PE-ProjectEffectiveness.md
 [PA05]: assignments/PA05-TechSpikePrep.md
+
+<!--
+[PE]: assignments/PE-ProjectEffectiveness.md
 [PA06]: assignments/PA06-Contributions.md
 
 [PP01]: assignments/PP01-TechSpikePresentation.md

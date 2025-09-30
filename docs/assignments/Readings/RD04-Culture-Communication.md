@@ -1,4 +1,4 @@
-# RD02 - Culture and Communication
+# RD04 - Culture and Communication
 
 ## Preparation
 

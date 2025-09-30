@@ -52,6 +52,7 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [RD02]: assignments/Readings/RD02-Organizations-Communities.md
 [RD03]: assignments/Readings/RD03-MaxRios-Visit.md
 [RD04]: assignments/Readings/RD04-Culture-Communication.md
+[RD05]: assignments/Readings/RD05-Productivity-Quality.md
 
 [PA01]: assignments/PA01-CourseTools.md
 [PA02]: assignments/PA02-ProjectExplorations.md
