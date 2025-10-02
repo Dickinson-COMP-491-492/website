@@ -60,7 +60,7 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [PA04]: assignments/PA04-ProjectSelection.md
 [PA05]: assignments/PA05-TechSpikePrep.md
 
-[PE]: assignments/PE-ProjectEffectiveness.md#assignment
+[PE]: assignments/PE-ProjectEffectiveness.md
 
 <!--
 [PA06]: assignments/PA06-Contributions.md
