@@ -189,7 +189,7 @@ etc...     |
 
 #### Attendance
 
-The success of the Senior Seminar is in a large part up to you as its primary participants. Thus, attendance is required for every class period. Each *unexcused* absence will result in a reduction of your overall Course Grade by 0.1. Inattentiveness, and/or leaving the classroom with excessive frequency or for prolonged periods of time may also result in a grade reduction, if improvement is not seen following a discussion of the issue.
+The success of the Senior Seminar is in a large part up to you as its primary participants. Thus, attendance is required for every class period. Each *unexcused* absence will result in a reduction of your overall Course Grade by 0.1. Late arrivals, inattentiveness, and/or leaving the classroom with excessive frequency or for prolonged periods of time may also result in a grade reduction.
 
 Up to two absences may be excused with **reasonable advance notice** and **a valid reason**. Valid reasons *include* illness, job interviews, significant professional development opportunities, religious holidays, and emergencies. If you have another reason that you believe is valid please discuss it with the instructor who will make the determination if the absence is excused or not.  Note that leaving early or returning late from breaks or weekends are priority decisions and will not be excused absences. As much advance notice as is possible should be given and documentation may be required depending upon the reasons and circumstances. Absences without reasonable advance notice or appropriate documentation when requested will not be excused regardless of reason.
 
