@@ -102,7 +102,7 @@ When the team has selected a project complete the "Project Selection" section as
 
 1. Indicate the "Project" that the team selected.
 2. Give a paragraph explaining the "Rationale" for the team's choice.  This should describe the team's thinking, including how it considered the rankings, which dimensions it weighed most heavily and why.
-3. Review the team's experiences with the Install Spikes for the selected project and give rough "Install Estimates" for how many hours it might take all team members to get the product up and running both as a "User" and as a "Developer".
+3. Review the team's experiences with the Install Spike for the selected project and give rough "Install Estimate" for how many hours it might take all team members to get the product up and running as a developer.
 4. List, with a brief explanation, any "Knowledge Gaps" that the team thinks it has and needs to fill in before beginning work on this project. For example, what tools/languages/frameworks will the team members need to learn?
 5. List, with a brief explanation, any additional "Concerns" that the team has about working on the selected project.
 

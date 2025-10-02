@@ -59,11 +59,11 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [PA03]: assignments/PA03-ProjectReviews.md
 [PA04]: assignments/PA04-ProjectSelection.md
 [PA05]: assignments/PA05-TechSpikePrep.md
-<!--
-[PA06]: assignments/PA06-Contributions.md
 
 [PE]: assignments/PE-ProjectEffectiveness.md#assignment
 
+<!--
+[PA06]: assignments/PA06-Contributions.md
 [PP01]: assignments/PP01-TechSpikePresentation.md
 [PP02]: assignments/PP02-StatusReportPresentation.md
 -->

@@ -11,7 +11,7 @@ You will demonstrate your participation in the team's project work by:
 - Participating effectively in the team's project work, attending out-of-class team meetings and being sure to invest an appropriate amount of time in this work each week.
 - Documenting your work via project artifacts as described in the specific assignments or project contributions on which your team is working.
 - Participating in work day team meetings with the instructor and communicating your engagement, efforts and contributions to the team's work.
-- Completing the feedback session on [TEAMMATES](https://teammatesv4.appspot.com) by 8:00am on the assigned date.
+- Completing the feedback session on [TEAMMATES](https://teammatesv4.appspot.com) by 7:00am on the assigned date.
 
 ### Components
 
