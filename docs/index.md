@@ -53,6 +53,7 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [RD03]: assignments/Readings/RD03-MaxRios-Visit.md
 [RD04]: assignments/Readings/RD04-Culture-Communication.md
 [RD05]: assignments/Readings/RD05-Productivity-Quality.md
+[RD06]: assignments/Readings/RD06-Reqs-Specs-Archs.md
 
 [PA01]: assignments/PA01-CourseTools.md
 [PA02]: assignments/PA02-ProjectExplorations.md
