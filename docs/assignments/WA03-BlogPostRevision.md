@@ -1,6 +1,6 @@
 # WA03 - Blog Post Revisions
 
-In this assignment you will review and reflect on the peer feedback that you received from your classmates in [WA02](./WA02-BlogPostPeerReview.md) and use it to guide a revision of your blog post from [WA01](./WA01-BlogPostDraft.md). Once you have revised your post you will post it on a public-facing blog. Posting your writing publicly should encourage careful thought,  precise writing, and a pride in your work.  It can also provide evidence of your knowledge and abilities to prospective employers and/or graduate programs.
+In this assignment you will review and reflect on the peer feedback that you received from your classmates in [WA02](./WA02-BlogPostPeerReview.md) and use it to guide a revision of your blog post from [WA01](./WA01-BlogPostDraft.md). Once you have revised your post you will post it on your public-facing blog. Posting your writing publicly should encourage careful thought, precise writing, and a pride in your work. It can also provide evidence of your knowledge and abilities to prospective employers and/or graduate programs.
 
 ## Assignment
 
@@ -16,7 +16,7 @@ The following links to later sections of this document provide the details of th
 
 ### Review the Peer Feedback on your Post
 
-In the COMP491 folder in your WiD portfolio on GitHub you will now find a `Feedback` folder containing two additional documents.  These will be named something similar to `XX-Title-PeerReview-01.pdf` and `XX-Title-PeerReview-02.pdf.pdf`, where XX is the arbitrary number that was assigned to your draft during the double-anonymous review process.  These files contain the peer feedback comments from the classmates who reviewed your draft.
+In the COMP491 folder in your WiD portfolio on GitHub you will now find a `Feedback` folder containing two additional documents.  These will be named something similar to `XX-WA01-PeerReview-01.pdf` and `XX-WA01-PeerReview-02.pdf`, where XX is the arbitrary number that was assigned to your draft during the double-anonymous review process. These files contain the peer feedback comments from the classmates who reviewed your draft.
 
 You should begin by carefully reading and considering these reviews with an open mind. Think about how the contents of the reviews can help you to improve your post, clarify your writing, and better communicate with the readers.  You are not expected to incorporate every bit of feedback, take every suggestion or respond to every criticism.  You are however expected to engage deeply and fairly with each point made by the reviewer.  Maybe that means incorporating suggestions, reorganizing your post, refocusing your post, or revising to make your points more clearly. It will also mean disregarding some suggestions and criticisms as well.  But I urge you to resist the temptation to become defensive or dismissive of the reviews. Authors will often discount suggestions and critical comments with thoughts like "the reviewer just didn’t get it” or “they missed the point.”  I encourage you to avoid this trap and instead approach the feedback with a generous mindset.  Accept that the feedback was provided with the best of intentions of helping you improve your work. Respond to thoughts of “they didn’t get it” by recognizing that their feedback gives you clues to why they didn’t get it, and thus insights into how to revise so that they do get it.  This work isn’t easy, but it is well worth it.
 
@@ -24,39 +24,31 @@ You should begin by carefully reading and considering these reviews with an open
 
 After carefully considering the feedback you have received, and reviewing the criteria in the [Writing the Blog Post section of WA01](./WA01-BlogPostDraft.md#writing-the-blog-post), revise your draft.
 
-Save your final draft into a file named `TITLE-final.pdf`, where you replace `TITLE` with a few key words from your title.  Place this file in the COMP491 folder in your WiD portfolio on GitHub.
+Export your draft into a file named `WA01-final-preAI.pdf`
+
+#### Using AI for Revision
+
+Recall that the [AI Use](../syllabus.md#ai-use) policy in the course Syllabus allows you to use AI to **revise** writing you have already completed as long as you retain a copy of your original work. Thus, **you may use AI in the revision of your draft from WA01. You must first revise and incorporate revisions based on your peer's feedback without the use of AI. Retain a copy of this revised draft. You may then use AI to revise your draft into final form.** This final draft, optionally with AI revision, will be the draft that is graded.
+
+The following sites have some useful suggestions on how to use AI for **revision** that are compatible with the course policy:
+- [How AI can help proofread and edit your essays](https://www.microsoft.com/en-us/microsoft-365-life-hacks/writing/how-ai-can-help-you-proofread-and-edit-essays)
+- [Five Ways AI Can Help You Edit Your Work](https://www.oxbridgeediting.co.uk/blog/five-ways-ai-can-help-you-edit-your-work/)
+
+If you use AI to revise your draft, export your final revised version into the file `WA01-final-withAI.pdf` 
 
 ### Reflect on Your Revisions
 
 Write a short (1/2 to 1 page) reflection on the revisions that you have made to your draft.  This reflection should thoughtfully address:
 -	What changes did you make to your draft based on the feedback and why?
 -	What suggestions or criticisms did you not address in your revisions and why not?
-- How did you use AI in your revisions, if you did?
+- Did you use AI in your revisions? If so, how did you use it and how do you think it helped to improve your final draft?
 
-Save your reflection into a file named `TITLE-reflection.pdf`, where you replace `TITLE` with a few key words from your title. Place this file in the COMP491 folder in your WiD portfolio on GitHub.
+Save your reflection into a file named `WA01-reflection.pdf`.
 
-### Create a Public-Facing Blog and Post your Writing
+### Turning in Your Post
 
-1. Create an account on a blog site. If you have a favorite blog site, you are welcome to use it (just create a new blog for the course). If you do not, then some sites that provide free blog hosting are:
-   - [Blogger](https://www.blogger.com)
-   - [edublogs](https://edublogs.org/)
-   - [Tumblr](https://www.tumblr.com/)
-   - [WordPress](https://wordpress.com/create-blog/) 
-
-   Note that if you prefer, you may use a pseudonym for your blog username so that you are not personally identifiable on your blog. You will later be asked to post a link to your blog in your WiD Repository for grading purposes.
-2. Give your blog a meaningful, descriptive title. Remember this is a public-facing blog, so you should choose a title that will have broader appeal beyond our course.
-3. Make an initial post to your blog that includes a statement that introduces you and your blog. Remember this is a public-facing blog, so you should write this in a way that has broader appeal beyond our course.
-4. Make a second post containing the final draft of your writing for this assignment. You will need to put the content of your post into the blog and ensure that all of your links work correctly. Do not simply place your PDF into the blog.
-
-### Add Final Draft and Reflections to your WiD Repository
-
-Submit your assignment as follows:
-1. Ensure that your [Dickinson WiD Repository](https://github.com/Dickinson-COMP-WiD) on GitHub is well organized.
-   - There should be one folder for each course (e.g. COMP132, COMP256, etc...)
-   - All content should be stored in the folder for the appropriate course.
-2. Ensure that your `TITLE-final.pdf` and `TITLE-reflection.pdf` are in the COMP491 folder in your WiD repository on GitHub.
-3. Add a `README.md` file to your COMP491 folder in your WiD repository on GitHub.
-4. Place a clickable link to your public-facing blog in the `README.md` file.
+1. Upload your `WA01-final-preAI.pdf`, `WA01-final-withAI.pdf` and `WA01-reflection.pdf` to the `COMP491` folder in your WiD repository on GitHub.
+2. Create a post on your course blog containing your final draft. Do not simply place your PDF into the blog. You will need to put the content of your post into the blog and ensure that all of your links work correctly.
 
 ---
 

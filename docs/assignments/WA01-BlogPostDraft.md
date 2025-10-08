@@ -2,7 +2,7 @@
 
 An important part of learning about and understanding issues is to reflect upon them after reading and discussion. This gives you a chance to process the information, organize your thoughts, incorporate insights from others. To gain practice with this, you will be writing reflective blog posts related to our class discussions on technical and social/legal/ethical issues in computing. You are given wide latitude in these posts to reflect/expand on some aspect of one of the reading/discussion topics that was of interest to you.
 
-You will be completing one blog post in the fall semester and several in the spring semester. In the fall semester we will break the process of writing and revising the post into three separate assignments. In this assignment (WA01), you will write a full, polished draft of your post. In the second assignment ([WA02](WA02-BlogPostPeerReview.md)), you will be giving feedback to your peers on their posts and receiving receive feedback from them on yours. Ultimately in the third assignment ([WA03](WA03-BlogPostRevision.md)), you will revise your post based on that feedback and post it on a public-facing blog.
+You will be completing one blog post in the fall semester and several in the spring semester. In the fall semester we will break the process of writing and revising the post into three separate assignments. In this assignment (WA01), you will write a full, polished draft of your post. In the second assignment ([WA02](WA02-BlogPostPeerReview.md)), you will be giving feedback to your peers on their posts and receiving receive feedback from them on yours. Ultimately in the third assignment ([WA03](WA03-BlogPostRevision.md)), you will revise your post based on that feedback and post it on your public-facing blog.
 
 ## Assignment
 
@@ -34,11 +34,9 @@ You can also go meta and read some blog posts about writing blog posts.  Here ar
 
 If those don't work for you there is no shortage of other advice, just google "How to write a blog post" or "How to write a technical blog post" and find something that resonates with you and matches the goals of this assignment.
 
-#### Using AI for Revision
+#### AI is not Permitted for WA01
 
-Recall that the [AI Use](../syllabus.md#ai-use) policy in the course Syllabus allows you to use AI to **revise** writing you have already completed as long as you retain a copy of your original work. The following sites have some useful suggestions on how to use AI for **revision** that are compatible with the course policy:
-- [How AI can help proofread and edit your essays](https://www.microsoft.com/en-us/microsoft-365-life-hacks/writing/how-ai-can-help-you-proofread-and-edit-essays)
-- [Five Ways AI Can Help You Edit Your Work](https://www.oxbridgeediting.co.uk/blog/five-ways-ai-can-help-you-edit-your-work/)
+Recall that the [AI Use](../syllabus.md#ai-use) policy in the course Syllabus allows you to use AI to **revise** writing you have already completed as long as you retain a copy of your original work. To that end, **the use of AI is not permitted for WA01** because you are writing the first draft of your blog post. You will however be allowed to use it in [WA03](WA03-BlogPostRevision.md) when you are in revising your post.
 
 ### Writing the Blog Post
 
@@ -54,7 +52,8 @@ Well written blog posts that receive high scores will:
   - Your post must do more than summarize the content of the sources.
 - include numerous specific details drawn from multiple sources including some not assigned for this course. 
   - These sources must be reputable and may include news articles, opinion pieces, other blogs, videos, formal academic sources, etc. They may include sources assigned in other courses.
-  - When details are drawn from a source, a contextual link should be included within the text. See the posts in the [Science + Tech section of The Conversation](https://theconversation.com/us/technology) for examples.
+  - When details or support are drawn from a source, a clickable _contextualized link_ that takes the reader to the source should be included within the text. See the posts in the [Science + Tech section of The Conversation](https://theconversation.com/us/technology) for examples of how this looks.
+    - In particular, note that all links appear as words within the text (i.e. _contextualized_) and there is no "References" or "Citations" section in the posts.
 - be of an appropriate length. You should target 800-1200 words (1.5-2.5 single spaced pages).
   - There will be some leeway for *slightly* longer posts if the writing is concise and compelling.
 - be grammatically correct.
@@ -71,10 +70,13 @@ Submit your assignment as follows:
    - There should be one folder for each course (e.g. COMP132, COMP256, etc...)
    - All content should be stored in the folder for the appropriate course.
 2. Create a `COMP491` folder in your Dickinson WiD Repository.
-3. If you used an AI to help with editing and revision of your blog post, you must upload a PDF of the original (pre-AI revision) version to your Dickinson WiD Repository.  Name this file using a filename that ends with `-preAIHelp.pdf`.
-4. Ensure that your draft blog post does not contain your name.  This is important for the peer review process in ([WA02](WA02-BlogPostPeerReview.md)).
-5. Create a PDF of your draft blog post with a filename that ends with `-draft.pdf`.
-6. Place the PDF that you created in your new `COMP491` folder.
+3. If your name or other personally identifiable information appear in the document, remove it. This is important for the anonymous peer review process in ([WA02](WA02-BlogPostPeerReview.md)).
+   - **A deduction of 0.5 points will be applied to submissions that contains personally identifiable information.**
+4. Create a PDF of your draft blog post with the filename `WA01-draft.pdf`.
+   - Ensure that the links in your document appear and work in the PDF.
+     - In Microsoft Word this can be done by using "File" -> "Save as", choosing "PDF" as the "File Format", and selecting "Best for electronic distribution and accessibility".
+     - **A deduction of 0.5 points will be applied to submissions for which the PDFs do not contain clickable links that direct the reader to the source.**
+5. Place your `WA01-draft.pdf` file in your new `COMP491` folder.
 
 ## Acknowledgements
 

@@ -69,12 +69,9 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [PP02]: assignments/PP02-StatusReportPresentation.md
 -->
 
-
-<!--
 [WA01]: assignments/WA01-BlogPostDraft.md
 [WA02]: assignments/WA02-BlogPostPeerReview.md
 [WA03]: assignments/WA03-BlogPostRevision.md
--->
 
 [COMPed25]: https://comped.acm.org/2025/
 
