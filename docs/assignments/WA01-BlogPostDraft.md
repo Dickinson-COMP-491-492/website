@@ -54,6 +54,7 @@ Well written blog posts that receive high scores will:
   - These sources must be reputable and may include news articles, opinion pieces, other blogs, videos, formal academic sources, etc. They may include sources assigned in other courses.
   - When details or support are drawn from a source, a clickable _contextualized link_ that takes the reader to the source should be included within the text. See the posts in the [Science + Tech section of The Conversation](https://theconversation.com/us/technology) for examples of how this looks.
     - In particular, note that all links appear as words within the text (i.e. _contextualized_) and there is no "References" or "Citations" section in the posts.
+    - **A deduction of 0.5 points will be applied to submissions for which the PDFs do not contain clickable links that direct the reader to the source.**
 - be of an appropriate length. You should target 800-1200 words (1.5-2.5 single spaced pages).
   - There will be some leeway for *slightly* longer posts if the writing is concise and compelling.
 - be grammatically correct.
@@ -75,7 +76,6 @@ Submit your assignment as follows:
 4. Create a PDF of your draft blog post with the filename `WA01-draft.pdf`.
    - Ensure that the links in your document appear and work in the PDF.
      - In Microsoft Word this can be done by using "File" -> "Save as", choosing "PDF" as the "File Format", and selecting "Best for electronic distribution and accessibility".
-     - **A deduction of 0.5 points will be applied to submissions for which the PDFs do not contain clickable links that direct the reader to the source.**
 5. Place your `WA01-draft.pdf` file in your new `COMP491` folder.
 
 ## Acknowledgements

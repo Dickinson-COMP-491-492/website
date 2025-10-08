@@ -24,7 +24,7 @@ You should begin by carefully reading and considering these reviews with an open
 
 After carefully considering the feedback you have received, and reviewing the criteria in the [Writing the Blog Post section of WA01](./WA01-BlogPostDraft.md#writing-the-blog-post), revise your draft.
 
-Export your draft into a file named `WA01-final-preAI.pdf`
+Export your draft into a file named `WA01-final-preAI.pdf` and ensure that the links in this PDF are clickable and take the reader to the appropriate source.
 
 #### Using AI for Revision
 
@@ -34,7 +34,7 @@ The following sites have some useful suggestions on how to use AI for **revision
 - [How AI can help proofread and edit your essays](https://www.microsoft.com/en-us/microsoft-365-life-hacks/writing/how-ai-can-help-you-proofread-and-edit-essays)
 - [Five Ways AI Can Help You Edit Your Work](https://www.oxbridgeediting.co.uk/blog/five-ways-ai-can-help-you-edit-your-work/)
 
-If you use AI to revise your draft, export your final revised version into the file `WA01-final-withAI.pdf` 
+If you use AI to revise your draft, export your final revised version into the file `WA01-final-withAI.pdf` and ensure that the links in this PDF are clickable and take the reader to the appropriate source.
 
 ### Reflect on Your Revisions
 
