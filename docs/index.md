@@ -54,6 +54,7 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [RD04]: assignments/Readings/RD04-Culture-Communication.md
 [RD05]: assignments/Readings/RD05-Productivity-Quality.md
 [RD06]: assignments/Readings/RD06-Reqs-Specs-Archs.md
+[RD07]: assignments/Readings/RD07-Processes.md
 
 [PA01]: assignments/PA01-CourseTools.md
 [PA02]: assignments/PA02-ProjectExplorations.md
