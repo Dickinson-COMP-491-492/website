@@ -9,7 +9,10 @@ Review the expectations for preparation for the [Readings and Class Discussions]
 - [The Software Crisis (YouTube 2:42)](https://www.youtube.com/watch?v=0b5vp4Z2PKE) from Georgia Tech.
 - [Evidence of the Software Crisis (YouTube 1:29)](https://www.youtube.com/watch?v=Cd3TrUK8axU) from Georgia Tech.
 - _Chapter 9: Process_ in [Collaborative Software Development](https://faculty.washington.edu/ajko/books/cooperative-software-development/) by Amy Ko.
+[Agile Software Development](https://www.geeksforgeeks.org/software-engineering/software-engineering-agile-software-development/#4-core-values-of-agile-software-development) from Geeks for Geeks.
+<!--
 - [What is Agile](https://www.agilealliance.org/agile101/) from the Agile Alliance.
+-->
 - [The Agile Manifesto](https://agilemanifesto.org/)
 - [Principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html)
 
