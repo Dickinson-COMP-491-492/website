@@ -18,6 +18,12 @@ The presentation should include the following content:
   - Tech Spike goals that were not achieved.
   - Lessons learned.
 
+#### Submitting Slides
+
+Submit your team's slides by:
+- Adding the `pptx` file to the team's directory in the course repository or otherwise making them available.
+- Adding a link to the slides with the text "PP01 Presentation Slides" under the "Project Documents" heading in the team's README.
+
 #### Presentation Criteria
 
 The presentation should aim to meet the following criteria:
@@ -34,6 +40,7 @@ The presentation should aim to meet the following criteria:
   - Use clear and engaging visual materials (slides and/or whiteboard).
   - Employ large fonts, images and diagrams that are very easy for the audience to read, even from the back of the room.
   - Limit the amount of content on each slide so that the audience can absorb it and listen to what is being said.
+  - Slides are accessible via a link on the team's page in the course repository.
 - **Presenters:** Individual presenters should:
   - Provide visual cues (e.g. a pointer or highlighting) to clearly indicate which parts of the slide/visual/code are being discussed at each point to assist the audience in following along.
   - Present material in an order and at a pace that allows the audience to follow along.

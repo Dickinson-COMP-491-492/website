@@ -65,9 +65,9 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 
 [PE]: assignments/PE-ProjectEffectiveness.md
 
+[PP01]: assignments/PP01-TechSpikePresentation.md
 <!--
 [PA06]: assignments/PA06-Contributions.md
-[PP01]: assignments/PP01-TechSpikePresentation.md
 [PP02]: assignments/PP02-StatusReportPresentation.md
 -->
 
