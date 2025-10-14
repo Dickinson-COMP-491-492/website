@@ -10,14 +10,15 @@ Review the expectations for preparation for the [Readings and Class Discussions]
 - [Evidence of the Software Crisis (YouTube 1:29)](https://www.youtube.com/watch?v=Cd3TrUK8axU) from Georgia Tech.
 - _Chapter 9: Process_ in [Collaborative Software Development](https://faculty.washington.edu/ajko/books/cooperative-software-development/) by Amy Ko.
 - [Agile Software Development Methodology](https://www.geeksforgeeks.org/software-engineering/agile-software-development-methodology-framework/) from Geeks for Geeks.
-   - [5 Most Commonly Used Software Development Methodologies](https://www.geeksforgeeks.org/software-engineering/5-most-commonly-used-software-development-methodologies/) from Geeks for Geeks gives some more detail on the different methodologies and processes that have been mentioned (if you are interested).
+
+## Optional Additional Sources
+- [5 Most Commonly Used Software Development Methodologies](https://www.geeksforgeeks.org/software-engineering/5-most-commonly-used-software-development-methodologies/) from Geeks for Geeks gives some more detail on the different methodologies and processes that have been mentioned.
 <!--
 - [What is Agile](https://www.agilealliance.org/agile101/) from the Agile Alliance.
 -->
-
-The original Agile Manifesto and Principles can be found here if you are interested:
-- [The Agile Manifesto](https://agilemanifesto.org/)
-- [The Principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html)
+- The original Agile Manifesto and Principles can be found here:
+  - [The Agile Manifesto](https://agilemanifesto.org/)
+  - [The Principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html)
 
 ## Discussion Questions
 
