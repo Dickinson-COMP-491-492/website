@@ -22,7 +22,7 @@ Review the expectations for preparation for the [Readings and Class Discussions]
 
 ## Discussion Questions
 
-1. The terms software methodology, software development framework, and software development process all sound similar. Are they the same or different?  How would you classify each of the following: Waterfall, Agile, Google's Nexus, Extreme Programming (XP), Scrum, Kanban, Spotify's SAFe?
+1. The terms software methodology, software development framework, and software development process all sound similar. Are they the same or different?  How would you classify each of the following: Waterfall, Agile, Spiral, Google's Nexus, Extreme Programming (XP), Scrum, Kanban, Spotify's SAFe?
 2. Which software development frameworks or processes have you had experiences with in an internship or other setting that you would like to share?
 3. Identify at least two concerns, confusions, conflicts, or questions that you have about the Agile Principles that you would like to discuss with the class.
 4. For each of the 4 statements in the Agile Manifesto, identify the Agile Principles that it supports.
