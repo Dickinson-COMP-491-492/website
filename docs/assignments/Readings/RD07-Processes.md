@@ -13,9 +13,6 @@ Review the expectations for preparation for the [Readings and Class Discussions]
 
 ## Optional Additional Sources
 - [5 Most Commonly Used Software Development Methodologies](https://www.geeksforgeeks.org/software-engineering/5-most-commonly-used-software-development-methodologies/) from Geeks for Geeks gives some more detail on the different methodologies and processes that have been mentioned.
-<!--
-- [What is Agile](https://www.agilealliance.org/agile101/) from the Agile Alliance.
--->
 - The original Agile Manifesto and Principles can be found here:
   - [The Agile Manifesto](https://agilemanifesto.org/)
   - [The Principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html)
