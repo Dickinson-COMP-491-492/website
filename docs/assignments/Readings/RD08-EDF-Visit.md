@@ -6,6 +6,7 @@ Review the expectations for preparation for the [Readings and Class Discussions]
 
 ## Assigned Readings
 
+- [Dr. Natasha Vidangos](https://www.edf.org/people/natasha-vidangos)
 - [Explained: Generative AI’s environmental impact](https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117) by Adam Zewe for MIT News.
 - [Groundwater Accounting Platform Adds Open-Source Access to Boost Sustainable Water Management](https://www.edf.org/media/groundwater-accounting-platform-adds-open-source-access-boost-sustainable-water-management) from EDF.
 - [How can digital technologies support climate-resilient oceans and communities?](https://www.edf.org/sustainable-fishing/technology-solutions).
