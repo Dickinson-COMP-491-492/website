@@ -8,9 +8,9 @@ For the remainder of the course teams will be working on making contributions to
 
 This assignment has two components that are to be worked on concurrently: 
 
-- The team will need to identify contributions on which they will work and maintain a page in the course repository documenting their progress toward making those contributions. This component will be ongoing for the remainder of the course. If an identified contribution is completed (or abandoned), then a new contribution should be identified and pursued.
+1. The team will need to identify contributions on which they will work and maintain a page in the course repository documenting their progress toward making those contributions. This component will be ongoing for the remainder of the course. If an identified contribution is completed (or abandoned), then a new contribution should be identified and pursued.
   - The [Identifying Potential Contributions](#identifying-potential-contributions) and the [Documenting Project Contributions](#project-contributions) sections provide more information on this component.
-- All team members must successfully complete the developer install for the project and individually demonstrate that their installation is working. 
+2. All team members must successfully complete the developer install for the project and individually demonstrate that their installation is working. 
   - The [Demonstrating the Developer Install](#demonstrating-the-developer-install) section below describes how this is to be done.
 
 #### Identifying Potential Contributions
@@ -38,7 +38,7 @@ Teams will create a document in the course repository that tracks their active a
 
 This document must be created and every team member must be associated with at least one active contribution by the assignment due date.
 
-This document must continue to be updated and maintained throughout the remainder of the course. Any time there is a significant event (issue, comment, posting, commit, pull request, merge, etc.) the team must update the `ProjectContributions.md` file and create a new PR to the upstream. Activity recorded in this document will be accounted for in your [Project Effectiveness](./PE-ProjectEffectiveness.md) scores.  Teams should make keeping this document up to date a part of their weekly team meetings.
+This document must continue to be updated and maintained throughout the remainder of the course. Any time there is a significant event (issue, comment, posting, commit, pull request, merge, etc.) the team must update the `ProjectContributions.md` file and create a new PR to the upstream. Activity recorded in this document will be accounted for in your [Project Effectiveness](./PE-ProjectEffectiveness.md) scores.  **Teams should make keeping this document up to date a part of their weekly team meetings.**
 
 #### Demonstrating the Developer Install
 

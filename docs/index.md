@@ -28,8 +28,8 @@ T 10/21/25      | **Fall Pause**                             |                |
 &nbsp;          |                                            |                |
 R 10/23/25      | C15: Work Day (Prof @ [CompEd25])          | [RD07]         |
 T 10/28/25      | C16: Software Processes                    | [RD08], [PP01] | [RD07], [PE]03
-R 10/30/25      | C17: Visit with Environmental Defense Fund |                | [RD08], [WA01]
-T 11/04/25      | C18: Tech Spike Presentations (Group A)    | [PA06]         | [PP01]
+R 10/30/25      | C17: Visit with Environmental Defense Fund | [PA06]         | [RD08], [WA01]
+T 11/04/25      | C18: Tech Spike Presentations (Group A)    |                | [PP01]
 R 11/06/25      | C19: Tech Spike Presentations (Group B)    |                | [PP01]
 T 11/11/25      | C20: Work Day                              | [RD09], [WA02] | [PE]04
 R 11/13/25      | C21: Visit with Julia Filiberti ('12)      |                | [PA06], [RD09]
@@ -66,8 +66,8 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [PE]: assignments/PE-ProjectEffectiveness.md
 
 [PP01]: assignments/PP01-TechSpikePresentation.md
-<!--
 [PA06]: assignments/PA06-Contributions.md
+<!--
 [PP02]: assignments/PP02-StatusReportPresentation.md
 -->
 
