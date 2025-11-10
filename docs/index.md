@@ -32,8 +32,8 @@ R 10/30/25      | C17: Visit with Environmental Defense Fund | [PA06]         | 
 T 11/04/25      | C18: Tech Spike Presentations (Group A)    |                | [PP01]
 R 11/06/25      | C19: Tech Spike Presentations (Group B)    |                | [PP01]
 T 11/11/25      | C20: Work Day                              | [RD09], [WA02] | [PE]04
-R 11/13/25      | C21: Visit with Julia Filiberti ('12)      |                | [PA06], [RD09]
-T 11/18/25      | C21: Work Day                              | [RD10]         | [PE]05
+R 11/13/25      | C21: Visit with Julia Filiberti ('12)      |                | [RD09]
+T 11/18/25      | C21: Work Day                              | [RD10]         | [PA06], [PE]05
 R 11/20/25      | C23: Agile Game Round 1                    |                | [RD10]
 T 11/25/25      | C24: Agile Game Round 2                    |                | [WA02]
 &nbsp;          |
