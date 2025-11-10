@@ -56,17 +56,19 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [RD06]: assignments/Readings/RD06-Reqs-Specs-Archs.md
 [RD07]: assignments/Readings/RD07-Processes.md
 [RD08]: assignments/Readings/RD08-EDF-Visit.md
+[RD09]: assignments/Readings/RD09-JuliaFiliberti-Visit.md
 
 [PA01]: assignments/PA01-CourseTools.md
 [PA02]: assignments/PA02-ProjectExplorations.md
 [PA03]: assignments/PA03-ProjectReviews.md
 [PA04]: assignments/PA04-ProjectSelection.md
 [PA05]: assignments/PA05-TechSpikePrep.md
+[PA06]: assignments/PA06-Contributions.md
 
 [PE]: assignments/PE-ProjectEffectiveness.md
 
 [PP01]: assignments/PP01-TechSpikePresentation.md
-[PA06]: assignments/PA06-Contributions.md
+
 <!--
 [PP02]: assignments/PP02-StatusReportPresentation.md
 -->
