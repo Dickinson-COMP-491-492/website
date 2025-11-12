@@ -9,6 +9,7 @@ Review the expectations for preparation for the [Readings and Class Discussions]
 
 ## Assigned Readings
 
+- [Julia Filiberti Allen Bio](../materials/JuliaFilibertiBio.md)
 - [Julia Filiberti Allen: LinkedIn](https://www.linkedin.com/in/julia-filiberti-allen/)
 - [Julia Filiberti Allen: Dickinson Graduate Story](https://www.dickinson.edu/news/article/5711/graduate_story_julia_filiberti_allen_12_saab_inc)
 - [Towards Trust and Transparency in Deep Learning Systems through Behavior Introspection & Online Competency Prediction](https://megrad.umd.edu/dissertation-defense-julia-filiberti-allen-2/)
