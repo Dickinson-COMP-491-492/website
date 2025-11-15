@@ -57,6 +57,7 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [RD07]: assignments/Readings/RD07-Processes.md
 [RD08]: assignments/Readings/RD08-EDF-Visit.md
 [RD09]: assignments/Readings/RD09-JuliaFiliberti-Visit.md
+[RD10]: assignments/Readings/RD10-Agile.md
 
 [PA01]: assignments/PA01-CourseTools.md
 [PA02]: assignments/PA02-ProjectExplorations.md

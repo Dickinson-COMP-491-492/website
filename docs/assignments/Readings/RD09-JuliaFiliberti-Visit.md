@@ -1,6 +1,3 @@
-
-
-
 # RD09 - Visit with Julia Filiberti (`12)
 
 ## Preparation
