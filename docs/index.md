@@ -69,10 +69,7 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [PE]: assignments/PE-ProjectEffectiveness.md
 
 [PP01]: assignments/PP01-TechSpikePresentation.md
-
-<!--
 [PP02]: assignments/PP02-StatusReportPresentation.md
--->
 
 [WA01]: assignments/WA01-BlogPostDraft.md
 [WA02]: assignments/WA02-BlogPostPeerReview.md
