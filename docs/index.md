@@ -39,8 +39,8 @@ T 11/25/25      | C24: Agile Game Round 2                    |                | 
 &nbsp;          |
 R 11/27/25      | **Thanksgiving Break**
 &nbsp;          |
-T 12/02/25      | C25: Work Day                              | ~RD11~, [WA03] | [PE]06
-R 12/04/25      | C26: ~Comprehension, V-and-V~              | [PP02]         | ~RD11~
+T 12/02/25      | C25: Work Day                              | ~~RD11~~, [WA03] | [PE]06
+R 12/04/25      | C26: ~~Comprehension, V-and-V~~            | [PP02]         | ~~RD11~~
 T 12/09/25      | C27: Work Day                              | [RD12]         | [PE]07
 R 12/11/25      | C28: Move Fast and Break Things?           |                | [RD12]
 &nbsp;          |
