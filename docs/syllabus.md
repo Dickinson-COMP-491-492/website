@@ -88,21 +88,17 @@ Weight | Course Component
 
 #### COMP492 Course Components (Spring)
 
-Will be announced in Spring 2026.
-
-<!--
 Weight | Course Component                              
 -------|--------------------------------------------
-20%    | [RD](assignments/RD-ReadingsAndDiscussion.md): Readings and Discussions
-30%    | [PE](assignments/PE-ProjectEffectiveness.md): Project Effectiveness
+20%    | [RD]: Readings and Discussions
+35%    | [PE]: Project Effectiveness
 &nbsp; | **PP: Project Presentations**
-10%    | [PP03](assignments/PP03-DemoDayPresentation.md): Demo Day
-10%    | [PP04](assignments/PP04-Poster.md): Poster Presentation
-15%    | [PP05](assignments/PP05-FinalPresentation.md): Final Project Presentation
+10%    | [PP03]: Demo Day
+ 5%    | [PP04]: Poster Presentation
+10%    | [PP05]: Final Project Presentation
 &nbsp; | **WA: Writing Assignments**
-5%     | [WA04](assignments/WA04-EthicalReasoningPost.md): Blog Post 2
-10%    | [WA05](assignments/WA05-SLEBlogPost.md): Blog Post 3
--->
+10%    | [WA04]: Blog Post 2
+10%    | [WA05]: Blog Post 3
 
 #### Assignment Scores
 
@@ -169,8 +165,9 @@ Course Grades (Roll Call and Final Grades) will will be determined by:
 - Dropping the lowest non-zero Project Effectiveness score.
 - Averaging Assignment Scores within the RD and PE categories.
 - Multiplying each assignment score by the associated weight for its Course Component as specified in the [491](#comp491-course-components-fall) and [492](#comp492-course-components-spring) Course Components sections to compute a Course Score.  
+- Adjusting the Course Score to account for unexcused absences and possibly extenuating circumstances as deemed appropriate by the instructor.
 
-The Course Score is translated to a letter grade using the scale shown below. In addition, a curve may be applied at the instructor's discretion when computing Course Grades.
+The Course Score is translated to a letter grade using the scale shown below. In addition, a uniform curve may be applied to all Course Scores at the instructor's discretion before computing Course Grades.
 
 Course<br>Score | Course<br>Grade
 -----------|------
@@ -186,7 +183,7 @@ etc...     |
 
 #### Attendance
 
-The success of the Senior Seminar is in a large part up to you as its primary participants. Thus, attendance is required for every class period. Each *unexcused* absence will result in a reduction of your overall Course Grade by 0.1. Late arrivals, inattentiveness, and/or leaving the classroom with excessive frequency or for prolonged periods of time may also result in a grade reduction.
+The success of the Senior Seminar is in a large part up to you as its primary participants. Thus, attendance is required for every class period. Each *unexcused* absence will result in a reduction of your overall Course Grade by 0.1. Late arrivals, inattentiveness, and/or leaving the classroom with excessive frequency or for prolonged periods of time will also result in a grade reduction proportional to the class time missed.
 
 Up to two absences may be excused with **reasonable advance notice** and **a valid reason**. Valid reasons *include* illness, job interviews, significant professional development opportunities, religious holidays, and emergencies. If you have another reason that you believe is valid please discuss it with the instructor who will make the determination if the absence is excused or not.  Note that leaving early or returning late from breaks or weekends are priority decisions and will not be excused absences. As much advance notice as is possible should be given and documentation may be required depending upon the reasons and circumstances. Absences without reasonable advance notice or appropriate documentation when requested will not be excused regardless of reason.
 
@@ -230,9 +227,10 @@ If you’ve already been granted accommodations at Dickinson, please follow the 
 
 The room in which this class meets and my office are both located on the second floor of Tome Hall. Tome Hall has an elevator that is located to the left of the stairs inside the main building entrance. If you require the use of an elevator to access the second floor, please let me know, and be sure that ADS (access@dickinson.edu) knows as well. If there is ever a malfunction with the elevator, we will be notified by email, and I will consult with ADS to identify our options for that day.
 
-### SOAR: Academic Success Support and More
+### SOAR: Strategies, Organization, & Achievement Resources
 
-SOAR stands for __S__trategies, __O__rganization, & __A__chievement __R__esources, and students can find a wealth of strategic academic success tools (like weekly planners, semester calendars, and much more) at [www.dickinson.edu/SOAR](https://www.dickinson.edu/SOAR) or by going to Old West's Lower Level (aka "the OWLL"). Online or in person, you'll find useful resources related to organization, study skills, memory strategies, note-taking, test-taking, etc. If you’d like to attend a SOAR workshop or request one-on-one assistance with developing a strategy for a manageable and academically successful semester, email SOAR@dickinson.edu, or go to the OWLL to SOAR!
+SOAR: Support for Time Management, Study Strategies, and More
+SOAR stands for **S**trategies, **O**rganization, & **A**chievement **R**esources, and students can find a wealth of strategic academic success tools (like weekly planners, semester calendars, and much more) at [www.dickinson.edu/SOAR](https://www.dickinson.edu/SOAR) or by going to Old West's Lower Level (aka "the OWLL"). Online or in person, you'll find useful resources related to planning, organization, study skills, memory strategies, note-taking, test-taking, etc. If you’d like to request one-on-one assistance with developing a strategy for a manageable and academically successful semester, email SOAR@dickinson.edu -- or you can come to the OWLL to SOAR!
 
 ### Life Happens:
 

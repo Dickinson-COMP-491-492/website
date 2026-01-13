@@ -1,4 +1,4 @@
-# RD11 - Comprehension, V-and-V, Monitoring & Evolution
+# RD12 - Move Fast and Break Things
 
 ## Preparation
 
@@ -31,7 +31,7 @@ We did not get to the last few chapters of Ko's Cooperative Software Development
 3. The author asserts (in 5) that "it is inevitable that AI will be forced to collect, log and use data in a wholly transparent manner."
    - What is the underlying basis for this assertion?
    - This was written in 2019. Has there been any shift in this direction? Why or why not?
-4. The author states (in 6) that data monopolies, such a Amazon, Google and Facebook, "have a responsibility to not only promote fair pricing, but to help support a vibrant innovation economy. The only alternative to such an approach is the near inevitability of restrictive regulation."
+4. The author states (in 6) that data monopolies, such as Amazon, Google and Facebook, "have a responsibility to not only promote fair pricing, but to help support a vibrant innovation economy. The only alternative to such an approach is the near inevitability of restrictive regulation."
    - Why is the alternative to supporting a "vibrant innovation economy" "restrictive regulation"?
    - This was written in 2019. Do these companies support vibrant innovation economies or are they facing restrictive regulation?
 5. If companies with a female founder perform 63% better than one with an all-male founding team, why did 79% of all funding go to companies with all male founding teams?
