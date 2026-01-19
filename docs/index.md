@@ -24,13 +24,13 @@ R 02/19/26  | C10: Work Day (Prof. at [SIGCSE])          | [RD17]         | [PE]
 T 02/24/26  | C11: Ethical Decision Making               | [WA04]         | [RD17]
 R 02/26/26  | C12: Work Day                              | [PP03]         | [PE]12
 T 03/03/26  | C13: Work Day (Prof at F&M)                |                |
-R 03/05/26  | C14: Demo Day                              |                | [PP03]
+R 03/05/26  | C14: Work Day                              |                | [PE13]
 &nbsp;      |                                            |                |
 T 03/10/26  | Spring Break                               |                |
 R 03/12/26  | Spring Break                               |                |
 &nbsp;      |                                            |                |
-T 03/17/26  | C15: Work Day                              |                |
-R 03/19/26  | C16: Work Day                              | [RD18]         | [PE]13
+T 03/17/26  | C15: Demo Day A                            | [RD18]         | [PP03]
+R 03/19/26  | C16: Demo Day B                            |                | [PP03]
 T 03/24/26  | C17:                                       |                | [RD18]
 R 03/26/26  | C18: Work Day                              | [RD19]         | [PE]14
 T 03/31/26  | C19:                                       |                | [RD19], [WA04]
