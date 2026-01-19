@@ -16,6 +16,8 @@ Read the following short pieces by Manuel Velasquez, Claire Andre,Thomas Shanks,
 
 ## Discussion Questions
 
+Think about and prepare responses for the following questions.  We will discuss these in small groups and as a class.
+
 1. What is ethics? What is it not?
 2. The words _morals_ and _ethics_ are both used throughout the readings. These words often seem to be being used interchangeably. What meaningful distinction can be drawn between the terms morals and ethics?
 3. We face moral decisions all of the time, some small, some large, some consequential, some not. 
@@ -27,7 +29,7 @@ Read the following short pieces by Manuel Velasquez, Claire Andre,Thomas Shanks,
 5. The Milgram experiment demonstrated that a perception of authority strongly influenced individuals' behavior when asked to perform acts that they would normally deem immoral.
    - How might a similar situation arise in the career that you envision for yourself? 
    - What factors other than authority might lead you to compromise your morals in a professional setting?
-   
+
 ---
 
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
