@@ -36,10 +36,10 @@ R 03/26/26  | C18: Work Day                              | [RD19]         | [PE]
 T 03/31/26  | C19:                                       |                | [RD19], [WA04]
 R 04/02/26  | C20: Work Day                              | [RD20]         | [PE]15
 T 04/07/26  | C21:                                       | [PP04], [WA05] | [RD20]
-R 04/09/26  | C22: Work Day (Prof. at [CCSC-NE])         | [RD21]         | [PE]16
-T 04/14/26  | C23:                                       |                | [PP04]a, [RD21]
-R 04/16/26  | C24: Poster Peer Reviews                   | [RD22]         | [PE]17
-T 04/21/26  | C25:                                       |                | [PP04]b, [RD22]
+R 04/09/26  | C22: Work Day (Prof. at [CCSC-NE])         |                | [PE]16
+T 04/14/26  | C23: Work Day                              |                | [PP04]a
+R 04/16/26  | C24: Poster Peer Reviews                   |                | [PE]17
+T 04/21/26  | C25: Work Day                              |                | [PP04]b
 R 04/23/26  | C26: Work Day                              | [PP05]         | [PE]18
 T 04/28/26  | C27: Poster Session (12:00-1:15)           |                | [PP04]c
 R 04/30/26  | C28: Wrap Up                               |                | [WA05]
