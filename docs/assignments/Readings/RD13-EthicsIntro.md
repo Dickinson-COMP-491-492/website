@@ -29,6 +29,7 @@ Think about and prepare responses for the following questions.  We will discuss 
 5. The Milgram experiment demonstrated that a perception of authority strongly influenced individuals' behavior when asked to perform acts that they would normally deem immoral.
    - How might a similar situation arise in the career that you envision for yourself? 
    - What factors other than authority might lead you to compromise your morals in a professional setting?
+   - How might you mitigate those ethical risks?
 
 ---
 
