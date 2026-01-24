@@ -49,6 +49,7 @@ R 05/07/26  | **2:00pm - Final Presentations**           |                | [PP0
 Note: Unlinked assignments and due dates are tentative and subject to change.
 
 [RD13]: assignments/Readings/RD13-EthicsIntro.md
+[RD14]: assignments/Readings/RD14-SWE-Ethics-1.md
 
 [SIGCSE]: https://sigcse2026.sigcse.org/profile/grantbraught
 [CCSC-NE]: https://www.ccscne.org
