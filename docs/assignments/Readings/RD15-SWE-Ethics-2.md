@@ -16,8 +16,8 @@ Review the expectations for preparation for the [Readings and Class Discussions]
 ## Discussion Questions
 
 1. In class we will discuss as a group the following questions based on the readings:
-   1. What distinguishes a job from a profession? Or alternatively, a worker from a professional? Then, Is software engineering a profession?
-   2. What is your working definition of each of the three ethical theories that were introduced (Virtue, Concequentialist, Deontological)?  Which one most resonates with you and why?
+   1. What distinguishes a job from a profession? Or alternatively, a worker from a professional? Then, is software engineering a profession?
+   2. What is your working definition of each of the three ethical theories that were introduced (Virtue, Consequentialist, Deontological)?  Which one most resonates with you and why?
    3. What other examples did you come up with in question 5.10?
    4. Which of the "Five Ethically Constructive Habits of Mind and Action" do you think would be easiest/hardest to implement? Most/least beneficial?
 2. Then you will work in small groups to apply the ideas from the reading and associated questions to the analysis of the Google Street View case study.
