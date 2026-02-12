@@ -1,4 +1,4 @@
-# RD16 - Software Engineering Ethics 3
+# RD16 - Professional Ethics
 
 ## Preparation
 
