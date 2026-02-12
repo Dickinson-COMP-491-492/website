@@ -51,7 +51,7 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [RD13]: assignments/Readings/RD13-EthicsIntro.md
 [RD14]: assignments/Readings/RD14-SWE-Ethics-1.md
 [RD15]: assignments/Readings/RD15-SWE-Ethics-2.md
-[RD16]: assignments/Readings/RD16-Professional-Ethics.md
+[RD16]: assignments/Readings/RD16-SWE-Professional-Ethics.md
 
 [SIGCSE]: https://sigcse2026.sigcse.org/profile/grantbraught
 [CCSC-NE]: https://www.ccscne.org
