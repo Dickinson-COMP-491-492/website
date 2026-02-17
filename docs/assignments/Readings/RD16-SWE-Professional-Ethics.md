@@ -7,7 +7,7 @@ Review the expectations for preparation for the [Readings and Class Discussions]
 ## Assigned Readings
 
 1. Read Part 8 (pg. 32) in "[An Introduction to Software Engineering Ethics](https://www.scu.edu/media/ethics-center/technology-ethics/Students.pdf)" by Shannon Vallor and Arvind Narayanan for the [Markkula Center for Applied Ethics](https://www.scu.edu/ethics/) at Santa Clara University.
-2. Read the [ACM Code of Ethics](https://www.acm.org/code-of-ethics).
+2. Read the [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics).
 3. Select two case studies from the [Using the Code: Case Studies](https://www.acm.org/code-of-ethics/case-studies) page. Read the case study and the following analysis of the scenario which illustrates how the ACM Code of Ethics applies.
 4. Identify 2 to 4 clauses from the ACM Code of Ethics about which you have a question about its meaning, about how it was used in one of the case studies, or a concern about implementing it in real life. Write out your answers to this question and submit as a PDF via Teams.
 
