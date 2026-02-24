@@ -33,8 +33,8 @@ T 03/17/26  | C15: Work Day                              |                |
 R 03/19/26  | C16: Work Day                              |                | [PE]14
 T 03/24/26  | C17: Demo Day A                            |                | [PP03]
 R 03/26/26  | C18: Demo Day B                            | [RD18]         | [PP03]
-T 03/31/26  | C19:                                       |                | [RD18], [WA04]
-R 04/02/26  | C20: Work Day                              | [RD19]         | [PE]15
+T 03/31/26  | C19:                                       |                | [RD18], 
+R 04/02/26  | C20: Work Day                              | [RD19]         | [PE]15, [WA04]
 T 04/07/26  | C21:                                       | [PP04], [WA05] | [RD19]
 R 04/09/26  | C22: Work Day (Prof. at [CCSC-NE])         |                | [PE]16
 T 04/14/26  | C23: Work Day                              |                | [PP04]a
