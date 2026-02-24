@@ -22,7 +22,7 @@ Identify a real-world ethical case study that is technology related, of interest
   - [Tesla's Driving Profiles and the Rolling Stop Feature](https://www.theverge.com/2022/1/9/22875382/tesla-full-self-driving-beta-assertive-profile)
 - A few examples of topics that would not be appropraite real-world case studies:
   - Fictionalized case-studies (e.g. LifeDesign, George and the Jet).
-  - General topcis (e.g. AI Power Consumption, Self driving Cars).
+  - General topcis (e.g. AI Power Consumption, Self Driving Cars).
 
 If you have any concerns about whether the case study you are interested in fits the criteria, please discuss it with the instructor.
 
@@ -39,10 +39,15 @@ Add to your document by adding responses for the first 6 steps of the [Markkula 
 3. Here you will need to do some research.  Read a wide range of sources that discuss the case, what lead to it, and what the outcome was (or its current state if it is unresolved). Focus on trying to understand the situation and what the decision makers knew at the time of their decisions.  For each useful source provide the URL or citation and a sentence or two describing what it adds to your understanding of the case.  
 4. No clarification necessary. 
 5. We know from #1 the specific decisions that have been made by the key decision makers in the case. For each decision that you identified in #1, briefly describe some alternative options that would have been viable at the time the decision was made.
-6. Select one of the decisions from #1 and respnod to the questions for each of the six lenses using the decision that was made and the alternative options that you identified for that decision in #5. 
-   - If you are finding it challenging to apply any of the lenses, try reading the linked essays or the more detailed description of the lens in []().  
-
-   In addition to the 6 lenses listed, also apply the [ACM's Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics) by identifying the most relevant clauses and justifying those choices using language from the Code.
+6. Select one of the decisions from #1 and respnod to the questions for each of the six lenses using the decision that was made and the alternative options that you identified for that decision in #5. In addition to the 6 lenses listed, also apply the [ACM's Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics) by identifying the most relevant clauses and justifying those choices using language from the Code.
+   - It is _highly recommended_ that you read the essays about each lens. These provide clarification and practical easy to grasp examples. These essays are are linked in the [Framework for Ethical Decision Making](https://www.scu.edu/ethics/ethics-resources/a-framework-for-ethical-decision-making/) document and also here for convenience.
+     - [Rights](https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/rights/)
+     - [Justice and Fairness](https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/justice-and-fairness/)
+     - [Calculating Concequences: The Utilitarian Approach to Ethics](https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/calculating-consequences-the-utilitarian-approach/)
+     - [The Common Good](https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/the-common-good/)
+     - [Ethics and Virtue](https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/ethics-and-virtue/)
+     - [Care Ethics](https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/care-ethics/care-ethics.html)
+   - You might also consider reading the more detailed description of the lenses in [Technology and Engineering Practice: Ethical Lenses to Look Through](https://www.scu.edu/ethics-in-technology-practice/ethical-lenses/) by Shannon Vallor, Irina Raicu, Brian Green.
 
 ### 4. Turn It In
 
