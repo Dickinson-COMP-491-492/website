@@ -17,7 +17,7 @@ Identify a real-world ethical case study that is technology related, of interest
   - Be supported by numerious sources that provide sufficent information for you to perform an analysis.
 - The following are some examples that illustrate the types of cases that would be appropriate. However, you are free to chosoe your own case.
   - The Google StreetView Case from [class](./Readings/RD16-SWE-Professional-Ethics.md).
-  - The [Flock Safety and Ring Partnership](https://www.flocksafety.com/blog/flock-safety-and-ring-partner-to-help-neighborhoods-work-together-for-safer-communities)
+  - The [Flock Safety and Ring's Search Party Feature](https://www.flocksafety.com/blog/flock-safety-and-ring-partner-to-help-neighborhoods-work-together-for-safer-communities)
   - [ChatGPT's Theft of Training Data](https://www.businessinsider.com/openai-chatgpt-generative-ai-stole-personal-data-lawsuit-children-medical-2023-6)
   - [Tesla's Driving Profiles and the Rolling Stop Feature](https://www.theverge.com/2022/1/9/22875382/tesla-full-self-driving-beta-assertive-profile)
 - A few examples of topics taht would not be appropraite real-world case studies:
