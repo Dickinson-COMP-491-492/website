@@ -21,21 +21,21 @@ T 02/10/26  | C07: SWE Ethics 2                          |                | [RD1
 R 02/12/26  | C08: Work Day                              | [RD16]         | [PE]10
 T 02/17/26  | C09: Professional Ethics                   |                | [RD16]
 R 02/19/26  | C10: Work Day (Prof. at [SIGCSE])          | [RD17]         | [PE]11
-T 02/24/26  | C11: Ethical Decision Making               | [WA04]         | [RD17]
-R 02/26/26  | C12: Work Day                              | [PP03]         | [PE]12
+T 02/24/26  | C11: Ethical Decision Making               | [WA04] [PP03]  | [RD17]
+R 02/26/26  | C12: Work Day                              |                | [PE]12
 T 03/03/26  | C13: Work Day (Prof at F&M)                |                |
 R 03/05/26  | C14: Work Day                              |                | [PE]13
 &nbsp;      |                                            |                |
 T 03/10/26  | Spring Break                               |                |
 R 03/12/26  | Spring Break                               |                |
 &nbsp;      |                                            |                |
-T 03/17/26  | C15: Demo Day A                            | [RD18]         | [PP03]
-R 03/19/26  | C16: Demo Day B                            |                | [PP03]
-T 03/24/26  | C17:                                       |                | [RD18]
-R 03/26/26  | C18: Work Day                              | [RD19]         | [PE]14
-T 03/31/26  | C19:                                       |                | [RD19], [WA04]
-R 04/02/26  | C20: Work Day                              | [RD20]         | [PE]15
-T 04/07/26  | C21:                                       | [PP04], [WA05] | [RD20]
+T 03/17/26  | C15: Work Day                              |                | 
+R 03/19/26  | C16: Demo Day A                            |                | [PP03]
+T 03/24/26  | C17: Demo Day B                            |                | [PP03]
+R 03/26/26  | C18: Work Day                              | [RD18]         | [PE]14
+T 03/31/26  | C19:                                       |                | [RD18], [WA04]
+R 04/02/26  | C20: Work Day                              | [RD19]         | [PE]15
+T 04/07/26  | C21:                                       | [PP04], [WA05] | [RD19]
 R 04/09/26  | C22: Work Day (Prof. at [CCSC-NE])         |                | [PE]16
 T 04/14/26  | C23: Work Day                              |                | [PP04]a
 R 04/16/26  | C24: Poster Peer Reviews                   |                | [PE]17
@@ -55,6 +55,7 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [RD17]: assignments/Readings/RD17-EthicalDecisionMaking.md
 
 [WA04]: assignments/WA04-EthicalCaseAnalysis.md
+[PP03]: assignments/PP03-DemoDayPresentation.md
 
 [SIGCSE]: https://sigcse2026.sigcse.org/profile/grantbraught
 [CCSC-NE]: https://www.ccscne.org

@@ -6,15 +6,17 @@ This semester your teams have been working on contributions to your chosen proje
 
 1. As a team, identify contributions that the team has worked on and that have had enough work done on them to make an interesting demonstration.
 2. Determine who will be demonstrating which contributions. Ideally demonstrations will occur in pairs, exceptions for individuals or trios may be granted by the instructor.
-   - Note: This assignment is about presentation not technical accomplishments, so it is not required that the demonstration in which you participate be of work that you have done personally. You may partner with another member of your team.
+   - Note: This assignment is about presentation not technical accomplishments, so it is not required that the demonstration in which you participate be of work that you have done personally. You may partner with any member of your team to present any piece of work.
 3. Prepare and deliver a demonstration of a contribution that includes the [Content](#content), and meets the [Requirements](#requirements) and [Criteria](#criteria) as described below.
 
 #### Content
 
 The demonstration should strive to tell a cohesive, interesting and engaging story. In doing so it should include the following content:
+- a very short reminder of what the project is that you are working on.
 - an explanation and demonstration of the bug/feature/etc that the contribution is aiming to address.
 - an explanation and demonstration of the effect(s) of the contribution.
-- a presentation of the contribution's code explaining how it implements the effect(s) that were shown.
+- a presentation of the _essential parts_ of the contribution's code illustrating how the effect(s) that were shown are implemented.
+- a discussion of the experiences you have had and what you have learned while working on the contribution.
 
 #### Requirements
 
@@ -28,9 +30,11 @@ The following requirements must be met, but are not sufficient to ensure a high 
 Affirmative answers to the following questions will be indicative of high quality demonstrations.
 
 - **Content:**
-  - Will the audience understand what the contribution is trying to fix/improve in the project?
-  - Will the audience understand the effect that the contribution has had, including the degree to which it has or has not addressed the issue?
-  - Will the audience clearly understand how the code implements the contribution being demonstrated?
+  - Will the audience clearly understand:
+    - what the contribution is trying to fix/improve in the project?
+    - the effect that the contribution has had, including the degree to which it has or has not addressed the issue?
+    - how the code implements the contribution being demonstrated?
+    - some of the interesting learning exeperiences that were had in working on the issue? 
 
 - **Presentation Materials:** 
   - Do the presentation materials (slides, white board, video, etc) effectively serve the purpose of helping the audience understand the content?
@@ -38,7 +42,7 @@ Affirmative answers to the following questions will be indicative of high qualit
     - Are all images and text clearly legible from the back of the room?
 
 - **Presenter:** 
-  - Does the presenter use verbal and/or visual cues and/or gestures to adequately guide the audience to relevant content?
+  - Does the presenter use verbal and/or visual cues and/or gestures to adequately guide the audience to relevant content on the slides?
   - Is the presenter convincing in their mastery of the material?
     - Does the presenter speak clearly, audibly, and fluidly without excessive reliance on reading from notes or slides?
     - Are the details presented technically correct?
