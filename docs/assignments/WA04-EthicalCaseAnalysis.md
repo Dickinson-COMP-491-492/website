@@ -20,7 +20,7 @@ Identify a real-world ethical case study that is technology related, of interest
   - The [Flock Safety and Ring's Search Party Feature](https://www.flocksafety.com/blog/flock-safety-and-ring-partner-to-help-neighborhoods-work-together-for-safer-communities)
   - [ChatGPT's Theft of Training Data](https://www.businessinsider.com/openai-chatgpt-generative-ai-stole-personal-data-lawsuit-children-medical-2023-6)
   - [Tesla's Driving Profiles and the Rolling Stop Feature](https://www.theverge.com/2022/1/9/22875382/tesla-full-self-driving-beta-assertive-profile)
-- A few examples of topics taht would not be appropraite real-world case studies:
+- A few examples of topics that would not be appropraite real-world case studies:
   - Fictionalized case-studies (e.g. LifeDesign, George and the Jet).
   - General topcis (e.g. AI Power Consumption, Self driving Cars).
 
