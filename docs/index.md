@@ -21,7 +21,7 @@ T 02/10/26  | C07: SWE Ethics 2                          |                | [RD1
 R 02/12/26  | C08: Work Day                              | [RD16]         | [PE]10
 T 02/17/26  | C09: Professional Ethics                   |                | [RD16]
 R 02/19/26  | C10: Work Day (Prof. at [SIGCSE])          | [RD17]         | [PE]11
-T 02/24/26  | C11: Ethical Decision Making               | [WA04] [PP03]  | [RD17]
+T 02/24/26  | C11: Ethical Decision Making               | [WA04], [PP03] | [RD17]
 R 02/26/26  | C12: Work Day                              |                | [PE]12
 T 03/03/26  | C13: Work Day (Prof at F&M)                |                |
 R 03/05/26  | C14: Work Day                              |                | [PE]13
