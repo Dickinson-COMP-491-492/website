@@ -36,7 +36,7 @@ R 03/26/26  | C18: Demo Day B                            | [RD18]         | [PP0
 T 03/31/26  | C19:                                       |                | [RD18], 
 R 04/02/26  | C20: Work Day                              | [RD19]         | [PE]15, [WA04]
 T 04/07/26  | C21:                                       | [PP04], [WA05] | [RD19]
-R 04/09/26  | C22: Work Day (Prof. at [CCSC-NE])         |                | [PE]16
+R 04/09/26  | C22: Work Day (Prof. at [CCSC-MS])         |                | [PE]16
 T 04/14/26  | C23: Work Day                              |                | [PP04]a
 R 04/16/26  | C24: Poster Peer Reviews                   |                | [PE]17
 T 04/21/26  | C25: Work Day                              |                | [PP04]b
@@ -58,7 +58,7 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [PP03]: assignments/PP03-DemoDayPresentation.md
 
 [SIGCSE]: https://sigcse2026.sigcse.org/profile/grantbraught
-[CCSC-NE]: https://www.ccscne.org
+[CCSC-MS]: https://ccsc-midsouth.github.io/
 
 ## COMP 491 Outline
 
