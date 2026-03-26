@@ -53,6 +53,7 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [RD15]: assignments/Readings/RD15-SWE-Ethics-2.md
 [RD16]: assignments/Readings/RD16-SWE-Professional-Ethics.md
 [RD17]: assignments/Readings/RD17-EthicalDecisionMaking.md
+[RD18]: assignments/Readings/RD18-SocailMediaLiability.md
 
 [WA04]: assignments/WA04-EthicalCaseAnalysis.md
 [PP03]: assignments/PP03-DemoDayPresentation.md
