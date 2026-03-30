@@ -29,7 +29,8 @@ The decisions in those cases rested on a variety foundations, existing laws, leg
 <!--
 3. [Cigarette Makers And States Draft a $206 Billion Deal](https://dickinson0.sharepoint.com/:b:/s/COMP491-492-Fall2025/IQA0GlhHrHHqSaOum-yVAdAdAdhE5FrUWLTXGiEobmp4UV0?e=4F4l0I)
 -->
-3. [What is Addition](https://my.clevelandclinic.org/health/diseases/6407-addiction)
+3. [Taking on Big Tobacco](https://www.tortmuseum.org/the-tobacco-cases/)
+4. [What is Addition](https://my.clevelandclinic.org/health/diseases/6407-addiction)
 
 ## Discussion Questions
 
