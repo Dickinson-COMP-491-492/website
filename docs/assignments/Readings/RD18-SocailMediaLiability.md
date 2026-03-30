@@ -34,8 +34,8 @@ The decisions in those cases rested on a variety foundations, existing laws, leg
 Be prepared to discuss the following questions for each of the three cases that you read about:
 
 1. What was the plaintiff's claim?
-2. What were the major points in the plantiff's arguent and on which foundational issues / preceidents were they based?
-3. What wee the major counter points in the defense's arugment?
+2. What were the major points in the plantiff's argumentt and on which foundational issues / preceidents were they based?
+3. What wee the major counter points in the defense's arugment and on which foundational issues / preceidents were they based?
 4. In what ways do you agree or disagree with the decision that was made by the court or jury and why?
    - Feel free to do any additional research that you need in order to develop a resonable opinion.
 
