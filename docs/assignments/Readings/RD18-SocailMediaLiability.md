@@ -35,8 +35,8 @@ Be prepared to discuss the following questions for each of the three cases that 
 
 1. What was the plaintiff's claim?
 2. What were the major points in the plantiff's arguent and on which foundational issues / preceidents were they based?
-3. What wee the major counter points in the defenses arugment?
-4. In what ways do you agree or disagree with the decision that was made by the court and why?
+3. What wee the major counter points in the defense's arugment?
+4. In what ways do you agree or disagree with the decision that was made by the jury and why?
    - Feel free to do any additional research that you need in order to develop a resonable opinion.
 
 ---
