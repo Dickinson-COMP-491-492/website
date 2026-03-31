@@ -26,9 +26,6 @@ The decisions in those cases rested on a variety foundations, existing laws, leg
 
 1. [Legal Shield for Websites is Targeted by Lawmakers](https://dickinson0.sharepoint.com/:b:/s/COMP491-492-Fall2025/IQDzWMAa55fRQoy7wJue6SnUAeDKt0QfUP34lmw0htdjAEA?e=Dcknck)
 2. [Supreme Court to Decide How the First Amendment Applies to Social Media](https://dickinson0.sharepoint.com/:b:/s/COMP491-492-Fall2025/IQD2it_wq0qoS5t4BEE26LiTAWogkuiSf7Dr_ZAwqrMK0AI?e=vzhSfk)
-<!--
-3. [Cigarette Makers And States Draft a $206 Billion Deal](https://dickinson0.sharepoint.com/:b:/s/COMP491-492-Fall2025/IQA0GlhHrHHqSaOum-yVAdAdAdhE5FrUWLTXGiEobmp4UV0?e=4F4l0I)
--->
 3. [Taking on Big Tobacco](https://www.tortmuseum.org/the-tobacco-cases/)
 4. [What is Addition](https://my.clevelandclinic.org/health/diseases/6407-addiction)
 
