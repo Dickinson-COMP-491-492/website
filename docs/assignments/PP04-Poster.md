@@ -22,7 +22,7 @@ The poster should aim to introduce a broad audience to the team's work over the 
 
 - Posters should be created as a single PowerPoint slide.
   - Your poster must be 30” x 40”.
-  - Your poster may use [the Dickinson work mark](https://www.dickinson.edu/info/20085/marketing_and_communications/1474/college_wordmark), but it may not use the college seal.
+  - Your poster may use [the Dickinson word mark](https://www.dickinson.edu/info/20085/marketing_and_communications/1474/college_wordmark), but it may not use the college seal.
   - You must maintain a 1" margin around the outside of the poster. This margin ensures that no content will be cut off when the poster is printed.
   - A search for [PowerPoint Poster Templates](https://www.google.com/search?q=powerpoint+poster+templates&oq=power+point+poster+tem&aqs=chrome.1.69i57j0l5.7495j0j7&sourceid=chrome&ie=UTF-8) will find lots of free downloadable PowerPoint poster templates that you can adopt or adapt if you like. Or, you can express your own style laying everything out yourself! 
   - Poster titles should be legible from 20 feet. Other content should be clearly legible from 4-6 feet. This page on [Designing a Professional Poster](https://henryford.libguides.com/c.php?g=906626&p=6637031) gives some good advice about fonts and font sizes to meet those objectives.
