@@ -56,7 +56,10 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [RD18]: assignments/Readings/RD18-SocailMediaLiability.md
 
 [WA04]: assignments/WA04-EthicalCaseAnalysis.md
+[WA05]: assignments/WA05-EthicalCaseStudyBlogPost.md
+
 [PP03]: assignments/PP03-DemoDayPresentation.md
+[PP04]: assignments/PP04-Poster.md
 
 [SIGCSE]: https://sigcse2026.sigcse.org/profile/grantbraught
 [CCSC-MS]: https://ccsc-midsouth.github.io/

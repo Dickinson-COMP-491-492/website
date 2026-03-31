@@ -15,13 +15,14 @@ Your team should review the following resources before you begin creating your p
 The poster should aim to introduce a broad audience to the team's work over the past academic year.  This should include:
 - Giving information about the H/FOSS project to which the team is contributing, the communities that the project aims to serve, and the impact that the project is having. 
 - Highlighting several (but not necessarily all) of the teams contributions in a way that a broad audience is able to clearly understand the **_effect_** that the team's contributions have (or have aimed) to have on the project.
-- Provide technical details that support a deeper conversation about several (but not necessarily all) of the team's contributions with audience members who have a more technical backgrounds or interests.
+- Provide technical details that support a deeper conversation about one or two (but not necessarily all) of the team's contributions with audience members who have more technical backgrounds or interests.
 - Reflections on the team's experiences working on the project, interacting with the project community, lessons learned that will be helpful to your future selves, and any other interesting take-aways that the team would like to talk about.
 
 ### Requirements
 
 - Posters should be created as a single PowerPoint slide.
-  - Your poster must be 24-1/2” x 36-1/2”.
+  - Your poster must be 30” x 40”.
+  - Your poster may use [the Dickinson work mark](https://www.dickinson.edu/info/20085/marketing_and_communications/1474/college_wordmark), but it may not use the college seal.
   - You must maintain a 1" margin around the outside of the poster. This margin ensures that no content will be cut off when the poster is printed.
   - A search for [PowerPoint Poster Templates](https://www.google.com/search?q=powerpoint+poster+templates&oq=power+point+poster+tem&aqs=chrome.1.69i57j0l5.7495j0j7&sourceid=chrome&ie=UTF-8) will find lots of free downloadable PowerPoint poster templates that you can adopt or adapt if you like. Or, you can express your own style laying everything out yourself! 
   - Poster titles should be legible from 20 feet. Other content should be clearly legible from 4-6 feet. This page on [Designing a Professional Poster](https://henryford.libguides.com/c.php?g=906626&p=6637031) gives some good advice about fonts and font sizes to meet those objectives.
@@ -41,7 +42,7 @@ Teams should ask the questions below about their poster. Affirmative answers wil
 
 All team members must place a copy of the poster draft (`.pptx` file) into a `Poster` folder in their `COMP492` folder in their individual WiD repositories on GitHub by 8:00am on the assigned due date. Use a filename with the suffix `-draft.pptx` to make it clear that the file contains your poster draft. You will upload a final version later.
 
-In class on the due date for the poster draft, teams will peer review the poster drafts of other teams.  A detailed peer review rubric will be provided.
+In a class meeting following the due date for the poster draft, teams will peer review the poster drafts of other teams.  A detailed peer review rubric will be provided.
 
 ## PP04-b - Final Poster Submission & Printing
 

@@ -1,21 +1,24 @@
-# WA05 - Social/Legal/Ethical Issue Blog Post
+# WA05 - Ethical Case Study Blog Post
 
-In this assignment you will write a blog post analyzing, reasoning about and taking a position on a contemporary social/legal/ethical issue in computing or technology more broadly.
+In this assignment write a blog post taking a position on the moral decision you identified in the case study that you analyzed in [WA04 - Ethical Case Analysis](./WA04-EthicalCaseAnalysis.md).
 
 ## Assignment
 
-1. Identify a contemporary topic in computing or technology more broadly that is of interest to you and that has significant social, legal and/or ethical issues associated with it. Please contact the instructor if you have a question about whether a particular issue is appropriate.
-2. Do enough background reading about your topic to form a _well-founded_ opinion about it and its associated social, legal, and/or ethical issues.
-3. Write a blog post for a tech literate audience that describes the issue and argues for your opinion.
+1. Review your analysis of the decision you selected in WA04 and any feedback received from the instructor.
+2. Decide how you think you _should_ handle that decision if it was yours to make, and why based on your ethcial analysis that is the _right_ decision.
+3. Identify any confounding factors that you think would make it difficult to do the _right_ thing.
+4. Write a blog post describing the case study, the decision that is being made, what based on your ethcial analysis you think is the right decision, why you think it is the right decision, and what might make doing the right thing difficult in practice.
 
 ### Requirements
 
-The following requirements must be met, but are not sufficient to ensure a high quality post.  The post must:
+The following requirements must be met, but are not sufficient to ensure a high quality blog post.  The post must:
 
 - be of an appropriate length. You should target 1000 words (~2 single spaced pages). There will be some leeway for *slightly* longer posts if the writing is concise and compelling.
 - be written in the style of the [Science + Tech section of The Conversation](https://theconversation.com/us/technology).
-- draw support from multiple sources, including some not assigned for this course. These sources must be reputable and may include news articles, opinion pieces, other blogs, videos, formal academic sources, etc. They may include sources assigned in other courses.
-  - When details are drawn from a source, a contextual link should be included within the text. See the posts in the [Science + Tech section of The Conversation](https://theconversation.com/us/technology) for examples.
+- draw support from multiple sources. 
+  - You must explicitly use the most relevent ethical lenses from your analysis and the ACM Code of Ethics.
+  - Other sources must be reputable and may include news articles, opinion pieces, other blogs, videos, formal academic sources, etc. They may include sources assigned in other courses.
+  - When referring to an ethical lens, the ACM Code of Ethics or details from another source, use a contextual link within your post to direct the interested reader to the source. See the posts in the [Science + Tech section of The Conversation](https://theconversation.com/us/technology) for examples.
 - be grammatically correct.
 - include embedded multimedia (e.g. images, audio, video, etc.) only as it is directly related to the topic and enhances the reader's experience. Any embedded content must be used in a way that is compliant with its copyright and/or license.
 - be compliant with the [AI Use](../syllabus.md#ai-use) policy in the Syllabus.
@@ -26,10 +29,12 @@ In addition, you should consider explicitly licensing your content using a [Crea
 
 Affirmative answers to the following questions will be indicative of high quality posts.
 
-- Will the post's title and opening capture the reader's attention and make them want to read more (without being [clickbaity](https://dictionary.cambridge.org/us/dictionary/english/clickbaity))?
-- Will your computer science peers, potential employers, future co-workers and reasonably tech literate internet strangers find post accessible, interesting and engaging?
-- Will an engaged reader be able to follow your reasoning with an appropriate amount of effort?
-- Will an engaged reader agree that your position is _well-founded_ even if they happen to disagree with it?
+- Will your computer science peers, potential employers, future co-workers and reasonably tech literate internet strangers:
+  - find the title and opening engaging, without being [clickbaity](https://dictionary.cambridge.org/us/dictionary/english/clickbaity)?
+  - find the writing in your post to be accessible, interesting and engaging?
+  - undestand the important aspects of the case study you are using?
+  - understand the decision that is being made and who is making it?
+  - agree that the reasoning you used to arrive at the _right_ decision is thorough, even if they happen to disagree with that decision?
 
 ### Resources
 
@@ -43,8 +48,7 @@ Refer to [WA01](./WA01-BlogPostDraft.md) for:
 2. Create a `COMP492` folder in your [Dickinson WiD Repository](https://github.com/Dickinson-COMP-WiD) on GitHub.
 3. Place a PDF of your post named `WA05-BlogPost.pdf` in your `COMP492` folder.
 4. If you used AI for revision, place a PDF of your "pre-AI" version named `WA05-BlogPost-PreAI.pdf` in your `COMP492` folder.
-5. Add a `README.md` file to your `COMP492` folder.
-6. Place a clickable link to your public-facing blog in the `README.md` file.
+5. Ensure that the link to your public-facing blog on your course page is working.
 
 ---
 
