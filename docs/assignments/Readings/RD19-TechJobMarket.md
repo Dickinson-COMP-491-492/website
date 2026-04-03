@@ -12,7 +12,7 @@ To access some of these articles you will need to:
 
 ### Perspectives
 
-I've broken the readings that I found into several topics outlined below.  Each group has a number of different takes on the topics.  Read at least the first few of the articles in each group, but do not feel like you have to read all of the articles in any given group.
+I've broken the readings that I found into the two topics outlined below.  Each group has a number of different takes on the topic.  Read at least the first few of the articles in each group, but do not feel like you have to read all of the articles in any given group.
 
 #### Current Employment Trends and Anecdotes
 
