@@ -40,7 +40,6 @@ Affirmative answers to the following questions will be indicative of high qualit
 
 - Refer to [WA01](./WA01-BlogPostDraft.md) for general advice on [writing Blog posts](./WA01-BlogPostDraft.md#blog-posts-on-blog-posts).
 - Refer to [WA03](./WA03-BlogPostRevision.md) for advice on [using AI for revision](./WA03-BlogPostRevision.md#using-ai-for-revision).
-  - 
 
 ## Submission
 

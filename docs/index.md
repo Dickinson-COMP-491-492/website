@@ -35,7 +35,7 @@ T 03/24/26  | C17: Demo Day A                            |                | [PP0
 R 03/26/26  | C18: Demo Day B                            | [RD18]         | [PP03]
 T 03/31/26  | C19: Social Media Verdicts                 |                | [RD18]
 R 04/02/26  | C20: Work Day                              | [RD19]         | [PE]15, [WA04]
-T 04/07/26  | C21:                                       | [PP04], [WA05] | [RD19]
+T 04/07/26  | C21: Perspectives on the Tech Job Market   | [PP04], [WA05] | [RD19]
 R 04/09/26  | C22: Work Day (Prof. at [CCSC-MS])         |                | [PE]16
 T 04/14/26  | C23: Work Day                              |                | [PP04]a
 R 04/16/26  | C24: Poster Peer Reviews                   |                | [PE]17
@@ -54,6 +54,7 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [RD16]: assignments/Readings/RD16-SWE-Professional-Ethics.md
 [RD17]: assignments/Readings/RD17-EthicalDecisionMaking.md
 [RD18]: assignments/Readings/RD18-SocailMediaLiability.md
+[RD19]: assignments/Readings/RD19-TechJobMarket.md
 
 [WA04]: assignments/WA04-EthicalCaseAnalysis.md
 [WA05]: assignments/WA05-EthicalCaseStudyBlogPost.md

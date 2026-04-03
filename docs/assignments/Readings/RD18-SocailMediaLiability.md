@@ -10,7 +10,7 @@ NOTE: This is a very current topic with the news of these decisions breaking yes
 
 To access these articles: 
 1. Log into [Teams](https://teams.cloud.microsoft/)
-4. Then click the links below to access the articles.
+2. Then click the links below to access the articles.
 
 ### Cases
 
