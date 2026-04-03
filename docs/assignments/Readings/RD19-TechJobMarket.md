@@ -32,10 +32,10 @@ I've broken the readings that I found into the two topics outlined below.  Each 
 
 The following are not required reading, but may be of interest if you want to dig deeper.
 
-1. [Junior Developers in the Age of AI: Future of Entry-Level Software Engineers](https://codeconductor.ai/blog/future-of-junior-developers-ai/#Marc_Benioff_Salesforce_CEO_Dario_Amodei_Anthropic_CEO_The_Cautionary_Voices).
+1. [Junior Developers in the Age of AI: Future of Entry-Level Software Engineers](https://codeconductor.ai/blog/future-of-junior-developers-ai).
 2. [Why AI Is Killing Junior Developer Jobs in 2025](https://ai.plainenglish.io/ai-is-making-junior-developers-extinct-387d0195f6ca).
 3. [Why AI Isn’t Ready to Be a Real Coder](https://spectrum.ieee.org/ai-for-coding).
-4. The following two articles provide a point (It's AI) / counter-point (It's Economics) on what is driving the the reduction in entry level jobs. 
+4. The following two articles provide a point on what is driving the the reduction in entry level jobs.  If you've studied economics you might find these particularly interesting.
    - [Looking for the Ladder: Is AI Impacting Entry-Level Jobs?](https://eig.org/wp-content/uploads/2026/01/TAWP-Iscenko-Millet.pdf)
    - [Canaries, Interest Rates, and Timing: More on the Recent Drivers of Employment Changes for Young Workers](https://digitaleconomy.stanford.edu/news/canaries-interest-rates-and-timinga-more-on-recent-drivers-of-employment-changes-for-young-workers/).
 
