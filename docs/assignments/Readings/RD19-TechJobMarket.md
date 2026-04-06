@@ -43,7 +43,10 @@ The following are not required reading, but may be of interest if you want to di
 
 Be prepared to discuss the following questions for each of the three cases that you read about:
 
-1. Coming soon!
+1. How do the experiences / hirhing climate described in the readings align with your experiences in seeking employment?
+2. Is there a particular perspective on the future for junior software engineers that you find more convincing than the others? Why?
+3. Do you find any of the suggestions / recommendations of what you can do particulary helpful, unhelpful, unreasonable? Why?
+4. Come prepared to ask a question in which you are interested in discussing with your peers.
 
 ---
 
