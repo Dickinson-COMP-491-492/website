@@ -17,13 +17,14 @@ The presentation should strive to tell a cohesive, interesting and engaging stor
     2. Is this content presented **very briefly**
 - Present the details of _some of_ the contributions given in the overview.
   - For each contribution that is discussed the team should ask itself:
-    1. Given the introduction provided, will the audience understand the problem (bug fix, featured, etc.) that the contribution addresses, why it is important, and the effect that it has (or will have) on the project?
+    1. Given the introduction provided, will the audience understand the problem (bug fix, featured, etc.) that the contribution addresses, why it is important, and the effect that it has (or will have) on the project?  If not, consider revising the intro.
     2. Will the audience get a clear _conceptual_ picture of the approach that team used (or is using) to address the problem?
     3. Will the audience follow the technical details presented (e.g. diagrams, implementation, tests, etc) and understand how they implement (or partially implement) the team's conceptual approach to addressing the problem?
 - Reflect on your team's experience with the project community.
   - The team's reflections should answer the following questions:
     1. What significant successes and challenges did the team experience and what factors contributed to them?
     2. What generalizable lessons has the team learned that they think will be helpful to their future selves, and why?
+    3. Did we give this real thought?
 
 #### Presentation Criteria
 
