@@ -41,7 +41,7 @@ T 04/14/26  | C23: Work Day                              |                | [PP0
 R 04/16/26  | C24: Poster Peer Reviews                   |                | [PE]17
 T 04/21/26  | C25: Work Day                              |                | [PP04]b
 R 04/23/26  | C26: Work Day                              | [PP05]         | [PE]18
-T 04/28/26  | C27: Poster Session (12:00-1:15)           |                | [PP04]c
+T 04/28/26  | C27: Poster Session (12:00-1:15 Tome Library)           |                | [PP04]c
 R 04/30/26  | C28: Wrap Up                               |                | [WA05]
 &nbsp;      |                                            |                |
 R 05/07/26  | **2:00pm - Final Presentations**           |                | [PP05]
