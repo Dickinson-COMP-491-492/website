@@ -100,6 +100,12 @@ Weight | Course Component
 10%    | [WA04]: Blog Post 2
 10%    | [WA05]: Blog Post 3
 
+[PP03]: assignments/PP03-DemoDayPresentation.md
+[PP04]: assignments/PP04-Poster.md
+[PP05]: assignments/PP05-FinalPresentation.md
+[WA04]: assignments/WA04-EthicalCaseAnalysis.md
+[WA05]: assignments/WA05-EthicalCaseStudyBlogPost.md
+
 #### Assignment Scores
 
 Every assignment will receive an Assignment Score from 0-3 based on the scale and criteria shown below. The specific requirements for each assignment are provided in the assignment documents linked on the [Course Schedule](index.md) or below in the [491](#comp491-course-components-fall) and [492](#comp492-course-components-spring) Course Components sections.
