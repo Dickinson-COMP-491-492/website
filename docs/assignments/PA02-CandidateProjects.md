@@ -142,7 +142,6 @@ In addition there are a number of other projects students and instructors from c
 - [Libre Health](https://librehealth.io/)
 - [Mifos](https://mifos.org/)
 - [Ushahidi](https://www.ushahidi.com/)
-- [GNOME Accessibility](https://wiki.gnome.org/Accessibility)
 - [Kata Containers](https://katacontainers.io/)
 - [Zuul](https://zuul-ci.org/docs/zuul/latest/)
 
