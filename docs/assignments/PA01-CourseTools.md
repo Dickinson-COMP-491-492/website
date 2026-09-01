@@ -94,12 +94,12 @@ We will be using [Teammates](https://teammatesv4.appspot.com/web/front/home) to 
 Complete the following tasks to become familiar with how Teammates works.
 
 1. If you have not already, use the link in the e-mail that you received from Teammates to register for our course.
-2. Find the "PE-00" session in teammates:
-   1. Click the "Start Submission" button for "PE-00"
+2. Find the "PE00" session in teammates:
+   1. Click the "Start Submission" button for "PE00"
    2. Complete the survey
       - This is just for practice so:
         - you have been assigned to made up teams for this exercise.
-        - you won't have a basis for providing feedback so make things up, but be kind as jokes do not always land as expected over text based media.
+        - you won't have a basis for providing feedback so make things up. **Be kind as jokes do not always land as expected over text based media.**
         - be sure to respond to every question in some way just for practice.
    3. Submit the survey either question by question as you go or all at once at the end.
 3. Check the responses that you receive. 
