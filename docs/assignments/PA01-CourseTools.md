@@ -57,13 +57,14 @@ Complete the following tasks using git/GitHub to find our course repository and 
    2. Find the `students` directory and your directory inside of it.
    3. Open the `README.md` file in your directory, it will be empty.
    4. Edit the file to include a sentence or two introducing yourself and what you are hoping to do after graduation.
-   5. Save the file.
-   6. Stage and commit your changes to the feature branch that you created.
+   5. Use an image link to add your Dickinson ID picture to your `README.md`.
+   6. Save the file.
+   7. Stage and commit your changes to the feature branch that you created.
       - Be sure to use a meaningful commit message that describes the change that you made.
-   7. Push your feature branch to your origin on GitHub.
-   8. Turn in your work by creating a pull request to the upstream for your changes.
+   8. Push your feature branch to your origin on GitHub.
+   9. Turn in your work by creating a pull request to the upstream for your changes.
       - Be sure to give your PR a descriptive title and comment.
-   9. Double check the changes in your pull request on GitHub to ensure that they look right to you.
+   10. Double check the changes in your pull request on GitHub to ensure that they look right to you.
 
 #### Markdown
 
