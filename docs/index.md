@@ -1,13 +1,101 @@
 ## General Course Information
-- Spring 2026
+<!--
+- Spring 2027
   - 492 Section 01: T/R 10:30-11:45
-- Fall 2025
-  - 491 Section 01: T/R 9:00-10:15
+-->
+- Fall 2026
+  - 491 Section 01: T/R 10:30-11:45
 - [Syllabus & Course Information](syllabus.md)
-- [Teams Channel](https://teams.microsoft.com/l/team/19%3Ax030-TLUtf1S6WMIwmFIPg61vXLIBtxIdgg_TIItYb81%40thread.tacv2/conversations?groupId=e3b2df02-87cc-4c3c-b1d4-9b74119b5e0e&tenantId=6232b055-76b9-4c13-9b88-b562ae7db6fb)
-- [Course GitHub Repo](https://github.com/Dickinson-COMP-491-492/AY25-26)
+- [Teams Channel](https://teams.cloud.microsoft/l/team/19%3A3G5f-McIlPM79kSczgDyzwunGc2sBrmGC8iQGY4VZas1%40thread.tacv2/conversations?groupId=1a3ac701-23ca-48b7-8e35-38a280dcd97e&tenantId=6232b055-76b9-4c13-9b88-b562ae7db6fb)
+- [Course GitHub Repo](https://github.com/Dickinson-COMP-491-492/AY26-27)
 
-## COMP 492 Outline
+## COMP 491 Outline
+
+Date        | Class Topic                                | Assigned       | Due
+------------|--------------------------------------------|----------------|-------------------
+T 09/01/26  | C01: Introduction                          | [PA01], [PA02] |
+R 09/03/26  | C02: Project Explorations                  | [PA03], [RD01] | [PA01], [PA02] 
+T 09/08/26  | C03: Project Reviews                       | [PA04]         | [PA03]
+R 09/10/26  | C04: Introduction to Ethics                | [RD02]         | [RD01]
+T 09/15/26  | C05: Project Selection                     | [PA05]         | [PA04]
+R 09/17/26  | C06: Software Engineering Ethics 1         |                | [RD02]
+T 09/22/26  | C07: Tech Spikes                           | [PA06]         | [PA05]
+R 09/24/26  | C08: Work Day                              | [RD03]         | [PA06]
+T 09/29/26  | C09: [Clarke Forum Event] (7pm ATS)        | [ER]01         | [PE]01
+R 10/01/26  | C10: Software Engineering Ethics 2         | [RD04]         | [ER]01, [RD03]
+T 10/06/26  | C11: Work Day (Team Meetings)              | [PP01]         | [PE]02
+R 10/08/26  | C12: Professional Ethics                   |                | [RD04]
+T 10/13/26  | C13: Work Day (Team Meetings)              |                | [PE]03
+R 10/15/26  | C14: Tech Spike Presentations              |                | [PP01]
+&nbsp;      |                                            |                | 
+T 10/20/26  | **Fall Pause**                             |                |
+&nbsp;      |                                            |                |  
+R 10/22/26  | C15: Project Contributions                 | [PA07]         |
+T 10/27/26  | C16: Work Day (Team Meetings)              |                | [PE]04
+R 10/29/26  | C17: [Ethics and AI] (5:30-7:30 Stern)     | [RD05]. [ER]02 |
+T 11/03/26  | C18: Work Day (Team Meetings)              |                | [PE]05. [ER]02
+R 11/05/26  | C19: Ethical Decision Making               | [WA01], [RD06] | [RD05]
+T 11/10/26  | C20: [Hadley Wickham] class visit          |                | [RD06], [PE]06
+R 11/12/26  | C21: Alumni Zoom Panel (tentative)         | [RD07][ER]03   |
+T 11/17/26  | C22: Work Day (Team meetings)              |                | [PE]07, [ER]03
+R 11/19/26  | C23: Agile Game Round 1                    |                | [RD07]
+T 11/24/26  | C24: Agile Game Round 2                    | [WA02]         | [WA01]
+&nbsp;      |
+R 11/26/26  | **Thanksgiving Break**
+&nbsp;      |
+T 12/01/26  | C25: Work Day (Team meetings)              |                | [PE]08
+R 12/03/26  | C26: WA02 Workshop                         | [ER]04         |
+T 12/08/26  | C27: Work Day (Team meetings)              |                | [PE]09, [ER]04
+R 12/10/26  | C28: Wrap up                               | [ER]05         |
+&nbsp;      |
+W 12/16/26  | **2:00pm - Presentations**                 |                | [PP02], [WA02], [ER]05
+
+[Clarke Forum Event]: https://www.clarkeforum.org/tuesday-september-29-2026/
+[Ethics and AI]: tinyurl.com/dson-ethics-ai-2026
+[Hadley Wickham]: https://hadley.nz/
+
+[RD01]: assignments/Readings/RD01-EthicsIntro.md
+[RD02]: assignments/Readings/RD02-SWE-Ethics-1.md
+<!--
+[RD03]: assignments/Readings/RD04-SWE-Ethics-2.md
+[RD04]: assignments/Readings/RD05-SWE-Professional-Ethics.md
+[RD05]: assignments/Readings/RD06-EthicalDecisionMaking.md
+[RD06]: 
+-->
+
+<!--
+[RD03]: 
+[RD04]:
+[RD05]:
+[RD06]:
+[RD07]:
+-->
+
+[PA01]: assignments/PA01-CourseTools.md
+[PA02]: assignments/PA02-CandidateProjects.md
+<!--
+[PA03]: assignments/PA03-ProjectExplorations.md
+[PA04]: assignments/PA04-ProjectReviews.md
+[PA05]: assignments/PA05-ProjectSelection.md
+[PA05]: assignments/PA06-TechSpikePrep.md
+[PA07]: assignments/PA07-Contributions.md
+-->
+
+<!--
+[PE]: assignments/PE-ProjectEffectiveness.md
+-->
+
+<!--
+[PP01]: assignments/PP01-TechSpikePresentation.md
+[PP02]: assignments/PP02-StatusReportPresentation.md
+-->
+
+<!--
+[WA01]: 
+[WA02]:  
+-->
+
+<!--## COMP 492 Outline
 
 Date        | Class Topic                                | Assigned       | Due
 ------------|--------------------------------------------|----------------|-------------------
@@ -65,77 +153,7 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 
 [SIGCSE]: https://sigcse2026.sigcse.org/profile/grantbraught
 [CCSC-MS]: https://ccsc-midsouth.github.io/
-
-## COMP 491 Outline
-
-Date        | Class Topic                                | Assigned       | Due
-------------|--------------------------------------------|----------------|-------------------
-T 09/02/25  | C01: Introduction                          | [PA01]         |
-R 09/04/25  | C02: Project Explorations                  | [PA02], [RD01] | [PA01] 
-T 09/09/25  | C03: SWE/FOSS History                      |                | [RD01]
-R 09/11/25  | C04: Project Reviews                       | [PA03], [RD02] | [PA02]
-T 09/16/25  | C05: Organizations & Communities           | [RD03]         | [RD02]
-R 09/18/25  | C06: Visit with Max Rios ('21)             |                | [RD03], [PA03] 
-T 09/23/25  | C07: Project Selection                     | [PA04], [RD04] |
-R 09/25/25  | C08: Culture & Communication               |                | [RD04]
-T 09/30/25  | C09: Tech Spikes                           | [PA05], [RD05] | [PA04]
-R 10/02/25  | C10: Productivity & Quality                |                | [PA05], [RD05]
-T 10/07/25  | C11: Work Day                              | [RD06]         | [PE]01
-R 10/09/25  | C12: Reqs, Specs & Archs                   | [WA01]         | [RD06]
-T 10/14/25  | C13: Work Day                              |                | [PE]02
-R 10/16/25  | C14: Work Day (Prof @ [CompEd25])          |                |
-&nbsp;      |                                            |                | 
-T 10/21/25  | **Fall Pause**                             |                |
-&nbsp;      |                                            |                |
-R 10/23/25  | C15: Work Day (Prof @ [CompEd25])          | [RD07]         |
-T 10/28/25  | C16: Software Processes                    | [RD08], [PP01] | [RD07], [PE]03
-R 10/30/25  | C17: Visit with Environmental Defense Fund | [PA06]         | [RD08], [WA01]
-T 11/04/25  | C18: Tech Spike Presentations (Group A)    |                | [PP01]
-R 11/06/25  | C19: Tech Spike Presentations (Group B)    |                | [PP01]
-T 11/11/25  | C20: Work Day                              | [RD09], [WA02] | [PE]04
-R 11/13/25  | C21: Visit with Julia Filiberti ('12)      |                | [RD09]
-T 11/18/25  | C21: Work Day                              | [RD10]         | [PA06], [PE]05
-R 11/20/25  | C23: Agile Game Round 1                    |                | [RD10]
-T 11/25/25  | C24: Agile Game Round 2                    |                | [WA02]
-&nbsp;      |
-R 11/27/25  | **Thanksgiving Break**
-&nbsp;      |
-T 12/02/25  | C25: Work Day                              | ~~RD11~~, [WA03] | [PE]06
-R 12/04/25  | C26: ~~Comprehension, V-and-V~~            | [PP02]         | ~~RD11~~
-T 12/09/25  | C27: Work Day                              | [RD12]         | [PE]07
-R 12/11/25  | C28: Move Fast and Break Things?           |                | [RD12]
-&nbsp;      |
-M 12/15/25  | **2:00pm - Section 01 Presentations**      |                | [PP02], [WA03]
-
-[RD01]: assignments/Readings/RD01-SWE-FOSS-History.md
-[RD02]: assignments/Readings/RD02-Organizations-Communities.md
-[RD03]: assignments/Readings/RD03-MaxRios-Visit.md
-[RD04]: assignments/Readings/RD04-Culture-Communication.md
-[RD05]: assignments/Readings/RD05-Productivity-Quality.md
-[RD06]: assignments/Readings/RD06-Reqs-Specs-Archs.md
-[RD07]: assignments/Readings/RD07-Processes.md
-[RD08]: assignments/Readings/RD08-EDF-Visit.md
-[RD09]: assignments/Readings/RD09-JuliaFiliberti-Visit.md
-[RD10]: assignments/Readings/RD10-Agile.md
-[RD12]: assignments/Readings/RD12-MFBT.md
-
-[PA01]: assignments/PA01-CourseTools.md
-[PA02]: assignments/PA02-ProjectExplorations.md
-[PA03]: assignments/PA03-ProjectReviews.md
-[PA04]: assignments/PA04-ProjectSelection.md
-[PA05]: assignments/PA05-TechSpikePrep.md
-[PA06]: assignments/PA06-Contributions.md
-
-[PE]: assignments/PE-ProjectEffectiveness.md
-
-[PP01]: assignments/PP01-TechSpikePresentation.md
-[PP02]: assignments/PP02-StatusReportPresentation.md
-
-[WA01]: assignments/WA01-BlogPostDraft.md
-[WA02]: assignments/WA02-BlogPostPeerReview.md
-[WA03]: assignments/WA03-BlogPostRevision.md
-
-[COMPed25]: https://comped.acm.org/2025/
+-->
 
 ---
 

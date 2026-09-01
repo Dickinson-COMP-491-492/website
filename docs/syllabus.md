@@ -4,12 +4,8 @@
 
 The Senior Seminar (COMP491/492 combined) has two main components:
 
-1. A year long project with two options:
-   - H/FOSS Projects: Students will work in teams to select and engage with a Free and Open Source (FOSS) project or a Humanitarian FOSS (HFOSS) project and work towards meaningful contributions to their chosen project community.
-   - Research Projects: Students may with approval pursue an independent research project under the supervision of a faculty member.  Research projects are most commonly completed by students pursuing departmental honors.
-2. Readings, in-class exercises, class discussions and reflective writings related to:
-   - Software engineering (concentrated in 491/fall).
-   - Social, legal and ethical issues related to computing (concentrated in 492/spring).
+1. A year-long engagement with an H/FOSS community, where teams work to make meaningful contributions to their chosen community's project.
+2. Readings, in-class exercises, class discussions and reflective writings on technical, social, legal and ethical issues on computing.
 
 ### Course Schedule
 
@@ -44,7 +40,7 @@ All members of this class are equally valued members of our course community. Th
 
 ### Time Commitment
 
-Courses at Dickinson are equivalent to four credit hours, even though they only meet for 150 minutes a week (or three credit hours). The awarding of the fourth credit hour is predicated on the expectation that every hour spent in class is accompanied by at least three hours of work outside of class.  Thus, the expectation is that you will be spending between 7 and 9 hours per week doing work outside of class for this course. That time will be divided between reading and discussion preparation (typically 1-2 hours/week) and project work (typically at least 6-8 hours/week).
+Courses at Dickinson are equivalent to four credit hours, even though they only meet for 150 minutes a week (or three credit hours). The awarding of the fourth credit hour is predicated on the expectation that every hour spent in class is accompanied by at least three hours of work outside of class.  Thus, the expectation is that you will be spending between 7 and 9 hours per week doing work outside of class for this course. That time will be divided between reading and discussion preparation (typically 0-2 hours/week) and project work (typically at least 5-9 hours/week).
 
 ### Grade Determination
 
@@ -52,41 +48,20 @@ Courses at Dickinson are equivalent to four credit hours, even though they only 
 
 Weight | Course Component                              
 -------|--------------------------------------------
-20%    | [RD]: Readings and Discussions
+&nbsp; | **TC: Topic Coverage**
+5%     | ER: Event Reflections
+25%    | RD: Readings and Discussions
 &nbsp; | **PA: Project Assignments**
-1%     | [PA01]: Course Tools
-3%     | [PA02]: Project Exploration
-3%     | [PA03]: Project Reviews
-5%     | [PA04]: Project Selection
-3%     | [PA05]: Technology Spike Preparation
-5%     | [PA06]: Project Contributions
-20%    | [PE]: Project Effectiveness
+10%    | PA: Project Assignments
+30%    | PE: Project Effectiveness
 &nbsp; | **PP: Project Presentations**
-10%    | [PP01]: Technology Spike Presentations
-15%    | [PP02]: Final Project Presentation
+10%    | PP01: Technology Spike Presentations
+15%    | PP02: Final Project Presentation
 &nbsp; | **WA: Writing Assignments**
-4%     | [WA01]: Blog Post Draft
-3%     | [WA02]: Blog Post Peer Reviews
-8%     | [WA03]: Blog Post Final Draft
+5%     | WA01: Ethical Case Analysis
+10%    | WA02: Ethical Case Study Blog Post
 
-[RD]: assignments/Readings/RD-ReadingsAndDiscussion.md
-[PA01]: assignments/PA01-CourseTools.md
-[PA02]: assignments/PA02-ProjectExplorations.md
-[PA03]: assignments/PA03-ProjectReviews.md
-[PA04]: assignments/PA04-ProjectSelection.md
-[PA05]: assignments/PA05-TechSpikePrep.md
-[PA06]: assignments/PA06-Contributions.md
-
-[PE]: assignments/PE-ProjectEffectiveness.md
-
-[PP01]: assignments/PP01-TechSpikePresentation.md
-[PP02]: assignments/PP02-StatusReportPresentation.md
-
-[WA01]: assignments/WA01-BlogPostDraft.md
-[WA02]: assignments/WA02-BlogPostPeerReview.md
-[WA03]: assignments/WA03-BlogPostRevision.md
-
-#### COMP492 Course Components (Spring)
+<!-- #### COMP492 Course Components (Spring)
 
 Weight | Course Component                              
 -------|--------------------------------------------
@@ -105,10 +80,11 @@ Weight | Course Component
 [PP05]: assignments/PP05-FinalPresentation.md
 [WA04]: assignments/WA04-EthicalCaseAnalysis.md
 [WA05]: assignments/WA05-EthicalCaseStudyBlogPost.md
+-->
 
 #### Assignment Scores
 
-Every assignment will receive an Assignment Score from 0-3 based on the scale and criteria shown below. The specific requirements for each assignment are provided in the assignment documents linked on the [Course Schedule](index.md) or below in the [491](#comp491-course-components-fall) and [492](#comp492-course-components-spring) Course Components sections.
+Every assignment will receive an Assignment Score from 0-3 based on the scale and criteria shown below. The specific requirements for each assignment are provided in the assignment documents linked on the [Course Schedule](index.md).
 
 Score | Criteria
 ------|----------
@@ -121,7 +97,7 @@ Note that comments received on an assignment are provided as constructive feedba
 
 ##### Exceptional Work
 
-Exceptional work shows an engagement with the assignment that is above and beyond expectations.  
+Exceptional work shows an engagement with the assignment that is above and beyond nominal expectations.  
 
 Exceptional work is work that in the judgement of the instructor:
 - clearly meets all of the assignment requirements. 
@@ -159,6 +135,7 @@ Deficient work is work that in the judgement of the instructor:
 - suggests that much less than the expected amount of time was invested in its completion.
 - may be messy making it hard to follow.
 - may contain significant grammar issues that interfere with understanding.
+- may reflect impermissible use of or overreliance on AI tools.
 
 ##### Missing or Incomplete Work
 
@@ -167,9 +144,10 @@ Missing work is when no work has been submitted for the assignment or the work w
 #### Course Grades
 
 Course Grades (Roll Call and Final Grades) will will be determined by:
-- Dropping the two lowest non-zero Readings and Discussions scores.
-- Dropping the lowest non-zero Project Effectiveness score.
-- Averaging Assignment Scores within the RD and PE categories.
+- Dropping the one lowest _non-zero_ Event Reflection score.
+- Dropping the two lowest _non-zero_ Readings and Discussions scores.
+- Dropping the lowest _non-zero_ Project Effectiveness score.
+- Averaging Assignment Scores within the ER, RD and PE categories.
 - Multiplying each assignment score by the associated weight for its Course Component as specified in the [491](#comp491-course-components-fall) and [492](#comp492-course-components-spring) Course Components sections to compute a Course Score.  
 - Adjusting the Course Score to account for unexcused absences and possibly extenuating circumstances as deemed appropriate by the instructor.
 
@@ -191,16 +169,16 @@ etc...     |
 
 The success of the Senior Seminar is in a large part up to you as its primary participants. Thus, attendance is required for every class period. Each *unexcused* absence will result in a reduction of your overall Course Grade by 0.1. Late arrivals, inattentiveness, and/or leaving the classroom with excessive frequency or for prolonged periods of time will also result in a grade reduction proportional to the class time missed.
 
-Up to two absences may be excused with **reasonable advance notice** and **a valid reason**. Valid reasons *include* illness, job interviews, significant professional development opportunities, religious holidays, and emergencies. If you have another reason that you believe is valid please discuss it with the instructor who will make the determination if the absence is excused or not.  Note that leaving early or returning late from breaks or weekends are priority decisions and will not be excused absences. As much advance notice as is possible should be given and documentation may be required depending upon the reasons and circumstances. Absences without reasonable advance notice or appropriate documentation when requested will not be excused regardless of reason.
+Up to two absences may be excused with **reasonable advance notice** and **a valid reason**. Valid reasons *include* illness, job interviews, significant professional development opportunities, religious holidays, and emergencies. If you have another reason that you believe is valid please discuss it with the instructor who will make the determination if the absence is excused or not.  Note that leaving early or returning late from breaks or weekends are priority based decisions and will not be considered excused absences. As much advance notice as is possible should be given and documentation may be required depending upon the reasons and circumstances. Absences without reasonable advance notice or appropriate documentation when requested will not be excused regardless of reason.
 
 If **advance notice is received and the absence is excused** you will have the opportunity to complete an additional assignment to replace and receive credit for the missed experience. 
 - For for Reading and Discussion days you can receive credit by:
-  - Adding a new post to your blog for the course containing a 400-500 word response to one or more of the posted discussion questions.
+  - Adding a new post to your blog for the course containing a 400-500 word response to one or more of the posted discussion questions.  It is more important to be thoughtful than to address all of the questions.
   - To receive credit, this essay must:
     - Express careful thought about the topic based on the assigned reading.
     - Incorporate and cite as at least one additional source.
     - Be clearly written by you without the use of AI
-    - Notify the instructor when you have made the blog post. Ideally you will send a Teams message with a link to the post.
+    - Notify the instructor by sending a Teams message with a directly link to the blog post.
 - For other types of days, the instructor will provide the exact assignment and its due date if/when an absence is excused.
 
 #### Late Work
@@ -216,8 +194,11 @@ Please take the time to read the Academic Misconduct section of [Dickinson's Com
 #### AI Use 
 
 The use cases of AI listed below are permissible in this course.  Any use of AI other than the listed use cases is not permitted. Any evidence of impermissible use of AI will be treated as a violation of [Academic Integrity](#academic-integrity) as described above.  If you have any question about whether you can use AI for a particular purpose in the course, please discuss it with the instructor prior to using it.
-- **Revision of Writing:** You may use AI to **revise** any writing that you have done.  Your writing process must begin with your own writing. The AI can then be used to improve the organization, grammar, clarity, etc of the writing.  However, all of the facts, concepts, ideas appearing in the submitted assignment must be your own and must appear in the writing before the AI is used for revision. **If you use AI for revision, you must maintain a copy of your original writing to present in the event that the instructor has concerns about impermissible AI use.**
-- **Project Work:** When working on an H/FOSS project, you may use AI tools for code or documentation that is being contributed to the project (i.e. in a Pull Request), unless it violates the policy of your chosen project.  It is your responsibility to ensure that your contributions to the project are in compliance with the project's policy.  For research/Honors projects, the use of AI must be negotiated with the project supervisor.
+
+- **Project Assignments (PA):** You may use AI tools to aid in research and summary of information for PA01-PA07. If you use AI tools, then you must include an "AI Acknowledgement section that describes how you used AI and what parts of the submitted work were written by AI. Note however, that you are responsible for all of the content and the decisions that you or your team make based upon that content.
+- **Project Effectiveness (PE):** AI use is not permitted in the creation of the TEAMMATES reports that are submitted and considered in the determination of PE scores.
+- **Writing Assignments (WA and ER):** You may use AI to **revise** the writing assignments.  Your writing process must begin with your own writing. The AI can then be used to improve the organization, grammar, clarity, etc of the writing.  However, all of the facts, concepts, ideas appearing in the submitted assignment must be your own and must appear in the writing before the AI is used for revision. **If you use AI for revision of these assignments, you must maintain a copy of your original writing to present in the event that the instructor has concerns about impermissible AI use.**
+- **Open Source Project Contributions:** You may use AI in accordance with your project's stated AI Policy.  It is your responsibility to know that policy, to consult the community for any clarifications, and to ensure that your contributions are in compliance with the policy.
 
 ### Intellectual Property Rights
 
@@ -236,7 +217,7 @@ The room in which this class meets and my office are both located on the second 
 ### SOAR: Strategies, Organization, & Achievement Resources
 
 SOAR: Support for Time Management, Study Strategies, and More
-SOAR stands for **S**trategies, **O**rganization, & **A**chievement **R**esources, and students can find a wealth of strategic academic success tools (like weekly planners, semester calendars, and much more) at [www.dickinson.edu/SOAR](https://www.dickinson.edu/SOAR) or by going to Old West's Lower Level (aka "the OWLL"). Online or in person, you'll find useful resources related to planning, organization, study skills, memory strategies, note-taking, test-taking, etc. If you’d like to request one-on-one assistance with developing a strategy for a manageable and academically successful semester, email SOAR@dickinson.edu -- or you can come to the OWLL to SOAR!
+SOAR stands for Strategies, Organization, & Achievement Resources, and students can find a wealth of strategic academic success tools (like weekly planners, semester calendars, and much more) at [www.dickinson.edu/SOAR](https://www.dickinson.edu/SOAR) or by going to Old West's Lower Level (aka "the OWLL"). Online or in person, you'll find useful resources related to planning, organization, study skills, memory strategies, note-taking, test-taking, etc. If you’d like to request one-on-one assistance with developing a strategy for a manageable and academically successful semester, email SOAR@dickinson.edu -- or you can come to the OWLL to SOAR!
 
 ### Life Happens:
 
