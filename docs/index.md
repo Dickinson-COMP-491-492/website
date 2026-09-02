@@ -17,7 +17,7 @@ T 09/01/26  | C01: Introduction                          | [PA01], [PA02] |
 R 09/03/26  | C02: Project Explorations                  | [PA03], [RD01] | [PA01], [PA02] 
 T 09/08/26  | C03: Project Reviews                       | [PA04]         | [PA03]
 R 09/10/26  | C04: Introduction to Ethics                | [RD02]         | [RD01]
-T 09/15/26  | C05: Project Selection                     | [PA05]         | [PA04]
+T 09/15/26  | C05: Project Selection                     | [PA05]         | [PA04] (Mon 12pm)
 R 09/17/26  | C06: Software Engineering Ethics 1         |                | [RD02]
 T 09/22/26  | C07: Tech Spikes                           | [PA06]         | [PA05]
 R 09/24/26  | C08: Work Day                              | [RD03]         | [PA06]
