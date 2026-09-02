@@ -73,8 +73,8 @@ W 12/16/26  | **2:00pm - Presentations**                 |                | [PP0
 
 [PA01]: assignments/PA01-CourseTools.md
 [PA02]: assignments/PA02-CandidateProjects.md
-<!--
 [PA03]: assignments/PA03-ProjectExplorations.md
+<!--
 [PA04]: assignments/PA04-ProjectReviews.md
 [PA05]: assignments/PA05-ProjectSelection.md
 [PA05]: assignments/PA06-TechSpikePrep.md
