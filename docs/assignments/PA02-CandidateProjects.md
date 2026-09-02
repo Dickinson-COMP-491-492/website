@@ -18,12 +18,8 @@ Use the steps outlined below to build the list of *candidate projects* to which 
    - have a stated license (without one it can't be used for this course).
    - have at least some basic documentation (e.g. README, INSTALL, CONTRIBUTING, etc).
 3. Using your clone of the course repository:
-   1. Ensure that you are on the `main` branch.
-   2. Set the upstream remote of your clone to point to the [Dickinson-COMP-491-491/AY26-27](https://github.com/Dickinson-COMP-491-492/AY26-27) repository.
-      - `git remote add upstream <URL>`
-   3. Pull the upstream `main` branch to synchronize with the upstream.
-   4. Create a new feature branch from `main`.
-   5. In your directory (i.e. the one with your name):
+   1. Ensure that you are on the branch you created in PA01
+   2. In your directory (i.e. the one with your name):
       1. Create a new file in your directory to hold information about your candidate projects.
       2. Create a link to this new file under the "Assignments" heading in your `README.md` file.
       3. Create nicely formatted content in the new file for each candidate project including:
@@ -31,9 +27,9 @@ Use the steps outlined below to build the list of *candidate projects* to which 
          - a link to its home page and/or repository.
          - 1-2 sentences description of the purpose of the project and the community it serves. 
          - 1-2 sentences summarizing of your interest level in the project and your impression of the suitability of the project for this course. 
-   6. Commit your changes to your feature branch.
-   7. Create a pull request to the upstream for your feature branch.
-   8. Check the changes in your pull request on GitHub to ensure that they are correct.
+   3. Commit your changes to your feature branch.
+   4. Push your feature branch to update your PR.
+   5. Check the changes in your pull request on GitHub to ensure that they are correct.
 
 ### Finding H/FOSS Projects
 
