@@ -14,7 +14,7 @@ Discussions provide an opportunity for you to refine your understanding of the t
 
 1. Complete the assigned readings. 
 2. Prepare a page of notes to aid your participation in the discussion.
-   - These notes should summarize your thoughts on the discussion questions and highlight the points that you would like during the discussion.
+   - These notes should summarize your thoughts on the discussion questions and highlight the points that you would like to make during the discussion.
    - Print your notes. **Unless otherwise specified, no electronic devices will be permitted during the discussions.**
    - These notes will be collected at the end of class and returned in the following class.
 
