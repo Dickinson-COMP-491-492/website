@@ -4,6 +4,10 @@
 
 In the [Candidate Projects assignment](./PA02-CandidateProjects.md) you identified a collection of projects that you were interested in and that were at least minimally suitable (i.e. are active, have a license, and have basic documentation). In this assignment you will explore a subset of those projects more deeply to get a better feel for what it might be like to work on them. 
 
+### Recommended Background Reading
+
+Before beginning it is recommended that you read [What you actually need to know about open source to get started](https://opensource.com/article/22/11/get-started-open-source) and [Open-Source Contribution: The Ultimate Guide](https://builtin.com/software-engineering-perspectives/open-source-contribution) to get a feel for the kinds of things you'll want to be thinking about as you explore your candidate projects more deeply in this assignment.
+
 #### Project Explorations
 
 1. Synchronize your course repo with the upstream.
