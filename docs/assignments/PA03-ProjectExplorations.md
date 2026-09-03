@@ -16,7 +16,7 @@ Before beginning it is recommended that you read [What you actually need to know
       - `git remote add upstream <URL>`
    3. Pull the upstream `main` branch to synchronize with the upstream.
    4. Create a new feature branch from `main` for this assignment.
-2. Select at least 4 of your candidate projects that seem most promising to you.
+2. Select at least 4 of your candidate projects that seem most promising to you. You may also pick one project that you've heard about from a classmate but that was not on your list of candidate projects.
 3. Add a bullet for "Project Explorations" in the "Assignments" section of your `README.md` file.
 4. For each candidate project that you selected you should spend approximately 30-45 minutes exploring it and documenting what you find as follows:
    1. Create a new `.md` file with an appropriate name for the project exploration in your directory.
