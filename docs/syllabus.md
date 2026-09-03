@@ -147,7 +147,7 @@ Course Grades (Roll Call and Final Grades) will will be determined by:
 - Dropping the one lowest _non-zero_ Event Reflection score.
 - Dropping the two lowest _non-zero_ Readings and Discussions scores.
 - Dropping the lowest _non-zero_ Project Effectiveness score.
-- Averaging Assignment Scores within the ER, RD and PE categories.
+- Averaging Assignment Scores within the PA, ER, RD and PE categories.
 - Multiplying each assignment score by the associated weight for its Course Component as specified in the [491](#comp491-course-components-fall) and [492](#comp492-course-components-spring) Course Components sections to compute a Course Score.  
 - Adjusting the Course Score to account for unexcused absences and possibly extenuating circumstances as deemed appropriate by the instructor.
 
