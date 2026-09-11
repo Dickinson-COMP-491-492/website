@@ -6,15 +6,23 @@ Through the [Candidate Projects](./PA02-CandidateProjects.md), [Project Explorat
 
 ### Team Formation
 
-Your instructor will use the information from the explorations and reviews that have been posted on the Course Repository to identify common areas of interest across the class.  During class time, these areas will be presented and individuals will indicate their interest in working on different projects.  We as a class will then negotiate the exact composition of each project team such that everyone has been placed on a team in which they have some shared interest.  Each team will have between 2 and 5 members and an effort will be made to keep the total number of teams in the class to 5 or less. Keep in mind that during the actual project work, teams may divide into smaller groups (sub-teams of two or three) as appropriate to work on different aspects of the same H/FOSS project.
+Your instructor will use the information from the explorations and reviews that have been posted on the course repository to identify areas of common interest across the class.  During class time, these areas will be presented with a list of representative projects. Individuals will indicate their interest in working on a team in the different areas. We as a class will then negotiate the exact composition of each project team such that everyone has been placed on a team in which they have some shared interest. Each team will have between 2 and 5 members and an effort will be made to keep the total number of teams in the class to 4 or less. Keep in mind that during the actual project work, teams may divide into smaller groups (sub-teams of two or three) as appropriate to work on different aspects of the same H/FOSS project. It is also possible that multiple teams will be independently selecting a project from the same area.
+
+### Running Team Discussions
+
+Team discussions can be challenging. Without some structure a few voices can dominate conversations causing the team to miss out on other valuable perspectives.  This section, provides a few tips for running team discussions that will be helpful in this assignment, but also may serve your team well throughout the course.
+
+**In all discussions, the team must ensure that every team member has equal opportunity to be heard and understood.** Every team member should be given the opportunity to speak uninterrupted about the topic being discussed. Other teammates should listen actively and may ask clarifying questions, but must refrain from giving opinions, arguing or debating the points being made. They may do those things when it is their turn to speak. The [Talking Stick](https://www.empathyset.com/talkingsticks) method is a simple but effective way to manage such a discussion. 
+
+**In discussions where a decision is to be made further discussion will be needed following the opportunity for each team member to speak. All team members should have equal voice in this discussion as well** The [fist-to-five](https://meetingnotes.com/blog/fist-to-five-voting) method is a simple but effective way to quickly gauge support (or lack of support) for a decision. It can improve the efficiency of discussions by shortening them when there is broad consensus and focusing them on areas of disagreement when there is not.  When there are multiple alternatives for a decision eliminating the options with the least support can helpful in forming consensus around other options. For particularly contentious decisions [ranked choice voting](https://fairvote.org/our-reforms/ranked-choice-voting/) and anonymous voting systems such as [Mentimeter](https://www.mentimeter.com/) can be helpful.
 
 ### Assignment
 
-Once the teams have been formed, each team will complete the Ranking and Selection activities below in order to choose the project on which they will work. There will be one submission for this assignment for each project team. The submission must be completed collaboratively with the involvement of all team members.
+Once the teams have been formed, each team will complete the Ranking and Selection activities below in order to choose the project on which they will work. **There will be one submission for this assignment for each project team.** The submission must be completed collaboratively with the involvement of all team members.
 
 To complete this assignment:
 
-1. Determine at least two times during the week when all members of the team can meet to hold out-of-class meetings.
+1. Determine at least two one-hour blocks during the week when all members of the team can meet to hold out-of-class meetings.
 2. Using one team member's fork/clone of the course repo:
    1. Create a feature branch for the team's work 
    2. Create a directory for your team in the `teams` directory.
@@ -29,64 +37,53 @@ To complete this assignment:
    6. Complete the following tasks to add content to the team's `ProjectSelection.md` document for this assignment.
       1. Complete the [Projects Considered](#projects-considered) section below.
       2. Complete the [Install Spike](#install-spike) section below.
-      3. Complete the [Project Ranking](#project-ranking) section below.
+      3. Complete the [Project Rating](#project-rating) section below.
       4. Complete the [Project Selection](#project-selection) section below.
       5. Choose a name for the team and update the "Our Team" top level heading in the `README.md` file to be the team's name.
    7. Create a PR to the upstream course repo containing the team's work for this assignment.
 
 #### Projects Considered
 
-Have a discussion within the team about all of the projects that the team members have reviewed. This discussion should last no more than 1 hour, but must ensure that every team member has an equal opportunity to discuss the projects in which they are interested.
+Hold a team discussion to decide on 3-4 projects that the team will consider for selection as their project for the year. Teams should not consider projects that have not been reviewed by at least one of the team's members. **This discussion should last no more than 1 hour.**
 
-Based on this discussion decide on at least 3 projects that the team will consider for selection as their project for the year. It is highly recommended that every projects being considered has been reviewed by at least one of the team's members.
+It is suggested that **all team members re-read the explorations and reviews (theirs and others) for the projects that they are personally interested in considering.** This will help in brining concrete information supporting opinions to the discussion.
+
+When the team has decided on the projects it will consider, edit your team's `ProjectSelection.md` file to give information about each of the projects.
 
 For each project that the team is considering for selection:
-1. Edit one of the bullets in the "Projects Considered" section of your team's `ProjectSelection.md` file to give information about the project.
+1. Edit one of the bullets in the "Projects Considered" section.
 3. Add links to of all of the Project Explorations and Project Reviews that were completed (including those not done by your classmates). You can find these links on the [Project Explorations](https://github.com/Dickinson-COMP-491-492/AY25-26/blob/main/projectExpl.md) and [Project Reviews](https://github.com/Dickinson-COMP-491-492/AY25-26/blob/main/projectRev.md) pages in the Course Repository.
 
 Note, the team may find that as its discussion progress it makes sense to come back and consider different or additional projects. That is perfectly acceptable, just add them to the list accordingly.
 
 #### Install Spike
 
-As a part of the Project Explorations and Project Reviews the team members have looked at the documentation for installing, running and working on these projects.  However, it is often not until you really attempt to install and work on the project that it becomes clear how helpful (or not) this documentation is.  The spike in this section will help the team to more fully evaluate how easy or how difficult it might be to get started as a developer with the project.
+As a part of the Project Explorations and Project Reviews the team members have looked at the documentation for installing, running and working on these projects. However, it is often not until you really attempt to install and work on the project that it becomes clear how helpful (or not) this documentation actually is. The spike in this section will help the team to more fully evaluate how easy or how difficult it might be to get started as a developer with the project.
 
 For each project being considered:
    1. Update one of the "Project Name" subsections in the "Install Spike" section of your team's `ProjectReviews.md` file.
    2. Assign a sub-set of the team's members to be responsible for the install spike for that project.
-   2. The sub-set of team members assigned to each project will then complete the <!--[User Perspective Spike](#user-perspective-spike) and the--> [Developer Perspective Spike](#developer-perspective-spike) for the project as described below.
-
-<!--
-##### User Perspective Spike
-
-The purpose of this spike is to get a feel for what it would be like as a user coming to the product. You will want to find and use the directions that the project provides for new users wanting to install/use the product. This may require you to download and install an executable program, or there may be a live demo available online, or you may have to build the executable program from its source code. If there are multiple ways to install the product as a user, you should choose what seems like the easiest way.
-
-To complete the User Perspective Spike:
-1. Spend a maximum of 1 hour trying to install/use the latest version of the product as a user.  If you are unable to install/use the program within 1 hour stop.
-2. In the "Install Spike" section for the project update the "User Install Spike" information by:
-   1. Adding links to any "Installation Documents" that you found useful when attempting to install/use the product.
-   2. Adding links to any "Download/Demo Sites/Repos" that you used.
-   3. Adding a "Summary" paragraph describing your experience trying to install/run the program as a user. Your summary should include information about whether you were successful or not in running/using the program, how you ran the program (installed an executable/used a live demo/etc...), your assessment of the quality of the documentation that you used, how difficult you found the installation, and a discussion of any difficulties you experienced.
--->
+   2. The sub-set of team members assigned to each project will then complete the [Developer Perspective Spike](#developer-perspective-spike) for the project as described below.
 
 ##### Developer Perspective Spike
 
-The purpose of this spike is to get a feel for what it will be like to get setup to contribute to this project. You will want to find the directions that the project provides for getting set up to modify the code of the project. This will definitely require forking and cloning the project repository, among other steps.  Often projects will have documents about "getting started", "how to contribute", "developer install", or something similar. You may need to dig around a little to find the appropriate documentation. If you are having difficulty finding the relevant information for your project see your instructor for assistance.
+The purpose of this spike is to get a feel for what it will be like to get setup to contribute to this project. You will want to find the directions that the project provides for getting set up to modify the code of the project. This will definitely require forking and cloning the project repository, among other steps. Often projects will have documents about "getting started", "how to contribute", "developer install", or something similar. The `INSTALL.md` file will usually get you started, but you may need to dig around a little to find all of the appropriate documentation. If you are having difficulty finding the relevant information for your project consider asking the community for help and/or seeing your instructor for assistance.
 
 To complete the Developer Perspective Spike:
-1. Spend a maximum of 5 hours trying to install the development environment and getting the product to build and run from the source code.  If you are unable to install the development environment, and build and run the product from the source code within 5 hours stop.
+1. Spend **a maximum of 4 hours** trying to install the development environment and getting the product to build and run from the source code.  If you are unable to install the development environment, and build and run the product from the source code within 4 hours stop.
 2. In the "Install Spike" section for the project, update the "Developer Install Spike" information by:
    1. Adding links to any "Installation Documents" that you found useful when attempting to install/build/run the product from the source code.
    2. Adding links to your fork and the project's upstream repository to the "Repository Links" bullet.
-   3. Adding a "Summary" paragraph summarizing your experience trying to install/build/run the program as a developer. Your summary should include information about whether you were successful or not in installing/building/running the program, your assessment of the quality of the documentation that you used, how difficult you found it to install/build/run the program, and a discussion of any difficulties you experienced.
+   3. Adding a "Summary" paragraph summarizing your experience trying to install/build/run the program as a developer. Your summary should include information about whether you were successful or not in installing/building/running the program, your assessment of the quality of the documentation that you used, how difficult you found it to install/build/run the program, any assistance you received from the community, and a discussion of any difficulties you experienced.
 
-#### Project Ranking
+#### Project Ratings
 
-Once the team has completed the Install Spikes, it will create rankings for the projects being considered.  Information including the Project Explorations, Project Reviews, the Install Spikes, and the team members' backgrounds and interests will factor into these rankings. The team must ensure that all team members have equal voice in this conversation.
+Once the team has completed the Install Spike, it will create ratings for the projects being considered.  Information including the Project Explorations, Project Reviews, the Install Spikes, and the team members' backgrounds and interests will factor into these ratings.
 
-To complete the Project Ranking:
-
-1. Replace P1, P2, P3 in the "Project Name" column in the table in the "Project Rankings" section with the names of the projects your team is considering. Add additional rows to the table as necessary.
-2. Engage in a full team discussion of the Project Explorations, Project Reviews, Install Spikes and any other information you find useful to come to a consensus ranking for the projects along each of the dimensions described below. Each project should get a ranking  for each dimension (1, 2, 3, ... with 1 being the best). Ties are allowed.
+To complete the Project Ratings:
+ 
+1. Replace P1, P2, P3, ... in the "Project Name" column in the table in the "Project Ratings" section with the names of the projects your team is considering. Add additional rows to the table as necessary.
+2. Engage in a full team discussion of the Project Explorations, Project Reviews, Install Spike and any other information you find useful to come to a consensus ranking for the projects along each of the dimensions described below. Before beginning this discussion **all team members should re-read their explorations and reviews for any of the projects under consideration. If a team member did not explore or review a project they should read a review done by someone else in the class.**
    - **Community**: *How would it be to work within this project's community?* Consider issues including the size and diversity of the user and developer communities, the availability and variety of communication channels, the quality and tone of communications, and how the community treats and on-boards newcomers.
    - **Complexity**: *How technically hard is it going to be to work on this project?* Consider issues including your ability to grasp the overall purpose and organization of the project, size of the code base, the number of different tools/languages/technologies/frameworks used, the quality of documentation, and the modularity of the project (i.e. will you be able to isolate what you have to know?).
    - **Activity**: *How active is this project?* Consider issues including the recent responsiveness of community members in the communication channels, the rate at which the code is changing (is it too slow or too fast?), whether new issues are being opened, commented on and closed, whether pull requests are receiving feedback and being merged, and how up to date the documentations is.
@@ -96,14 +93,14 @@ To complete the Project Ranking:
 
 #### Project Selection
 
-Engage in a full team discussion of the rankings and rationale that you produced in the prior section with the goal of selecting the project on which the team will work. The rankings are to help inform the team's decision but it is not required that you simply choose the highest ranked project. For example, the team might weigh different dimensions more heavily than others in its decision making. The team must ensure that all team members have an equal voice in this conversation.
+Engage in a full team discussion of the ratings and rationale that you produced in the prior section with the goal of selecting the project on which the team will work. The ratings are to help inform the team's decision but it is not required that you simply choose the highest rated project. For example, the team might weigh some dimensions more heavily than others in its decision making.
 
 When the team has selected a project complete the "Project Selection" section as follows:
 
 1. Indicate the "Project" that the team selected.
-2. Give a paragraph explaining the "Rationale" for the team's choice.  This should describe the team's thinking, including how it considered the rankings, which dimensions it weighed most heavily and why.
-3. Review the team's experiences with the Install Spike for the selected project and give rough "Install Estimate" for how many hours it might take all team members to get the product up and running as a developer.
-4. List, with a brief explanation, any "Knowledge Gaps" that the team thinks it has and needs to fill in before beginning work on this project. For example, what tools/languages/frameworks will the team members need to learn?
+2. Give a paragraph explaining the "Rationale" for the team's choice.  This should describe the team's thinking, including how it considered the ratings, how heavily different dimensions were weighted, and why.
+3. Review the team's experiences with the Install Spike for the selected project and give a rough "Install Estimate," with some justification, for how many hours it might take all team members to get the product up and running as a developer.
+4. List, with a brief explanation, any "Knowledge Gaps" that the team thinks it has and that would be valuable to fill in before beginning work on this project. For example, gaining experience with the product, learning tools/languages/frameworks that the project uses, etc.
 5. List, with a brief explanation, any additional "Concerns" that the team has about working on the selected project.
 
 ### Acknowledgements

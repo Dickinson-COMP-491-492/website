@@ -63,21 +63,13 @@ W 12/16/26  | **2:00pm - Presentations**                 |                | [PP0
 [RD06]: 
 -->
 
-<!--
-[RD03]: 
-[RD04]:
-[RD05]:
-[RD06]:
-[RD07]:
--->
-
 [PA01]: assignments/PA01-CourseTools.md
 [PA02]: assignments/PA02-CandidateProjects.md
 [PA03]: assignments/PA03-ProjectExplorations.md
 [PA04]: assignments/PA04-ProjectReviews.md
-<!--
 [PA05]: assignments/PA05-ProjectSelection.md
-[PA05]: assignments/PA06-TechSpikePrep.md
+<!--
+[PA06]: assignments/PA06-TechSpikePrep.md
 [PA07]: assignments/PA07-Contributions.md
 -->
 
