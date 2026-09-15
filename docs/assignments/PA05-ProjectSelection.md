@@ -23,25 +23,26 @@ Once the teams have been formed, each team will complete the Ranking and Selecti
 To complete this assignment:
 
 1. Determine at least two one-hour blocks during the week when all members of the team can meet to hold out-of-class meetings. Finding common times can be difficult. Using a tool like [When2meet](https://www.when2meet.com/) can facilitate this process.
-2. Using one team member's fork/clone of the course repo:
-   1. Invite all teammates to be collaborators on the repository.
-   2. Create a feature branch for the team's work 
-   3. Create a directory for your team in the `teams` directory.
-   4. Create a `README.md` file in your team's directory.
-   5. Copy the `ProjectSelection.md` file in the `teams` directory into your team's folder.
-   6. Compete the following tasks to add content to your team's `README.md`
+2.Create a GitHub Organization for your team and fork the course repo into that organization:
+   1. Invite all teammates to be collaborators in the organization.
+   2. Fork the course repository into the organization.
+   3. Create a feature branch for the team's work 
+   4. Create a directory for your team in the `teams` directory.
+   5. Create a `README.md` file in your team's directory.
+   6. Copy the `ProjectSelection.md` file in the `teams` directory into your team's folder.
+   7. Compete the following tasks to add content to your team's `README.md`
       1. Add a top level heading to the `README.md` containing the the text "Our Team".
       2. Add a second level heading for "Team Members" followed by a list with the names of all team members that link to their individual `README.md` files.
       3. Add a second level heading for "Meeting Times" followed by at least two times outside of class time that all members of the team are available to meet.
       3. Add a second level heading for "Project Documents".
       4. Add a bullet to the "Project Documents" section that links to the team's copy of `ProjectSelection.md` file in your team's folder.
-   7. Complete the following tasks to add content to the team's `ProjectSelection.md` document for this assignment.
+   8. Complete the following tasks to add content to the team's `ProjectSelection.md` document for this assignment.
       1. Complete the [Projects Considered](#projects-considered) section below.
       2. Complete the [Install Spike](#install-spike) section below.
       3. Complete the [Project Rating](#project-rating) section below.
       4. Complete the [Project Selection](#project-selection) section below.
       5. Choose a name for the team and update the "Our Team" top level heading in the `README.md` file to be the team's name.
-   7. Create a PR to the upstream course repo containing the team's work for this assignment.
+   9. Create a PR to the upstream course repo containing the team's work for this assignment.
 
 #### Projects Considered
 
