@@ -23,8 +23,8 @@ Once the teams have been formed, each team will complete the Ranking and Selecti
 To complete this assignment:
 
 1. Determine at least two one-hour blocks during the week when all members of the team can meet to hold out-of-class meetings. Finding common times can be difficult. Using a tool like [When2meet](https://www.when2meet.com/) can facilitate this process.
-2.Create a GitHub Organization for your team and fork the course repo into that organization:
-   1. Invite all teammates to be collaborators in the organization.
+2.[Create a GitHub Organization](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) for your team:
+   1. [Invite all teammates to join](https://docs.github.com/en/organizations/managing-membership-in-your-organization/inviting-users-to-join-your-organization) the organization a an "Owner."
    2. Fork the course repository into the organization.
    3. Create a feature branch for the team's work 
    4. Create a directory for your team in the `teams` directory.
