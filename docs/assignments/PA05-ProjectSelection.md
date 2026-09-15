@@ -22,19 +22,20 @@ Once the teams have been formed, each team will complete the Ranking and Selecti
 
 To complete this assignment:
 
-1. Determine at least two one-hour blocks during the week when all members of the team can meet to hold out-of-class meetings.
+1. Determine at least two one-hour blocks during the week when all members of the team can meet to hold out-of-class meetings. Finding common times can be difficult. Using a tool like [When2meet](https://www.when2meet.com/) can facilitate this process.
 2. Using one team member's fork/clone of the course repo:
-   1. Create a feature branch for the team's work 
-   2. Create a directory for your team in the `teams` directory.
-   3. Create a `README.md` file in your team's directory.
-   4. Copy the `ProjectSelection.md` file in the `teams` directory into your team's folder.
-   5. Compete the following tasks to add content to your team's `README.md`
+   1. Invite all teammates to be collaborators on the repository.
+   2. Create a feature branch for the team's work 
+   3. Create a directory for your team in the `teams` directory.
+   4. Create a `README.md` file in your team's directory.
+   5. Copy the `ProjectSelection.md` file in the `teams` directory into your team's folder.
+   6. Compete the following tasks to add content to your team's `README.md`
       1. Add a top level heading to the `README.md` containing the the text "Our Team".
-      2. Add a "Team Members" subheading followed by a list with the names of all team members that link to their individual `README.md` files.
-      3. Add a "Meeting Times" subheading followed by at least two times outside of class time that all members of the team are available to meet.
-      3. Add a "Project Documents" subheading.
-      4. Add a bullet to the "Project Documents" section that links to the copy of `ProjectSelection.md` file in your team's folder.
-   6. Complete the following tasks to add content to the team's `ProjectSelection.md` document for this assignment.
+      2. Add a second level heading for "Team Members" followed by a list with the names of all team members that link to their individual `README.md` files.
+      3. Add a second level heading for "Meeting Times" followed by at least two times outside of class time that all members of the team are available to meet.
+      3. Add a second level heading for "Project Documents".
+      4. Add a bullet to the "Project Documents" section that links to the team's copy of `ProjectSelection.md` file in your team's folder.
+   7. Complete the following tasks to add content to the team's `ProjectSelection.md` document for this assignment.
       1. Complete the [Projects Considered](#projects-considered) section below.
       2. Complete the [Install Spike](#install-spike) section below.
       3. Complete the [Project Rating](#project-rating) section below.
