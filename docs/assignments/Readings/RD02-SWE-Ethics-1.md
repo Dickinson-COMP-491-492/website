@@ -18,7 +18,7 @@ Review the expectations for preparation for the [Readings and Class Discussions]
       - Be specific about the harms that were suffered and who suffered them. 
       - Are there other kinds of harms that you can imagine that did not arise in these case studies?
    2. **Ethical Failings:** What ethical failings occurred in Case Studies 1-3? 
-      - Be specific about what failings occurred, who committed them, and what pressures led to them. 
+      - Be specific about what failings occurred, who committed them, and (if possible) what pressures led to them. 
       - Are there other types of ethical failings that you can imagine that did not arise in these case studies?
    3. **Stake Holders:** Who "counts" as the “public” (i.e. are stakeholders) in Case Studies 1-3 and what do they each have at stake in the decisions that are being made?
       - Be specific about who the stakeholders are and what they have at stake.
