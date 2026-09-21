@@ -15,15 +15,15 @@ Review the expectations for preparation for the [Readings and Class Discussions]
 
 1. Think about and prepare responses for the following questions based on your experiences with Case Studies 1-3. We will discuss as a group the following questions:
    1. **Harms:** What kinds of harms did the "public" (i.e. stakeholders) suffer as a result of the ethical failings of Software Engineers in Case Studies 1-3? 
-      - Be specific about the harms that were suffered and who sufferend them. 
+      - Be specific about the harms that were suffered and who suffered them. 
       - Are there other kinds of harms that you can imagine that did not arise in these case studies?
-   2. **Ethical Failings:** What ethical failings occured in Case Studies 1-3? 
-      - Be specific about what failings occured and who committed them. 
+   2. **Ethical Failings:** What ethical failings occurred in Case Studies 1-3? 
+      - Be specific about what failings occurred and who committed them. 
       - Are there other types of ethical failings that you can imagine that did not arise in these case studies?
    3. **Stake Holders:** Who "counts" as the “public” (i.e. are stakeholders) in Case Studies 1-3 and what do they each have at stake in the decisions that are being made?
       - Be specific about who the stakeholders are and what they have at stake.
       - Are there other types of ethical failings that you can imagine that did not arise in these case studies?
-   4. What types of traits do you think would best enable Software Engineers to contribue to the "good life" for others?
+   4. What types of traits do you think would best enable Software Engineers to contribute to the "good life" for others?
    5. Pick one of the ethical decisions that was made in the case study and think about what you would have done and why.
 2. Think about how each of the discussion questions above apply to the LifeDesign case study (pp. 50-51).  You will work in small groups to apply the ideas from the reading and associated questions to the analysis of the LifeDesign case study.
 
