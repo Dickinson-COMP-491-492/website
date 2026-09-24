@@ -21,7 +21,7 @@ T 09/15/26  | C05: Team & Project Selection              | [PA05], [RD02] | [PA0
 R 09/17/26  | C06: Work Day                              |                |
 T 09/22/26  | C07: Software Engineering Ethics 1         |                | [RD02]
 R 09/24/26  | C08: Tech Spikes                           | [PA06], [RD03] | [PA05]
-T 09/29/26  | C09: [Clarke Forum Event] (7pm ATS)        | [ER]01         | [PA06]
+T 09/29/26  | C09: Work Day + [Clarke Forum Event] (7pm ATS)        | [ER]01         | [PA06]
 R 10/01/26  | C10: Software Engineering Ethics 2         | [RD04]         | [ER]01, [RD03]
 T 10/06/26  | C11: Work Day (Team Meetings)              | [PP01]         | [PE]01
 R 10/08/26  | C12: Professional Ethics                   |                | [RD04]
@@ -68,8 +68,8 @@ W 12/16/26  | **2:00pm - Presentations**                 |                | [PP0
 [PA03]: assignments/PA03-ProjectExplorations.md
 [PA04]: assignments/PA04-ProjectReviews.md
 [PA05]: assignments/PA05-ProjectSelection.md
-<!--
 [PA06]: assignments/PA06-TechSpikePrep.md
+<!--
 [PA07]: assignments/PA07-Contributions.md
 -->
 
@@ -77,8 +77,8 @@ W 12/16/26  | **2:00pm - Presentations**                 |                | [PP0
 [PE]: assignments/PE-ProjectEffectiveness.md
 -->
 
-<!--
 [PP01]: assignments/PP01-TechSpikePresentation.md
+<!--
 [PP02]: assignments/PP02-StatusReportPresentation.md
 -->
 

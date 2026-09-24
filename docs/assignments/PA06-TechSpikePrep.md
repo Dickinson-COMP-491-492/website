@@ -22,20 +22,23 @@ Work as a team, involving every team member in the discussion, to complete a gap
 - **Our Current Situation:** The point in this section is to identify the current knowledge and skill sets of the team's members, as well as their strengths, weaknesses and interests.
   - Identify the relevant knowledge and skill set that is possessed by each team member. While the team members likely share a common set of courses, each will also have different knowledge and skills based on past experience, outside projects, internships, etc.
   - Identify the specific strengths, weaknesses and interests of each team member. Do this with respect to both the knowledge and skills identified above as well as any other potentially relevant knowledge and skills that may help the team (e.g. organization, management, writing, testing, documentation, etc...).
+  - Be sure to include any knowledge of or experience that individuals have using the chosen project. 
 - **Our Goals:** The point is this section is to identify the knowledge and skills with key technologies, languages, frameworks, testing, tools, etc. that the team will need to have in order to becoming contributing members of the project's community.
   - Collect as much information as possible about the key technologies, languages, frameworks, tools, etc. that are used by the project.  Some of this information has been collected in past assignments. Copy that information here, while also doing additional digging into the project documentation to ensure that all of the critical elements have been identified.
   - Be sure to use the project community here as well.  Search the appropriate communication channels for questions and posts that may provide insights.
   - Prioritize the items that have been found by how important they will be to becoming contributing members of the project's community.
+  - Be sure to consider goals related to building an understanding of what the project does, how it works, how it is used as appropriate.
 - **Our Gaps:** The goal of this section is to identify the differences between the team's current situation and its goals.
   - Compare the knowledge and skills of the team members to those items identified as necessary for the project. Identify specific knowledge and skill gaps that exist in the team.  These should focus on the highest priority goals first.
   - Be sure to identify both team gaps (an area where no one has the skill or knowledge) and individual gaps.
+  - Be sure to identify gaps in individual's understanding of what the project does, how it works, and how it is used.
 - **Our Plan:** Finally, in this section the team will form a plan to narrow the gaps that have been identified.
   - Use the information gathered above to assign specific team members to address specific knowledge and/or skill gaps. Do not specify how the learning will occur here (that's next). However, it must be clear which gaps each team member will be addressing.
     - Use your team members' strengths, weaknesses and interests to inform your decisions of who will learn what.
     - When it makes sense, form sub-teams or pairs around particular gaps to facilitate learning.
   - Learning everything necessary may be more than can happen in the time allowed for this assignment, so focus on the highest priority gaps first.
   - Not every team member must develop knowledge and skills in every area. It is okay to develop some specializations within your team. However, all team members should have some background in the areas that have been identified as the highest priority.
-  - Not every gap must be addressed.  Be sure to focus on the largest and highest priority gaps.
+  - Not every gap must be addressed.  Be sure to focus on the largest and highest priority gaps. If there are gaps related to what the project does, how it works or how to use it, those should be high priority.
 
 #### Learning Resources
 
@@ -44,10 +47,13 @@ In this part of the activity teams will identify learning resources (readings, v
 1. Add sub-sections to the "Learning Resources" section of the team's `TechSpikePreparation.md` file that align with the gaps in the "Our Plan" section of the "Gap Analysis".
 2. In the sub-section for each gap, the responsible team members should create an annotated list of resources (with links) that they believe will help them learn what is needed to begin to fill the gap. Some tips for building this list:
    - Search the project's documentation for any resources that they have provided or recommended.
-   - Be sure to use the project community here. Search the appropriate communication channel, explain what you are trying to learn and how you think it will help your team engage with the project and ask for suggestions of good resources.
+   - Engage the project community here. 
+     - Look for specific mentoring opportunities that the project community or other related organizations provide.
+     - Search the communication channels for pointers to resources or opportunities.
+     - Consider posting a message in an appropriate channel explaining our course, your backgrounds, the time you can dedicate and ask for suggestions of good next steps and resources.
    - Do a web search to identify resources (tutorials, lessons, videos, articles, etc...) that will help fill the gap. This approach may be your first instinct... but you are very much encouraged to engage your project community!
 
-  Look at a lot of resources (20-30 seems a good number) and narrow them down to a few (2-4) that are at an appropriate level, seem engaging, and that can be completed in the time available for this assignment (i.e. before the presentation). It can also be beneficial to lean toward resources that are project specifict or have you actively build something (see [Planned Spike Artifacts](#planned-spike-artifacts) below).
+  Look at a lot of resources (20-30 seems a good number) and narrow them down to a few (2-4) that are at an appropriate level, seem engaging, and that can be completed in the time available for this assignment (i.e. before the presentation). It can also be beneficial to lean toward resources that are project specific or have you actively build something (see [Planned Spike Artifacts](#planned-spike-artifacts) below).
   
   Investing time here to filter through a variety of resources and identify good ones that have you build things will pay off later!
 
