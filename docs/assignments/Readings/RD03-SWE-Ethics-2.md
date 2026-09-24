@@ -17,9 +17,9 @@ Review the expectations for preparation for the [Readings and Class Discussions]
 1. In class we will discuss as a group the following questions based on the readings:
    1. What distinguishes a job from a profession? Or alternatively, a worker from a professional? Then, is software engineering a profession?
    2. Place yourself in the role of the new hire in case study #3. What action would you choose to take?
-   3. Evaluate your chosen action using each of the three ethical approaches discussed in the reading (Virtue Ethics, Concequentialist / Utilitarian, Deontological). What does each approach suggest about your chosen action?
+   3. Evaluate your chosen action using each of the three ethical approaches discussed in the reading (Virtue Ethics, Concequentialist / Utilitarian, Deontological). What does each approach suggest about the ethicality your chosen action? Explain.
    4. Which of the three ethical approaches aligns most closely with the way that you currently make decisions? Explain or give an example.
-   5. Which of the "Five Ethically Constructive Habits of Mind and Action" do you think would be easiest/hardest to implement? Most/least beneficial?
+   5. Which of the "Five Ethically Constructive Habits of Mind and Action" do you think would be easiest/hardest for you personally to implement? Which would be the most/least beneficial?
 2. Then you will work in small groups to apply the ideas from the reading and associated questions to the analysis of the Google Street View case study.
 
 ---
