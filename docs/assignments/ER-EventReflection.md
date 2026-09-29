@@ -2,7 +2,9 @@
 
 ### Introduction
 
-Throughout the semester there will be a number of required events that occur inside and outside of class time. For these events you will write a short reflection in response to a given prompt, which you will then post to your blog for the course. 
+In a professional career you will be expected to regularly give your thoughts and opinions on topics based on your current knowledge and experience. Event Reflections are a form of practice for those situations.
+
+Throughout the semester there will be a number of required events that occur inside and outside of class time. For these events you will write a short reflection in response to a given prompt, which you will then post to your blog for the course.
 
 Event Reflections are, as the name suggests, reflective assignments. They are an exercise in thinking and writing. They are not research assignments and **no Internet searches, library research, or AI tools may be used in thinking about, drafting, or revising your Event Reflection**. What you write to address the prompt must come from your own mind based on your thinking about the event, connections to your current knowledge, past experiences, in person discussions with friends, family and classmates, and the prompt that is given.
 
