@@ -83,6 +83,8 @@ W 12/16/26  | **2:00pm - Presentations**                     |                | 
 [PP02]: assignments/PP02-StatusReportPresentation.md
 -->
 
+[ER]: assignments/ER-EventReflection.md
+
 <!--
 [WA01]: 
 [WA02]:  
