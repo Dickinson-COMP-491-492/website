@@ -35,20 +35,20 @@ T 10/27/26  | C16: Work Day (Team Meetings)                  |                | 
 R 10/29/26  | C17: [Ethics and AI] (5:30-7:30 Stern)         | [RD05]. [ER]02 |
 T 11/03/26  | C18: Work Day (Team Meetings)                  |                | [PE]04. [ER]02
 R 11/05/26  | C19: Ethical Decision Making                   | [WA01], [RD06] | [RD05]
-T 11/10/26  | C20: [Hadley Wickham] class visit              |                | [RD06], [PE]05
-R 11/12/26  | C21: Alumni Zoom Panel (tentative)             | [RD07][ER]03   |
-T 11/17/26  | C22: Work Day (Team meetings)                  |                | [PE]06, [ER]03
+T 11/10/26  | C20: [Hadley Wickham] class visit              | [ER]03         | [RD06], [PE]05
+R 11/12/26  | C21: Alumni Zoom Panel (tentative)             | [RD07][ER]04   | [ER]03
+T 11/17/26  | C22: Work Day (Team meetings)                  |                | [PE]06, [ER]04
 R 11/19/26  | C23: Agile Game Round 1                        |                | [RD07]
 T 11/24/26  | C24: Agile Game Round 2                        | [WA02]         | [WA01]
 &nbsp;      |
 R 11/26/26  | **Thanksgiving Break**
 &nbsp;      |
 T 12/01/26  | C25: Work Day (Team meetings)                  |                | [PE]07
-R 12/03/26  | C26: WA02 Workshop                             | [ER]04         |
-T 12/08/26  | C27: Work Day (Team meetings)                  |                | [PE]08, [ER]04
-R 12/10/26  | C28: Wrap up                                   | [ER]05         |
+R 12/03/26  | C26: WA02 Workshop                             | [ER]05         |
+T 12/08/26  | C27: Work Day (Team meetings)                  |                | [PE]08, [ER]05
+R 12/10/26  | C28: Wrap up                                   | [ER]06         |
 &nbsp;      |
-W 12/16/26  | **2:00pm - Presentations**                     |                | [PP02], [WA02], [ER]05
+W 12/16/26  | **2:00pm - Presentations**                     |                | [PP02], [WA02], [ER]06
 
 [Clarke Forum Event]: https://www.clarkeforum.org/tuesday-september-29-2026/
 [Ethics and AI]: tinyurl.com/dson-ethics-ai-2026
