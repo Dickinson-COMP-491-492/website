@@ -23,29 +23,29 @@ T 09/22/26  | C07: Software Engineering Ethics 1             |                | 
 R 09/24/26  | C08: Tech Spikes                               | [PA06], [RD03] | [PA05]
 T 09/29/26  | C09: Work Day + [Clarke Forum Event] (7pm ATS) | [ER]01         | [PA06]
 R 10/01/26  | C10: Software Engineering Ethics 2             | [RD04]         | [ER]01, [RD03]
-T 10/06/26  | C11: Work Day (Team Meetings)                  | [PP01]         | [PE]01
+T 10/06/26  | C11: Work Day (Team Meetings)                  | [PP01]         | [PE]01 (Mon noon)
 R 10/08/26  | C12: Professional Ethics                       |                | [RD04]
-T 10/13/26  | C13: Work Day (Team Meetings)                  |                | [PE]02
+T 10/13/26  | C13: Work Day (Team Meetings)                  |                | [PE]02 (Mon noon)
 R 10/15/26  | C14: Tech Spike Presentations                  |                | [PP01]
 &nbsp;      |                                                |                | 
 T 10/20/26  | **Fall Pause**                                 |                |
 &nbsp;      |                                                |                |  
 R 10/22/26  | C15: Project Contributions                     | [PA07]         |
-T 10/27/26  | C16: Work Day (Team Meetings)                  |                | [PE]03
+T 10/27/26  | C16: Work Day (Team Meetings)                  |                | [PE]03 (Mon noon)
 R 10/29/26  | C17: [Ethics and AI] (5:30-7:30 Stern)         | [RD05]. [ER]02 |
-T 11/03/26  | C18: Work Day (Team Meetings)                  |                | [PE]04. [ER]02
+T 11/03/26  | C18: Work Day (Team Meetings)                  |                | [ER]02, [PE]04 (Mon noon)
 R 11/05/26  | C19: Ethical Decision Making                   | [WA01], [RD06] | [RD05]
-T 11/10/26  | C20: [Hadley Wickham] class visit              | [ER]03         | [RD06], [PE]05
+T 11/10/26  | C20: [Hadley Wickham] class visit              | [ER]03         | [RD06], [PE]05 (Mon. noon)
 R 11/12/26  | C21: Alumni Zoom Panel (tentative)             | [RD07][ER]04   | [ER]03
-T 11/17/26  | C22: Work Day (Team meetings)                  |                | [PE]06, [ER]04
+T 11/17/26  | C22: Work Day (Team meetings)                  |                | [ER]04, [PE]06 (Mon. noon) 
 R 11/19/26  | C23: Agile Game Round 1                        |                | [RD07]
 T 11/24/26  | C24: Agile Game Round 2                        | [WA02]         | [WA01]
 &nbsp;      |
 R 11/26/26  | **Thanksgiving Break**
 &nbsp;      |
-T 12/01/26  | C25: Work Day (Team meetings)                  |                | [PE]07
+T 12/01/26  | C25: Work Day (Team meetings)                  |                | [PE]07 (Mon. noon) 
 R 12/03/26  | C26: WA02 Workshop                             | [ER]05         |
-T 12/08/26  | C27: Work Day (Team meetings)                  |                | [PE]08, [ER]05
+T 12/08/26  | C27: Work Day (Team meetings)                  |                | [ER]05, [PE]08 (Mon. noon) 
 R 12/10/26  | C28: Wrap up                                   | [ER]06         |
 &nbsp;      |
 W 12/16/26  | **2:00pm - Presentations**                     |                | [PP02], [WA02], [ER]06
