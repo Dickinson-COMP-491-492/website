@@ -74,9 +74,7 @@ W 12/16/26  | **2:00pm - Presentations**                     |                | 
 [PA07]: assignments/PA07-Contributions.md
 -->
 
-<!--
 [PE]: assignments/PE-ProjectEffectiveness.md
--->
 
 [PP01]: assignments/PP01-TechSpikePresentation.md
 <!--
