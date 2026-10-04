@@ -57,7 +57,7 @@ W 12/16/26  | **2:00pm - Presentations**                     |                | 
 [RD01]: assignments/Readings/RD01-EthicsIntro.md
 [RD02]: assignments/Readings/RD02-SWE-Ethics-1.md
 [RD03]: assignments/Readings/RD03-SWE-Ethics-2.md
-[RD04]: assignments/Readings/RD05-SWE-Professional-Ethics.md
+[RD04]: assignments/Readings/RD04-SWE-Professional-Ethics.md
 
 <!--
 [RD05]: assignments/Readings/RD06-EthicalDecisionMaking.md
