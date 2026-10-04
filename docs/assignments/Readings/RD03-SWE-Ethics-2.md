@@ -15,7 +15,7 @@ Review the expectations for preparation for the [Readings and Class Discussions]
 ## Discussion Questions
 
 1. In class we will discuss as a group the following questions based on the readings:
-   1. What distinguishes a job from a profession? Or alternatively, a worker from a professional? Then, is software engineering a profession?
+   1. What distinguishes a _job_ from a _profession_? Or alternatively, a worker from a professional? Then, is software engineering a job or a profession?
    2. Place yourself in the role of the new hire in case study #3. What action would you choose to take?
    3. Evaluate your chosen action using each of the three ethical approaches discussed in the reading (Virtue Ethics, Concequentialist / Utilitarian, Deontological). What does each approach suggest about the ethicality your chosen action? Explain.
    4. Which of the three ethical approaches aligns most closely with the way that you currently make decisions? Explain or give an example.
