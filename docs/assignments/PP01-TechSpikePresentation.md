@@ -48,7 +48,6 @@ The presentation should aim to meet the following criteria:
   - speak using a clear, audible, engaging, and fluent voice.
   - deliver content without reading verbatim from notes or slides (it is a good idea to use notes and slides — just don’t read from them word for word).
   - demonstrate understanding of technical details from the tech spike and the ability to explain these details to the audience.
-  - convince the audience that substantial effort has been invested in the project, equivalent to the expected time investment per week.
 
 The [PP01 Tech Spike Presentation Feedback Sheet](./materials/PP01-criteria-sheet.docx) will be used for evaluation and grading of the presentation.  Each team member will be evaluated on each of the criteria.
 
