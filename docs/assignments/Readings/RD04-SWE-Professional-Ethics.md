@@ -16,8 +16,8 @@ Review the expectations for preparation for the [Readings and Class Discussions]
 
 1. Which of the qualities of a _superprofessional_ do you think you exhibit most strongly? Which would you hope to become better at? Why?
 2. Based on your reading of the ACM Code of Ethics and the two case studies, identify 3 or 4 clauses from the ACM Code of Ethics about which you have a question. Your questions might be about the meaning of the clause, about how the clause was used in the analysis of one of the case studies, or a concern about applying it in real life. Prepare to state and explain your question and connect it to the case study as appropriate.
-3. Which clauses from the ACM Code of Ethics are most relevant to an analysis of the George and the Jet case study and why?
-4. Based on the ACM Code of Ethics, what should George do? What would you do? Why?
+3. Which clauses from the ACM Code of Ethics are most relevant George in his analysis as he decides what to do next and why? Be able to cite language from the clauses to support your selections.
+4. Based on the ACM Code of Ethics, what should George do? Why? Is that what would you do? Why or why not?
 
 ---
 

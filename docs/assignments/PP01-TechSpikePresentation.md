@@ -7,11 +7,11 @@ Each project team will prepare and deliver a presentation that introduces the pr
 #### Presentation Content
 
 The presentation should include the following content:
-- Introduce the project on which the team is working, what it does, who uses it, etc., and provide some insights into why it was chosen by the team.
+- Introduce the project on which the team is working, what it does, who uses it, it's impact, etc., and provide some insights into why it was chosen by the team.
 - Outline the team's goals for the Tech Spike and relate them to the projects tech stack.
 - Demonstrate several of the artifacts created by the team, ensuring that:
   - every team member is involved in the demonstration of at least one artifact that they built or helped to build.
-  - each demo shows how some technical details of the implementation are connected to the its behavior. Do not try to present everything you have done. Focus on a small piece of behavior with an interesting implementation. Then clearly and in detail explain how the implementation leads to the behavior.
+  - each demo shows how some technical details of the implementation are connected to the behavior demonstrated. Do not try to present everything you have done. Focus on a **small piece** of behavior with an **interesting implementation**. Then clearly and in detail explain how the implementation leads to the behavior.
 - Reflect on and summarize your team's experience with the tech spike including:
   - the degree of success achieved by the Tech Spike.
   - significant challenges that were faced and how they were resolved.
@@ -23,6 +23,7 @@ The presentation should include the following content:
 Submit your team's slides by:
 - Adding the `pptx` file to the team's directory in the course repository or otherwise making them available (e.g. shared Google Slides).
 - Adding a link to the slides with the text "PP01 Presentation Slides" under the "Project Documents" heading in the team's README.
+- Creating a pull request to the course repository for these changes.
 
 #### Presentation Criteria
 
