@@ -32,7 +32,7 @@ T 10/20/26  | **Fall Pause**                                 |                |
 &nbsp;      |                                                |                |  
 R 10/22/26  | C15: Project Contributions                     | [PA07]         |
 T 10/27/26  | C16: Work Day (Team Meetings)                  |                | [PE]03 (Mon. noon)
-R 10/29/26  | C17: [Ethics and AI] (5:30-7:30 Stern)         | [RD05]. [ER]02 |
+R 10/29/26  | C17: [Ethics and AI] (5:30-7:30 Stern)         | [RD05]. [ER]02 | [PA07]
 T 11/03/26  | C18: Work Day (Team Meetings)                  |                | [ER]02<br>[PE]04 (Mon. noon)
 R 11/05/26  | C19: Ethical Decision Making                   | [WA01], [RD06] | [RD05]
 T 11/10/26  | C20: [Hadley Wickham] class visit              | [ER]03         | [RD06]<br>[PE]05 (Mon. noon)
@@ -70,9 +70,7 @@ W 12/16/26  | **2:00pm - Presentations**                     |                | 
 [PA04]: assignments/PA04-ProjectReviews.md
 [PA05]: assignments/PA05-ProjectSelection.md
 [PA06]: assignments/PA06-TechSpikePrep.md
-<!--
 [PA07]: assignments/PA07-Contributions.md
--->
 
 [PE]: assignments/PE-ProjectEffectiveness.md
 

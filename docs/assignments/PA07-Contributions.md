@@ -8,14 +8,14 @@ For the remainder of the course teams will be working on making contributions to
 
 This assignment has two components that are to be worked on concurrently: 
 
-1. The team will need to identify contributions on which they will work and maintain a page in the course repository documenting their progress toward making those contributions. This component will be ongoing for the remainder of the course. If an identified contribution is completed (or abandoned), then a new contribution should be identified and pursued.
+1. The team will create a page in the course repository documenting the issues that they have identified as potential contributions.
   - The [Identifying Potential Contributions](#identifying-potential-contributions) and the [Documenting Project Contributions](#project-contributions) sections provide more information on this component.
 2. All team members must successfully complete the developer install for the project and individually demonstrate that their installation is working. 
   - The [Demonstrating the Developer Install](#demonstrating-the-developer-install) section below describes how this is to be done.
 
 #### Identifying Potential Contributions
 
-The team should identify a number of potential contributions that the members of the team are interested in working on. These may be contributions that the team will work on together, or they may be contributions that smaller sub-teams or pairs will work on in parallel. This will depend on the team's members and the contributions that are found. The exact division is up to the team. However, every team member will need to be associated with at least one potential contribution at all times.
+The team should identify a number of potential contributions that the members of the team are interested in working on. These may be contributions that the team will work on together, or they may be contributions that smaller sub-teams or pairs will work on in parallel. This will depend on the team's members and the contributions that are found. The exact division is up to the team.
 
 There are a number of good ways to identify potential contributions and all should be pursued:
 - Review the project's contributing documentation and follow any suggestions that are given.
@@ -35,10 +35,6 @@ Teams will create a document in the course repository that tracks their active a
 2. Add a bullet to the “Project Documents” section of the team's `README.md` that links to the team’s `ProjectContributions.md` file.
 3. Fill in the template in the `ProjectContributions.md` file with information about the potential contributions that you have identified.
 4. Create a pull request containing your changes to the upstream course repository.
-
-This document must be created and every team member must be associated with at least one active contribution by the assignment due date.
-
-This document must continue to be updated and maintained throughout the remainder of the course. Any time there is a significant event (issue, comment, posting, commit, pull request, merge, etc.) the team must update the `ProjectContributions.md` file and create a new PR to the upstream. Activity recorded in this document will be accounted for in your [Project Effectiveness](./PE-ProjectEffectiveness.md) scores.  **Teams should make keeping this document up to date a part of their weekly team meetings.**
 
 #### Demonstrating the Developer Install
 
@@ -61,7 +57,7 @@ Your recorded demonstration must clearly perform each of the following steps whi
 4. Switch to a feature branch that includes a change to the behavior of the program.
    - The feature branch and the change should be made in advance of recording the demo.
    - The change must be one that requires a rebuild of the program in order to take effect.
-   - This change will ideally be related to a contribution that you are working on. If that is not possible, it may instead be a small but observable change that is made just for the purposes of the demonstration.
+   - This change will ideally be related to work you did during your tech spike or to a contribution on which you are currently working. If that is not possible, it may instead be any small but observable change that is made just for the purposes of the demonstration.
 5. Show and briefly discuss the source code for the change that has been made.
 6. Build and run the program from the feature branch.
 7. Demonstrate the change.
