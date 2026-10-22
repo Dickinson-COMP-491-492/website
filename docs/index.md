@@ -51,7 +51,7 @@ R 12/10/26  | C28: Wrap up                                   | [ER]06         |
 W 12/16/26  | **2:00pm - Presentations**                     |                | [PP02], [WA02], [ER]06
 
 [Clarke Forum Event]: https://www.clarkeforum.org/tuesday-september-29-2026/
-[Ethics and AI]: tinyurl.com/dson-ethics-ai-2026
+[Ethics and AI]: https://tinyurl.com/dson-ethics-ai-2026
 [Hadley Wickham]: https://hadley.nz/
 
 [RD01]: assignments/Readings/RD01-EthicsIntro.md
