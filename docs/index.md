@@ -36,8 +36,8 @@ R 10/29/26  | C17: [Ethics and AI] (5:30-7:30 Stern)         | [RD05]. [ER]02 | 
 T 11/03/26  | C18: Work Day (Team Meetings)                  |                | [ER]02<br>[PE]04 (Mon. noon)
 R 11/05/26  | C19: Ethical Decision Making                   | [WA01], [RD06] | [RD05]
 T 11/10/26  | C20: [Hadley Wickham] class visit              | [ER]03         | [RD06]<br>[PE]05 (Mon. noon)
-R 11/12/26  | C21: Alumni Zoom Panel (tentative)             | [RD07][ER]04   | [ER]03
-T 11/17/26  | C22: Work Day (Team meetings)                  |                | [ER]04<br>[PE]06 (Mon. noon) 
+R 11/12/26  | C21: Alumni Zoom Panel (tentative)             | [ER]04         | [ER]03
+T 11/17/26  | C22: Work Day (Team meetings)                  | [RD07]         | [ER]04<br>[PE]06 (Mon. noon) 
 R 11/19/26  | C23: Agile Game Round 1                        |                | [RD07]
 T 11/24/26  | C24: Agile Game Round 2                        | [WA02]         | [WA01]
 &nbsp;      |
@@ -58,11 +58,7 @@ W 12/16/26  | **2:00pm - Presentations**                     |                | 
 [RD02]: assignments/Readings/RD02-SWE-Ethics-1.md
 [RD03]: assignments/Readings/RD03-SWE-Ethics-2.md
 [RD04]: assignments/Readings/RD04-SWE-Professional-Ethics.md
-
-<!--
-[RD05]: assignments/Readings/RD06-EthicalDecisionMaking.md
-[RD06]: 
--->
+[RD05]: assignments/Readings/RD05-EthicalDecisionMaking.md
 
 [PA01]: assignments/PA01-CourseTools.md
 [PA02]: assignments/PA02-CandidateProjects.md
@@ -81,10 +77,8 @@ W 12/16/26  | **2:00pm - Presentations**                     |                | 
 
 [ER]: assignments/ER-EventReflection.md
 
-<!--
-[WA01]: 
-[WA02]:  
--->
+[WA01]: assignments/WA01-EthicalCaseAnalysis.md
+[WA02]: assignments/WA02-EthicalCaseStudyBlogPost.md
 
 <!--## COMP 492 Outline
 
