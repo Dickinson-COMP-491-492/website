@@ -1,4 +1,4 @@
-# WA05 - Ethical Case Study Blog Post
+# WA02 - Ethical Case Study Blog Post
 
 In this assignment write a blog post taking and justifying a position on the moral decision you identified in the case study that you analyzed in [WA01 - Ethical Case Analysis](./WA01-EthicalCaseAnalysis.md).
 
