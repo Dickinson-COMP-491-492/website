@@ -20,9 +20,15 @@ Identify a topic raised in the presentation or the subsequent discussion and que
   - gives an organized summary of what you think are your best thoughts on the topic. This should be a significant majority of the post.
   - is not a summary of the event.
 
-#### TBA
+#### ER02 - Ethics in AI (10/27, 5:30-7:00 Stern Great Room / Live Stream)
 
-More soon.
+Identify a topic raised in the presentation or the subsequent discussion and questions that you found particularly thought provoking and connects to the ethics readings and discussions that we have had in class. Think about how the event and the class readings and discussions inform each other and how that combination affects your thinking on the topic. Then write a post of 250-350 words that:
+  - identifies the origins of the topic (e.g. "I attended a talk on ... by ..." and give a link.) 
+  - describes the topic you've identified and how you see it connecting with some aspect of the course material (ethics, frameworks, professional codes of ethics, lenses, processes, etc.).  Include links to materials as appropriate.
+  - gives an organized summary of what you think are your best thoughts on the topic and how you arrived at them. This should be a significant majority of the post.
+  - is not a summary of the event.
+
+
 
 ---
 
