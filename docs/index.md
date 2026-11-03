@@ -35,7 +35,7 @@ T 10/27/26  | C16: Work Day (Team Meetings)                  |                | 
 R 10/29/26  | C17: [Ethics and AI] (5:30-7:30 Stern)         | [RD05], [ER02] | [PA07]
 T 11/03/26  | C18: Work Day (Team Meetings)                  |                | [ER02]<br>[PE]04 (Mon. noon)
 R 11/05/26  | C19: Ethical Decision Making                   | [WA01], [RD06] | [RD05]
-T 11/10/26  | C20: Hadley Wickham Q&A Session.               | [ER03]         | [RD06]<br>[PE]05 (Mon. noon)
+T 11/10/26  | C20: Hadley Wickham Q&A Session                | [ER03]         | [RD06]<br>[PE]05 (Mon. noon)
 R 11/12/26  | C21: Alumni Zoom Panel                         | [ER04]         | [ER03]
 T 11/17/26  | C22: Work Day (Team meetings)                  | [RD07]         | [ER04]<br>[PE]06 (Mon. noon) 
 R 11/19/26  | C23: Agile Game Round 1                        |                | [RD07]
