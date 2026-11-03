@@ -50,7 +50,7 @@ Weight | Course Component
 -------|--------------------------------------------
 &nbsp; | **TC: Topic Coverage**
 5%     | ER: Event Reflections
-25%    | RD: Readings and Discussions
+20%    | RD: Readings and Discussions
 &nbsp; | **PA: Project Assignments**
 10%    | PA: Project Assignments
 30%    | PE: Project Effectiveness
@@ -59,7 +59,7 @@ Weight | Course Component
 15%    | PP02: Final Project Presentation
 &nbsp; | **WA: Writing Assignments**
 5%     | WA01: Ethical Case Analysis
-10%    | WA02: Ethical Case Study Blog Post
+5%     | WA02: Ethical Case Study Blog Post
 
 <!-- #### COMP492 Course Components (Spring)
 
