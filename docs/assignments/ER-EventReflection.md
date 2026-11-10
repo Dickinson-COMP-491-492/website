@@ -28,14 +28,30 @@ Identify a topic raised in the presentation or the subsequent discussion and que
   - gives an organized summary of what you think are your best thoughts on the topic and how you arrived at them. This should be a significant majority of the post.
   - is not a summary of the event.
 
-#### ER03 - Hadley Wickham Q&A Session (11/10 Class) or Priestly Lecture (11/11 7:00pm ATS)
+#### ER03 - Hadley Wickham Q&A Session (11/10 Class)
+
+** CANCELED **
 
 Identify a topic that arose in our class discussion with Hadley or in his Priestly Lecture that you found particularly thought provoking. Then write a post of 250-350 words that:
   - identifies the origins of the topic (e.g. "I attended a talk on ... by ..." and give a link.) 
   - briefly describes the topic you've thought about and possibly why you found it interesting.
   - gives an organized summary of what you think are your best thoughts on the topic. This should be a significant majority of the post.
   - is not a summary of the event.
-  
+
+#### ER04 - 2 Options - Pick One
+
+1. "y code when AI?" - Hadley Wickham Priestly Lecture (11/11 7:00pm ATS)
+
+Identify a topic that arose in our class discussion with Hadley or in his Priestly Lecture that you found particularly thought provoking. Then write a post of 250-350 words that:
+  - identifies the origins of the topic (e.g. "I attended a talk on ... by ..." and give a link.) 
+  - briefly describes the topic you've thought about and possibly why you found it interesting.
+  - gives an organized summary of what you think are your best thoughts on the topic. This should be a significant majority of the post.
+  - is not a summary of the event.
+
+2. Alumni Zoom Panel - (11/12 in Class)
+
+Identify something that was discussed with the alumni that you think may be particularly helpful to you as you transition to whatever comes next for you.  Describe what the topic was, how it has affected your thinking about your next steps, and how you plan to act on it.  **Please do not name any individual panelists in your post.**
+
 ---
 
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
