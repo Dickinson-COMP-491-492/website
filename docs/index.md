@@ -78,6 +78,7 @@ W 12/16/26  | **2:00pm - Presentations**                     |                | 
 
 [ER01]: assignments/ER-EventReflection.md#er01---can-a-computer-program-think-like-a-human-929-700pm-ats
 [ER02]: assignments/ER-EventReflection.md#er02---ethics-in-ai-1027-530-700-stern-great-room--live-stream
+[ER04]: assignments/ER-EventReflection.md#er04---2-options---pick-one
 
 [WA01]: assignments/WA01-EthicalCaseAnalysis.md
 [WA02]: assignments/WA02-EthicalCaseStudyBlogPost.md
