@@ -8,6 +8,7 @@ Review the expectations for preparation for the [Readings and Class Discussions]
 
 In the next two classes we will engage in a "game" as a fun way to gain some experience with some agile software development practices.  These readings introduce some agile methods and provide background for understanding the processes that we'll experience.
 
+- [Agile Software Development Methodology](https://www.geeksforgeeks.org/software-engineering/agile-software-development-methodology-framework/).
 - [The Agile Manifesto](https://agilemanifesto.org/)
 - [What is Extreme Programming?](https://ronjeffries.com/xprog/what-is-extreme-programming/)
 - [Introduction to Scrum](https://www.codemag.com/article/0805051/Introduction-to-Scrum)
