@@ -60,6 +60,7 @@ W 12/16/26  | **2:00pm - Presentations**                     |                | 
 [RD04]: assignments/Readings/RD04-SWE-Professional-Ethics.md
 [RD05]: assignments/Readings/RD05-EthicalDecisionMaking.md
 [RD06]: assignments/Readings/RD06-HadleyWickham.md
+[RD07]: assignments/Readings/RD07-Agile.md
 
 [PA01]: assignments/PA01-CourseTools.md
 [PA02]: assignments/PA02-CandidateProjects.md
