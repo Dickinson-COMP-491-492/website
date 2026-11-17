@@ -44,7 +44,7 @@ T 11/24/26  | C24: Agile Game Round 2                        | [WA02]         | 
 R 11/26/26  | **Thanksgiving Break**
 &nbsp;      |
 T 12/01/26  | C25: Work Day (Team meetings)                  |                | [PE]07 (Mon. noon) 
-R 12/03/26  | C26: WA02 Workshop                             | [ER05]         |
+R 12/03/26  | C26: WA02 Workshop                             | [ER05]         | [WA02] Draft x 2
 T 12/08/26  | C27: Work Day (Team meetings)                  |                | [ER05]<br>[PE]08 (Mon. noon) 
 R 12/10/26  | C28: Wrap up                                   | [ER06]         |
 &nbsp;      |
